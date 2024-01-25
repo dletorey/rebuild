@@ -1,0 +1,68 @@
+{%- set canonical = site.url + page.url -%}
+{%- set meta_title = title | safe | striptags(true) -%}
+{%- set meta_description = description | default(site.description) | markdownFormat | safe | striptags(true) -%}
+{%- set meta_image = photo | default(site.url + author.avatar) -%}
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ meta_title }} | {{ site.title }}</title>
+
+    <link rel="self" href="{{ site.url }}/feed.xml">
+    <link rel="alternate" type="application/rss+xml" title="Events Feed" href="{{ site.url }}/feed.xml">
+    <!-- link rel="pingback" href="https://webmention.io/letorey.co.uk/xmlrpc" -->
+    <!-- link rel="webmention" href="https://webmention.io/letorey.co.uk/webmention" -->
+    <!-- link rel="authorization_endpoint" href="https://indieauth.com/auth" -->
+    <!--link rel="token_endpoint" href="https://tokens.indieauth.com/token" -->
+    <!-- link rel="openid.delegate" href="/" / -->
+    <!-- link rel="openid.server" href="https://openid.indieauth.com/openid" / -->
+
+    
+        <link rel="icon" href="/images/favicon.svg" sizes="512x512">
+        <link rel="apple-touch-icon" href="/images/favicon.svg">
+        <link rel="apple-touch-icon-precomposed" href="/images/favicon.svg">
+        <link rel="msapplication-square310x310logo" href="/images/favicon.svg">
+    
+
+    <link rel="author" href="/humans.txt">
+    <link rel="manifest" href="/manifest.json">
+
+    <meta name="author" content="{{ author.name }}">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="{{ site.company }}">
+    <meta name="apple-mobile-web-app-title" content="{{ site.company }}">
+    <meta name="msapplication-starturl" content="{{ site.url }}">
+    <meta name="description" content="{{ meta_description }}">
+    <meta name="theme-color" content="{{ palette | keyValue("red") }}">
+    <meta name="msapplication-navbutton-color" content="{{ palette | keyValue("red") }}">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="supported-color-schemes" content="light dark">
+
+    <meta http-equiv="cleartype" content="on">
+    
+    {% if tags and tags.includes('httpstatus') %}
+        <meta name="robots" content="noindex,nofollow">
+    {% else %}
+        <link rel="canonical" href="{{ canonical }}">
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:creator" content="@{{ author.twitter }}">
+        <meta name="twitter:title" content="{{ meta_title }} | {{ site.title }}">
+        <meta name="twitter:description" content="{{ meta_description }}">
+        <meta name="twitter:image" content="{{ meta_image }}">
+        <meta name="twitter:domain" content="{{ site.url | getHost }}">
+        <meta name="twitter:widgets:theme" content="light">
+        <meta name="twitter:widgets:link-color" content="{{ palette | keyValue("lws-blue") }}">
+        <meta name="twitter:widgets:border-color" content="{{ palette | keyValue("lws-blue") }}">
+        <!-- OpenGraph -->
+        <meta property="og:type" content="website">
+        <meta property="og:description" content="{{ meta_description }}">
+        <meta property="og:locale" content="{{ site.locale }}">
+        <meta property="og:url" content="{{ canonical }}">
+        <meta property="og:image" content="{{ meta_image }}">
+    {% endif %}
+
+    <script>document.documentElement.classList.remove("no-js");</script>
+</head>

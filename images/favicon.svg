@@ -1,0 +1,15 @@
+<svg width="290" height="290" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <style>
+        rect {fill: #08415C;}
+        @media (prefers-color-scheme: dark) {
+            rect {fill: #FBFAFB;}
+        }
+    </style>
+    <title>Letorey.co.uk Favicon</title>
+    <desc>Red Bowler Hat</desc>
+    <rect x="0" y="0" width="29" height="29" rx="3"></rect>
+    <g id="bowler" transform="translate(2.000000, 5.000000)" fill="#CC2936" fill-rule="nonzero">
+        <path d="M24.839,10.991 C26.453,12.656 26.043,15.706 21.248,16.727 C21.248,14.626 17.559,13.811 12.869,13.811 C7.841,13.811 4.275,14.584 4.275,16.785 C-0.536,15.793 -0.812,12.415 1.119,10.726 C3.469,8.67 4.428,12.088 12.833,12.088 C20.491,12.088 22.262,8.333 24.839,10.991 Z" id="Shape"></path>
+        <path d="M12.847,10.891 C16.646,10.891 20.852,9.004 20.852,9.004 L20.852,7.56 C20.852,4.253 18.765,0.907 12.853,0.907 C6.666,0.907 4.852,4.356 4.852,7.56 L4.852,9.073 C4.852,9.073 9.212,10.891 12.847,10.891 Z" id="Shape"></path>
+    </g>
+</svg>
