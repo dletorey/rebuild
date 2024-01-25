@@ -1,5 +1,6 @@
 ---
 title: "About"
+layout: base
 ---
 We are blah blah.
 

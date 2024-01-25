@@ -1,13 +1,13 @@
 {%- set canonical = site.url + page.url -%}
 {%- set meta_title = title | safe | striptags(true) -%}
-{%- set meta_description = description | default(site.description) | markdownFormat | safe | striptags(true) -%}
+{%- set meta_description = description | default(site.description) | safe | striptags(true) -%}
 {%- set meta_image = photo | default(site.url + author.avatar) -%}
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>{{ meta_title }} | {{ site.title }}</title>
+    <title>{{ meta_title }} | {{ site.company }}</title>
 
     <link rel="self" href="{{ site.url }}/feed.xml">
     <link rel="alternate" type="application/rss+xml" title="Events Feed" href="{{ site.url }}/feed.xml">
@@ -35,8 +35,8 @@
     <meta name="apple-mobile-web-app-title" content="{{ site.company }}">
     <meta name="msapplication-starturl" content="{{ site.url }}">
     <meta name="description" content="{{ meta_description }}">
-    <meta name="theme-color" content="{{ palette | keyValue("red") }}">
-    <meta name="msapplication-navbutton-color" content="{{ palette | keyValue("red") }}">
+    <meta name="theme-color" content="{{ palette }}">
+    <meta name="msapplication-navbutton-color" content="{{ palette }}">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="supported-color-schemes" content="light dark">
 
@@ -52,10 +52,10 @@
         <meta name="twitter:title" content="{{ meta_title }} | {{ site.title }}">
         <meta name="twitter:description" content="{{ meta_description }}">
         <meta name="twitter:image" content="{{ meta_image }}">
-        <meta name="twitter:domain" content="{{ site.url | getHost }}">
+        <meta name="twitter:domain" content="{{ site.url }}">
         <meta name="twitter:widgets:theme" content="light">
-        <meta name="twitter:widgets:link-color" content="{{ palette | keyValue("lws-blue") }}">
-        <meta name="twitter:widgets:border-color" content="{{ palette | keyValue("lws-blue") }}">
+        <meta name="twitter:widgets:link-color" content="{{ palette }}">
+        <meta name="twitter:widgets:border-color" content="{{ palette }}">
         <!-- OpenGraph -->
         <meta property="og:type" content="website">
         <meta property="og:description" content="{{ meta_description }}">
