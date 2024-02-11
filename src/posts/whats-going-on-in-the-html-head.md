@@ -3,6 +3,7 @@ title: "What's going on in the (HTML) head"
 description: ""
 tags: HTML, websites, head, favicon, CSS, social media
 ---
+
 The `<head>` HTML element helps describe to the browser what is going on in a web page. Here I describe what those things are, what they do, and why they are important.
 
 ## The essentials
@@ -37,7 +38,10 @@ The title, or name, of the page is used for:
 This tells the browser how wide to set the content and makes the page responsive. There are two other attributes that are also essential and without you may fail accessibility checks, they are `initial-scale` and `user-scalable`.
 
 ```html
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1" />
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1, user-scalable=1"
+/>
 ```
 
 ## Optional but recommended
@@ -57,7 +61,10 @@ This `<meta>` element is used to help with discoverability and says who wrote th
 This `<meta>` element is used to help with discoverability and understandability. It is often displayed in listings, such as search results to give more context about the content.
 
 ```html
-<meta name="description" content="The description of the page can improve SEO and understanding of what the page is about" />
+<meta
+  name="description"
+  content="The description of the page can improve SEO and understanding of what the page is about"
+/>
 ```
 
 ## Optional
@@ -113,24 +120,92 @@ Twitter has it's own rules that differ from every other social platform. The mai
 - `player` - for linking to rich media, such as video, audio, etc
 
 ```html
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:title" content="Title of post"/>
-<meta name="twitter:description" content="Description of your content here"/>
-<meta name="twitter:site" content="@yourusername"/>
-<meta name="twitter:image" content="https://letorey.co.uk/images/image-of-post.png"/>
-<meta name="twitter:creator" content="@yourusername"/><!-- optional if sames as twitter:site -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Title of post" />
+<meta name="twitter:description" content="Description of your content here" />
+<meta name="twitter:site" content="@yourusername" />
+<meta name="twitter:image" content="https://letorey.co.uk/images/image-of-post.png" />
+<meta name="twitter:creator" content="@yourusername" /><!-- optional if sames as twitter:site -->
 ```
 
 ## `<link>` elements
+
+The [link element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link) is used to load in external resources that are not part of the content, such as icons and stylesheets.
 
 ### favicon
 
 This is a tiny little image that appears in the browser tab, it is a representation of you website/company usually, but can also be dynamic.
 
 ```html
-<link rel="icon" type="image/svg+xml" href="images/favicon.ico">
+<link rel="icon" type="image/svg+xml" href="images/favicon.ico" />
+```
+
+### Other Icons
+
+Other icons can be loaded into the head using the `<link>` element these are used to add icons to devices such as phones. They can also be added in the [`mainfest.json` file](#manifest-file).
+
+In this example different icons are loaded for different resolution devices.
+
+```html
+<link rel="apple-touch-icon" sizes="144x144" href="images/icon144.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="images/icon114.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="images/icon72.png" />
+<link rel="apple-touch-icon" href="images/icon57.png" />
+<link rel="icon" href="images/icon32.png" />
+```
+
+### manifest file
+
+As previously mentioned the `manifest.json` file is used to load in the settings for the website or web app, such as:
+
+- Name
+- Colours
+- Icons
+- Description
+- Start URL
+- service worker location
+
+```html
+<link rel="manifest" href="manifest.json" />
+```
+
+### CSS (Cascading Style Sheets)
+
+CSS is used to change the look and layout of a website and this can be loaded in as a resource alternative the styles can be written [inline in the head](#style-elements).
+
+```html
+<link rel="stylesheet" href="styles.css" />
 ```
 
 ## `<style>` elements
 
+The CSS can also be written inline in the head, this has the advantage that a separate request does not need to happen to load the styles, but it does need to be added to every page. This is often added for essential styles and means the styles are added strainght away rather than waiting for the style to be downloaded (fetched), although once fetched the styles will be stored in the browser (cache).
+
 ## `<script>` elements
+
+The `<script>` element can be used in two ways, to inline some JavaScript or to load a JavaScript file.
+
+JavaScript adds interactivity to a website, for example making things happen when a user clicks on things.
+
+### Inline JavaScript
+
+Inline JavaScript allows you to have things happen immediately instead of waiting for a script to load. In this example a class is removed from the **documentElement** (`<html>` element on a website), this i used to style things differently for browsers that have JavaScript enable.
+
+```html
+<script>
+  document.documentElement.classList.remove("no-js");
+</script>
+
+### Loading JavaScript
+
+Alternatively JavaScript can be loaded as a resource. The `<head>` is not the only location to load a JavaScript file this can also be done at the very bottom of the HTML file just before the closing `<body>` element. This is done to make sure that the parsing of the JavaScript does not stall the painting of the rest of the page.
+
+```html
+<script src="javascript.js"></script>
+```
+
+Alternatively a `defer` attribute can be added to the `<script>` element, this will make sure that the rest of the page is loaded/painted before the JavaScript is parsed and has the same effect as adding  before the closing `<body>` element.
+
+```html
+<script defer src="javascript.js"></script>
+```
