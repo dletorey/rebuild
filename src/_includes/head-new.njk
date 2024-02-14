@@ -1,0 +1,36 @@
+{%- set canonical = site.url + page.url -%}
+{%- set meta_title = title | safe | striptags(true) -%}
+{%- set meta_description = description | default(site.description) | safe | striptags(true) -%}
+{%- set meta_image = photo | default(site.url + author.avatar) -%}
+
+<head>
+  <meta charset="utf-8" />
+  <title>Title of the page</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1" />
+  <meta name="author" content="Dave Letorey" />
+  <meta name="description" content="The description of the page can improve SEO and understanding of what the page is about" />
+  <meta name="theme-color" content="#ff0000" />
+  <meta property="og:title" content="Title of post" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://letorey.co.uk/path-to-post" />
+  <meta property="og:image" content="https://letorey.co.uk/images/image-of-post.png" />
+  <meta property="og:description" content="Brief description of the content" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Title of post" />
+  <meta name="twitter:description" content="Description of your content here" />
+  <meta name="twitter:site" content="@yourusername" />
+  <meta name="twitter:image" content="https://letorey.co.uk/images/image-of-post.png" />
+  <meta name="twitter:creator" content="@yourusername" /><!-- optional if sames as twitter:site -->
+  <link rel="icon" type="image/svg+xml" href="images/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="144x144" href="images/icon144.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="images/icon114.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="images/icon72.png" />
+  <link rel="apple-touch-icon" href="images/icon57.png" />
+  <link rel="icon" href="images/icon32.png" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="stylesheet" href="styles.css" />
+  <script>
+    document.documentElement.classList.remove("no-js");
+  </script>
+  <script defer src="javascript.js"></script>
+</head>

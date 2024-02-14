@@ -9,7 +9,7 @@ This is a list of task that need to be done on the website. There is no order an
 - Header
 - Footer
 - base template
-- Error pages
+- ~~Error pages~~
 - Link share template (link with description)
 - Links on homepage 
 - Cards
