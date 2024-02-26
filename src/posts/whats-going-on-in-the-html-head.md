@@ -195,6 +195,7 @@ Inline JavaScript allows you to have things happen immediately instead of waitin
 <script>
   document.documentElement.classList.remove("no-js");
 </script>
+```
 
 ### Loading JavaScript
 
