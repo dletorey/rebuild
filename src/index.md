@@ -1,3 +1,10 @@
+---
+title: "What's going on in the (HTML) head"
+description: ""
+tags: HTML, websites, head, favicon, CSS, social media
+layout: "base"
+---
+
 # Coming soon letorey.co.uk
 
 <svg viewbox="0 0 667 564" max-width="100%" fill="none" xmlns="http://www.w3.org/2000/svg">
