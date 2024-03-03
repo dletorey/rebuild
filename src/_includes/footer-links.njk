@@ -1,0 +1,13 @@
+{%- set links = site.footer.links -%}
+
+{% if links %}
+<p>There are links</p>
+<code>{{ links.mastodon.url }}</code>
+<nav>
+  <ul>
+  {% for link in links %}
+    <li class={{ link.title | replace(" ", "-") | lower }}><a href={{ link.url }} rel="me">{{ link.title }}</a></li>
+  {% endfor %}
+  </ul>
+</nav>
+{% endif %}
