@@ -1,11 +1,10 @@
 ---
-title: "What's going on in the (HTML) head"
 description: ""
 tags: HTML, websites, head, favicon, CSS, social media
 layout: "base"
 ---
 
-# Coming soon letorey.co.uk
+## Coming soon letorey.co.uk
 
 <svg viewbox="0 0 667 564" max-width="100%" fill="none" xmlns="http://www.w3.org/2000/svg">
   <path fill-rule="evenodd" clip-rule="evenodd" d="m634.823 563.49-608.24.453c-23.773.018-33.776-24.222-19.782-47.939l292.215-495.26c16.689-27.484 47.629-27.783 64.318.927L658.903 515.55c16.259 23.582 4.437 48.363-24.08 47.94Z" fill="#EA0000"/>

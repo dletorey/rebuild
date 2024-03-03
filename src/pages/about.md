@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: base
+layout: pages
 ---
 We are blah blah.
 

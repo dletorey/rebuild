@@ -1,13 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ site.locale }}" class="{% if theme %}{{ theme }} {% endif %}no-js">
-{% include 'head.njk' %}
+{%- include 'head.njk' -%}
 <body>
   {% include 'header.njk' %}
-  <main class="tdbc-container">
-    <article class="tdbc-mx-auto">
-      {{ content | safe }}
-    </article>
-  </main>
+  {{ content | safe }}
   {% include 'footer.njk' %}
 </body>
 </html>
