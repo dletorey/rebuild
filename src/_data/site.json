@@ -5,34 +5,5 @@
   "url": "https://rebuild.letorey.co.uk",
   "speedlify": "https://speedlify.letorey.co.uk",
   "locale": "en-gb",
-  "zone": "Europe/London",
-  "footer": {
-    "links": [
-      {
-        "title": "Mastodon",
-        "name": "dletorey",
-        "url": "https://front-end.social/@dletorey"
-      },
-      {
-        "title": "Twitter",
-        "name": "dletorey",
-        "url": "https://www.twitter.com/dletorey"
-      },
-      {
-        "title": "github",
-        "name": "dletorey",
-        "url": "https://www.github.com/dletorey"
-      },
-      {
-        "title": "codepen",
-        "name": "CodeRedDigital",
-        "url": "https://codepen.io/CodeRedDigital"
-      },
-      {
-        "title": "Code Red Digital",
-        "name": "Code red Digital",
-        "url": "https://code-red.uk"
-      }
-    ]
-  }
+  "zone": "Europe/London"
 }
