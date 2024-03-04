@@ -8,6 +8,8 @@ This is a list of task that need to be done on the website. There is no order an
 - style code blocks
 - Header
 - Footer
+  - ~~Add social links~~
+  - Add year and name
 - base template
 - ~~Error pages~~
 - Link share template (link with description)
