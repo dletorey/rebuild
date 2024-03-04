@@ -1,5 +1,6 @@
-# Tasks
-
+---
+title: Tasks
+---
 This is a list of task that need to be done on the website. There is no order and is just a list of things that I need/want to do.
 
 - Light/Dark mode
@@ -10,7 +11,7 @@ This is a list of task that need to be done on the website. There is no order an
 - Footer
   - ~~Add social links~~
   - Add year and name
-- base template
+- ~~base template~~
 - ~~Error pages~~
 - Link share template (link with description)
 - Links on homepage
