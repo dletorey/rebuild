@@ -1,5 +1,7 @@
 module.exports = {
   layout: "posts",
   tags: ["post"],
-  permalink: "/posts/{{ page.fileSlug }}/index.html",
+  eleventyComputed: {
+    permalink: data => data.old ? "/blog/{{ page.fileSlug }}/index.html" : "/posts/{{ page.fileSlug }}/index.html",
+  }
 }
