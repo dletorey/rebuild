@@ -19,3 +19,5 @@ This is a list of task that need to be done on the website. There is no order an
 - Create micro post template (tweet style)
 - [Add RSS](https://buttondown.email/ownyourweb/archive/issue-09/)
 - Add Sitemap
+- [setup redirects for old posts](https://www.aleksandrhovhannisyan.com/blog/eleventy-netlify-redirects/)
+- [review 100 things to do on your site](https://jamesg.blog/2024/02/19/personal-website-ideas/)
