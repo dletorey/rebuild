@@ -64,6 +64,49 @@
         <meta property="og:url" content="{{ canonical }}">
         <meta property="og:image" content="{{ meta_image }}">
     {% endif %}
+    <style>
+        /* @link https://utopia.fyi/type/calculator?c=320,16,1.25,1800,24,1.333,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
 
+        :root {
+          --step--2: clamp(0.64rem, 0.5959rem + 0.2207vi, 0.8442rem);
+          --step--1: clamp(0.8rem, 0.7297rem + 0.3517vi, 1.1253rem);
+          --step-0: clamp(1rem, 0.8919rem + 0.5405vi, 1.5rem);
+          --step-1: clamp(1.25rem, 1.0879rem + 0.8103vi, 1.9995rem);
+          --step-2: clamp(1.5625rem, 1.324rem + 1.1923vi, 2.6653rem);
+          --step-3: clamp(1.9531rem, 1.6072rem + 1.7295vi, 3.5529rem);
+          --step-4: clamp(2.4414rem, 1.9453rem + 2.4806vi, 4.736rem);
+          --step-5: clamp(3.0518rem, 2.3466rem + 3.5258vi, 6.3131rem);
+        }
+        p {
+            max-width: 60ch;
+        }
+        small {
+            font-size: var(--step--2);
+        }
+        p {
+            font-size: var(--step-0);
+        }
+        h1, h2, h3, h4, h5 {
+            text-wrap: balance;
+        }
+        h1 {
+            font-size: var(--step-5);
+        }
+        h2 {
+            font-size: var(--step-4);
+        }
+        h3 {
+            font-size: var(--step-3);
+        }
+        h4 {
+            font-size: var(--step-2);
+        }
+        h5 {
+            font-size: var(--step-1);
+        }
+        code, pre {
+            overflow: hidden;
+        }
+    </style>
     <script>document.documentElement.classList.remove("no-js");</script>
 </head>
