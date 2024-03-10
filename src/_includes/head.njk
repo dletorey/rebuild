@@ -64,6 +64,43 @@
         <meta property="og:url" content="{{ canonical }}">
         <meta property="og:image" content="{{ meta_image }}">
     {% endif %}
+    <style>
+        /* @link https://utopia.fyi/type/calculator?c=320,18,1.2,1240,20,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
 
+        :root {
+          --step--2: clamp(0.7813rem, 0.7747rem + 0.0326vi, 0.8rem);
+          --step--1: clamp(0.9375rem, 0.9158rem + 0.1087vi, 1rem);
+          --step-0: clamp(1.125rem, 1.0815rem + 0.2174vi, 1.25rem);
+          --step-1: clamp(1.35rem, 1.2761rem + 0.3696vi, 1.5625rem);
+          --step-2: clamp(1.62rem, 1.5041rem + 0.5793vi, 1.9531rem);
+          --step-3: clamp(1.944rem, 1.771rem + 0.8651vi, 2.4414rem);
+          --step-4: clamp(2.3328rem, 2.0827rem + 1.2504vi, 3.0518rem);
+          --step-5: clamp(2.7994rem, 2.4462rem + 1.7658vi, 3.8147rem);
+        }
+        body {
+            max-width: 60ch;
+        }
+        small {
+            font-size: var(--step--2);
+        }
+        p {
+            font-size: var(--step-0);
+        }
+        h1 {
+            font-size: var(--step-5);
+        }
+        h2 {
+            font-size: var(--step-4);
+        }
+        h3 {
+            font-size: var(--step-3);
+        }
+        h4 {
+            font-size: var(--step-2);
+        }
+        h5 {
+            font-size: var(--step-1);
+        }
+    </style>
     <script>document.documentElement.classList.remove("no-js");</script>
 </head>
