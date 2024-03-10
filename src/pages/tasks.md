@@ -24,3 +24,4 @@ This is a list of task that need to be done on the website. There is no order an
 - add [og:image generator](https://www.npmjs.com/package/eleventy-plugin-og-image)
 - ~~add h-card - microformats~~
 - change url structure
+- add webmentions
