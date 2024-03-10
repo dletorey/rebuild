@@ -10,6 +10,7 @@ module.exports = function (config) {
       return a.data.order - b.data.order; // sort by order - ascending;
     });
   });
+  config.addPassthroughCopy("images")
   return {
     dir: {
       input: "src",
