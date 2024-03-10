@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "3.0.0-alpha.4"
+    "@11ty/eleventy": "3.0.0-alpha.4",
+    "@chrisburnell/eleventy-cache-webmentions": "^2.0.1"
   }
 }
