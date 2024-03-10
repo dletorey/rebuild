@@ -21,3 +21,5 @@ This is a list of task that need to be done on the website. There is no order an
 - Add Sitemap
 - [setup redirects for old posts](https://www.aleksandrhovhannisyan.com/blog/eleventy-netlify-redirects/)
 - [review 100 things to do on your site](https://jamesg.blog/2024/02/19/personal-website-ideas/)
+- add [og:image generator](https://www.npmjs.com/package/eleventy-plugin-og-image)
+- add h-card - microformats
