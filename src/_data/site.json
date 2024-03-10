@@ -5,5 +5,12 @@
   "url": "https://rebuild.letorey.co.uk",
   "speedlify": "https://speedlify.letorey.co.uk",
   "locale": "en-gb",
-  "zone": "Europe/London"
+  "zone": "Europe/London",
+  "hcard":{
+    "avatar": "dletorey-avatar.jpg",
+    "name": "Dave Letorey",
+    "locality": "London",
+    "countryName": "United Kingdom",
+    "note": "I love Dancing, amongst other things!"
+  }
 }

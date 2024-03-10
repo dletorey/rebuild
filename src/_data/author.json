@@ -1,13 +1,15 @@
 {
   "name": "Dave Letorey",
   "location": "London, England",
+  "country": "United Kingdom",
   "email": "daveletorey@gmail.com",
   "avatar": "/images/dletorey-avatar.jpg",
   "github": "dletorey",
   "twitter": "dletorey",
   "mastodon": {
     "name": "",
-    "url": ""  
+    "url": ""
   },
-  "codepen": "CodeRedDigital"
+  "codepen": "CodeRedDigital",
+  "note": "I love Dancing, amongst other things!"
 }
