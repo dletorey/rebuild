@@ -76,15 +76,39 @@
           --step-3: clamp(2.3686rem, 2.0161rem + 1.7623vi, 5.3293rem);
           --step-4: clamp(3.1573rem, 2.6875rem + 2.3492vi, 7.104rem);
           --step-5: clamp(4.2087rem, 3.5824rem + 3.1315vi, 9.4696rem);
+          --dm-background: #002442;
+          --dm-text: #f4f5f5;
+          --dm-heading: #ffb714;
+          --lm-background: #f4f5f5;
+          --lm-text: #002442;
+          --lm-heading: #971c12;
+        }
+        @media (prefers-color-scheme: light) {
+            body {
+                background-color: var(--lm-background);
+                color: var(--lm-text);
+            }
+            h1, h2, h3, h4, h5, h6 {
+                color: var(--lm-heading);
+            }
+        }
+        @media (prefers-color-scheme: dark) {
+            body {
+                background-color: var(--dm-background);
+                color: var(--dm-text);
+            }
+            h1, h2, h3, h4, h5, h6 {
+                color: var(--dm-heading);
+            }
+        }
+        html {
+            font-size: var(--step-0);
         }
         p {
             max-width: 60ch;
         }
         small {
             font-size: var(--step--2);
-        }
-        p {
-            font-size: var(--step-0);
         }
         h1, h2, h3, h4, h5 {
             text-wrap: balance;
