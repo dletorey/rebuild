@@ -104,8 +104,15 @@
         html {
             font-size: var(--step-0);
         }
-        p {
-            max-width: 60ch;
+        h1, h2, h3, h4, h5, h6,
+        dt, blockquote, figcaption {
+          text-wrap: balance;
+          max-inline-size: 25ch;
+        }
+
+        p, dd, li {
+          text-wrap: pretty;
+          max-inline-size: 60ch;
         }
         small {
             font-size: var(--step--2);
