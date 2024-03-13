@@ -28,3 +28,5 @@ This is a list of task that need to be done on the website. There is no order an
 - create links page and link to it from footer
 - light/dark toggle
 - create a [now page](https://nownownow.com/about)
+- add robots.txt
+- add humans.txt
