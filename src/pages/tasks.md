@@ -3,8 +3,8 @@ title: Tasks
 ---
 This is a list of task that need to be done on the website. There is no order and is just a list of things that I need/want to do.
 
-- Light/Dark mode
-- Dynamic font-sizing based on browser-width
+- ~~Light/Dark mode~~
+- ~~Dynamic font-sizing based on browser-width~~
 - Add readable fonts
 - style code blocks
 - Header
@@ -25,3 +25,5 @@ This is a list of task that need to be done on the website. There is no order an
 - ~~add h-card - microformats~~
 - change url structure
 - add webmentions
+- create links page and link to it from footer
+- light/dark toggle
