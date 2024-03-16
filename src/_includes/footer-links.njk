@@ -1,8 +1,10 @@
 <nav>
   <ul>
     {% for link in collections.footlinks %}
+      {% if link.data.footer %}
       {% if link.data.published %}
         <li class={{ link.data.title | replace(" ", "-") | lower }}><a href={{ link.data.url }} rel="me">{{ link.data.name }}</a></li>
+      {% endif %}
       {% endif %}
     {% endfor %}
   </ul>

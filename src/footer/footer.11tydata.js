@@ -1,4 +1,5 @@
 module.exports = {
   permalink: false,
-  tags: ["footlink"]
+  tags: ["footlink"],
+  footer: false
 };
