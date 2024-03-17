@@ -1,0 +1,18 @@
+{%- set categories = ["Social Media", "Music", "Code", "Images", "Video", "Language", "Work", "Exercise", "Beer", "None"] -%}
+{%- for category in categories -%}
+  {%- set linkByCategory = collections.daveLinks | arrayKeyEquals('data.category', category) -%}
+  {%- if linkByCategory.length -%}
+  <section class="links {{ category | replace(" ", "-") | lower }}">
+    {%- if category == "None" -%}
+        <h2>Others</h2>
+    {%- else -%}
+        <h2>{{ category }}</h2>
+    {%- endif -%}
+    <ul>
+    {%- for link in linkByCategory -%}
+      <li class={{ link.data.title | replace(" ", "-") | lower }}><a href={{ link.data.url }} rel="me">{{ link.data.name }}</a></li>
+    {%- endfor -%}
+    </ul>
+  </section>
+  {%- endif -%}
+{%- endfor -%}
