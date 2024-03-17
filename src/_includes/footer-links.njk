@@ -4,4 +4,9 @@
       <li class={{ link.data.title | replace(" ", "-") | lower }}><a href={{ link.data.url }} rel="me">{{ link.data.name }}</a></li>
     {% endfor %}
   </ul>
+  <ul class="hidden" hidden>
+    {% for link in collections.social %}
+      <li class={{ link.data.title | replace(" ", "-") | lower }}><a href={{ link.data.url }} rel="me">{{ link.data.name }}</a></li>
+    {% endfor %}
+  </ul>
 </nav>
