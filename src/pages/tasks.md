@@ -25,8 +25,9 @@ This is a list of task that need to be done on the website. There is no order an
 - ~~add h-card - microformats~~
 - change url structure
 - add webmentions
-- create links page and link to it from footer
+- ~~create links page and link to it from footer~~
 - light/dark toggle
 - create a [now page](https://nownownow.com/about)
 - add robots.txt
 - add humans.txt
+- sort out padding on [/links](/links)
