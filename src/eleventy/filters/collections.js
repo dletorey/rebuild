@@ -11,6 +11,12 @@ module.exports = {
     }
     return true
   },
+  notInFooter: (item) => {
+    if ("data" in item && "footer" in item.data && item.data.footer === true) {
+        return false
+    }
+    return true
+  },
   order: (a, b) => a.data.order - b.data.order,
   reverseOrder: (a, b) => a.data.order - b.data.order,
   dateFilter: (a, b) => a.date - b.date,
