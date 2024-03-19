@@ -33,3 +33,4 @@ This is a list of task that need to be done on the website. There is no order an
 - sort out padding on [/links](/links)
 - added dynamic space [utopia](https://utopia.fyi/space/calculator?c=320,18,1.2,1240,20,1.25,5,2,&s=0.75%7C0.5%7C0.25,1.5%7C2%7C3%7C4%7C6,s-l&g=s,l,xl,12)
 - look at [jsdelivr.com CDN](https://www.jsdelivr.com/)
+- look at [Lightweight Search](https://coryd.dev/posts/2024/lightweight-search-in-eleventy/)
