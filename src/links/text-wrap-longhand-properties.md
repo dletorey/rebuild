@@ -1,6 +1,6 @@
 ---
 title: "CSS text-wrap longhand properties"
-description: ""
+description: "The CSS text-wrap property has now been made a shorthand property for text-wrap-mode and text-wrap-style."
 ---
 
 Firefox now supports, the longhand properties of `text-wrap`, `text-wrap-mode` and `text-wrap-style`
