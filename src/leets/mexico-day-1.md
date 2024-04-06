@@ -8,7 +8,7 @@ After a long (14 hour) flight via Toronto we eventually got to our hotel at 12:3
 
 After a few hours sleep we had some breakfast at the hotel, mediocre.
 
-We then went to find coffee and cash, around the corner 40m from our hotel we found a tiny and delightful coffee shop. Further round the corner we found an ATM. We got cash first as we were advised that cash was king in Mexico city then grabbed our coffee.
+We then went to find coffee and cash, around the corner 40m from our hotel we found a tiny and delightful coffee shop, [Ex-Presso Café](https://maps.app.goo.gl/B5qaEAUwqswojfZ4A). Further round the corner we found an ATM. We got cash first as we were advised that cash was king in Mexico city then grabbed our coffee.
 
 We then went out to find the equivalent of an oyster card for Mexico City. The closest Metro station appeared to be shut, although later we found it was only that entrance. So I asked in my terrible Spanish where I could get a travel card and the man pointed at the bus stop. At the bus stop we met a couple from Cambridge who were just in the process of topping up their cards and they kindly advised us what the different options were. I got mine, but when Susan tried it turned out that I'd just bought the last one, but our Spanish meant we just thought "What the hell is wrong".
 
