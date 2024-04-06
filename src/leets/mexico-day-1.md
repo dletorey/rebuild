@@ -12,11 +12,11 @@ We then went to find coffee and cash, around the corner 40m from our hotel we fo
 
 We then went out to find the equivalent of an oyster card for Mexico City. The closest Metro station appeared to be shut, although later we found it was only that entrance. So I asked in my terrible Spanish where I could get a travel card and the man pointed at the bus stop. At the bus stop we met a couple from Cambridge who were just in the process of topping up their cards and they kindly advised us what the different options were. I got mine, but when Susan tried it turned out that I'd just bought the last one, but our Spanish meant we just thought "What the hell is wrong".
 
-So we walked up to the next stop and solve the problem. We walked around the local area and after a while decided to get some shade in in the local park. From the park we saw the [Palacio de Bellas Artes](https://en.wikipedia.org/wiki/Palacio_de_Bellas_Artes) an astounding building. We walked up to it to take a closer look and some photos.
+So we walked up to the next stop and solve the problem. We walked around the local area and after a while decided to get some shade in in the local park. From the park we saw the [Palacio de Bellas Artes](https://en.wikipedia.org/wiki/Palacio_de_Bellas_Artes) an astounding building. We walked up to it to take a closer look and take some photos.
 
 From out the front, I look up across the road and there were people in a rooftop cafe looking out over the Palacio de Bellas Artes, so we went across the street to Sears and asked the security how we get to the roof top cafe he just said "ocho", which even with our limited Spanish we understood as floor 8. When we got there we found it was called [Café Don Porfirio, Sears Centro](https://maps.app.goo.gl/oyCZC3TBfwaxphcG7), the views truly were amazing and it was a great find.
 
-The  we wound our way through the streets, one that only sold lighting and one that only sold plumbing to meet [Daniel from With Locals](https://www.withlocals.com/host/petulpa375388bf/). Who took us on an amazing street food tour.
+Then  we wound our way through the streets, one that only sold lighting and one that only sold plumbing to meet [Daniel from With Locals](https://www.withlocals.com/host/petulpa375388bf/). Who took us on an amazing street food tour.
 
 We're now about to collapse after not much sleep.
 
