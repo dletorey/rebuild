@@ -12,6 +12,6 @@ It also turns out that every Sunday in Mexico City there is an unofficial marath
 
 When I got back to the hotel, Susan was not feeling great (not my story to tell), so we decided to go to the airport early. Upon arriving I used my pigeon-spanish to communicate with the airline staff to find out if we could check in our bags early and get through security. Once through I went into discovery mode to find an airport lounge that we could hide in until our flight was ready.
 
-The lounge ([Grand Lounge Elite](https://thegrandloungeelite.com.mx/)), situated at gate 19, was brilliant, brilliant WiFi, food, drinks and reclining chairs. They also offered us manicures and pedicures. But best of all they provided us with a golf buggy to take us to our gate when we are ready.
+The lounge ([Grand Lounge Elite](https://thegrandloungeelite.com.mx/)), situated at gate 19, was brilliant, brilliant WiFi, [food](https://flickr.com/photos/dletorey/53638398713/in/album-72177720316067013/), [drinks](https://flickr.com/photos/dletorey/53637297652/in/album-72177720316067013/) and reclining chairs. They also offered us manicures and pedicures. But best of all they provided us with a golf buggy to take us to our gate when we are ready.
 
 To be continued as it's only 13:30…
