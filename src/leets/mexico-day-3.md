@@ -15,3 +15,13 @@ When I got back to the hotel, Susan was not feeling great (not my story to tell)
 The lounge ([Grand Lounge Elite](https://thegrandloungeelite.com.mx/)), situated at gate 19, was brilliant, brilliant WiFi, [food](https://flickr.com/photos/dletorey/53638398713/in/album-72177720316067013/), [drinks](https://flickr.com/photos/dletorey/53637297652/in/album-72177720316067013/) and reclining chairs. They also offered us manicures and pedicures. But best of all they provided us with a golf buggy to take us to our gate when we are ready.
 
 To be continued as it's only 13:30…
+
+## Photos
+
+### Photo of the day
+
+TBD
+
+### Today's photo album
+
+[https://flickr.com/photos/dletorey/albums/72177720316067013/](https://flickr.com/photos/dletorey/albums/72177720316067013/)
