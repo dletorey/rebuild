@@ -4,7 +4,9 @@ description: "Second day of our Mexico trip, empty & full Mexico City and a new 
 tags: ["Mexico", "Mexico City", "Walks", "Parque", "Hats", "Beer"]
 ---
 
-After an [early morning walk](https://strava.app.link/CcMMGpaUzIb) around a very quiet Centro Historico, where I stumbled upon a discotheque, still pumping a cross between Mariachi and Techno, the patrons tried to persuade me to join them. Susan and I jumped into an Uber to find [Dave’s home bread](https://maps.app.goo.gl/8cFq3N4cecaxfZ949) [recommended by Jim](https://front-end.social/@eatyourgreens@mastodon.social/112223369138106020). 
+After an [early morning walk](https://strava.app.link/CcMMGpaUzIb) around a very quiet Centro Historico, where I stumbled upon a discotheque, still pumping a cross between Mariachi and Techno, the patrons tried to persuade me to join them. 
+
+When I returned Susan and I jumped into an Uber to find [Dave’s home bread](https://maps.app.goo.gl/8cFq3N4cecaxfZ949) [recommended by Jim](https://front-end.social/@eatyourgreens@mastodon.social/112223369138106020). 
 
 Now I know that it’s only day 2 but I think I have found the best coffee in Mexico City. We both had Almond Croissants, which had chocolate in them. Susan stated that it’s the best Almond Croissant that she’s had for years. The canopy out front of the cafe has a hashtag #herecomeshogazas which I read as **Here comes shoe gazers** (made me think of Clive and Dan), what it really means is **Here comes the loaf of bread**. 
 
