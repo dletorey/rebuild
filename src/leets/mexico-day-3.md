@@ -14,13 +14,23 @@ When I got back to the hotel, Susan was not feeling great (not my story to tell)
 
 The lounge ([Grand Lounge Elite](https://thegrandloungeelite.com.mx/)), situated at gate 19, was brilliant, brilliant WiFi, [food](https://flickr.com/photos/dletorey/53638398713/in/album-72177720316067013/), [drinks](https://flickr.com/photos/dletorey/53637297652/in/album-72177720316067013/) and reclining chairs. They also offered us manicures and pedicures. But best of all they provided us with a golf buggy to take us to our gate when we are ready.
 
-To be continued as it's only 13:30…
+The golf buggy ride through the airport was excellent, especially as the gate was a long way from the lounge.
+
+Trying to understand the announcements was pretty difficult, even though we have been learning Spanish on Duolingo, they just speak so fast and there is no snail button for people like in Duolingo. In the end there was a great deal of live translating messages through my camera and now I know for the rest of the flights.
+
+In the airports there are signs telling you what to do incase of an earthquake, a fire or a hurricane.
+
+The flight to Monterrey was about 1 hour 30 mins and at Monterrey we were guided to a shuttle bus that took us to the other terminal for our connection to Mazatlan. It turns out that couple from Cambridge we met on [day 1](/leets/mexico-day-1) we on our flights too although they didn't recognise us even though I was wear a distinctive hat. While awaiting the flight the staff appeared to be playing kiss chase, which was great fun to watch.
+
+The flight to Mazatlan was great and took just over an hour. When we landed I checked that our bags had also come to the same place, I have AirTags in each of our checked in bags which is brilliant to know that your bags are following you. The baggage claim was super fast and we were soon out and queueing for a taxi. The queue was just to pay for the taxi, we did try getting an Uber but there were none. Once we paid we were then directed outside to queue for the actual taxi. It's a good system and secure in paying, but not when 100s of people are traveling to see the eclipse. Even so from landing to our apartment it was just over an hour.
+
+Tired and exhausted we just went to bed.
 
 ## Photos
 
 ### Photo of the day
 
-TBD
+[A canopy of parasols in Chinatown Mexico City](https://flickr.com/photos/dletorey/53638337203/in/album-72177720316067013/)
 
 ### Today's photo album
 
