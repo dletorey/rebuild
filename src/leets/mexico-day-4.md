@@ -10,6 +10,8 @@ When the eclipse came the sky went from pink to red to dark in about 30 seconds 
 
 After the eclipse [I went out for a walk](https://www.strava.com/activities/11137779891) to find some bland food for us to eat. I walked down to the beach and had a mooch, Before returning to give Susan some food.
 
+During my walk there was a Mexican TV News crew and they asked me if I could be interviewed about the eclipse. This went terribly wrong and eventually didn't happen when they realised that I could speak zero Spanish.
+
 When it go to about 6pm I was pretty hungry so [I went out to find food](https://www.strava.com/activities/11138715202), Susan didn't feel up for it. Earlier in the day Britza had sent me a bunch of food recommendations, so I decided to go for a chinese that she'd recommended. As I walked along the seafront the sun was setting and there were people everywhere. On the beach there were mariachi bands and I have seen more sousaphone today the the rest of my 54 years combined. This confirmed to me that I could never live here, [especially if this sound is anything to go by](https://flickr.com/photos/dletorey/53640745367/in/album-72177720316085372/).
 
 When I got to the Chinese it was shut, so I thought i'd checkout, [El Presidio Cocina de México](https://maps.app.goo.gl/536nsVRAqX9vLYLx6), the place we'd booked for the eclipse breakfast. It also was shut.
