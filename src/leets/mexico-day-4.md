@@ -26,6 +26,8 @@ Then [I returned to Susan](https://www.strava.com/activities/11139011188), with 
 
 [Tree grown around a door in Centro Historico Mazatlan](https://flickr.com/photos/dletorey/53640740442/in/album-72177720316085372/)
 
+[My favourite photo of the eclipe in Mazatlan showing a magnificent frigatebird flying in front of the sun](https://www.instagram.com/p/C5haH_yxc3f/?igsh=MW0yMnUwYnNhcjJnZw==)
+
 ### Today's photo albums
 
 [Eclipse photos](https://flickr.com/photos/dletorey/albums/72177720316090626)
