@@ -14,7 +14,7 @@ The Centro Historico in daylight was completely difficult the colours of the bui
 
 On the way back to the apartment we walked along the beach and Susan had a paddle.
 
-When we got back to the apartment I noticed that through a gap there was a coffee shop/bar called [Coffee Break Mazatlán](https://maps.app.goo.gl/zPijFSv4srHbDo8cA). So I went to investigate. The staff were wearing t-shirts that read “So Fucking Delicious” and they were write the coffee was awesome.
+When we got back to the apartment I noticed that through a gap there was a coffee shop/bar called [Coffee Break Mazatlán](https://maps.app.goo.gl/zPijFSv4srHbDo8cA). So I went to investigate. The staff were wearing t-shirts that read “So Fucking Delicious” and they were right the coffee was awesome.
 
 When I returned to the apartment Susan and I had a [game of chess](https://www.chess.com/game/daily/644193005) and she thrashed me.
 
