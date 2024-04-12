@@ -32,4 +32,6 @@ Then [I returned to Susan](https://www.strava.com/activities/11139011188), with 
 
 [NASA Eclipse photos](https://flickr.com/photos/nasahqphoto/albums/72177720315879304/with/53636351001)
 
+[BBC photos of eclipse](https://www.bbc.co.uk/news/resources/idt-30cbf852-1282-4ed9-9ec9-c9144ed9c8fb)
+
 [Day 4 photos around Mazatlán](https://flickr.com/photos/dletorey/albums/72177720316085372)
