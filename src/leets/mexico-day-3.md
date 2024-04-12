@@ -1,7 +1,17 @@
 ---
 title: "Mexico holiday day 3"
-description: "Third day of our Mexico trip, travel to Mazatlan via Monterey"
-tags: ["Mexico", "Mexico City", "Walks", "Mazatlan", "Monterey", "Airplanes", "Grand Prix", "Formula 1"]
+description: "Third day of our Mexico trip, travel to Mazatlán via Monterey"
+tags:
+  [
+    "Mexico",
+    "Mexico City",
+    "Walks",
+    "Mazatlán",
+    "Monterey",
+    "Airplanes",
+    "Grand Prix",
+    "Formula 1"
+  ]
 ---
 
 Luckily last night I found the Japanese Grand Prix on Mexican TV. The race started at 11pm local time, although it did not help that on the first lap there was a crash and the barriers needing repairing. The commentary on BBC radio just said "I bet all those who got up at 5am are now a bit pissed off" or words to those effect. Unfortunately the race was pretty dull and I finally got to go to sleep and almost 2am. Surprisingly enough the Mexican commentary was very swayed to one driver, but quite funny trying to work out exactly what they were saying.
@@ -20,9 +30,9 @@ Trying to understand the announcements was pretty difficult, even though we have
 
 In the airports there are signs telling you what to do incase of an earthquake, a fire or a hurricane.
 
-The flight to Monterrey was about 1 hour 30 mins and at Monterrey we were guided to a shuttle bus that took us to the other terminal for our connection to Mazatlan. It turns out that couple from Cambridge we met on [day 1](/leets/mexico-day-1) we on our flights too although they didn't recognise us even though I was wear a distinctive hat. While awaiting the flight the staff appeared to be playing kiss chase, which was great fun to watch.
+The flight to Monterrey was about 1 hour 30 mins and at Monterrey we were guided to a shuttle bus that took us to the other terminal for our connection to Mazatlán. It turns out that couple from Cambridge we met on [day 1](/leets/mexico-day-1) we on our flights too although they didn't recognise us even though I was wear a distinctive hat. While awaiting the flight the staff appeared to be playing kiss chase, which was great fun to watch.
 
-The flight to Mazatlan was great and took just over an hour. When we landed I checked that our bags had also come to the same place, I have AirTags in each of our checked in bags which is brilliant to know that your bags are following you. The baggage claim was super fast and we were soon out and queueing for a taxi. The queue was just to pay for the taxi, we did try getting an Uber but there were none. Once we paid we were then directed outside to queue for the actual taxi. It's a good system and secure in paying, but not when 100s of people are traveling to see the eclipse. Even so from landing to our apartment it was just over an hour.
+The flight to Mazatlán was great and took just over an hour. When we landed I checked that our bags had also come to the same place, I have AirTags in each of our checked in bags which is brilliant to know that your bags are following you. The baggage claim was super fast and we were soon out and queueing for a taxi. The queue was just to pay for the taxi, we did try getting an Uber but there were none. Once we paid we were then directed outside to queue for the actual taxi. It's a good system and secure in paying, but not when 100s of people are traveling to see the eclipse. Even so from landing to our apartment it was just over an hour.
 
 Tired and exhausted we just went to bed.
 
