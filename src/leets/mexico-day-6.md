@@ -26,7 +26,7 @@ After eating we headed back to the hotel, I started to feel terrible so much so 
 
 [Cerro de la Silla taken from the airplane window](https://flickr.com/photos/dletorey/53647296567/in/album-72177720316167918/)
 
-### Today's photo album
+### Today's photo albums
 
 [Day 6 album](https://flickr.com/photos/dletorey/albums/72177720316161696/)
 
