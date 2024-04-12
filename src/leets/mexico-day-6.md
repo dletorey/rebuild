@@ -32,4 +32,4 @@ After eating we headed back to the hotel, I started to feel terrible so much so 
 
 [Flight Mazatlán to Monterrey](https://flickr.com/photos/dletorey/albums/72177720316167918/with/53648522229)
 
-[Flight Monterrey to Mexico City](https://flickr.com/photos/dletorey/albums/72177720316167918/with/53648522229)
+[Flight Monterrey to Mexico City](https://flickr.com/photos/dletorey/albums/72177720316157280/)
