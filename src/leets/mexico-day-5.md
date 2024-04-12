@@ -18,7 +18,7 @@ When we got back to the apartment I noticed that through a gap there was a coffe
 
 When I returned to the apartment Susan and I had a [game of chess](https://www.chess.com/game/daily/644193005) and she thrashed me.
 
-Later in the afternoon I went for a walk this time the opposite direction to the beach. This is where the people of Mazatlán actually live and work. There were plenty of food places, barbers and car repair places. As I was getting back to our apartment I could hear a mariachi band, this time a good one. As I got closer I could see that they had taken over and pretty much closed the road. On investigation there was someone’s birthday party happening. It was so close that for the next few hours we could hear the party going on from our apartment.
+Later in the afternoon I went for a walk this time the opposite direction to the beach. This is where the people of Mazatlán actually live and work. There were plenty of food places, barbers and car repair places. As I was getting back to our apartment [I could hear a mariachi band, this time a good one](https://flickr.com/photos/dletorey/53648140181/in/album-72177720316124504/). As I got closer I could see that they had taken over and pretty much closed the road. On investigation there was someone’s birthday party happening. It was so close that for the next few hours we could hear the party going on from our apartment.
 
 The rest of the day we just chilled and had an early night.
 
