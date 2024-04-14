@@ -10,6 +10,10 @@ In the afternoon Susan relaxed and read her 100th book of the holiday while I we
 
 Towards the end of my walk I came upon some men at the top of a 20m pole who were winding ropes around the top and once all the rope had been wound [they jumped off and span down to the ground](https://flickr.com/photos/dletorey/53650019711/in/album-72177720316186853/lightbox/), one of the maddest things things I've ever witnessed.
 
+In the evening we went to [Rosetta](https://rosetta.com.mx/en/), which is apparently the 2nd best restaurant in Mexico City. We both had exactly the same, Scallops with Celeriac, Ravioli with ricotta and Honey jelly with brown butter ice cream. After the meal we went to find a cocktail bar called Gypsy, we couldn't find it but we did find a sculpture of Lord Baden Powell and a family of scouts asked me to take their photo with the sculpture.
+
+Back home we watched Coronation Street, WTF ITV [why is Roy Cropper been arrested for murder](https://www.youtube.com/watch?v=QQkVKy1MGjE)?
+
 ## Photos
 
 ### Photo of the day
