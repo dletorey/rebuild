@@ -1,5 +1,5 @@
 ---
-title: "Mexico holiday day 5"
+title: "Mexico holiday day 8"
 description: "Eighth day of our Mexico trip, Chapultepec Forest"
 tags: ["Mexico", "Walks", "Chaputepec forest", "Mexico City"]
 ---
