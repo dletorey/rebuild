@@ -34,4 +34,4 @@ In the bar there was also an exhibition called [36 Days of Type by Dani Who](htt
 
 ### Today's photo album
 
-[https://flickr.com/photos/dletorey/albums/72177720316056159](https://flickr.com/photos/dletorey/albums/72177720316056159)
+[Day 2 album](https://flickr.com/photos/dletorey/albums/72177720316056159)

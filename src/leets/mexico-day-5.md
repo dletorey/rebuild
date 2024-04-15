@@ -30,4 +30,4 @@ The rest of the day we just chilled and had an early night.
 
 ### Today's photo album
 
-[https://flickr.com/photos/dletorey/albums/72177720316124504](https://flickr.com/photos/dletorey/albums/72177720316124504)
+[Day 5 album](https://flickr.com/photos/dletorey/albums/72177720316124504)

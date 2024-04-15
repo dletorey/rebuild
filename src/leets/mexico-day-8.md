@@ -22,4 +22,4 @@ Back home we watched Coronation Street, WTF ITV [why is Roy Cropper been arreste
 
 ### Today's photo album
 
-[https://flickr.com/photos/dletorey/albums/72177720316186853/](https://flickr.com/photos/dletorey/albums/72177720316186853/)
+[Day 8 album](https://flickr.com/photos/dletorey/albums/72177720316186853/)

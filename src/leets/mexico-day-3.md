@@ -44,4 +44,4 @@ Tired and exhausted we just went to bed.
 
 ### Today's photo album
 
-[https://flickr.com/photos/dletorey/albums/72177720316067013/](https://flickr.com/photos/dletorey/albums/72177720316067013/)
+[Day 3 album](https://flickr.com/photos/dletorey/albums/72177720316067013/)

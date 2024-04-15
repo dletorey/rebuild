@@ -28,4 +28,4 @@ We're now about to collapse after not much sleep.
 
 ### Today's photo album
 
-[https://flickr.com/photos/dletorey/albums/72177720316017577](https://flickr.com/photos/dletorey/albums/72177720316017577)
+[Day 1 album](https://flickr.com/photos/dletorey/albums/72177720316017577)
