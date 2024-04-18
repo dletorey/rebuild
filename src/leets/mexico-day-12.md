@@ -16,7 +16,7 @@ Back at the kitchen we were shown and asked to help out with the different proce
 
 Once all the food had been prepared [we all sat down and ate together](https://flickr.com/photos/dletorey/53661440772/in/album-72177720316297352/lightbox/) and told stories of our various travels. If you are ever in Oaxaca I can not recommend this activity highly enough. We learnt loads, had a great time, ate great food and _met lovely people_.
 
-After the meal, Susan and I headed to [the brewery I visited yesterday](/leets/mexico-day-11) and had another IPA before heading back to the hotel. In the late afternoon early evening I went walking around Oaxaca and had some food, I didn't need a lot and ordered a pork taco, it arrived as 5 pork tacos, and a Margarita. Once I finished my Margarita I was brought another I said I didn't another he said but happy hour and just said **no** it wasn't the best I'd had and I just did not want anymore.
+After the meal, Susan and I headed to [the brewery I visited yesterday](/leets/mexico-day-11) and had another IPA before heading back to the hotel. In the late afternoon early evening I went walking around Oaxaca and had some food, I didn't need a lot and ordered a pork taco, it arrived as 5 pork tacos, and a Margarita. Once I finished my Margarita I was brought another I said I didn't need another, he said but it's happy hour and I just said **no** it wasn't the best I'd had and I just did not want anymore.
 
 Home to bed.
 
