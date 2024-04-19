@@ -29,3 +29,5 @@ Home to bed.
 ### Today's photo album
 
 [Day 12 album](https://flickr.com/photos/dletorey/albums/72177720316302496/with/53661439207)
+
+[Casa Crespo cookery course album](https://flickr.com/photos/dletorey/albums/72177720316297352)
