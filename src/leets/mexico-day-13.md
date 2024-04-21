@@ -16,11 +16,13 @@ Our third stop of the day was [Hierve el Agua]() some limestone waterfalls with 
 
 Next we stopped off for a Mexican buffet and like all these lunch stops on the tours, it was mediocre at best. While there the locals were watching the Manchester City versus Real Madrid Champions league quarter final. The game finished in a draw and went to extra-time, we later found out that Manchester City lost 4-5 on penalties. Arsenal were also knocked out oof the Champions league too.
 
-Traditional tapestries
+We there stopped of at a place that made traditional Mexican tapestries. They showed us the whole process from carding the wool, spinning the wool into threads, how to create the different colours for dying and then how they created different patterns on the loom. We were then taken upstairs to see there finished wears and to see if we wanted to buy anything, which we didn't.
 
-Mezcal 
+We then went to a Fabrica de Mexcal (place where they produce Mezcal) so see how they make Mezcal. First there showed us different [Agave]() plants and explained that the main Agave that is used for making Mezcal is the one that matures in 10 years which is the shortest time, especially the Mezcals that are mass produced for export. We were then shown, what were referred to as, wild agave which matured between 12 and 25 years. When the agave mature the sprout a branch that then produces seed pods, although agave can also sprout baby plants from the roots while growing, these baby agave are what the farmers use to grow new agave. Once the agave matures it leaves are cut off and then the hearts are put in a pit with hot stones and roasted for a week. Once roasted the hearts are sweet and then added to a vat and mashed for another week. The liquid from the vats is then distilled twice, which is the finished mezcal. The pulp from the vats is used to fuel the fire for roasting the agave hearts.
 
-Evening meal at Cathedral Restaurant
+After the tour we were givien tastings of some of their Mezcals. Some of the mezcal is aged for 1, 8 or 12 years in oak barrels. The mezcal that is used for export is aged for 6 months with the worm that lives in the agave plant. I bought 3 bottles of Mezcal 1 which was aged for aged for 8 years, one from the agave that takes 25 years to grown and one that was made the traditional Pre-Hispanic way.
+
+When we finally got back to Oaxaca city I went out to get an evening meal at [Cathedral Restaurant](), I had the best [papadelle with wild mushroom ragu]() and two Margaritas with Mezcal.
 
 ## Photos
 
