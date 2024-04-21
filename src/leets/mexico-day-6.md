@@ -1,6 +1,6 @@
 ---
 title: "Mexico holiday day 6"
-description: "Sixth day of our Mexico trip, bimbling around Mazatlán!"
+description: "Sixth day of our Mexico trip, flight back to Mexico City and Polanco!"
 tags: ["Mexico", "Travel", "Mazatlán", "Monterrey", "Mexico City"]
 ---
 
