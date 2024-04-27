@@ -4,6 +4,8 @@ description: "Green and Brown Orbital Tour at O2 Institute Brimingham Friday 26 
 tags: ["Orbital", "Green Album", "Brown Album", "Live Music", "Music", "Gigs", "Birmingham", "O2 Institute", "Digbeth"]
 ---
 
+<small>This post contains spoilers that are hidden until after the tour is finished.</small>
+
 So tonight was the first night, for me, of [Orbital’s](https://orbitalofficial.com/) [Green](https://album.link/gb/i/1313447481)/[Brown](https://album.link/gb/i/1320062319) [tour](https://orbitalofficial.com/2023/10/13/the-green-album-live-2024/). They have already played Exeter and Southampton, I’m also going to London and Nottingham.
 
 The drive from London to Birmingham was an absolute nightmare and what should have been 2.5 hrs took 5hrs. When Lucy and I arrived at Birmingham we slowly started meeting up with our Orbital friends, Jon-Michael (Denver Colorado), Matt aka Badger (Sydney Australia), Aimée (Belgium), Wendy & Tez (Wrexham Wales) and finally Steve aka Loopz (Birmingham via the tour bus). We met in The Ruin before the gig and the food was ok(ish) and the beer pretty good.
