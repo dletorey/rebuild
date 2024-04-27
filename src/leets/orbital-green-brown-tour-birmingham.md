@@ -21,3 +21,7 @@ When they finished the Album a short break before they returned to play a 4 trac
 After the gig I managed to get hold of the two set lists and then blag my way into the after party with Aimée and Badger who had wristbands due to being on the guest list. We had a few beers and chatted with friends. Phil had been shipped off to the Hare & Hounds to play a DJ set, but Paul was in attendance. Just before we left, it was getting cold and Badger was wearing shorts & a t-shirt, both Aimée and Badger showed Paul their tattoos and I said to Paul I bet you have Aimée tattooed on one arm and Badger on the other too which he replied “Yeah and I’ve got Dave on my Arse”.
 
 A most entertaining night where I danced with friends perhaps a little too hard, Monday will be the judge of that.
+
+## Photos
+
+[Birmingham Photos](https://www.flickr.com/gp/dletorey/qY6nSP1zb5)
