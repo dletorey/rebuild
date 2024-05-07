@@ -1,20 +1,8 @@
 ---
 title: "Orbital Green/Brown Tour Nottingham"
 description: "Green and Brown Orbital Tour at Rock City Nottingham Sunday 28 April 2024"
-tags:
-  [
-    "Orbital",
-    "Green Album",
-    "Brown Album",
-    "Live Music",
-    "Music",
-    "Gigs",
-    "Nottingham",
-    "Rock City"
-  ]
+tags: ["Orbital", "Green Album", "Brown Album", "Live Music", "Music", "Gigs", "Nottingham", "Rock City"]
 ---
-
-<small>This post contains spoilers that are hidden until after the tour is finished.</small>
 
 So tonight was the third night, for me, of [Orbital’s](https://orbitalofficial.com/) [Green](https://album.link/gb/i/1313447481)/[Brown](https://album.link/gb/i/1320062319) [tour](https://orbitalofficial.com/2023/10/13/the-green-album-live-2024/). Friday night was <a href="/leets/orbital-green-brown-tour-birmingham">Birmingham</a> and last night was <a href="/leets/orbital-green-brown-tour-london">London</a>.
 
