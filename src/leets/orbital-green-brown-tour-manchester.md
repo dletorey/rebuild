@@ -6,7 +6,7 @@ tags: ["Orbital", "Green Album", "Brown Album", "Live Music", "Music", "Gigs", "
 
 <small>This post contains spoilers that are hidden until after the tour is finished.</small>
 
-So tonight was the forth night, for me, of [Orbital’s](https://orbitalofficial.com/) [Green](https://album.link/gb/i/1313447481)/[Brown](https://album.link/gb/i/1320062319) [tour](https://orbitalofficial.com/2023/10/13/the-green-album-live-2024/). The previous weekend I attended:
+So tonight was the fourth night, for me, of [Orbital’s](https://orbitalofficial.com/) [Green](https://album.link/gb/i/1313447481)/[Brown](https://album.link/gb/i/1320062319) [tour](https://orbitalofficial.com/2023/10/13/the-green-album-live-2024/). The previous weekend I attended:
 - <a href="/leets/orbital-green-brown-tour-birmingham">Birmingham</a> Friday 26 April
 - <a href="/leets/orbital-green-brown-tour-london">London</a> Saturday 27 April
 - <a href="/leets/orbital-green-brown-tour-nottingham">Nottingham</a> Sunday 28 April
@@ -17,7 +17,7 @@ When Saturday (the day of the gig) arrived I was feeling much better. I'd been o
 
 We headed from Greetland (near Halifax) to Manchester and <a href="https://www.yourparkingspace.co.uk/stretford/old-trafford-parking">parked at the Premier Inn which was only £6.25 for 24hrs</a>, on match days (it's across the road from Old Trafford) it's £20, and it's also across the road from <a href="https://victoriawarehouse.com/">Victoria Warehouse</a>.
 
-We headed across the Manchester Ship Cannal to <a href="https://kargomkt.com/">Kargo MKT</a> for the pre-gig meetup. Kargo MKT was excellent loads of different street food stalls, Sarah and I both choose Korean Fried Chicken which was brilliant even though I did totally over order.
+We headed across the Manchester Ship Canal to <a href="https://kargomkt.com/">Kargo MKT</a> for the pre-gig meetup. Kargo MKT was excellent loads of different street food stalls, Sarah and I both choose Korean Fried Chicken which was brilliant even though I did totally over order.
 
 At 6:40pm we headed over to the venue, for some reason they had a zigzag queue system even though there was no one queueing. So I explained that I had arthritis and then walked past the zigzags, which they then removed.
 
