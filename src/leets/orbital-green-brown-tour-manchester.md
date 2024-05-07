@@ -27,7 +27,7 @@ Tonight Orbital had a special (Mancunian) guest, <a href="https://www.mikegarry.
 
 In the second half of the show the version of <a href="https://song.link/gb/i/1320062963">Remind</a> was absolutely fabulous, loads of acid and my favourite version of the tour. Tonight's version of <a href="https://song.link/gb/i/1320062964">Walk now</a> to <a href="https://song.link/gb/i/1313866070">Walk about</a> and <a href="https://song.link/gb/i/1320062965">Monday</a> were much shorted than the previous nights of the tour, we deduced that this was due to the late start, which was a great shame.
 
-We didn't hang around tonight after the show as Sarah and I needed to get back to Greetland and every one else was getting up early to go to the final show in Dublin. Lots were trying to persuade me to go too and as much as I did want to I hadn't been home of a week and I didn;t have my passport so it wasn't even an option.
+We didn't hang around tonight after the show as Sarah and I needed to get back to Greetland and every one else was getting up early to go to the final show in Dublin. Lots were trying to persuade me to go too and as much as I did want to I hadn't been home of a week and I didn't have my passport so it wasn't even an option.
 
 Over all I am delighted that I went, it was a great night and the tour has been fantastic. Until next time, hopefully a <a href="Snivilisation">Snivilisation</a> tour. Other than the festival sets I still have this year, but they will be very different.
 
