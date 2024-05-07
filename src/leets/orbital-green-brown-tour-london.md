@@ -4,8 +4,6 @@ description: "Green and Brown Orbital Tour at The Troxy Liimehouse London Saturd
 tags: ["Orbital", "Green Album", "Brown Album", "Live Music", "Music", "Gigs", "London", "Troxy"]
 ---
 
-<small>This post contains spoilers that are hidden until after the tour is finished.</small>
-
 So tonight was the second night, for me, of [Orbital’s](https://orbitalofficial.com/) [Green](https://album.link/gb/i/1313447481)/[Brown](https://album.link/gb/i/1320062319) [tour](https://orbitalofficial.com/2023/10/13/the-green-album-live-2024/). Last night was <a href="/leets/orbital-green-brown-tour-birmingham">Birmingham</a>, before I start on today this post has got a message for Birmingham, where was your bass?
 
 So the day started early, eventually I managed to rally _The Age Travellers_ (the group of Orbital friends I am driving from venue to venue over these 3 dates). The drive to London was pretty uneventful and I dropped them all at Jane's house before dashing home, grabbing some food, doing the washing, catching up on Masterchef before heading out again for tonight.
@@ -16,11 +14,11 @@ At the last minute I found out that I'd been added to the guest list and shortly
 
 We got to the [Troxy](https://troxy.co.uk/) about 7:15 and assembly at the front right of the stage, by the barriers. Just before they were due to go on stage, Loopz (Steve) appeared and gave Bubbles (Adam) some bubbles, this I believe was so that Loopz could take photos/video to use on [Orbitals Social Media](https://linktr.ee/Orbitalband), but it could just have been that security had taken his bubbles away.
 
-The night previously when speaking with Paul at the after party, I asked him to add more [acid](https://en.wikipedia.org/wiki/Acid_techno) to the set and at the opening of <span class= spoilers>Oolaa</span> there it was in all it's squelchy fineness, thanks Paul.
+The night previously when speaking with Paul at the after party, I asked him to add more [acid](https://en.wikipedia.org/wiki/Acid_techno) to the set and at the opening of <a href="https://song.link/gb/i/1738520910">Oolaa</a> there it was in all it's squelchy fineness, thanks Paul.
 
-At pretty much every gig I go to Lucy is there too, certainly all the dance gigs and with her she has 2 hugh fans and she runs around fanning people to cool them down. Tonight was hot and I actually believe it was hotter when I saw Orbital with Badger in Melbourne (Australia) when it was 36ºc outside what with Australians being able to deal with heat there was loads of Air conditioning there, less so at the Troxy and it was a sweatbox. There I was dancing away to <span class= spoilers>Farenheit 303</span> and fans (the cooling you down kind) appeared out of nowhere and it was wonderful, I came so close to hugging this person and the very last noticed it wasn't Lucy after all and politely said thank you instead.
+At pretty much every gig I go to Lucy is there too, certainly all the dance gigs and with her she has 2 hugh fans and she runs around fanning people to cool them down. Tonight was hot and I actually believe it was hotter when I saw Orbital with Badger in Melbourne (Australia) when it was 36ºc outside what with Australians being able to deal with heat there was loads of Air conditioning there, less so at the Troxy and it was a sweatbox. There I was dancing away to <a href="https://song.link/gb/i/1738521222">Farenheit 303</a> and fans (the cooling you down kind) appeared out of nowhere and it was wonderful, I came so close to hugging this person and the very last noticed it wasn't Lucy after all and politely said thank you instead.
 
-The version of <span class= spoilers>Lush</span> tonight was the 2nd best that I have witnessed (that I can recall) over the years, only beaten by the [version in Brisbane 2019 (may contain a spoiler)](https://www.youtube.com/watch?v=9QZQaMVxDwo).
+The version of <a href="https://song.link/gb/i/1320062960">Lush</a> tonight was the 2nd best that I have witnessed (that I can recall) over the years, only beaten by the [version in Brisbane 2019](https://www.youtube.com/watch?v=9QZQaMVxDwo).
 
 So the glasses that I have to wear are automatically react to the light so as it gets brighter they get darker. This feature is amazing when you are outside in the sun or driving, but not so at an Orbital gig. The lights and visuals were so bright that my glasses assumed that I was basking in the sun and went as dark as they could. So much so that when all the lights went out and I turned round Jane said to me hi Dave and I literally could not see her at all. After a few seconds for my glasses to adjust there she was.
 
@@ -29,3 +27,7 @@ At the end of the gig those that were still around gathered [down the front for 
 ## Photos
 
 [London Photos](https://flickr.com/photos/dletorey/albums/72177720316543791/)
+
+## Set List
+
+<a href="https://www.setlist.fm/setlist/orbital/2024/troxy-london-england-7babd6d8.html" title="Orbital Setlist Troxy, London, England, Green / Brown Album Tour 2024"><img src="https://www.setlist.fm/widgets/setlist-image-v1?id=7babd6d8" alt="Orbital Setlist Troxy, London, England, Green / Brown Album Tour 2024" /></a>
