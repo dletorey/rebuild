@@ -202,6 +202,28 @@
           display: flex;
           justify-content: space-around;
         }
+        /* Cards */
+
+        .cards {
+          display: grid;
+          padding: 1rem;
+          grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+          grid-gap: 1rem;
+          list-style: none;
+        }
+
+        .card h2 {
+          font-size: var(--step-1);
+        }
+
+        .card p {
+          font-size: var(--step--2);
+        }
+
+        .card a {
+          text-decoration: none;
+        }
+
     </style>
     <!-- look mum no JavaScript -->
 </head>

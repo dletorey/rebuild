@@ -1,7 +1,7 @@
-<ul>
+<ul class="cards">
 {%- for post in collections.all -%}
   {% if post.url %}
-  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+  {% include 'card.njk' %}
   {% endif %}
 {%- endfor -%}
 </ul>
