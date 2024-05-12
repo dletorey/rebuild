@@ -206,18 +206,59 @@
 
         .cards {
           display: grid;
-          padding: 1rem;
           grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-          grid-gap: 1rem;
           list-style: none;
+          adding: var(--sp-s-m);
+          gap: var(--sp-s-m);
         }
 
-        .card h2 {
-          font-size: var(--step-1);
-        }
-
-        .card p {
-          font-size: var(--step--2);
+        .card {
+            padding: 0;
+            border: 2px solid;
+            border-radius: var(--sp-xs-s);
+            header, main, footer {
+                padding: var(--sp-3xs);
+            }
+            h2 {
+                font-size: var(--step-1);
+                margin: var(--sp-3xs);
+            }
+            p {
+                font-size: var(--step--2);
+            }
+            a {
+                text-decoration: none;
+            }
+            @media (prefers-color-scheme: light) {
+                border-color: var(--lm-heading);
+                &:hover {
+                    background-color: var(--lm-heading);
+                    color: var(--lm-background);
+                    h2 {
+                        color: var(--lm-background);
+                    }
+                }
+            }
+            @media (prefers-color-scheme: dark) {
+                border-color: var(--dm-heading);
+                &:hover {
+                    background-color: var(--dm-heading);
+                    color: var(--dm-background);
+                    h2 {
+                        color: var(--dm-background);
+                    }
+                }
+            }
+            .tags {
+                margin: 0;
+                display: flex;
+                gap: var(--sp-3xs-2xs);
+                font-size: var(--step--2);
+                flex-wrap: wrap;
+                justify-content: flex-start;
+                padding: 0;
+            }
+            
         }
 
         .card a {

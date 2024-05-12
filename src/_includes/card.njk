@@ -1,6 +1,14 @@
-<li class="card {{ post.data.contentType }}">
-  <a href="{{ post.url }}">
-    <h2>{{ post.data.title }}</h2>
+<li class="card {{ post.data.contentType }}">  
+  <header>
+    <a href="{{ post.url }}"><h2>{{ post.data.title }}</h2></a>
+  </header>
+  <main>
     <p>{{ post.data.description }}</p>
-  </a>
+    <small><time>25 Aug 2024</time></small> 
+  </main>
+  <footer>
+    <ul class="tags">
+      {% for tag in post.data.tags %}<li>{{ tag }}</li>{% endfor %}
+    </ul>
+  </footer>
 </li>
