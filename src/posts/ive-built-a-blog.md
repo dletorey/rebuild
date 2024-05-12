@@ -1,6 +1,6 @@
 ---
 title: "I've built a blog"
-description: ""
+description: "I am rebuilding my blog, from Squiz Matrix to 11ty. Here are the reasons I am doing so."
 tags: "I've built a blog"
 old: true
 ---

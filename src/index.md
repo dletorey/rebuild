@@ -1,6 +1,6 @@
 ---
 title: "Letorey.co.uk"
-description: ""
+description: "Home page of Letorey.co.uk"
 tags: HTML, websites, head, favicon, CSS, social media
 eleventyExcludeFromCollections: true
 layout: "base"
