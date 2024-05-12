@@ -4,6 +4,8 @@ module.exports = function (config) {
   config.addLayoutAlias("posts", "posts.njk");
   config.addLayoutAlias("pages", "pages.njk");
 
+  // redirects
+  config.addPassthroughCopy('src/_redirects');
   // import filters
   const collectionFilters = require("./src/eleventy/filters/collections.js");
   const utilityFilters = require("./src/eleventy/filters/utils.js");
