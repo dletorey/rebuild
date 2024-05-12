@@ -1,0 +1,7 @@
+<ul class="cards">
+{%- for post in collections.all -%}
+  {% if post.url %}
+  {% include 'card.njk' %}
+  {% endif %}
+{%- endfor -%}
+</ul>
