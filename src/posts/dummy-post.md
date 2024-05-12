@@ -1,5 +1,6 @@
 ---
-title: This is a dummy post
+title: This is a dummy post,
+eleventyExcludeFromCollections: true
 ---
 ## Sub-heading
 
