@@ -1,0 +1,11 @@
+---
+permalink: /_redirects
+eleventyExcludeFromCollections: true
+---
+{%- for page in collections.all -%}
+    {%- if page.url and page.data.redirectFrom -%}
+        {%- for oldUrl in page.data.redirectFrom %}
+{{ oldUrl }}    {{ page.url }}
+        {%- endfor -%}
+    {%- endif -%}
+{%- endfor -%}
