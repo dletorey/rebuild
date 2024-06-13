@@ -1,6 +1,9 @@
-<ul>
+<ul class="change-log">
   <li>
-    ## Thursday 13 June 2024
-    - created [Change Log](/change-log)
+    <h2>Thursday 13 June 2024</h3>
+    <ul>
+      <li>created <a href="/change-log">Change Log</a></li>      
+      <li>Updated to latest version of 11ty <a href="https://www.11ty.dev/blog/canary-eleventy-v3/">Canary 3.0.0-alpha.13</a></li>      
+    </ul>
   </li>
 </ul>
