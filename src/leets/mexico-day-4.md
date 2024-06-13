@@ -2,6 +2,7 @@
 title: "Mexico holiday day 4"
 description: "Forth day of our Mexico trip, Eclipse Day!"
 tags: ["Mexico", "Walks", "Mazatlán", "Eclipse"]
+date: 2024-04-08
 ---
 
 Today was the eclipse day, pretty much the main reason that we made this trip to be honest. When we woke up both of us were felling pretty shitty (pun intended). So we decided that we weren't going to make the eclipse breakfast that we'd booked on a roof top of a restaurant in Centro Historico Mazatlán so we stayed in our apartment. After going to the shop to get water on the way back I noticed that the apartment had a flat roof so I contacted Britza the host/owner and asked if we could access the roof, she immediately came back and said "of course you are more than welcome. The view from up there was fantastic.

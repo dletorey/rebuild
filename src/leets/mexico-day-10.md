@@ -2,6 +2,7 @@
 title: "Mexico holiday day 10"
 description: "Tenth day of our Mexico trip, Chilling in Polanco"
 tags: ["Mexico", "Travel", "Mexico City", "Polanco"]
+date: 2024-04-14
 ---
 
 Today was our last day in Mexico City and we still weren't feeling 100%, so a chilled day in our apartment.

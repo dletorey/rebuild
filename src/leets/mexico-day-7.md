@@ -2,6 +2,7 @@
 title: "Mexico holiday day 7"
 description: "Seventh day of our Mexico trip, day out to Teotihuacan"
 tags: ["Mexico", "Travel", "Teotihuacan", "Basilica of Our Lady of Guadalupe", "Mexico City"]
+date: 2024-04-11
 ---
 
 Woke up this morning feeling must better, which is great news as we had organised [a day trip to Teotihuacan with Get Your Guide](https://www.getyourguide.co.uk/mexico-city-l194/teotihuacan-tour-transport-basilica-tlatelolco-cave-t552580/). It started super early as we needed to meet at [Sheraton Mexico City Maria Isabel Hotel](https://maps.app.goo.gl/hZNA1fLGDyizfCxa7) at 8:30am.

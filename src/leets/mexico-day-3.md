@@ -12,6 +12,7 @@ tags:
     "Grand Prix",
     "Formula 1"
   ]
+date: 2024-04-07
 ---
 
 Luckily last night I found the Japanese Grand Prix on Mexican TV. The race started at 11pm local time, although it did not help that on the first lap there was a crash and the barriers needing repairing. The commentary on BBC radio just said "I bet all those who got up at 5am are now a bit pissed off" or words to those effect. Unfortunately the race was pretty dull and I finally got to go to sleep and almost 2am. Surprisingly enough the Mexican commentary was very swayed to one driver, but quite funny trying to work out exactly what they were saying.

@@ -2,6 +2,7 @@
 title: "Mexico holiday day 8"
 description: "Eighth day of our Mexico trip, Chapultepec Forest"
 tags: ["Mexico", "Walks", "Chaputepec forest", "Mexico City"]
+date: 2024-04-12
 ---
 
 Today we had a relaxed day to try and regain some of our strength, I started off finding a coffee at [Ukiyo café](https://maps.app.goo.gl/ukgznWKJfcgEtiYh9) which was wonderful. Then Susan and I went to [Saks](https://maps.app.goo.gl/W47pL8QLdgY4CKvq6) which just so happens to be the closest restaurant to our accommodation. There was a huge queue and we were told maximum of 20 minutes wait. We only had to wait about 5 minutes. The [room was stunning](https://flickr.com/photos/dletorey/53648780612/in/album-72177720316186853/lightbox/), I had a smoked salmon omelette and Susan had an appley-thing (Apple Special, grated apple with yoghurt honey nuts and raisins), both excellent.

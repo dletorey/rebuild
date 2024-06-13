@@ -2,6 +2,7 @@
 title: "Orbital Green/Brown Tour Manchester"
 description: "Green and Brown Orbital Tour at Rock City Manchester Saturday 4 May 2024"
 tags: ["Orbital", "Green Album", "Brown Album", "Live Music", "Music", "Gigs", "Manchester", "Victoria Warehouse"]
+date: 2024-05-04
 ---
 
 So tonight was the fourth night, for me, of [Orbital’s](https://orbitalofficial.com/) [Green](https://album.link/gb/i/1313447481)/[Brown](https://album.link/gb/i/1320062319) [tour](https://orbitalofficial.com/2023/10/13/the-green-album-live-2024/). The previous weekend I attended:

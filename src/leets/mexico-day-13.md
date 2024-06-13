@@ -2,6 +2,7 @@
 title: "Mexico holiday day 13"
 description: "Thirteenth day of our Mexico trip, El Tule, Mitla, and Hierve el Agua Tour with Mezcal tasting"
 tags: ["Mexico", "Oaxaca", "Travel", "El Tule", "Mitla", "Hierve el Agua", "Mezcal tasting"]
+date: 2024-04-17
 ---
 
 Today was our third Tour and final tour in Mexico [El Tule, Mitla, and Hierve el Agua Tour with Mezcal](https://www.getyourguide.co.uk/oaxaca-de-juarez-l681/oaxaca-el-tule-mitla-and-hierve-el-agua-tour-w-transfer-t428000/). This time we were picked up from our hotel. Although they turned up 30 minutes before they said they would and we were just about to go get coffee and breakfast. Susan's power of persuasion (her inner-jaguar) meant that I could run round the corner to [Muss coffee shop](https://www.casaantonieta.com/muss-cafe-english). When  got there they were just unlocking but they were kind enough to make me two coffees and sell me some chocolate brownies.

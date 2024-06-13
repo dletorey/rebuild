@@ -3,6 +3,7 @@ title: "Yard Act - Dream Job Tour"
 description: "Yard Act live at Hammersmith Apollo on the last night of their UK leg of the Dream Job Tour."
 tags: ["Music", "Yard Act", "Live", "Concert"]
 rating: 5
+date: 2024-03-28
 ---
 
 Last night I went to see Yard Act at Hammersmith Apollo. This was the second time this year seeing them, the first was at [Pryzm Kington](https://www.setlist.fm/setlist/yard-act/2024/pryzm-kingston-upon-thames-england-2bad0066.html) for their Album launch of [Where's my Utopia](https://en.wikipedia.org/wiki/Where%27s_My_Utopia%3F).
