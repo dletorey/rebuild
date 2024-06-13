@@ -13,5 +13,7 @@ layout: "base"
       <li>Made date on cards be dynamic</li>
       <li>Added front matter to change log</li>
     </ul>
+    <a href="https://github.com/dletorey/rebuild/pull/11">Associated pull request</a>
+    <a href="https://deploy-preview-11--letorey.netlify.app/">Associated preview</a>
   </li>
 </ul>
