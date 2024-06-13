@@ -2,6 +2,7 @@
 title: "Mexico holiday April 2024"
 description: "A list of posts for our Mexico trip"
 tags: ["Mexico", "Mexico City", "Mazatlan", "Oaxaca", "Travel"]
+date: 2024-04-22
 ---
 
 - [Day 1 - we arrived at our hotel at 12:30am](/leets/mexico-day-1)

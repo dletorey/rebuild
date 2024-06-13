@@ -2,6 +2,7 @@
 title: "Orbital Green/Brown Tour London"
 description: "Green and Brown Orbital Tour at The Troxy Liimehouse London Saturday 27 April 2024"
 tags: ["Orbital", "Green Album", "Brown Album", "Live Music", "Music", "Gigs", "London", "Troxy"]
+date: 2024-04-27
 ---
 
 So tonight was the second night, for me, of [Orbital’s](https://orbitalofficial.com/) [Green](https://album.link/gb/i/1313447481)/[Brown](https://album.link/gb/i/1320062319) [tour](https://orbitalofficial.com/2023/10/13/the-green-album-live-2024/). Last night was <a href="/leets/orbital-green-brown-tour-birmingham">Birmingham</a>, before I start on today this post has got a message for Birmingham, where was your bass?

@@ -2,6 +2,7 @@
 title: "Mexico holiday day 9"
 description: "Ninth day of our Mexico trip, day trip to Xochimiloco and Frida Kahlo Museo"
 tags: ["Mexico", "Travel", "Xochimiloco", "Mexico City", "Boat trip", "University City", "Frida Kahlo Museo"]
+date: 2024-04-13
 ---
 
 Today was our second Tour in Mexico City with Get Your Guide this time to [Xochimilco, Coyoacan, and Frida Kahlo Museo](https://www.getyourguide.co.uk/mexico-city-l194/xochimilco-frida-kahlo-and-coyoacan-tour-t28922/). This is the tour I was most excited about as we also got to ride on a boat. This time there was no protests about the government so other than the rush hour traffic the journey was quite quick.
