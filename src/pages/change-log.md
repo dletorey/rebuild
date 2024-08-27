@@ -5,6 +5,15 @@ layout: "base"
 ---
 <ul class="change-log">
   <li>
+    <h2>Tuesday 27 August 2024</h2>
+    <ul>
+      <li>Added new post <a href="/posts/massive-attack-bristol-2024/">Massive Attack live on Clifton Downs Bristol</a></li>
+      <li>updated style for <code>&lt;li&gt;</code></li>
+    </ul>
+    <a href="https://github.com/dletorey/rebuild/pull/13">Associated pull request</a>
+    <a href="https://deploy-preview-13--letorey.netlify.app/">Associated preview</a>
+  </li>
+  <li>
     <h2>Monday 12 August 2024</h2>
     <ul>
       <li>Updated to latest version of 11ty <a href="https://www.11ty.dev/blog/canary-eleventy-v3/">Canary 3.0.0-beta.1</a></li>
