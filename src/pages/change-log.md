@@ -5,7 +5,7 @@ layout: "base"
 ---
 <ul class="change-log">
   <li>
-    <h2>Tuesday 2y August 2024</h2>
+    <h2>Tuesday 27 August 2024</h2>
     <ul>
       <li>Added new post <a href="/posts/massive-attack-bristol-2024/">Massive Attack live on Clifton Downs Bristol</a></li>
       <li>updated style for <code>&lt;li&gt;</code></li>
