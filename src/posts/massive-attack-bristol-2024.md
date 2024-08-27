@@ -4,7 +4,7 @@ description: "I've seen massive attack live now over 20 times and this is defini
 tags: ["Massive Attack", "Music", "Bristol", "Live", "Concert"]
 date: 2024-08-27
 ---
-I first saw [Massive Attack](https://en.wikipedia.org/wiki/Massive_Attack) _Live_ at Phoenix Festival 20 July 1996 (one of my favourite festivals ever), from that day I have been to see them as often as I can. I had seen the Massive Attack sound system the year previously when the were asked to curate the first ever [Dance Tent at Glastonbury Festival](https://cdn.glastonburyfestivals.co.uk/history/history-1995/), but this was not a live show.
+I first saw [Massive Attack](https://en.wikipedia.org/wiki/Massive_Attack) _Live_ at Phoenix Festival 20 July 1996 (one of my favourite festivals ever), from that day I have been to see them as often as I can. I had seen the Massive Attack sound system the year previously when they were asked to curate the first ever [Dance Tent at Glastonbury Festival](https://cdn.glastonburyfestivals.co.uk/history/history-1995/), but this was not a live show.
 
 This year in Bristol Massive Attack put on an event the would be as sustainable as possible, called [ACT 1.5 Climate Action Acceleration](https://www.instagram.com/act1.5_bristol/). They did this by:
 
@@ -39,4 +39,4 @@ Massive Attack came on at 20:25 and played until 22:15 the set was incredible an
 
 Even though they didn't play my favourite track, [Hymn of the Big Wheel](https://song.link/gb/i/715864438) this gig was just incredible and the absolute standout track was Group Four (featuring Liz Fraser).
 
-It was so good we even looked into going to see them in Portugal later this week. If you ever get the chance to see Massive Attack live, juts do it.
+It was so good we even looked into going to see them in Portugal later this week. If you ever get the chance to see Massive Attack live, just do it.
