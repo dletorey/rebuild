@@ -6,7 +6,7 @@ date: 2024-08-27
 ---
 I first saw [Massive Attack](https://en.wikipedia.org/wiki/Massive_Attack) _Live_ at Phoenix Festival 20 July 1996 (one of my favourite festivals ever), from that day I have been to see them as often as I can. I had seen the Massive Attack sound system the year previously when the were asked to curate the first ever [Dance Tent at Glastonbury Festival](https://cdn.glastonburyfestivals.co.uk/history/history-1995/), but this was not a live show.
 
-This year in Bristol Massive Attack put on event the would be as sustainable as possible, called [ACT 1.5 Climate Action Acceleration](https://www.instagram.com/act1.5_bristol/). They did this by:
+This year in Bristol Massive Attack put on an event the would be as sustainable as possible, called [ACT 1.5 Climate Action Acceleration](https://www.instagram.com/act1.5_bristol/). They did this by:
 
 - Selling tickets to locals first
 - Encouraging everyone to travel by public transport
