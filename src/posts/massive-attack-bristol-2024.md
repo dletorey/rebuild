@@ -40,3 +40,7 @@ Massive Attack came on at 20:25 and played until 22:15 the set was incredible an
 Even though they didn't play my favourite track, [Hymn of the Big Wheel](https://song.link/gb/i/715864438) this gig was just incredible and the absolute standout track was Group Four (featuring Liz Fraser).
 
 It was so good we even looked into going to see them in Portugal later this week. If you ever get the chance to see Massive Attack live, just do it.
+
+--------
+
+**Update** (28/08/2024) The concert was so great that while writing this post I had totally forgotten that it rained solidly for a good hour of the concert. I was also so enthralled that I took zero photos. 
