@@ -44,3 +44,7 @@ It was so good we even looked into going to see them in Portugal later this week
 --------
 
 **Update** (28/08/2024) The concert was so great that while writing this post I had totally forgotten that it rained solidly for a good hour of the concert. I was also so enthralled that I took zero photos. 
+
+## Set List
+
+<a href="https://www.setlist.fm/setlist/massive-attack/2024/clifton-downs-bristol-england-23abd8e7.html" title="Massive Attack Setlist Act 1.5 Climate Action Accelerator 2024" target="_blank"><img src="https://www.setlist.fm/widgets/setlist-image-v1?id=23abd8e7" alt="Massive Attack Setlist Act 1.5 Climate Action Accelerator 2024" style="border: 0;" /></a>
