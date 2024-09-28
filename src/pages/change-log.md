@@ -9,6 +9,7 @@ layout: "base"
     <ul>
       <li>Added new post <a href="/posts/florence-prom69/">Florence Prom 69</a></li>
       <li>Added the set list for <a href="/posts/massive-attack-bristol-2024/">Massive Attack live on Clifton Downs Bristol</a></li>
+      <li>Reversed the collection.all</li>
     </ul>
     <a href="https://github.com/dletorey/rebuild/pull/14">Associated pull request</a>
     <a href="https://deploy-preview-14--letorey.netlify.app/">Associated preview</a>
