@@ -1,8 +1,8 @@
 ---
 title: "Florence Prom 69"
-description: "Florence + the Machine perform Lungs at The Royal Albert Hall with Jules Buckley and the BBC Symphony Orchestra."
+description: "Florence + the Machine perform Lungs at The Royal Albert Hall with Jules Buckley and the BBC Symphony Orchestra. Wednesday 11 September 2024."
 tags: ["Florence + the Machine", "Music", "Live", "BBC", "Proms"]
-date: 2024-08-12
+date: 2024-09-27
 ---
 Back in April it was announced that [Florence + the Machine](https://en.wikipedia.org/wiki/Florence_and_the_Machine) would play the Proms with a full orchestra, performing her first album [Lungs](https://en.wikipedia.org/wiki/Lungs_(album)). I immediately messaged my friend, Nyika, to confirm that she wanted to attend with me. We first saw Florence together at Glastonbury 2009. 
 
