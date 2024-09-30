@@ -5,7 +5,15 @@ layout: "base"
 ---
 <ul class="change-log">
   <li>
-    <h2>Saturday 27 August 2024</h2>
+    <h2>Monday 30 September 2024</h2>
+    <ul>
+      <li>Added new post <a href="/posts/trains-talks-and-techno/">Trains, Talks & Techno!</a></li>
+    </ul>
+    <a href="https://github.com/dletorey/rebuild/pull/15">Associated pull request</a>
+    <a href="https://deploy-preview-15--letorey.netlify.app/">Associated preview</a>
+  </li>
+  <li>
+    <h2>Saturday 27 September 2024</h2>
     <ul>
       <li>Added new post <a href="/posts/florence-prom69/">Florence Prom 69</a></li>
       <li>Added the set list for <a href="/posts/massive-attack-bristol-2024/">Massive Attack live on Clifton Downs Bristol</a></li>
