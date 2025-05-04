@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   published: false,
   permalink: false,
   tags: ["daveLink"],

@@ -16,6 +16,7 @@ layout: "base"
           <li>eleventy-plugin-syntaxhighlight</li>
         </ul>
       </li>
+      <li>Converted all CommonJS to ECMAScript Modules</li>
     </ul>
     <a href="https://github.com/dletorey/rebuild/pull/16">Associated pull request</a>
     <a href="https://deploy-preview-16--letorey.netlify.app/">Associated preview</a>
