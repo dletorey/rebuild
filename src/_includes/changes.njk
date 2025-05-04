@@ -1,0 +1,11 @@
+{%- if collections.changes.length -%}
+  <section class="changes">
+    {%- for change in collections.changes | reverse -%}
+      {%- set dateAndTime = collections.daveLinks | arrayKeyEquals('data.category', category) -%}
+    <h2>{{ change.date.toLocaleString(DateTime.DATE_HUGE) }} {{ change.time }}</h2>
+    {{ change.content | safe }}
+    {%- endfor -%}
+  </section>
+{%- else -%}
+<h2>Not working</h2>
+{%- endif -%}

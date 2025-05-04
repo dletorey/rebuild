@@ -1,7 +1,7 @@
 ---
 title: "Change log"
 description: "Description of all the changes that happens on this site"
-layout: "base"
+layout: "changeLog"
 ---
 <ul class="change-log">
   <li>

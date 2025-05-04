@@ -1,5 +1,5 @@
 export default {
-  published: false,
+  published: true,
   permalink: false,
   tags: ["change"],
   change: true,
