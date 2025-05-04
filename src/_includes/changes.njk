@@ -1,0 +1,14 @@
+{%- if collections.changes.length -%}
+  <section class="changes">
+    {%- for change in collections.changes | reverse -%}
+      <h2>{{ change.date.toLocaleString(DateTime.DATE_HUGE) }}</h2>
+      {{ change.content | safe }}
+      <footer>
+        <a href="https://github.com/dletorey/rebuild/pull/{{ change.data.pr }}">Associated pull request</a>
+        <a href="https://deploy-preview-{{ change.data.pr }}--letorey.netlify.app/">Associated preview</a>
+      </footer>
+    {%- endfor -%}
+  </section>
+{%- else -%}
+<h2>Not working</h2>
+{%- endif -%}
