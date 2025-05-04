@@ -1,9 +1,12 @@
 {%- if collections.changes.length -%}
   <section class="changes">
     {%- for change in collections.changes | reverse -%}
-      {%- set dateAndTime = collections.daveLinks | arrayKeyEquals('data.category', category) -%}
-    <h2>{{ change.date.toLocaleString(DateTime.DATE_HUGE) }} {{ change.time }}</h2>
-    {{ change.content | safe }}
+      <h2>{{ change.date.toLocaleString(DateTime.DATE_HUGE) }}</h2>
+      {{ change.content | safe }}
+      <footer>
+        <a href="https://github.com/dletorey/rebuild/pull/{{ change.data.pr }}">Associated pull request</a>
+        <a href="https://deploy-preview-{{ change.data.pr }}--letorey.netlify.app/">Associated preview</a>
+      </footer>
     {%- endfor -%}
   </section>
 {%- else -%}
