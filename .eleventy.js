@@ -1,4 +1,19 @@
-module.exports = function (config) {
+import markdownit from "markdown-it"
+
+const markdownIt = markdownit({
+    html: true,
+    breaks: true,
+    linkify: true
+})
+
+// import filters
+import collectionFilters from "./src/eleventy/filters/collections.js";
+import utilityFilters from "./src/eleventy/filters/utils.js";
+
+// Import collections
+import collections from "./src/eleventy/collections.js";
+
+export default function (config) {
   // Layouts
   config.addLayoutAlias("base", "base.njk");
   config.addLayoutAlias("posts", "posts.njk");
@@ -6,15 +21,12 @@ module.exports = function (config) {
 
   // redirects
   // config.addPassthroughCopy('src/_redirects');
-  // import filters
-  const collectionFilters = require("./src/eleventy/filters/collections.js");
-  const utilityFilters = require("./src/eleventy/filters/utils.js");
-  // Import collections
-  const collections = require("./src/eleventy/collections.js");
+  
   // filters
   Object.keys(collectionFilters).forEach(filterName => {
     config.addFilter(filterName, collectionFilters[filterName]);
   });
+  
   // Collections
   Object.keys(collections).forEach(collectionName => {
     config.addCollection(collectionName, collections[collectionName]);
@@ -24,6 +36,10 @@ module.exports = function (config) {
   });
   config.addPassthroughCopy("images");
   return {
+    dataTemplateEngine: "njk",
+    htmlTemplateEngine: "njk",
+    markdownTemplateEngine: "njk",
+    passthroughFileCopy: true,
     dir: {
       input: "src",
       includes: "_includes",

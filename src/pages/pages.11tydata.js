@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   layout: "pages",
   tags: ["page"],
   permalink: "/{{ page.fileSlug }}/index.html",

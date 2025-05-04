@@ -1,4 +1,4 @@
-module.exports = {
+export default {
     permalink: "{{ page.fileSlug }}.html",
     tags: ["httpstatus"],
     sitemap: {

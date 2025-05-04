@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   layout: "leet",
   contentType: "leet",
   tags: ["link","leet"],

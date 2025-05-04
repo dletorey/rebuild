@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   isPublished: (item) => {
     if ("data" in item && "published" in item.data && item.data.published === false) {
         return false
