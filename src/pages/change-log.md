@@ -5,6 +5,22 @@ layout: "base"
 ---
 <ul class="change-log">
   <li>
+    <h2>Sunday 4 May 2025</h2>
+    <ul>
+      <li>Upgraded 11ty to `^3.0.1-alpha.4`</li>
+      <li>Changed to `"type": "module"` to use ESM</li>
+      <li>Added the following dependencies:
+        <ul>
+          <li>eleventy-fetch</li>
+          <li>eleventy-img</li>
+          <li>eleventy-plugin-syntaxhighlight</li>
+        </ul>
+      </li>
+    </ul>
+    <a href="https://github.com/dletorey/rebuild/pull/16">Associated pull request</a>
+    <a href="https://deploy-preview-16--letorey.netlify.app/">Associated preview</a>
+  </li>
+  <li>
     <h2>Monday 30 September 2024</h2>
     <ul>
       <li>Added new post <a href="/posts/trains-talks-and-techno/">Trains, Talks & Techno!</a></li>
