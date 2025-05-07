@@ -1,0 +1,78 @@
+{%- set canonical = site.url + page.url -%}
+<!DOCTYPE html>
+<html lang="{{ site.locale }}" class="{% if theme %}{{ theme }} {% endif %}no-js">
+<head>
+  <title>og:image developer</title>
+  <style>
+    html {
+      --light-dark: light;
+      --light-bg: ghostwhite;
+      --light-title: darkslategray;
+      --light-sub: tomato;
+      --light-url: tomato;
+      --dark-bg: darkslategray;
+      --dark-title: ghostwhite;
+      --dark-sub: gold;
+      --dark-url: gold;
+      color-scheme: var(--light-dark);
+    }
+    .wrapper {
+      width: 1200px;
+      height: 630px;
+      background-color: light-dark(var(--light-bg), var(--dark-bg));
+      color: light-dark(var(--light-title), var(--dark-title));
+      display: flex; 
+      align-items: stretch;
+      flex-direction: column;
+      flex-grow: 1;
+      align-items: center;
+      {% if dark %}color-scheme: dark;{% endif %}
+    }
+    header, footer {
+      display: flex;
+      font-weight: 700;
+      text-align: center;
+    }
+    header {
+      flex-grow: 1;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: serif;
+    }
+    footer {
+      justify-self: flex-end;
+      flex-grow: 0;
+    }
+    h1 {
+      color: light-dark(var(--light-title), var(--dark-title));
+      font-size: 80px;
+      text-wrap: balance;
+    }
+    h2 {
+      color: light-dark(var(--light-sub), var(--dark-sub));
+      font-size: 44px;
+      text-wrap: balance;
+    }
+    h3 {
+      color: light-dark(var(--dark-url), var(--light-url));
+      font-size: 30px;
+      font-family: monospace;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <h1>{{ title }}</h1>
+      {% if subTitle %}
+      <h2>{{ subTitle }}</h2>
+      {% endif %}
+    </header>
+    <footer>
+        <h3 style="font-size: 30px;">{{ canonical }}</h3>
+    </footer>
+</div>
+
+</body>
+</html>
