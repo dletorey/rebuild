@@ -19,7 +19,6 @@
     .wrapper {
       width: 1200px;
       height: 630px;
-      background-color: light-dark(var(--light-bg), var(--dark-bg));
       color: light-dark(var(--light-title), var(--dark-title));
       display: flex; 
       align-items: stretch;
@@ -27,6 +26,11 @@
       flex-grow: 1;
       align-items: center;
       {% if dark %}color-scheme: dark;{% endif %}
+      {% if background %}
+      background-image: url("{{ image }}")
+      {% else %}
+      background-color: light-dark(var(--light-bg), var(--dark-bg));
+      {% endif %}
     }
     header, footer {
       display: flex;
