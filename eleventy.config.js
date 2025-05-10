@@ -48,6 +48,7 @@ export default async function (eleventyConfig) {
     eleventyConfig.addFilter(filterName, utilityFilters[filterName]);
   });
   eleventyConfig.addPassthroughCopy("images");
+  eleventyConfig.addPassthroughCopy("images/og-images");
   return {
     passthroughFileCopy: true,
   };
