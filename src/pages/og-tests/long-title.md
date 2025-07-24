@@ -6,5 +6,5 @@ dark: true
 color: "one"
 background: 
 image: 
-url: true
+url: false
 ---
