@@ -24,7 +24,6 @@ export default function (config) {
 
   // plugins
   config.addPlugin(eleventyImageTransformPlugin, {
-    outputDir: "./public/images",
     // output image formats
 		formats: ["avif", "webp", "jpeg"],
 
@@ -56,7 +55,7 @@ export default function (config) {
   Object.keys(utilityFilters).forEach(filterName => {
     config.addFilter(filterName, utilityFilters[filterName]);
   });
-  config.addPassthroughCopy("images");
+  
   return {
     dataTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
