@@ -6,6 +6,9 @@ const markdownIt = markdownit({
     linkify: true
 })
 
+// import plugins
+import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+
 // import filters
 import collectionFilters from "./src/eleventy/filters/collections.js";
 import utilityFilters from "./src/eleventy/filters/utils.js";
@@ -18,6 +21,25 @@ export default function (config) {
   config.addLayoutAlias("base", "base.njk");
   config.addLayoutAlias("posts", "posts.njk");
   config.addLayoutAlias("pages", "pages.njk");
+
+  // plugins
+  config.addPlugin(eleventyImageTransformPlugin, {
+    outputDir: "./public/images",
+    // output image formats
+		formats: ["avif", "webp", "jpeg"],
+
+		// output image widths
+		widths: ["auto"],
+
+		// optional, attributes assigned on <img> nodes override these values
+		htmlOptions: {
+			imgAttributes: {
+				loading: "lazy",
+				decoding: "async",
+			},
+			pictureAttributes: {}
+		},
+  });
 
   // redirects
   // config.addPassthroughCopy('src/_redirects');
