@@ -20,14 +20,28 @@
       width: 1200px;
       height: 630px;
       color: light-dark(var(--light-title), var(--dark-title));
-      display: flex; 
+      display: flex;       
       align-items: stretch;
-      flex-direction: column;
-      flex-grow: 1;
+      flex-direction: {% if image.half %}{% if image.right %}row-reverse{%else%}row{% endif %}{%else%}column{% endif %};
+      {% if image.half %}
+        padding: 30px;
+        gap: 30px;
+        > * {flex: 1;}
+        .image {
+          height: 100%;
+          background-image: url({{ image.url }});
+          background-size: cover;
+          background-position-x: {% if image.x %}{{ image.x }}px{% else %}center{% endif %};
+          background-position-y: {% if image.y %}{{ image.y }}px{% else %}center{% endif %};
+        }
+      {% endif %}
       align-items: center;
       {% if dark %}color-scheme: dark;{% endif %}
-      {% if background %}
-      background-image: url("{{ image }}")
+      {% if image and  not image.half %}
+      background-image: url({{ image.url }});
+      background-size: cover;
+      background-position-x: {% if image.x %}{% else %}center{% endif %};
+      background-position-y: {% if image.y %}{% else %}center{% endif %};
       {% else %}
       background-color: light-dark(var(--light-bg), var(--dark-bg));
       {% endif %}
@@ -67,6 +81,10 @@
 </head>
 <body>
   <div class="wrapper">
+    {% if image.half %}
+    <div class="image"></div>
+    <div>
+    {% endif %}
     <header>
       <h1>{{ title }}</h1>
       {% if subTitle %}
@@ -76,6 +94,9 @@
     <footer>
         <h3 style="font-size: 30px;">{{ canonical }}</h3>
     </footer>
+    {% if image.half %}
+    </div>
+    {% endif %}
 </div>
 
 </body>
