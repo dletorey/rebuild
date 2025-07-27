@@ -143,7 +143,7 @@ This is a tiny little image that appears in the browser tab, it is a representat
 
 ### Other Icons
 
-Other icons can be loaded into the head using the `<link>` element these are used to add icons to devices such as phones. They can also be added in the [`mainfest.json` file](#manifest-file).
+Other icons can be loaded into the head using the `<link>` element these are used to add icons to devices such as phones. They can also be added in the [`manifest.json` file](#manifest-file).
 
 In this example different icons are loaded for different resolution devices.
 
@@ -180,7 +180,7 @@ CSS is used to change the look and layout of a website and this can be loaded in
 
 ## `<style>` elements
 
-The CSS can also be written inline in the head, this has the advantage that a separate request does not need to happen to load the styles, but it does need to be added to every page. This is often added for essential styles and means the styles are added strainght away rather than waiting for the style to be downloaded (fetched), although once fetched the styles will be stored in the browser (cache).
+The CSS can also be written inline in the head, this has the advantage that a separate request does not need to happen to load the styles, but it does need to be added to every page. This is often added for essential styles and means the styles are added straight away rather than waiting for the style to be downloaded (fetched), although once fetched the styles will be stored in the browser (cache).
 
 ## `<script>` elements
 
