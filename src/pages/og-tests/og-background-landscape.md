@@ -5,6 +5,6 @@ subTitle: "this this has a landscape background image"
 dark: true
 color: "one"
 background: true
-image: "../images/og-images/lincoln-modern-building.png"
+image: "/img/og-images/lincoln-modern-building.png"
 url: true
 ---
