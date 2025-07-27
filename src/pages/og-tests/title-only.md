@@ -1,10 +1,14 @@
 ---
-layout: og-image
+layout: og-image-preview
 title: "og:image title text only"
 subTitle: ""
-dark: false
-color: "one"
-background: 
-image: 
-url: true
+ogImage:
+  status: "preview"
+  dark: true
+  # image:
+  #   half: true
+  #   x: 50
+  #   y: 
+  #   url: 
+  showUrl: true
 ---

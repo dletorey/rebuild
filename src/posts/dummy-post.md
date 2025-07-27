@@ -1,6 +1,16 @@
 ---
 title: This is a dummy post,
 eleventyExcludeFromCollections: true
+subTitle: "this post is just for testing purposes"
+ogImage:
+  status: "preview"
+  dark: true
+  # image:
+  #   half: true
+  #   x: 50
+  #   y: 
+  #   url: 
+  showUrl: true
 ---
 ## Sub-heading
 
