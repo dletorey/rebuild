@@ -63,6 +63,11 @@
         <meta property="og:locale" content="{{ site.locale }}">
         <meta property="og:url" content="{{ canonical }}">
         <meta property="og:image" content="{{ meta_image }}">
+        {% if ogImage %}
+            <!-- this page has og-image stuff for building dynamic og-images goes here -->
+        {% else %}
+            <!-- this page DOES NOT have og-image -->
+        {% endif %}
     {% endif %}
     <style>
         /* @link https://utopia.fyi/type/calculator?c=320,16,1.25,1800,24,1.333,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */

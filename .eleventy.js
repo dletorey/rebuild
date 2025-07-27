@@ -8,6 +8,7 @@ const markdownIt = markdownit({
 
 // import plugins
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import EleventyPluginOgImage from 'eleventy-plugin-og-image';
 
 // import filters
 import collectionFilters from "./src/eleventy/filters/collections.js";
@@ -23,6 +24,7 @@ export default function (config) {
   config.addLayoutAlias("pages", "pages.njk");
 
   // plugins
+  // 11ty image plugin
   config.addPlugin(eleventyImageTransformPlugin, {
     // output image formats
 		formats: ["avif", "webp", "jpeg"],
@@ -38,6 +40,19 @@ export default function (config) {
 			},
 			pictureAttributes: {}
 		},
+  });
+  // 11ty og-image plugin
+  config.addPlugin(EleventyPluginOgImage, {
+    satoriOptions: {
+      fonts: [
+        {
+          name: 'serif',
+          data: 'serif',
+          weight: 700,
+          style: 'normal',
+        },
+      ],
+    },
   });
 
   // redirects
