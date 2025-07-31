@@ -1,0 +1,105 @@
+{%- set canonical = site.url + page.url -%}
+<!DOCTYPE html>
+<html lang="{{ site.locale }}">
+<head>
+  <title>og:image for {{ title }}</title>
+  <style>
+    html {
+      --light-dark: light;
+      --light-bg: ghostwhite;
+      --light-title: darkslategray;
+      --light-sub: tomato;
+      --light-url: tomato;
+      --dark-bg: darkslategray;
+      --dark-title: ghostwhite;
+      --dark-sub: gold;
+      --dark-url: gold;
+      color-scheme: var(--light-dark);
+    }
+    .wrapper {
+      width: 1200px;
+      height: 630px;
+      color: light-dark(var(--light-title), var(--dark-title));
+      display: flex;       
+      align-items: stretch;
+      flex-direction: {% if ogImage.image.half %}{% if ogImage.image.right %}row-reverse{%else%}row{% endif %}{%else%}column{% endif %};
+      {% if ogImage.image.half %}
+        padding: 30px;
+        gap: 30px;
+        > * {flex: 1;}
+        .image {
+          height: 100%;
+          background-image: url({{ ogImage.image.url }});
+          background-size: cover;
+          background-position-x: {% if ogImage.image.x %}{{ ogImage.image.x }}px{% else %}center{% endif %};
+          background-position-y: {% if ogImage.image.y %}{{ ogImage.image.y }}px{% else %}center{% endif %};
+        }
+      {% endif %}
+      align-items: center;
+      {% if ogImage.dark %}color-scheme: dark;{% endif %}
+      {% if ogImage.image and  not ogImage.image.half %}
+      background-image: url({{ ogImage.image.url }});
+      background-size: cover;
+      background-position-x: {% if ogImage.image.x %}{{ ogImage.image.x }}px{% else %}center{% endif %};
+      background-position-y: {% if ogImage.image.y %}{{ ogImage.image.y }}px{% else %}center{% endif %};
+      {% else %}
+      background-color: light-dark(var(--light-bg), var(--dark-bg));
+      {% endif %}
+    }
+    header, footer {
+      display: flex;
+      font-weight: 700;
+      text-align: center;
+    }
+    header {
+      flex-grow: 1;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: serif;
+    }
+    footer {
+      justify-self: flex-end;
+      flex-grow: 0;
+    }
+    h1 {
+      color: light-dark(var(--light-title), var(--dark-title));
+      font-size: 80px;
+      text-wrap: balance;
+    }
+    h2 {
+      color: light-dark(var(--light-sub), var(--dark-sub));
+      font-size: 44px;
+      text-wrap: balance;
+    }
+    h3 {
+      color: light-dark(var(--dark-url), var(--light-url));
+      font-size: 30px;
+      font-family: monospace;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    {% if ogImage.image.half %}
+    <div class="image"></div>
+    <div>
+    {% endif %}
+    <header>
+      <h1>{{ title }}</h1>
+      {% if subTitle %}
+      <h2>{{ subTitle }}</h2>
+      {% endif %}
+    </header>
+    {% if ogImage.showUrl %}
+    <footer>
+        <h3 style="font-size: 30px;">{{ canonical }}</h3>
+    </footer>
+    {% endif %}
+    {% if ogImage.image.half %}
+    </div>
+    {% endif %}
+</div>
+
+</body>
+</html>
