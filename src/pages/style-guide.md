@@ -88,8 +88,8 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ### Small Image
 
-![](https://picsum.photos/200)
+<!-- ![](https://picsum.photos/200) -->
 
 ### Large image
 
-![](https://picsum.photos/800/300)
+<!-- ![](https://picsum.photos/800/300) -->
