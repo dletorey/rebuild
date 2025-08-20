@@ -1,0 +1,68 @@
+{%- set canonical = site.url + page.url -%}
+<!DOCTYPE html>
+<html lang="{{ site.locale }}" class="{% if theme %}{{ theme }} {% endif %}no-js">
+<head>
+  <title>og:image developer</title>
+  <style>
+    body {
+      display: flex;
+    }
+    @import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+    div.ogimage {
+      width: 1200px;
+      height: 630px;
+      display: flex;     
+      font-family: "Young Serif";
+      border: black 1px solid;
+      background-color: darkslategray;
+      flex-direction: row-reverse;
+      > div {
+        flex: 1;
+        padding: 4rem;
+        img {
+          width: 100%;
+        }
+        &.text {
+          display: flex;
+          flex-direction: column;
+          justify-content: space-between;
+          align-items: center;
+        }
+      }
+    }
+    h1, h2, h3 {
+      margin: 0;
+      text-align: center;
+    }
+    h1 {
+      color: ghostwhite;
+      font-size: 80px;
+      text-wrap: balance;
+    }
+    h2 {
+      color: gold;
+      font-size: 44px;
+      text-wrap: balance;
+    }
+    h3 {
+      color: tomato;
+      font-size: 30px;
+      font-family: monospace;
+    }
+  </style>
+</head>
+<body>
+  <div class="ogimage">
+    <div class="logo">
+      <img src="https://letorey.co.uk/img/5_LzQqEPMH-400.jpeg" eleventy:ignore alt="Dave Avatar">
+    </div>
+    <div class="text">
+      <h1>{{ title }}</h1>
+      {% if subTitle %}
+      <h2>{{ subTitle }}</h2>
+      {% endif %}
+      <h3>{{ canonical }}</h3>
+    </div>
+  </div>
+</body>
+</html>

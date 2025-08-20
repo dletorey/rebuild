@@ -65,6 +65,16 @@
         <meta property="og:image" content="{{ meta_image }}">
         {% if ogImage %}
             <!-- this page has og-image stuff for building dynamic og-images goes here -->
+            {% if ogImage.status === "preview" %}
+                <!-- the ogImage status is preview -->
+                {% ogImage "/_layouts/og-image.njk", { title: title, subTitle: subTitle, ogImage: ogImage } %}
+            {% elif ogImage.status === "build"  %}
+                <!-- the ogImage status is build -->
+            {% elif ogImage.status === "cached" %}
+                <!-- the ogImage status is cached -->
+            {% else %}
+                <!-- the ogImage has no recognised status -->
+            {% endif %}
         {% else %}
             <!-- this page DOES NOT have og-image -->
         {% endif %}

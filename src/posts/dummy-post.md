@@ -4,7 +4,7 @@ eleventyExcludeFromCollections: true
 subTitle: "this post is just for testing purposes"
 ogImage:
   status: "preview"
-  dark: true
+  # dark: true
   # image:
   #   half: true
   #   x: 50

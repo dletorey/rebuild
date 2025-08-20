@@ -1,4 +1,5 @@
-import markdownit from "markdown-it"
+import markdownit from "markdown-it";
+import fs from "fs-extra";
 
 const markdownIt = markdownit({
     html: true,
@@ -46,8 +47,8 @@ export default function (config) {
     satoriOptions: {
       fonts: [
         {
-          name: 'serif',
-          data: 'serif',
+          name: "Young Serif",
+          data: fs.readFileSync('src/assets/fonts/YoungSerif-Regular.ttf'),
           weight: 700,
           style: 'normal',
         },
