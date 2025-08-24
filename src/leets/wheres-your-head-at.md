@@ -3,12 +3,12 @@ title: "Where's your head at"
 description: "This week has been a tough time, a move in the right direction and ended with Basement Jaxx."
 tags: ["Mental Health", "Personal Trainer", "Basement Jaxx"]
 date: 2025-08-24
-photo: /img/basement-jaxx/bj-lanyard.jpg
+photo: /img/basement-jaxx/wheres-your-head-at-og.jpg
 ---
 
 ## Mental Health
 
-This year I have been struggling with my mental health. I have been feeling overwhelmed, have not been able to sleep properly and felt like nobody likes me (and yes I know that this is not true). 
+This year I have been struggling with my mental health. I have been feeling overwhelmed, have not been able to sleep properly and felt like nobody likes me (and yes I know that this is not true).
 
 This all culminated in the queue for Glastonbury festival where I started having panic attacks and after a night with no sleep all I wanted to do was go home and hide. My awesome friends rally round and helped me get into the festival and I was able to calm down and take some time out.
 
@@ -36,7 +36,7 @@ I only received replies from 2 of the personal trainers that I'd emailed. one wa
 
 ## Basement Jaxx
 
-On Friday I went to Crystal Palace to see Basement Jaxx. I'd applied for an access-wristband so that I could use the accessible queue and toilets. When Vicky and went in we went to the accessible queue which just so happened to be the VIP queue (for those that had paid extra). The staff manning this quueue were a little confused when I said access please and they gave Vicky and I VIP passes, I then when to the access desk and they were also confused that I'd been given VIP passes so we had a little laugh.
+On Friday I went to Crystal Palace to see Basement Jaxx. I'd applied for an access-wristband so that I could use the accessible queue and toilets. When Vicky and went in we went to the accessible queue which just so happened to be the VIP queue (for those that had paid extra). The staff manning this queue were a little confused when I said access please and they gave Vicky and I VIP passes, I then when to the access desk and they were also confused that I'd been given VIP passes so we had a little laugh.
 
 ### VIP area
 
@@ -60,7 +60,7 @@ Basement Jaxx set was superb and one of the best gigs I have attended this year.
 
 #### Setlist
 
-<div class="setlistImage"><a href="https://www.setlist.fm/setlist/basement-jaxx/2025/crystal-palace-bowl-london-england-2b5b78fa.html" title="Basement Jaxx Setlist South Facing: Days 5-9 2025" target="_blank"><img src="https://www.setlist.fm/widgets/setlist-image-v1?id=2b5b78fa&size=small&font=1&fg=ffb714&border=ffb714&bg=002442" alt="Basement Jaxx Setlist South Facing: Days 5-9 2025" /></a></div>
+[![Basement Jaxx Setlist South Facing: 22 August 2025](https://www.setlist.fm/widgets/setlist-image-v1?id=2b5b78fa&size=small&font=1&fg=ffb714&border=ffb714&bg=002442)](https://www.setlist.fm/setlist/basement-jaxx/2025/crystal-palace-bowl-london-england-2b5b78fa.html)
 
 #### Photos
 
