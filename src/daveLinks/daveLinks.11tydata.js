@@ -3,5 +3,6 @@ export default {
   permalink: false,
   tags: ["daveLink"],
   footer: false,
-  links: true
+  links: true,
+  change: false
 };

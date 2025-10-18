@@ -4,4 +4,5 @@ export default {
     sitemap: {
         exclude: true,
     },
+    change: false
 }
