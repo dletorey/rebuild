@@ -47,6 +47,9 @@ export default function (config) {
   Object.keys(collectionFilters).forEach(filterName => {
     config.addFilter(filterName, collectionFilters[filterName]);
   });
+
+  // 
+  config.addNunjucksFilter("limit", (arr, limit) => arr.slice(0, limit));
   
   // Collections
   Object.keys(collections).forEach(collectionName => {
