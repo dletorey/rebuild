@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 name: Duolingo
 url: https://www.duolingo.com/profile/DaveLetorey
 order: 10
