@@ -60,7 +60,7 @@ Basement Jaxx set was superb and one of the best gigs I have attended this year.
 
 #### Setlist
 
-[![Basement Jaxx Setlist South Facing: 22 August 2025](/img/basement-jaxx/basemet-jaxx-2025-08-22-setlist.png)](https://www.setlist.fm/setlist/basement-jaxx/2025/crystal-palace-bowl-london-england-2b5b78fa.html)
+[![Basement Jaxx Setlist South Facing: 22 August 2025](/img/basement-jaxx/basement-jaxx-2025-08-22-setlist.png)](https://www.setlist.fm/setlist/basement-jaxx/2025/crystal-palace-bowl-london-england-2b5b78fa.html)
 
 #### Photos
 

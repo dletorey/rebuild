@@ -1,0 +1,15 @@
+{% set latest12 = collections.posts | reverse | limit(12) %}
+
+<h2>Latest posts</h2>
+<ul class="cards">
+{%- for post in latest12 -%}
+  
+  {% include 'card.njk' %}
+  
+{%- endfor -%}
+</ul>
+{% if collections.posts.length > latest12.length %}
+<p class="center">
+  <a href="/posts/2/" class="button">See older posts</a>
+</p>
+{% endif %}

@@ -27,7 +27,7 @@ If you get a chance to [see them this year](https://www.yardactors.com/live/) th
 
 ### Set List
 
-<a href="https://www.setlist.fm/setlist/yard-act/2024/eventim-apollo-london-england-13aa4d51.html" title="Yard Act Setlist Eventim Apollo, London, England 2024, Dream Job Tour"><img src="https://www.setlist.fm/widgets/setlist-image-v1?id=13aa4d51" alt="Yard Act Setlist Eventim Apollo, London, England 2024, Dream Job Tour" /></a>
+[![Basement Jaxx Setlist South Facing: 22 August 2025](/img/yard-act/yard-act-setlist-29-03-2024.png)](https://www.setlist.fm/setlist/yard-act/2024/eventim-apollo-london-england-13aa4d51.html)
 
 ### Albums
 

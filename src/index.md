@@ -6,4 +6,4 @@ eleventyExcludeFromCollections: true
 layout: "base"
 ---
 
-{% include 'all-posts.njk' %}
+{% include 'latest-posts.njk' %}
