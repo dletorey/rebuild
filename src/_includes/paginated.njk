@@ -1,0 +1,12 @@
+{% if pagination.pages.length > 1 %}<h2>Page {{ pagination.pageNumber + 1 }} of {{pagination.pages.length}}</h2>{% endif %}
+
+<ul class="cards">
+{%- for post in pagination.items -%}
+  
+  {% include 'card.njk' %}
+  
+{%- endfor -%}
+</ul>
+<p class="center">
+  {% if pagination.pageNumber !== 0 %}<a class="button" href="{{ pagination.href.previous }}">Previous Page</a>{% endif %} {% if pagination.pageNumber + 1 !== pagination.pages.length %}<a class="button" href="{{ pagination.href.next }}">Next Page</a>{% endif %}
+</p>
