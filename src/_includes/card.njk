@@ -4,7 +4,7 @@
   </header>
   <main>
     <p>{{ post.data.description }}</p>
-    <small><time>{{ post.data.date }}</time></small> 
+    <small><time datetime="{{ post.data.date }}">{{ post.data.date.toDateString() }}</time></small> 
   </main>
   <footer>
     <ul class="tags">
