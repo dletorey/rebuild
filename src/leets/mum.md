@@ -8,3 +8,5 @@ date: 2025-10-21
 Today my mum passed away, it was very peaceful.
 
 ![Mum and I during her 80th birthday party July 2025](/img/mum/mum-and-me.jpg)
+
+[Video Gallery of Mum's life](https://drive.google.com/file/d/1NOI0FJojoIs-sG-Le7tUDUoFVARIKWEL/view?usp=sharing).
