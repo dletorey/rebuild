@@ -19,7 +19,13 @@ Today my mum passed away, it was very peaceful.
 - Respect everyone.
 - Help those who are less fortunate than you.
 
-## Eulogy
+## Photos of my mum's life
+
+[Video Gallery of Mum's life](https://drive.google.com/file/d/1NOI0FJojoIs-sG-Le7tUDUoFVARIKWEL/view?usp=sharing) (15 minutes 168 photos).
+
+## From the Funeral
+
+### Eulogy
 
 _Grief, I’ve learned, is really just love. It’s all the love you want to give, but cannot. All that unspent love gathers up in the corners of your eyes, the lump in your throat, and in that hollow part of your chest._
 
@@ -55,7 +61,7 @@ Love you Mum
 
 _Grief is just love with no place to go._
 
-## Address by Rev Julia
+### Address by Rev Julia
 
 Thank you for that beautiful tribute to your Mum: a wonderful lady who gave so much to her family, always there for them, encouraging them and in return was able to receive from them their love, care and devotion especially during her later years when she found it harder to get around.
 
@@ -104,7 +110,3 @@ I’d like if I may to leave you with a quote which also expresses not only the 
 _“To love someone is to risk the pain of parting. Not to love is never to have lived. The grief which we now experience is the honouring of our love for Margaret_
 
 This is pure raw love which never leaves us even in the midst of death.
-
-## Photos of my mum's life
-
-[Video Gallery of Mum's life](https://drive.google.com/file/d/1NOI0FJojoIs-sG-Le7tUDUoFVARIKWEL/view?usp=sharing) (15 minutes 168 photos).
