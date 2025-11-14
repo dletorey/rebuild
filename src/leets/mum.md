@@ -18,6 +18,8 @@ Today my mum passed away, it was very peaceful.
 - Be proud of everyone's achievements, you never know how much effort they put in or how hard it was for them.
 - Respect everyone.
 - Help those who are less fortunate than you.
+- I am no better than anyone else.
+- No one is better than me.
 
 ## Photos of my mum's life
 
