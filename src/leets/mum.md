@@ -2,11 +2,8 @@
 title: "RIP Mum"
 description: "Today my mum passed away"
 date: 2025-10-21
-<<<<<<< HEAD
 img: /img/mum/mum-and-me.jpg
-=======
 updated: 2025-11-14
->>>>>>> 1e675fa13bfdc346c34129e2663f0c2417cc261b
 ---
 ## 14 July 1945 - 21 October 2025
 
