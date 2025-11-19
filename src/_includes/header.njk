@@ -1,4 +1,6 @@
 <header>
   <h1>{{ title | default(site.title) }}</h1>
-  {% if date %}<p><strong>Posted:</strong> <time datetime="{{ page.date }}">{{ page.date.toDateString() }}</time></p>{% endif %}
+  {% if date %}<p><strong>Posted:</strong> <time datetime="{{ date }}">{{ date.toDateString() }}</time>
+  {% if updated %}<br><strong>Updated:</strong> <time datetime="{{ updated }}">{{ updated.toDateString() }}</time>{% endif %}
+  </p>{% endif %}
 </header>
