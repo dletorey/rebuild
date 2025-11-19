@@ -2,6 +2,7 @@
 title: "RIP Mum"
 description: "Today my mum passed away"
 date: 2025-10-21
+updated: 2025-11-14
 ---
 ## 14 July 1945 - 21 October 2025
 
