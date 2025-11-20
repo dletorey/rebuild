@@ -1,5 +1,5 @@
 <header>
-  <h1>{{ title | default(site.title) }}</h1>
+  <h1>{{ title | default(site.title) }}{%if subTitle %}<br><span>{{subTitle}}</span>{% endif %}</h1>
   {% if date %}<p><strong>Posted:</strong> <time datetime="{{ date }}">{{ date.toDateString() }}</time>
   {% if updated %}<br><strong>Updated:</strong> <time datetime="{{ updated }}">{{ updated.toDateString() }}</time>{% endif %}
   </p>{% endif %}

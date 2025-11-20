@@ -29,5 +29,10 @@ export default {
     return collection
       .getFilteredByTag("post")
       .filter(collectionFilters.isPublished);
+  },
+  seasia: collection => {
+    return collection
+      .getFilteredByTag("South East Asia")
+      .filter(collectionFilters.isPublished);
   }
 };

@@ -1,6 +1,6 @@
 <li class="card {{ post.data.contentType }}">  
   <header>
-    <a href="{{ post.url }}"><h2>{{ post.data.title }}</h2></a>
+    <a href="{{ post.url }}"><h2>{{ post.data.title }}{%if post.data.subTitle %}<br><span>{{post.data.subTitle}}</span>{% endif %}</h2></a>
   </header>
   <main>
     <p>{{ post.data.description }}</p>
