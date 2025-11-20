@@ -22,4 +22,4 @@ It turns out that Emirates flies from many different locations now in the UK. Al
 
 Approximately 7 hours later we all met up in O'Regans Irish Bar at Dubai airport (DBX), there wasn't much Irish-ness about this place but after a few drinks we finally boarded our flight to Bangkok (BKK).
 
-![A group of friends sat a round a table in a bar, drinking alcohol](/img/mum/mum-and-me.jpg)
+![A group of friends sat a round a table in a bar, drinking alcohol](https://live.staticflickr.com/65535/54935187829_5a821f6343_b.jpg)
