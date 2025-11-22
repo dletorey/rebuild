@@ -2,3 +2,8 @@
 layout: base
 ---
 {{ content | safe }}
+
+{% if album %}
+<h2>{{title}} Album</h2>
+<a href="{{album}}">Album of photos on flickr</a>
+{% endif %}
