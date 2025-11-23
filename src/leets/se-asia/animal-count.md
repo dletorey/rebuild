@@ -19,6 +19,12 @@ This is just a list of all the different animals I have seen in South East Asia.
 - Catfish
 - Dogs
 - Cats (lots)
+- Pigeons
+- Yellow snake
+- Water Monitor Lizard (Bangkok Dragon)
+- Ravens
+- White Crane
+- Black & White bird
 
 ### Chiang Mai
 
