@@ -1,7 +1,7 @@
 ---
 title: "Bangkok day 2"
-subTitle: ""
-description: ""
+subTitle: "Temples, boats and sky high cocktails"
+description: "We took public transport to see the Grand Palace and a reclining Buddha, then took a boat trip round the canals. The Susan and I drank cocktails."
 tags: ["Bangkok", "Grand Palace", "Boat Trip", "Reclining Buddha", "Sirocco", "Sky bar"]
 date: 2025-11-21
 album: https://flickr.com/photos/dletorey/albums/72177720330505660/
