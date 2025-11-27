@@ -13,7 +13,7 @@ After the second flight of the trip we landed at Bangkok airport (BKK). The firs
 
 Once off the plane we headed to immigration as we got closer we soon realised that there was not an “orderly” queue and just a funnel where people were joining from every direction. This did eventually calm down to what seemed like 2 queues one straight and one which zigzagged, like getting into Glastonbury. Susan and I joined the one that zigzagged the others in our group joined the straight one. There seemed no logic between these two lines. As we got closer to the immigration desks it then led out from a line to a mass funnel again. So we just joined yet another line. It really was good that we had applied for our entry cards before as those who hadn’t had to go to whole different queue first before joining the first funnel. 
 
-Overall it took about an hour of queuing but in the end this didn’t really matter as when we got to the baggage carousel our bags had still not arrived. 
+Overall it took about an hour of queuing but in the end this didn’t really matter as when we got to the baggage carousel our bags had still not arrived.
 
 ## Transfer
 
