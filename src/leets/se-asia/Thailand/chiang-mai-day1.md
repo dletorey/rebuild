@@ -6,3 +6,5 @@ tags: ["Chiang Mai", "Temples", "Muay Thai", "Thai kick boxing"]
 date: 2025-11-24
 album: https://flickr.com/photos/dletorey/albums/72177720330561220/
 ---
+
+Nothing to see here yet, I'm enjoying my holiday. Check back soon!
