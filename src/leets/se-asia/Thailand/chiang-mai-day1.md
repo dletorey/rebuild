@@ -47,7 +47,7 @@ In the afternoon I went shopping to buy a sarong and a wallet, as I didn't want 
 
 ## Street Food
 
-At night in [Lanna Square](https://maps.app.goo.gl/95QTdhdME69eHY5A9?g_st=ipc) there is a street food market with about 30 stalls of all nationalities. I had a manger curry which was delicious. Opposite where we were sat was a desert stall and the owner kept waving at me and in the end she offered us 4 deserts for the price of 2, I bought 2 strawberry tarts, a chocolate moose and banana cake.
+At night in [Lanna Square](https://maps.app.goo.gl/95QTdhdME69eHY5A9?g_st=ipc) there is a street food market with about 30 stalls of all nationalities. I had a manger curry which was delicious. Opposite where we were sat was a dessert stall and the owner kept waving at me and in the end she offered us 4 desserts for the price of 2, I bought 2 strawberry tarts, a chocolate mouse and banana cake.
 
 ## Muay Thai
 
