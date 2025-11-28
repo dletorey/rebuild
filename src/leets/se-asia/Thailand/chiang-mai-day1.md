@@ -7,7 +7,7 @@ date: 2025-11-24
 album: https://flickr.com/photos/dletorey/albums/72177720330561220/
 ---
 
-I Thailand the word _Wat_ means Temple. Chiang Mai is a walled city surrounded by a moat and has over 300 temples.
+In Thailand the word _Wat_ means Temple. Chiang Mai is a walled city surrounded by a moat and has over 300 temples.
 
 ## Temples
 
