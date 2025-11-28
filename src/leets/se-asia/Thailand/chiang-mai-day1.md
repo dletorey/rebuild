@@ -57,4 +57,4 @@ Obviously I was going to support the fighters in the red corner. The first two b
 
 In most of the rounds there seemed to be a lot of hugging, until that was the added seventh bout. This bout was much more furious and the fighters were really going at each other. We had a very entertaining night and would recommend experiencing this at least once in your life.
 
-![Me in a boxxing ring posing with two Muay Thai boxers one in red shorts the other in blue](/img/se-asia/muay-thai.jpg)
+![Me in a boxing ring posing with two Muay Thai boxers one in red shorts the other in blue](/img/se-asia/muay-thai.jpg)
