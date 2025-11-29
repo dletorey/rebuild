@@ -38,6 +38,24 @@ Once the meals were prepared we got to go down and feed the elephants, there wer
 
 ### Walking with elephants
 
-Once they were fed, we walked with the elephants down to the river and watched them play.
+Once they were fed, we walked with the elephants down to the river and watched them play. One of the elephant got right in the water and rolled around while the other was a bit tentative and only got its feet wet. 
 
 ![An elephant playing in a river spraying itself with water](/img/se-asia/water-elephant.jpg)
+
+Once we'd walked back with the elephants we were driven back to the hotel, everyone was truly contempt with the day we'd had.
+
+## Khoa Soi
+
+Before I came to Thailand I asked my friend John what I should do in Chiang Mai and he immediately came back and said:
+
+> Find the best place to eat Khoa Soi, it's the regional dish of Chiang Mai.
+
+We had a number of recommendations but the closest, was called [Garden to Table](https://maps.app.goo.gl/xobmYUZzSmR6zX38A). When we got there there was a queue of about 20 people and it was closing in just over an hour. So we searched for Khoa Soi near me and we were offered [Another World](https://maps.app.goo.gl/q32C8gogq1kiKe9j6). When we arrived they said they were full but if we went across the road to [Blue Bar](https://maps.app.goo.gl/hN5GtSXLdJPKUfQm7) that they would come and fetch us once they had a table.
+
+We only had to have 1 drink before they came and fetched us, all but one of us chose to eat Khoa Soi. It was amazing and I now have a new favourite Thai dish, I just need to find somewhere in London that serves this and I need to go visit Mrs Lawson to learn how to cook this dish.
+
+Once we had finished the mains the waiter brought us what he described as pineapple whisky for the table. I translated the label and it read:
+
+> Dragon fruit horse How is the person's stomach cooked? Main object pineapple iosten
+
+![Bottle of spirit with a horse's head and a some writing in Thai script](/img/se-asia/pineapple-whiskey.jpg)
