@@ -47,6 +47,8 @@ This is just a list of all the different animals I have seen in South East Asia.
 - Sand bubbler crab burrows
 - Junonia Iphita - chocolate pansy butterfly 
 - Black giant squirrel
+- Eurasian Tree Sparrow
+- Monitor lizard 
 
 ## Cambodia 
 
