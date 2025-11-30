@@ -56,6 +56,11 @@ This is just a list of all the different animals I have seen in South East Asia.
 
 - Cows
 - Toad
+- Red dragon fly
+- Cat
+- Dog
+- Fruit bats aka flying foxes
+- Dead rat covered in flies
 
 ## Vietnam 
 
