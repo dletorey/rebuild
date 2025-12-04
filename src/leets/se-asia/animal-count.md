@@ -56,6 +56,7 @@ This is just a list of all the different animals I have seen in South East Asia.
 
 - Cows
 - Toad
+<<<<<<< HEAD
 - Cow in the back of a Tuk Tuk 
 - Fruit bats (flying foxes)
 - Long tailed macaque
@@ -72,6 +73,13 @@ This is just a list of all the different animals I have seen in South East Asia.
 - Oxen
 - Geese
 - Asian wrinkle-lipped bats
+=======
+- Red dragon fly
+- Cat
+- Dog
+- Fruit bats aka flying foxes
+- Dead rat covered in flies
+>>>>>>> bce19c87dcaeb333b555a32e3d1f680eab0f0e8e
 
 ## Vietnam 
 
