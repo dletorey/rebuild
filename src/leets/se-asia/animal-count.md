@@ -56,6 +56,22 @@ This is just a list of all the different animals I have seen in South East Asia.
 
 - Cows
 - Toad
+- Cow in the back of a Tuk Tuk 
+- Fruit bats (flying foxes)
+- Long tailed macaque
+- Pig
+- Leaf-nosed bats
+- Red dragon fly
+- Cicadas
+- Chicken 
+- Small lizard - oriental garden lizard
+- Crocodile 
+- Swan
+- Great egret
+- Fighting cocks
+- Oxen
+- Geese
+- Asian wrinkle-lipped bats
 
 ## Vietnam 
 
