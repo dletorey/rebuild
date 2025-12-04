@@ -5,7 +5,7 @@ pagination:
   data: collections.seasia
   size: 12
   reverse: true
-# permalink: "se-asia/{{ pagination.pageNumber + 1 }}/index.html"
+permalink: "se-asia{% if pagination.pageNumber > 0%}/{{ pagination.pageNumber + 1 }}{% endif %}/index.html"
 ---
 {{ description }}
 {% include 'paginated.njk' %}
