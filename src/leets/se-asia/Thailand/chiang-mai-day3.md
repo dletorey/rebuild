@@ -31,8 +31,6 @@ The village was beautiful and we got to see many plants and the rice fields that
 
 After lunch we went up to the [Doi Inthanon Summit](https://maps.app.goo.gl/CU8MRTsaxWxhyR8R9), the tallest mountain in Thailand. Up there, there were two trails and an Thai Air Force base. The first of the trails the _Forest of the Sky_ trail contained the highest point in Thailand and was 150 metres long. The second the _Angkha nature_ trail was 320 metres and was more like walking through a jungle. At one point there was a steep staircase that lead down to the shrine of an Air force officer who had died in 2014.
 
-### Replace image with dragon guard
-
 ![A dragon guard covered in moss](/img/se-asia/dragon-guard.jpg)
 
 ## Pagodas
