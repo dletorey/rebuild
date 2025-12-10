@@ -83,9 +83,40 @@ This is just a list of all the different animals I have seen in South East Asia.
 
 ### Da Nang
 
+- Cat
+- Dog
+- Turtle 
+- Gold fish
+- Great egret
+- Cows
+- Black butterfly with blue patches
+- Swan
+- Chicken 
+
 ### Hué
 
+- Japanese Pipistrelle bat
+- Dog
+
+### Road Hue to Ninh Bihn
+
+- Cow
+- Chicken
+- Ducks (white)
+- Water buffalo 
+- Great egret
+- Ravens
+- Grey Heron
+- Rooster
+- Goat
+
 ### Ninh Binh
+
+- Dog
+- Moth
+- Dragonfly
+- Gold fish (hundreds)
+- Chicken 
 
 ### Ha Long Bay
 
