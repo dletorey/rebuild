@@ -116,7 +116,16 @@ This is just a list of all the different animals I have seen in South East Asia.
 - Moth
 - Dragonfly
 - Gold fish (hundreds)
-- Chicken 
+- Chicken
+- Stork
+- Mountain goat
+- Papillo memnon butterfly
+- Monarch butterfly
+- White ducks
+- White small butterfly 
+- Water buffalo 
+- Duck maybe mandarin 
+- Water snake
 
 ### Ha Long Bay
 
