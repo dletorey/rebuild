@@ -5,7 +5,7 @@ description: "This is a list of all the animals I have spotted in SE Asia, group
 tags: ["Animals"]
 date: 2025-11-20
 ---
-This is just a list of all the different animals I have seen in South East Asia. 
+This is just a list of all the different animals I have seen in South East Asia. [Read about my trip to South East Asia](/se-asia/).
 
 ## Thailand
 
