@@ -127,6 +127,10 @@ This is just a list of all the different animals I have seen in South East Asia.
 - Duck maybe mandarin 
 - Water snake
 
+### Road to Ha Long
+
+- Sarus crane
+
 ### Ha Long Bay
 
 ### Hanoi
