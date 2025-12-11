@@ -131,6 +131,7 @@ This is just a list of all the different animals I have seen in South East Asia.
 
 - Duck
 - Sarus crane
+- Pig - 2 on a moped
 
 ### Ha Long Bay
 
