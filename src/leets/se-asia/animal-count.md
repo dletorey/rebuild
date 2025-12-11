@@ -129,6 +129,7 @@ This is just a list of all the different animals I have seen in South East Asia.
 
 ### Road to Ha Long
 
+- Duck
 - Sarus crane
 
 ### Ha Long Bay
