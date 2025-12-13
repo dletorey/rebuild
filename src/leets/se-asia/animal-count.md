@@ -155,3 +155,5 @@ This is just a list of all the different animals I have seen in South East Asia.
 - Cat
 - Asian cockroach
 - Poodle kind of dog
+- White duck
+- Chicken
