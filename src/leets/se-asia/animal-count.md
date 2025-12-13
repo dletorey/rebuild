@@ -89,7 +89,7 @@ This is just a list of all the different animals I have seen in South East Asia.
 - Gold fish
 - Great egret
 - Cows
-- Black butterfly with blue patches
+- Great eggfly (Black butterfly with blue patches)
 - Swan
 - Chicken
 
