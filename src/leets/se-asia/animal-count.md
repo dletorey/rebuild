@@ -11,11 +11,11 @@ This is just a list of all the different animals I have seen in South East Asia.
 
 ### Bangkok
 
-- Squirrel 
+- Squirrel
 - Monkey (unknown kind)
 - Rat
 - Swifts
-- Monitor lizard 
+- Monitor lizard
 - Catfish
 - Dogs
 - Cats (lots)
@@ -45,12 +45,12 @@ This is just a list of all the different animals I have seen in South East Asia.
 - Yellow crazy ant
 - Common myna bird
 - Sand bubbler crab burrows
-- Junonia Iphita - chocolate pansy butterfly 
+- Junonia Iphita - chocolate pansy butterfly
 - Black giant squirrel
 - Eurasian Tree Sparrow
-- Monitor lizard 
+- Monitor lizard
 
-## Cambodia 
+## Cambodia
 
 ### Siem Reap
 
@@ -61,16 +61,16 @@ This is just a list of all the different animals I have seen in South East Asia.
 - Dog
 - Fruit bats aka flying foxes
 - Dead rat covered in flies
-- Cow in the back of a Tuk Tuk 
+- Cow in the back of a Tuk Tuk
 - Fruit bats (flying foxes)
 - Long tailed macaque
 - Pig
 - Leaf-nosed bats
 - Red dragon fly
 - Cicadas
-- Chicken 
+- Chicken
 - Small lizard - oriental garden lizard
-- Crocodile 
+- Crocodile
 - Swan
 - Great egret
 - Fighting cocks
@@ -79,19 +79,19 @@ This is just a list of all the different animals I have seen in South East Asia.
 - Asian wrinkle-lipped bats
 - Eurasian kestrel
 
-## Vietnam 
+## Vietnam
 
 ### Da Nang
 
 - Cat
 - Dog
-- Turtle 
+- Turtle
 - Gold fish
 - Great egret
 - Cows
 - Black butterfly with blue patches
 - Swan
-- Chicken 
+- Chicken
 
 ### Hué
 
@@ -103,7 +103,7 @@ This is just a list of all the different animals I have seen in South East Asia.
 - Cow
 - Chicken
 - Ducks (white)
-- Water buffalo 
+- Water buffalo
 - Great egret
 - Ravens
 - Grey Heron
@@ -122,9 +122,9 @@ This is just a list of all the different animals I have seen in South East Asia.
 - Papillo memnon butterfly
 - Monarch butterfly
 - White ducks
-- White small butterfly 
-- Water buffalo 
-- Duck maybe mandarin 
+- White small butterfly
+- Water buffalo
+- Duck maybe mandarin
 - Water snake
 
 ### Road to Ha Long
@@ -143,7 +143,7 @@ This is just a list of all the different animals I have seen in South East Asia.
 
 ### Road Ha Long Bay to Hanoi
 
-- Water buffalo 
+- Water buffalo
 - White butterfly
 - Cows
 - White ducks
@@ -151,7 +151,7 @@ This is just a list of all the different animals I have seen in South East Asia.
 
 ### Hanoi
 
-- Pigeon 
+- Pigeon
 - Cat
 - Asian cockroach
 - Poodle kind of dog
