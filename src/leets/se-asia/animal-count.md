@@ -135,4 +135,23 @@ This is just a list of all the different animals I have seen in South East Asia.
 
 ### Ha Long Bay
 
+- Black kite
+- Grey heron
+- Spotted Jellyfish
+- Fish unknown
+- Pomchi dog
+
+### Road Ha Long Bay to Hanoi
+
+- Water buffalo 
+- White butterfly
+- Cows
+- White ducks
+- Squash rat on the road
+
 ### Hanoi
+
+- Pigeon 
+- Cat
+- Asian cockroach
+- Poodle kind of dog
