@@ -52,14 +52,22 @@ I climbed to the top level of the temple and it was stunning.
 
 ### Long tail macaque
 
-On the way out we came to see a group of long tail macaques that were raiding the bins for sweat treats.
+On the way out we came to see a group of long tail macaques that were raiding the bins for sweet treats.
 
 ![A long tail macaque sat on top of a rubbish bin drinking from plastic cup](/img/se-asia/bin-macaque.jpg)
 
 ## Phnom Bakheng
 
-https://maps.app.goo.gl/f8bED2eD4xrRwkZs8?g_st=ipc
-Sunset
-Cicadas
+The last part of the tour we were taken to a _mountain_ (we would call it a hill) called [Phnom Bakheng](https://maps.app.goo.gl/f8bED2eD4xrRwkZs8?g_st=ipc), to watch the sunset and get a view of Angkor Wat from above.
+
+![A view of Angkor Wat from the top of a hill](/img/se-asia/angkor-wat-from-above.jpg).
+
+Once the sun had set, we walked down from the top of the _mountain_ and the noise of the cicadas in the trees was like a siren.
 
 ## Apsara Dancing
+
+This evening we choose to go eat at [Robam](https://maps.app.goo.gl/So2b619RLtqQsg9o9)as it also had an [Apsara dance](https://en.wikipedia.org/wiki/Apsara_Dance) show. When the menu arrived we realised that this was yet another restaurant in the same chain as the previous 2 nights and the menu was identical.
+
+The dance show was brilliant and at the end of the show anyone who wanted could go up on stage and have their photo taken with the dancer, it would seam that no one wanted to do this, so up I got and after I'd had my photo taken a whole rush of people also did so, seems I'm a trend setter yet again.
+
+![Me on stage with 2 Apsara dancers dressed in traditional Cambodian clothes](/img/se-asia/apsara-dancers.jpg)
