@@ -158,3 +158,6 @@ This is just a list of all the different animals I have seen in South East Asia.
 - White duck
 - Chicken
 - Myna bird
+- Sparrow
+- Green bearded dragon
+- Fish in a tank
