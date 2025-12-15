@@ -161,3 +161,5 @@ This is just a list of all the different animals I have seen in South East Asia.
 - Sparrow
 - Green bearded dragon
 - Fish in a tank
+- 2 dogs having sex
+- Dove
