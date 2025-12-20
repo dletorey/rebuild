@@ -85,4 +85,4 @@ We had to wait a while for dusk and then the bats started to fly out of the cave
 
 ![Millions of tiny bats flying out of a cave](/img/se-asia/bat-exodus.jpg)
 
-Lucky then drove us back to Siem Reap and we decided to go back to the French restaurant from last night and then to the craft beer bar. An amazing day.
+Lucky then drove us back to Siem Reap and we decided to go back to the French restaurant from last night and then to the craft beer bar. An amazing **Bat**urday.
