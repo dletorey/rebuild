@@ -1,6 +1,6 @@
 ---
 title: "South East Asia"
-description: "Post from South East Asia trip, including Thailand, Cambodia and Vietnam"
+description: "Posts from our South East Asia trip, including Thailand, Cambodia and Vietnam"
 pagination:
   data: collections.seasia
   size: 12
