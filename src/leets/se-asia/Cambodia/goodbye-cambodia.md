@@ -47,11 +47,11 @@ Once at the Restaurant we sat outside by the river so we could see the boats on 
 
 ![The view from our table at the restaurant, in the foreground is a table and chairs stood in the water behind them are a number of boats all lit up with colourful lanterns](/img/se-asia/lantern-boats.jpg)
 
-### 7 bridges taproom
+### 7 Bridges taproom
 
-I found just around the corner from the restaurant [7 bridges](https://www.7bridges.vn/) [taproom](https://maps.app.goo.gl/UKJ4XL9uedx4YjU47). On the way we walked through the night market which was also full of lanterns, Hội An is a very beautiful place.
+I found just around the corner from the restaurant [7 Bridges](https://www.7bridges.vn/) [taproom](https://maps.app.goo.gl/UKJ4XL9uedx4YjU47). On the way we walked through the night market which was also full of lanterns, Hội An is a very beautiful place.
 
-7 bridges is a [Zero Waste brewery](https://www.7bridges.vn/mission) in Da Nang, unfortunately there is no taproom in Da Nang. I tried 3 of their own beers:
+7 Bridges is a [Zero Waste brewery](https://www.7bridges.vn/mission) in Da Nang, unfortunately there is no taproom in Da Nang. I tried 3 of their own beers:
 
 - [Hai Van Haze IPA](https://untappd.com/user/dletorey/checkin/1532836463/)
 - [Dragon IPA](https://untappd.com/user/dletorey/checkin/1532838003/)
