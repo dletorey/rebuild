@@ -128,49 +128,26 @@
           --sp-m-2xl: clamp(1.6875rem, 0.5353rem + 5.7609vi, 5rem);
           /* Space l-3xl: 36px → 120px */
           --sp-l-3xl: clamp(2.25rem, 0.4239rem + 9.1304vi, 7.5rem);
+          color-scheme: light dark;
         }
-        @media (prefers-color-scheme: light) {
-            body {
-                background-color: var(--lm-background);
-                color: var(--lm-text);
-            }
-            h1, h2, h3, h4, h5, h6, a {
-                color: var(--lm-heading);
-            }
-            .spoilers {
-                color: var(--lm-text);
-                background-color: var(--lm-text);
-            }
-            .button {
-                background-color: var(--lm-heading);
-                color: var(--lm-background);
-                &:hover {
-                    background-color: var(--lm-background);
-                    color: var(--lm-heading);
-                    border-color: var(--lm-heading);
-                }
-            }
+        body {
+            background-color: light-dark(var(--lm-background),var(--dm-background));
+            color: light-dark(var(--lm-text), var(--dm-text));
         }
-        @media (prefers-color-scheme: dark) {
-            body {
-                background-color: var(--dm-background);
-                color: var(--dm-text);
-            }
-            h1, h2, h3, h4, h5, h6, a {
-                color: var(--dm-heading);
-            }
-            .spoilers {
-                color: var(--dm-text);
-                background-color: var(--dm-text);
-            }
-            .button {
-                background-color: var(--dm-heading);
-                color: var(--dm-background);
-                &:hover {
-                    background-color: var(--dm-background);
-                    color: var(--dm-heading);
-                    border-color: var(--dm-heading);
-                }
+        h1, h2, h3, h4, h5, h6, a {
+            color: light-dark(var(--lm-heading), var(--dm-heading));
+        }
+        .spoilers {
+            color: light-dark(var(--lm-text), var(--dm-text));
+            background-color: light-dark(var(--lm-text), var(--dm-text));
+        }
+        .button {
+            background-color: light-dark(var(--lm-heading), var(--dm-heading));
+            color: light-dark(var(--lm-background), var(--dm-background));
+            &:hover {
+                background-color: light-dark(var(--lm-background), var(--dm-background));
+                color: light-dark(var(--lm-heading), var(--dm-heading));
+                border-color: light-dark(var(--lm-heading), var(--dm-heading));
             }
         }
         html {
@@ -224,6 +201,9 @@
         }
         code, pre {
             overflow: scroll;
+            padding: 0.25lh;
+            color: light-dark(var(--dm-heading), var(--lm-heading));
+            background-color: light-dark(var(--dm-background), var(--lm-background));
         }
         footer ul:not(.hidden) {
           list-style: none;
@@ -250,6 +230,14 @@
             padding: 0;
             border: 2px solid;
             border-radius: var(--sp-xs-s);
+            border-color: light-dark(var(--lm-heading),var(--dm-heading));
+            &:hover {
+                background-color: light-dark(var(--lm-heading), var(--dm-heading));
+                color: light-dark(var(--lm-background), var(--dm-background));
+                h2 {
+                    color: light-dark(var(--lm-background), var(--dm-background));
+                }
+            }
             header, main, footer {
                 padding: var(--sp-3xs);
             }
@@ -262,26 +250,6 @@
             }
             p {
                 font-size: var(--step--2);
-            }
-            @media (prefers-color-scheme: light) {
-                border-color: var(--lm-heading);
-                &:hover {
-                    background-color: var(--lm-heading);
-                    color: var(--lm-background);
-                    h2 {
-                        color: var(--lm-background);
-                    }
-                }
-            }
-            @media (prefers-color-scheme: dark) {
-                border-color: var(--dm-heading);
-                &:hover {
-                    background-color: var(--dm-heading);
-                    color: var(--dm-background);
-                    h2 {
-                        color: var(--dm-background);
-                    }
-                }
             }
             .tags {
                 margin: 0;
