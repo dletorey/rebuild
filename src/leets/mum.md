@@ -31,7 +31,7 @@ Today my mum passed away, it was very peaceful.
 
 Today (Saturday 10 January 2025) we scattered my mum's ashes. We scattered them at Scunthorpe Crematorium at the tree where we'd previously scattered, my Dad (Ray Letorey), Grandma (Maggie Kinnock), Grandad (Wilf Kinnock) and Uncle Harold (Grandad's brother).
 
-It was a sad, moving and lovely event. My brother Simon started scattering the ashes, in a heart shape, around the family tree and then I scattered the rest.  Afterwards Auntie Sandra (mum's sister) and Paula (Simon's wife) laid some flowers. Cousin Sarah was also there.
+It was a sad, moving and lovely event. My brother Simon started scattering the ashes, in a heart shape, around [the family tree](https://what3words.com/slate.jukebox.phones) and then I scattered the rest.  Afterwards Auntie Sandra (mum's sister) and Paula (Simon's wife) laid some flowers. Cousin Sarah was also there.
 
 ![Mum's ashes scattered around a yew tree, in Scunthorpe Crematorium, with 2 bouquets of flowers placed](/img/mum/mum-ashes.jpg)
 
