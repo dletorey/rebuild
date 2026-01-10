@@ -27,6 +27,16 @@ Today my mum passed away, it was very peaceful.
 
 [Video Gallery of Mum's life](https://drive.google.com/file/d/1NOI0FJojoIs-sG-Le7tUDUoFVARIKWEL/view?usp=sharing) (15 minutes 168 photos).
 
+## Scattering my mums ashes
+
+Today (Saturday 10 January 2025) we scattered my mum's ashes. We scattered them at Scunthorpe Crematorium at the tree where we'd previously scattered, my Dad (Ray Letorey), Grandma (Maggie Kinnock), Grandad (Wilf Kinnock) and Uncle Harold (Grandad's brother).
+
+It was a sad, moving and lovely event. My brother Simon started scattering the ashes, in a heart shape, around the family tree and then I scattered the rest.  Afterwards Auntie Sandra (mum's sister) and Paula (Simon's wife) laid some flowers. Cousin Sarah was also there.
+
+![Mum's ashes scattered around a yew tree, in Scunthorpe Crematorium, with 2 bouquets of flowers placed](/img/mum/mum-ashes.jpg)
+
+Afterwards we all went and had a coffee together, before going our separate ways.
+
 ## From the Funeral
 
 ### Eulogy
