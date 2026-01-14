@@ -3,7 +3,7 @@ title: "Imagine"
 description: "In support of the hunger strikers"
 date: 2026-01-14
 img: /img/imagine/heba.jpg
-updated: 2025-11-14
+# updated: 
 ---
 
 Imagine being in jail for destroying a drone that was going to be used to kill possibly 100s of innocent people.
