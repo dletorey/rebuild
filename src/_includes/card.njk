@@ -1,3 +1,4 @@
+{%- set tags = post.data.tags -%}
 <li class="card {{ post.data.contentType }}">  
   <header>
     <a href="{{ post.url }}"><h2>{{ post.data.title }}{%if post.data.subTitle %}<br><span>{{post.data.subTitle}}</span>{% endif %}</h2></a>
@@ -8,7 +9,7 @@
   </main>
   <footer>
     <ul class="tags">
-      {% for tag in post.data.tags %}<li>{{ tag }}</li>{% endfor %}
+      {% for tag in tags %}{% if tag !== "leet" %}{% if tag !== "link" %}{% if tag !== "post" %}<li>{{ tag }}</li>{% endif %}{% endif %}{% endif %}{% endfor %}
     </ul>
   </footer>
 </li>
