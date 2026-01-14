@@ -2,6 +2,7 @@
 title: "Imagine"
 description: "In support of the hunger strikers"
 date: 2026-01-14
+tags: ["Palestine", "Hunger Strike", "Heba Muraisi"]
 img: /img/imagine/heba.jpg
 # updated: 
 ---
