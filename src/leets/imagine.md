@@ -35,7 +35,7 @@ Imagine having to tell your friends that your are probably going to die in the n
 
 Imagine being a Prime Minister, Home Secretary, Foreign Secretary and letting this happen.
 
-Imagine funding from foreign powers being more important that this.
+Imagine funding from foreign powers being more important than this.
 
 ## Heba Muraisi
 
