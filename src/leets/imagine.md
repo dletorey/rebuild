@@ -4,7 +4,7 @@ description: "In support of the hunger strikers"
 date: 2026-01-14
 tags: ["Palestine", "Hunger Strike", "Heba Muraisi"]
 img: /img/imagine/heba.jpg
-# updated: 
+updated: 2026-01-15
 ---
 
 Imagine being in jail for destroying a drone that was going to be used to kill possibly 100s of innocent people.
@@ -68,3 +68,17 @@ All these days are as of 14 January 2026.
 - Write to your MP and tell them how you feel about this.
 - Tell more people about this, it will make a small corner of the news when one of these people die but will then disappear.
 - Share this on your social media.
+
+## Updates
+
+### Good
+
+Two things happened yesterday that had an effect on this.
+
+Firstly was that [Elbit Systems were not granted a government contract](https://www.thecanary.co/uk/analysis/2026/01/14/elbit-systems-loses/) to train UK military. 
+
+Secondly because of this decision the three of the Hunger Strikers [ended their hunger strike](https://www.theguardian.com/uk-news/2026/jan/14/three-palestine-action-protesters-end-their-hunger-strike). They are Heba, Kamran and Lewie.
+
+### Bad
+
+The bad update is that this has nothing really to do with our government it was not them that did anything to stop the hunger strike really. Other than not awarding the contract to Elbit Systems.
