@@ -124,3 +124,7 @@ I’d like if I may to leave you with a quote which also expresses not only the 
 _“To love someone is to risk the pain of parting. Not to love is never to have lived. The grief which we now experience is the honouring of our love for Margaret_
 
 This is pure raw love which never leaves us even in the midst of death.
+
+### Order of Service
+
+[Funeral Order of Service (PDF 830kb)](/img/mum/Margaret-Letorey-OOS.pdf).
