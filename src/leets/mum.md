@@ -127,4 +127,4 @@ This is pure raw love which never leaves us even in the midst of death.
 
 ### Order of Service
 
-[Funeral Order of Service (PDF 830kb)](/img/mum/Margaret-Letorey-OOS.pdf).
+[Funeral Order of Service (PDF 830kb)](/assets/mum/Margaret-Letorey-OOS.pdf).

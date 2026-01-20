@@ -22,6 +22,9 @@ export default function (config) {
   config.addLayoutAlias("posts", "posts.njk");
   config.addLayoutAlias("pages", "pages.njk");
 
+  // files passThrough
+  config.addPassthroughCopy({ assets: "/" })
+
   // plugins
   config.addPlugin(eleventyImageTransformPlugin, {
     // output image formats
