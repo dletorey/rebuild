@@ -36,4 +36,4 @@ Over all I am delighted that I went, it was a great night and the tour has been 
 
 ## Set List
 
-<a href="https://www.setlist.fm/setlist/orbital/2024/o2-victoria-warehouse-manchester-england-6babd6c2.html" title="Orbital Setlist O2 Victoria Warehouse, Manchester, England, Green / Brown Album Tour 2024" target="_blank"><img src="https://www.setlist.fm/widgets/setlist-image-v1?id=6babd6c2" alt="Orbital Setlist O2 Victoria Warehouse, Manchester, England, Green / Brown Album Tour 2024" style="border: 0;" /></a>
+[![Orbital Setlist O2 Victoria Warehouse, Manchester, England, Green / Brown Album Tour 2024](/img/orbital/orbital-manchester-2024-05-04-setlist.jpg)](https://www.setlist.fm/setlist/orbital/2024/o2-victoria-warehouse-manchester-england-6babd6c2.html)

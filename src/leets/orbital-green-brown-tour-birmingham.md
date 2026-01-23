@@ -27,4 +27,4 @@ A most entertaining night where I danced with friends perhaps a little too hard,
 
 ## Set List
 
-<a href="https://www.setlist.fm/setlist/orbital/2024/rock-city-nottingham-england-73abd6d1.html" title="Orbital Setlist Rock City, Nottingham, England, Green / Brown Album Tour 2024"><img src="https://www.setlist.fm/widgets/setlist-image-v1?id=73abd6d1" alt="Orbital Setlist Rock City, Nottingham, England, Green / Brown Album Tour 2024" /></a>
+[![Orbital Setlist O2 Institute, Birmingham, England, Green / Brown Album Tour 2024](/img/orbital/orbital-birmingham-2024-04-26-setlist.jpg)](https://www.setlist.fm/setlist/orbital/2024/o2-institute-birmingham-england-73abd6e5.html)

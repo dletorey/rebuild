@@ -31,4 +31,4 @@ At the end of the gig those that were still around gathered [down the front for 
 
 ## Set List
 
-<a href="https://www.setlist.fm/setlist/orbital/2024/troxy-london-england-7babd6d8.html" title="Orbital Setlist Troxy, London, England, Green / Brown Album Tour 2024"><img src="https://www.setlist.fm/widgets/setlist-image-v1?id=7babd6d8" alt="Orbital Setlist Troxy, London, England, Green / Brown Album Tour 2024" /></a>
+[![Orbital Setlist Troxy, London, England, Green / Brown Album Tour 2024](/img/orbital/orbital-troxy-2024-04-27-setlist.jpg)](https://www.setlist.fm/setlist/orbital/2024/troxy-london-england-7babd6d8.html)

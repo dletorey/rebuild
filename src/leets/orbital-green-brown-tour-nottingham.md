@@ -41,4 +41,4 @@ Quality night and I may go to Manchester next Saturday… (from future me, I did
 
 ## Set List
 
-<a href="https://www.setlist.fm/setlist/orbital/2024/o2-institute-birmingham-england-73abd6e5.html" title="Orbital Setlist O2 Institute, Birmingham, England, Green / Brown Album Tour 2024"><img src="https://www.setlist.fm/widgets/setlist-image-v1?id=73abd6e5" alt="Orbital Setlist O2 Institute, Birmingham, England, Green / Brown Album Tour 2024" /></a>
+[![Orbital Setlist Rock City, Nottingham, England, Green / Brown Album Tour 2024](/img/orbital/orbital-rock-city-2024-04-28-setlist.jpg)](https://www.setlist.fm/setlist/orbital/2024/rock-city-nottingham-england-73abd6d1.html)
