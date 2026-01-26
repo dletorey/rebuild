@@ -30,6 +30,11 @@ export default {
       .getFilteredByTag("post")
       .filter(collectionFilters.isPublished);
   },
+  books: collection => {
+    return collection
+      .getFilteredByTag("book")
+      .filter(collectionFilters.isPublished);
+  },
   seasia: collection => {
     return collection
       .getFilteredByTag("South East Asia")

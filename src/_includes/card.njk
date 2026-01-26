@@ -5,11 +5,11 @@
   </header>
   <main>
     <p>{{ post.data.description }}</p>
-    <small><time datetime="{{ post.data.date }}">{{ post.data.date.toDateString() }}</time></small> 
+    <small><time datetime="{{ post.data.date }}">{{ post.data.date.toDateString() }}</time></small>
   </main>
   <footer>
     <ul class="tags">
-      {% for tag in tags %}{% if tag !== "leet" %}{% if tag !== "link" %}{% if tag !== "post" %}<li>{{ tag }}</li>{% endif %}{% endif %}{% endif %}{% endfor %}
+      {% for tag in tags %}{% if tag !== "leet" %}{% if tag !== "link" %}{% if tag !== "post" %}{% if tag !== "book" %}<li>{{ tag }}</li>{% endif %}{% endif %}{% endif %}{% endif %}{% endfor %}
     </ul>
   </footer>
 </li>

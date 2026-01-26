@@ -1,0 +1,17 @@
+---
+layout: base
+---
+<!-- p>This is the books layout</p -->
+
+{% if book %}
+<ul>
+  {% if title %}<li><strong>Title: </strong>{% if book.url %}<a href="{{ book.url }}">{{ title }}</a>{% else %}{{ title }}{% endif %}</li>{% endif %}
+  {% if book.author %}<li><strong>Author: </strong>{% if book.authorUrl %}<a href="{{ book.authorUrl }}">{{ book.author }}</a>{% else %}{{ book.author }}{% endif %}</li>{% endif %}
+  {% if book.format %}<li><strong>Format: </strong>{% if book.bookUrl %}<a href="{{ book.bookUrl }}">{{ book.format }}</a>{% else %}{{ book.format }}{% endif %}</li>{% endif %}
+  {% if book.narrator %}<li><strong>Narrator: </strong>{% if book.narratorUrl %}<a href="{{ book.narratorUrl }}">{{ book.narrator }}</a>{% else %}{{ book.narrator }}{% endif %}</li>{% endif %}
+  {% if book.series %}<li><strong>Series: </strong>{{ book.series }}</li>{% endif %}
+  {% if book.releaseDate %}<li><strong>Released: </strong><time datetime="{{ book.releaseDate }}">{{ book.releaseDate.toDateString() }}</time></li>{% endif %}
+</ul>
+<hr>
+{% endif %}
+{{ content | safe }}
