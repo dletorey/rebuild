@@ -9,4 +9,4 @@ This is my kind of cat!!
 
 [Kittens by Underworld](https://song.link/i/1442297194) absolutely banging. So far it’s better than [last night](/leets/you-let-light-in/) and we’re only half way through. So let’s see.
 
-<video src=“https://vimeo.com/1162889807” controls />
+<!-- video src=“https://vimeo.com/1162889807” controls /-->
