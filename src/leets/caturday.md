@@ -23,7 +23,7 @@ They also played [_and the colour red_](https://song.link/i/1678431352) and the 
 
 Controversial I know but this definitely not their best track it’s just their most famous. 
 
-This blatantly obvious, because as soon as it started 90% of the audience, well certainly the younger members of the audience, all got their phones out. 
+This was blatantly obvious, because as soon as it started 90% of the audience, well certainly the younger members of the audience, all got their phones out. 
 
 They did a superb job of this and everyone was very excited. At the end there were huge confetti canons quite a sight. 
 
