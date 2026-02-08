@@ -38,6 +38,8 @@ Great night again¡
 
 ## Set Lists
 
+[Set list on setlist.fm](https://www.setlist.fm/setlist/underworld/2026/o2-academy-brixton-london-england-1341dd71.html).
+
 ![Set list from Saturday with Friday night's date in the top left](/img/underworld-born-slippy/underworld-set-list.jpg)
 
 ### Set One 20:13 - 21:14
