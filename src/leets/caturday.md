@@ -2,8 +2,11 @@
 title: "#Caturday"
 description: "Underworld at Brixton Academy - we’re at an Underworld gig, not a Gary Barlow gig. Stop clapping along and start raving!"
 date: 2026-02-07
-tags: ["Underworld", "Briton", "Live", "Music"]
+tags: ["Underworld", "Brixton Academy", "Live", "Music"]
+updated: 2026-02-08
 ---
+
+![The dome at the entrance of Brixton Academy there are green lights of the dome and below it reads: Underworld 5, 6 & 7 February Sold Out. In front there are 1000s of smiling people leaving the venue](/img/underworld-born-slippy/underworl-brixton-academy.jpg)
 
 This is my kind of cat!!
 
@@ -31,3 +34,37 @@ I even managed to get the set list of the second set and then we headed to the U
 
 Great night again¡
 
+![My friend Bramus dancing to Born Slippy NUXX, his arms are raised in the air as though he is worshipping Underworld (he probably was) and he is covered in confetti](/img/underworld-born-slippy/bramus-saturday.jpg)
+
+## Set Lists
+
+![Set list from Saturday with Friday night's date in the top left](/img/underworld-born-slippy/underworld-set-list.jpg)
+
+### Set One 20:13 - 21:14
+
+- Good Day Today (Underworld Remix) (David Lynch song)
+- Deep Arch
+- Jumbo
+- Techno Shinkansen
+- Confusion the Waitress
+- Cherry Pie
+- Two Months Off
+- Juanita 2022
+- King of Snake
+- Kittens 
+
+### Set Two 21:35 - 22:55
+
+- Born Slippy
+- Pearl's Girl
+- Dark & Long (Dark Train)
+- Cowgirl
+- S T A R
+- alleswirdgut (Underworld Remix) (Brutalismus 3000 cover)
+- Push Upstairs
+- and the colour red
+- Border Country
+- Arpeggio12
+- Pearl's Girl (Tin There)
+- Moaner
+- Born Slippy .NUXX 
