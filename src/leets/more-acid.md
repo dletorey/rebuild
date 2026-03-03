@@ -6,7 +6,7 @@ tags: ["More Acid", "Acid House", "Music"]
 ---
 ## Happy 303 day
 
-Today being 3 March is recognised as 303 day. A celebration of music which use the Roland 303. 
+Today being 3 March is recognised as 303 day. A celebration of music which use the Roland 303.
 
 ## More Acid
 
@@ -14,6 +14,12 @@ Today being 3 March is recognised as 303 day. A celebration of music which use t
 
 - [More Acid](https://filtersequence.bandcamp.com/track/more-acid-2) by [Filter Sequence](https://filtersequence.bandcamp.com/)
 - [More Acid](https://kz1music.bandcamp.com/track/more-acid) by [KZ1 (aka lloydi)](https://kz1music.bandcamp.com/)
+
+### Live
+
+I shall be performing More Acid, with Filter Sequence:
+
+- [Dubrek Studio](https://dubrek.co.uk/event/twisted-onion-presents-nova-steve-hardaker-filter-sequence-lilly-sphire-joe-lux/), Derby - Friday 6 March 2026.
 
 ### Compilations
 
