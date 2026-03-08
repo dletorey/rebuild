@@ -48,7 +48,7 @@ In the middle of the set they played [Dirty Rat](https://song.link/i/1648750696)
 
 Just before the gig started there was a quick sound check, Andrew came on stage and waved at the crowd. He looked very happy to be there. 
 
-The set was superb, 25 tracks in total and  a mix of old tracks and tracks from [Demise of planet X](
+The set was superb, 25 tracks in total and  a mix of old tracks and tracks from [Demise of planet X](https://album.link/i/1842410153).
 
 ### Special Guests
 
@@ -61,6 +61,6 @@ The new album Demise of Planet X, has many collaborations and guest vocalists. A
 
 ### Tweet tweet tweet
 
-The last track of the set was [Tweet tweet tweet](), Gwendoline came out and started dancing, she had the biggest smile. With a little encouragement from Andrew all the rest of the special guests, who were still there (Liam had gone) came out and joined it. 
+The last track of the set was [Tweet tweet tweet](https://song.link/i/1744012310), Gwendoline came out and started dancing, she had the biggest smile. With a little encouragement from Andrew all the rest of the special guests, who were still there (Liam had gone) came out and joined it. 
 
 Once the gig had finished Orbital’s Paul came out and they are took a bow to huge applause and cheers. 
