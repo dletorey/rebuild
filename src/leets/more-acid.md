@@ -9,13 +9,11 @@ tags: ["More Acid", "Acid House", "Music"]
 
 Today being 3 March is recognised as 303 day. A celebration of music which use the Roland 303.
 
-## More Acid
-
-### Story of More Acid
+## Story of More Acid
 
 This is a brief history/explanation of how More Acid became a thing. 
 
-#### Brisbane
+### Brisbane
 
 If you know anything about me then you probably know that I like Orbital, a lot. 
 
@@ -40,7 +38,7 @@ The guy next to Badger and I was fortunately [videoing the second encore](https:
 
 For the next two days I continued to shout **More Acid!** and they continued to do a second encore of Lush, coincidence?
 
-#### t-shirt
+### t-shirt
 
 I have seen Orbital a lot of times, completely by accident, they just to be at the same places that I was. This meant that [1 April 2023 at Hammersmith Apollo](https://www.setlist.fm/setlist/orbital/2023/eventim-apollo-london-england-4bbb1386.html) was my 100th Orbital gig. 
 
@@ -53,7 +51,7 @@ To celebrate this my friends and I had t-shirts made that read:
 
 ![a huge group of Orbital fans and Paul Hartnoll from Orbital. Some of whom are wearing the t-shirt](/img/more-acid/more-acid-t-shirts.jpg)
 
-#### Acid4Life
+### Acid4Life
 
 Later in 2023 my friends Phil & Aly put on a small festival in their garden. A group of us went to [Halifax Piece Hall](https://www.setlist.fm/setlist/orbital/2023/the-piece-hall-halifax-england-3ba51454.html) to see Orbital on the Friday.
 
@@ -63,7 +61,7 @@ After midnight Badger played an awesome [Acid house set called Acid4Life](https:
 
 Roll on about a year and Badger contacted to say that he's working on Acid4Life part 2 and could I record myself saying **More Acid**. I happily did this, thinking no more of it.
 
-#### No More Acid
+### No More Acid
 
 On [5 April 2025 I went to see Orbital at Brixton Academy](https://www.setlist.fm/setlist/orbital/2025/o2-academy-brixton-london-england-6b543e0e.html) perform their first and second albums (commonly referred to as Green & Brown, due to the colours of the covers). Half way through the second set something went wrong with their Roland 303 and Paul said:
 
@@ -75,27 +73,27 @@ Then looking directly at me he added:
 
 It was later the next day that Steve (aka [Filter Sequence](https://filtersequence.bandcamp.com/)) found out about the sample I'd created for Badger and asked if he could also have access to the sample.
 
-#### Ha Long Bay
+### Ha Long Bay
 
 In November & December 2025 we went traveling in [South East Asia](/se-asia/). While in Vietnam we went on an over night cruise in [Ha Long Bay](/se-asia/ha-long-bay/). That night I received a message from Steve telling me that he'd finished the track [More Acid](https://filtersequence.bandcamp.com/track/more-acid-2). I immediately downloaded and while drinking many cocktails Susan, Sarah & I listened to More Acid for the first time.
 
-#### More More Acid
+### More More Acid
 
 Once home from traveling, I decided that I should tell as many people as I could about this track that I'd been sampled on. Firstly I shared it with Ian (aka [Lloydi](https://bsky.app/profile/lloydi.com) aka [KZ1](https://kz1music.bandcamp.com/)), he also asked if he could have the sample. Then I shared it with Dan, who also asked for the sample. So now there are 2.5 tacks out there with me shouting _More Acid_.
 
-#### Compilations
+### Compilations
 
 The track has now appeared on a compilation album by [DeepDownDirty Records](https://www.instagram.com/deepdowndirtymusic/) to celebrate 303 Day (3 March). It was exclusively released on Beatport on Friday 27 February 2026 [DeepDownDirty 3037](https://www.beatport.com/release/deepdowndirty-acid-vol-7/5833917). On Friday 6 March 2026 we learnt that the compilation was number 1 in the new releases Beatport chart, so now technically I'm a _number 1 artist_??
 
 ![A facebook post by Maya the owner of Deep Down Dirty records showing DeepDownDirty 3037 is number 1 in the Releases chart](/img/more-acid/ddd-number-1.jpg)
 
-#### Vinyl
+### Vinyl
 
 Steve has not only created one track he has also created a whole album called [Infiltration](https://filtersequence.bandcamp.com/album/infiltration), which is being released on vinyl on 20 March 2026. Go pre-order it now before it runs out. 
 
 Steve is also having a [listening party 22 March 2026 at 8:00 PM GMT](https://filtersequence.bandcamp.com/merch/filter-sequence-infiltration-album-listening-party), why not join in.
 
-#### Live at Dubrek Studios Derby
+### Live at Dubrek Studios Derby
 
 On Friday 6 March 2026 I performed **More Acid** live with Filter Sequence (aka Steve). I also performed a small part of [Acid Jubilee]. 
 
@@ -103,14 +101,14 @@ In the lead up to the gig I was pretty nervous, in fact I was proper bricking it
 
 I got to meet the other performers and they were all super nice and welcoming. I also got to see and hear them sound checking. While this was happening I was getting more and more nervous. Eventually Steve turned up at 19:15, he was very excited and pleased to see everyone which distracted him from setting up. This did not help my nervousness. 
 
-##### Acts
+#### Acts
 
 - Hardaker & Kuz- Filter Sequence (featuring Dave Letorey & Amanda Danisa)
 - Lilly Sphire
 - Steve Hardaker
 - Nova (featuring Lilly Sphire)
 
-##### Video
+#### Video
 
 There is a [video of the full set by Filter Sequence](https://vimeo.com/1171473016).
 
