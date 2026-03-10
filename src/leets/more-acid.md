@@ -125,3 +125,14 @@ There is a [video of the full set by Filter Sequence](https://vimeo.com/11714730
 
 - [Acid4Life](https://soundcloud.com/mattchimemattchristie/acid4life-mannstock-2023-mixdown-300823) by Badger.
 - [Decoded Magazine Mix of the Month [Month]  – Wayne Djc](https://hearthis.at/mw3pblgr/emasteredmy-mix-week-1-ddd-finished/)
+
+### Other sightings
+
+This is a reference of where else More Acid has been seen in the world.
+
+#### Bramus Anchors Aweigh!
+
+My friend [Bramus](https://www.bram.us/), recently gave a talk at [State of the Browser](https://2026.stateofthebrowser.com/speaker/bramus-van-damme/), in which one of his [slides reference More Acid (slide 16)](https://www.bram.us/2026/02/28/anchors-aweigh-sotb2026/#slides).
+
+![Bramus stood on stage highlight a popover which reads More Acid](/img/more-acid/bramus-more-acid.jpg)  
+Photo by [Josh](https://bsky.app/profile/joshtumath.uk/post/3mfvz23jgzc2f)
