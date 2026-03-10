@@ -124,3 +124,4 @@ There is a [video of the full set by Filter Sequence](https://vimeo.com/11714730
 ### Mixes
 
 - [Acid4Life](https://soundcloud.com/mattchimemattchristie/acid4life-mannstock-2023-mixdown-300823) by Badger.
+- [Decoded Magazine Mix of the Month [Month]  – Wayne Djc](https://hearthis.at/mw3pblgr/emasteredmy-mix-week-1-ddd-finished/)
