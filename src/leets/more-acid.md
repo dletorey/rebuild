@@ -65,7 +65,7 @@ Roll on about a year and Badger contacted to say that he's working on Acid4Life 
 
 On [5 April 2025 I went to see Orbital at Brixton Academy](https://www.setlist.fm/setlist/orbital/2025/o2-academy-brixton-london-england-6b543e0e.html) perform their first and second albums (commonly referred to as Green & Brown, due to the colours of the covers). Half way through the second set something went wrong with their Roland 303 and Paul said:
 
-> Hold on a minute, there's something wrong with our 303. Which mean's there'll be _No more acid_.
+> We've got an issue with our 303. Which mean's there'll be _No more acid_.
 
 Then looking directly at me he added:
 
