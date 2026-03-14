@@ -4,6 +4,28 @@ description: "Yard Act live at Hammersmith Apollo on the last night of their UK 
 tags: ["Music", "Yard Act", "Live", "Concert"]
 rating: 5
 date: 2024-03-28
+album: https://www.flickr.com/photos/dletorey/albums/72177720332524947
+setlist:
+  - url: https://www.setlist.fm/setlist/yard-act/2024/eventim-apollo-london-england-13aa4d51.html
+  - tracks: 
+    - An Illusion
+    - §Dead Horse
+    - When the Laughter Stops
+    - Petroleum
+    - Pour Another
+    - Fizzy Fish
+    - We Make Hits
+    - Happy Birthday to You (Mildred J. Hill & Patty Hill cover) (Sung to Tarra)
+    - Peanuts (selected by Tarra wheel spin)
+    - Witness (Can I Get A?)
+    - Down by the Stream
+    - Dream Job
+    - Payday
+    - The Overload
+    - A Vineyard for the North  
+    - Encore: 
+      - 100% Endurance
+      - The Trench Coat Museum 
 ---
 
 Last night I went to see Yard Act at Hammersmith Apollo. This was the second time this year seeing them, the first was at [Pryzm Kington](https://www.setlist.fm/setlist/yard-act/2024/pryzm-kingston-upon-thames-england-2bad0066.html) for their Album launch of [Where's my Utopia](https://en.wikipedia.org/wiki/Where%27s_My_Utopia%3F).
@@ -27,7 +49,7 @@ If you get a chance to [see them this year](https://www.yardactors.com/live/) th
 
 ### Set List
 
-[![Basement Jaxx Setlist South Facing: 22 August 2025](/img/yard-act/yard-act-setlist-29-03-2024.png)](https://www.setlist.fm/setlist/yard-act/2024/eventim-apollo-london-england-13aa4d51.html)
+[![Yard Act Setlist Dream Job Tour 27 March 2024](/img/yard-act/yard-act-setlist-29-03-2024.png)](https://www.setlist.fm/setlist/yard-act/2024/eventim-apollo-london-england-13aa4d51.html)
 
 ### Albums
 

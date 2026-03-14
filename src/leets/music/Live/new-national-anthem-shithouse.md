@@ -3,6 +3,28 @@ title: "The new national anthem- Shithouse"
 description: "Big Special live at Rescue Rooms, Nottingham. Supported by Gans"
 date: 2026-02-14
 tags: ["Big Special", "Gans", "Nottingham", "Live", "Music"]
+album: https://www.flickr.com/photos/dletorey/albums/72177720332501542
+setlist:
+  - url: https://www.setlist.fm/setlist/big-special/2026/rescue-rooms-nottingham-england-3b47a028.html
+  - tracks: 
+    - BLACK COUNTRY GOTHIC
+    - HUG A BASTARD.
+    - GOD SAVE THE PONY.
+    - DESPERATE BREAKFAST
+    - THIS HERE AIN'T WATER
+    - MONGREL
+    - BLACK DOG/WHITE HORSE
+    - SLUGLIFE
+    - DRAGGED UP A HILL (and thrown down the other side)
+    - THIN HORSES.
+    - SHOP MUSIC.
+    - PROFESSIONALS.
+    - YESBOSS.
+    - SHITHOUSE
+  - Encore:
+    - TREES
+    - FOR THE BIRDS
+    - DiG!
 ---
 
 A week ago I said to Susan:

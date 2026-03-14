@@ -4,6 +4,35 @@ description: "Underworld at Brixton Academy was exactly the thing I needed today
 date: 2026-02-06
 tags: ["Underworld", "Brixton Academy", "Live", "Music"]
 updated: 2026-02-08
+album: 
+setlist:
+  - url: https://www.setlist.fm/setlist/underworld/2026/o2-academy-brixton-london-england-6341e287.html
+  - tracks: 
+    - Set 1:
+      - Good Day Today (Underworld Remix) (David Lynch song)
+      - Deep Arch
+      - Jumbo
+      - Techno Shinkansen
+      - Confusion the Waitress
+      - Cherry Pie
+      - Two Months Off (with "Mother" by Idles sample)
+      - Juanita 2022
+      - King of Snake
+      - Kittens (with "Sofi Needs a Ladder" by Deadmau5 samples) 
+    - Set 2:
+      - Born Slippy (with "Good Day Today (Underworld Classic Remix)" by David Lynch sample)
+      - Pearl's Girl
+      - Dark & Long (Dark Train) (with "Falling in a Dream (D.Dan Remix)" by AADJA and "Illegal" by PinkPantheress samples)
+      - Cowgirl
+      - S T A R
+      - alleswirdgut (Underworld Remix) (Brutalismus 3000 cover) (with "Giving Bad People Good Ideas" by Death Grips intro snippet)
+      - Push Upstairs
+      - and the colour red (interpolated with "B O D Y" by Kettama)
+      - Border Country (with "Free Britney" by Anetha intro snippet)
+      - Arpeggio12
+      - Pearl's Girl (Tin There) (with "Diskotéka Avantgarde" by Brutalismus 3000 sample)
+      - Moaner (with "Horíme" by Brutalismus 3000 intro snippet)
+      - Born Slippy .NUXX 
 ---
 
 This week has not been the best. For example I updated my phone to the latest software and now every time I make a call it shows me a picture of my [mum](/leets/mum/). I could make it stop doing this but I don’t want to make my mum not be one of my favourites. I’ll get over this but that time is not yet. 

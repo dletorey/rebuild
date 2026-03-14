@@ -4,6 +4,31 @@ description: "This week has been a tough time, a move in the right direction and
 tags: ["Mental Health", "Personal Trainer", "Basement Jaxx"]
 date: 2025-08-24
 photo: /img/basement-jaxx/wheres-your-head-at-og.jpg
+album: https://www.flickr.com/photos/dletorey/albums/72177720332519035
+setlist:
+  - url: https://www.setlist.fm/setlist/basement-jaxx/2025/crystal-palace-bowl-london-england-2b5b78fa.html
+  - tracks: 
+    -  Good Luck
+    - Bingo Bango
+    - Jump n' Shout
+    - Raindrops
+    - Do Your Thing
+    - (Unknown)
+    - Fly Life
+    - Red Alert
+    - (Unknown)
+    - Romeo
+    - (Unknown)
+    - Rendez-Vu
+    - Never Say Never
+    - Oh My Gosh
+    - Jus 1 Kiss
+    - Cish Cash
+    - Where's Your Head At
+    - encore:
+      - Express Yourself
+      - Samba Magic
+      - Bambina 
 ---
 
 ## Mental Health

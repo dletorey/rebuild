@@ -4,6 +4,16 @@ description: "Happy 303 Day and the story of how the track(s) More Acid came abo
 date: 2026-03-03
 updated: 2026-03-09
 tags: ["More Acid", "Acid House", "Music"]
+album: https://www.flickr.com/photos/dletorey/albums/72177720332518188
+setlist:
+  - url: https://www.setlist.fm/setlist/filter-sequence/2026/dubrek-studios-derby-england-1b485934.html
+  - tracks: 
+    - Filter Theme
+    - Acid Jubilee (Featuring Dave Letorey)
+    - More Acid (Featuring Dave Letorey)
+    - Library Hippie
+    - Field of Dreams (Featuring Amanda Danisa)
+    - Garvey Haircut (Featuring Amanda Danisa) 
 ---
 ## Happy 303 day
 

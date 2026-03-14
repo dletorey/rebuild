@@ -3,6 +3,40 @@ title: "Orbital Green/Brown Tour Birmingham"
 description: "Green and Brown Orbital Tour at O2 Institute Brimingham Friday 26 April 2024"
 tags: ["Orbital", "Green Album", "Brown Album", "Live Music", "Music", "Gigs", "Birmingham", "O2 Institute", "Digbeth"]
 date: 2024-04-26
+album: https://www.flickr.com/photos/dletorey/albums/72177720332518680
+setlist:
+  - url: https://www.setlist.fm/setlist/orbital/2024/o2-institute-birmingham-england-73abd6e5.html
+  - tracks: 
+    - Green:
+      - The Moebius
+      - Speed Freak
+      - Macro Head
+      - Oolaa
+      - Desert Storm
+      - Fahrenheit 303
+      - Steel Cube Idolatry
+      - High Rise
+      - Torpedo Town (PKA Untitled)
+      - Chime
+      - Midnight
+      - Belfast
+      - I Think It’s Disgusting 
+    - Brown:
+      - Time Becomes
+      - Planet of the Shapes
+      - Lush 3-1
+      - Lush 3-2
+      - Impact (The Earth Is Burning)
+      - Remind
+      - Walk Now
+      - Monday
+      - Halcyon + On + On
+      - Input Out 
+    - Encore:
+      - Spicy
+      - Dirty Rat
+      - Satan
+      - Where Is It Going? 
 ---
 
 So tonight was the first night, for me, of [Orbital’s](https://orbitalofficial.com/) [Green](https://album.link/gb/i/1313447481)/[Brown](https://album.link/gb/i/1320062319) [tour](https://orbitalofficial.com/2023/10/13/the-green-album-live-2024/). They have already played Exeter and Southampton, I’m also going to London and Nottingham.

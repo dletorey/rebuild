@@ -4,6 +4,8 @@ description: "Nightmares on Wax 30th anniversary of Smokers Delight and 20th ann
 date: 2026-03-13
 tags: ["Nightmares", "Royal Albert Hall", "Live", "Music", "Smokers Delight", "In a Space Outta Sound"]
 album: https://www.flickr.com/photos/dletorey/albums/72177720332518243/
+setlist:
+  - url: https://www.setlist.fm/setlist/nightmares-on-wax/2026/royal-albert-hall-london-england-7349965d.html
 # updated: 2026-02-08
 ---
 

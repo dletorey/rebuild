@@ -3,6 +3,40 @@ title: "Orbital Green/Brown Tour London"
 description: "Green and Brown Orbital Tour at The Troxy Liimehouse London Saturday 27 April 2024"
 tags: ["Orbital", "Green Album", "Brown Album", "Live Music", "Music", "Gigs", "London", "Troxy"]
 date: 2024-04-27
+album: https://www.flickr.com/photos/dletorey/albums/72177720332553544
+setlist:
+  - url: https://www.setlist.fm/setlist/orbital/2024/troxy-london-england-7babd6d8.html
+  - tracks: 
+    - Green:
+      - The Moebius
+      - Speed Freak
+      - Macro Head
+      - Oolaa
+      - Desert Storm
+      - Fahrenheit 303
+      - Steel Cube Idolatry
+      - High Rise
+      - Torpedo Town (PKA Untitled)
+      - Chime
+      - Midnight
+      - Belfast
+      - I Think It’s Disgusting 
+    - Brown:
+      - Time Becomes
+      - Planet of the Shapes
+      - Lush 3-1
+      - Lush 3-2
+      - Impact (The Earth Is Burning)
+      - Remind
+      - Walk Now
+      - Monday
+      - Halcyon + On + On
+      - Input Out 
+    - Encore: 
+      - Spicy
+      - Dirty Rat
+      - Satan
+      - Where Is It Going? 
 ---
 
 So tonight was the second night, for me, of [Orbital’s](https://orbitalofficial.com/) [Green](https://album.link/gb/i/1313447481)/[Brown](https://album.link/gb/i/1320062319) [tour](https://orbitalofficial.com/2023/10/13/the-green-album-live-2024/). Last night was <a href="/leets/orbital-green-brown-tour-birmingham">Birmingham</a>, before I start on today this post has got a message for Birmingham, where was your bass?

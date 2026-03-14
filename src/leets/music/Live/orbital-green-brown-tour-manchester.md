@@ -3,6 +3,39 @@ title: "Orbital Green/Brown Tour Manchester"
 description: "Green and Brown Orbital Tour at Rock City Manchester Saturday 4 May 2024"
 tags: ["Orbital", "Green Album", "Brown Album", "Live Music", "Music", "Gigs", "Manchester", "Victoria Warehouse"]
 date: 2024-05-04
+album: https://www.flickr.com/photos/dletorey/albums/72177720332524672
+setlist:
+  - url: https://www.setlist.fm/setlist/orbital/2024/o2-victoria-warehouse-manchester-england-6babd6c2.html
+  - tracks: 
+    - Green:
+      - The Moebius
+      - Speed Freak
+      - Macro Head
+      - Oolaa
+      - Desert Storm
+      - Fahrenheit 303
+      - Steel Cube Idolatry
+      - High Rise
+      - Torpedo Town
+      - Chime
+      - Midnight
+      - Belfast / Tonight in Belfast 
+    - Brown:
+      - Time Becomes
+      - Planet of the Shapes
+      - Lush 3-1
+      - Lush 3-2
+      - Impact (The Earth Is Burning)
+      - Remind
+      - Walk Now...
+      - Monday
+      - Halcyon + On + On
+      - Input Out 
+    - Encore: 
+      - Spicy
+      - Dirty Rat
+      - Satan / Beelzedub
+      - Where Is It Going? 
 ---
 
 So tonight was the fourth night, for me, of [Orbital’s](https://orbitalofficial.com/) [Green](https://album.link/gb/i/1313447481)/[Brown](https://album.link/gb/i/1320062319) [tour](https://orbitalofficial.com/2023/10/13/the-green-album-live-2024/). The previous weekend I attended:
