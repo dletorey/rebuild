@@ -24,6 +24,8 @@ Now at the correct terminal we went and found somewhere to sit and found a seat 
 
 Eventually we got on our flight and are now finally on our way to Sweden. I'm hoping that was we get closer to Sweden we will be able to see the Aurora Borealis, which we would not have done if we hadn't missed our earlier flight.
 
+Alas there were no northern lights.
+
 ## Lessons
 
 - Taz was amazing
