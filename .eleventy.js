@@ -8,6 +8,7 @@ const markdownIt = markdownit({
 
 // import plugins
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 
 // import filters
 import collectionFilters from "./src/eleventy/filters/collections.js";
@@ -42,6 +43,25 @@ export default function (config) {
 			pictureAttributes: {}
 		},
   });
+
+  config.addPlugin(feedPlugin, {
+    type: "atom",
+    outputPath: "/feed.xml",
+    collection: {
+      name: "posts",
+      limit: 10,
+    },
+    metadata: {
+      language: "en",
+      title: "Dave Letorey",
+      subtitle: "TBD",
+      base: "https://letorey.co.uk/",
+      author: {
+        title: "Dave Letorey",
+        email: "", // is optional, tbd
+      }
+    }
+  })
 
   // redirects
   // config.addPassthroughCopy('src/_redirects');
