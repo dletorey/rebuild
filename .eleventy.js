@@ -54,7 +54,7 @@ export default function (config) {
     metadata: {
       language: "en",
       title: "Dave Letorey",
-      subtitle: "",
+      subtitle: "Personal Blog of Dave Letorey",
       base: "https://letorey.co.uk/",
       author: {
         title: "Dave Letorey",
