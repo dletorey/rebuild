@@ -54,11 +54,10 @@ export default function (config) {
     metadata: {
       language: "en",
       title: "Dave Letorey",
-      subtitle: "TBD",
+      subtitle: "",
       base: "https://letorey.co.uk/",
       author: {
         title: "Dave Letorey",
-        email: "", // is optional, tbd
       }
     }
   })
