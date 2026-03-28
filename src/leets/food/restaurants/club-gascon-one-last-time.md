@@ -12,9 +12,9 @@ The first time we came to Club Gascon was about 2010 weeks ago went because my f
 
 ## Meal
 
-Welcome course - Mushroom cigars, chilli clouds and Negroni choux buns.
-Amuse bouche - Leak mouse
-Black Pudding and Sweetbread Raviolo, Bisque and Lovage
-Truffle Glazed Foie Gras Pebbles, Blood Orange, Confit Kumquat, Black Treacle Cake
-Guinea Fowl Balllotine, Black Lemon Sauce, Croustous
-Fondue, Chou Rave, Tipsy Sauce, Chouquettes
+- Welcome course - Mushroom cigars, chilli clouds and Negroni choux buns.
+- Amuse bouche - Leak mouse
+- Black Pudding and Sweetbread Raviolo, Bisque and Lovage
+- Truffle Glazed Foie Gras Pebbles, Blood Orange, Confit Kumquat, Black Treacle Cake
+- Guinea Fowl Balllotine, Black Lemon Sauce, Croustous
+- Fondue, Chou Rave, Tipsy Sauce, Chouquettes
