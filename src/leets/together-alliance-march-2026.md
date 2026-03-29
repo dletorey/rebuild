@@ -24,7 +24,7 @@ As we were right at the front and near where the speeches were happening we got 
 - [Jeremy Corbyn](https://en.wikipedia.org/wiki/Jeremy_Corbyn) - Former Labour Leader, now Joint Leader of Your Party and MP for Islington North
 - [John McDonnell](https://en.wikipedia.org/wiki/John_McDonnell) - Former  Shadow Chancellor of the Exchequer and Labour MP for Hayes and Harlington 
 - [Daniel Kebede](https://en.wikipedia.org/wiki/Daniel_Kebede) - General Secretary of the National Education Union (NEU)
-- [Zach Polanski](https://en.wikipedia.org/wiki/Zack_Polanski) - Leader of the Green Party
+- [Zack Polanski](https://en.wikipedia.org/wiki/Zack_Polanski) - Leader of the Green Party
 
 ## Marching
 
