@@ -1,7 +1,7 @@
 export default {
   layout: "books",
   contentType: "book",
-  tags: ["book", "post"],
+  tags: ["book"],
   eleventyComputed: {
     permalink: "/books/{{ page.fileSlug }}/index.html",
   }

@@ -1,3 +1,5 @@
 export default {
-  layout: "posts"
+  layout: "posts",
+  contentType: "post",
+  tags: ["post"]
 }
