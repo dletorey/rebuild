@@ -5,6 +5,7 @@ date: 2026-03-03
 updated: 2026-03-09
 tags: ["More Acid", "Acid House", "Music"]
 album: https://www.flickr.com/photos/dletorey/albums/72177720332518188
+permalink: /leets/more-acid/index.html
 setlist:
   - url: https://www.setlist.fm/setlist/filter-sequence/2026/dubrek-studios-derby-england-1b485934.html
   - tracks: 

@@ -5,6 +5,7 @@ date: 2026-01-14
 tags: ["Palestine", "Hunger Strike", "Heba Muraisi"]
 img: /img/imagine/heba.jpg
 updated: 2026-01-15
+permalink: /leets/imagine/index.html
 ---
 
 Imagine being in jail for destroying a drone that was going to be used to kill possibly 100s of innocent people.

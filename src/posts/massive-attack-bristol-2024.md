@@ -3,6 +3,7 @@ title: "Massive Attack live on Clifton Downs Bristol"
 description: "I've seen massive attack live now over 20 times and this is definitely the best."
 tags: ["Massive Attack", "Music", "Bristol", "Live", "Concert"]
 date: 2024-08-27
+permalink: /posts/massive-attack-bristol-2024/index.html
 ---
 I first saw [Massive Attack](https://en.wikipedia.org/wiki/Massive_Attack) _Live_ at Phoenix Festival 20 July 1996 (one of my favourite festivals ever), from that day I have been to see them as often as I can. I had seen the Massive Attack sound system the year previously when they were asked to curate the first ever [Dance Tent at Glastonbury Festival](https://cdn.glastonburyfestivals.co.uk/history/history-1995/), but this was not a live show.
 

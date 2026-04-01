@@ -3,6 +3,7 @@ title: "Trains, Talks & Techno!"
 description: "I traveled to Bristol for Web Dev Conf & Cardiff for Orbital and Leftfield and was delayed multiple times by multiple trains."
 tags: ["Train delays", "Music", "Live", "Orbital", "Leftfield", "Bristol", "Cardiff"]
 date: 2024-09-30
+permalink: /posts/trains-talks-and-techno/index.html
 ---
 ## Trains
 

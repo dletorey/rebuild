@@ -3,6 +3,7 @@ title: "IndieWebCamp Dusseldorf 2024"
 description: "Today I attended IndieWebCamp in Düsseldorf, before Beyond Tellerand conference, here I layout what I did during the day."
 tags: ["IndieWeb", "IndieWebCamp", "Düsseldorf", "Beyond Tellerand", "Coding"]
 date: 2024-05-12
+permalink: /posts/indiewebcamp-dusseldorf-2024/index.html
 ---
 
 At the beginning of the day, my blog only had posts there was literally no way of finding those posts other than knowing the URL and this is what I wanted to fix.

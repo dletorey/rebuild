@@ -4,7 +4,7 @@ description: "A one day single track web conference focusing on the cool things 
 date: 2026-03-12
 tags: ["Web", "Conference", "Brighton", "CSS", "HTML", "PWA", "Typography",]
 album: https://flickr.com/photos/dletorey/albums/72177720332501841/
-# updated: 2026-02-08
+permalink: /leets/web-day-out-2026/index.html
 ---
 
 ## The short version

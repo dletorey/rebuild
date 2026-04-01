@@ -5,6 +5,7 @@ date: 2026-02-07
 tags: ["Underworld", "Brixton Academy", "Live", "Music"]
 updated: 2026-02-08
 album: https://www.flickr.com/photos/dletorey/albums/72177720332501741
+permalink: /leets/caturday/index.html
 setlist:
   - url: https://www.setlist.fm/setlist/underworld/2026/o2-academy-brixton-london-england-1341dd71.html
   - tracks:

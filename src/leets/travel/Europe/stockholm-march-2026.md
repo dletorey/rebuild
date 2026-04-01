@@ -4,6 +4,7 @@ description: "Things went very wrong but turned out amazingly."
 date: 2026-03-23
 tags: ["Stockholm", "Sweden", "Semla", "Meatballs", "Cocktails", "Boat", "Bus", "Train"]
 album: https://flickr.com/photos/dletorey/albums/72177720332681798
+permalink: /leets/stockholm-march-2026/index.html
 ---
 
 This weekend, we went to Stockholm to visit our friend Mike and see [Leftfield's first ever Swedish concert](https://www.setlist.fm/setlist/leftfield/2026/fallan-stockholm-sweden-634b6a87.html). Unfortunately [we missed our flight](/leets/six-hours-in-heathrow/) which meant that we arrived much later than we expected and missed the gig altogether.

@@ -3,6 +3,7 @@ title: "Mexico holiday day 15"
 description: "Fifteenth day of our Mexico trip, Mexican Grand Prix circuit"
 tags: ["Mexico", "Mexico City", "Travel", "Palacio de los Deportes", "Autódromo Hermanos Rodríguez", "Grand Prix"]
 date: 2024-04-19
+permalink: /leets/mexico-day-15/index.html
 ---
 
 Today was our last day in Mexico again we had breakfast at [Muss Cafe](https://maps.app.goo.gl/hYJDwXjgXdKPQ19G9) and then got our taxi to Oaxaca Airport for our last night before we flew home.

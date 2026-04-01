@@ -2,8 +2,8 @@
 title: "I've built a blog"
 description: "I am rebuilding my blog, from Squiz Matrix to 11ty. Here are the reasons I am doing so."
 tags: ["Blog", "website", "coding"]
-old: true
-date: 2024-03-12
+date: 2017-12-25
+permalink: /blog/ive-built-a-blog/index.html
 ---
 
 <p>Well, when I say built, what I actually meaning is building.</p>

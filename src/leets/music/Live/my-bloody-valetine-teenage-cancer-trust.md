@@ -4,6 +4,7 @@ description: "My Bloody Valentine live at Royal Albert Hall in aid of Teenage Ca
 date: 2026-03-27
 tags: ["Music", "Live", "My Bloody Valentine", "Royal Albert Hall", "London", "Chvrches"]
 album: https://flickr.com/photos/dletorey/albums/72177720332756720
+permalink: /leets/my-bloody-valentine-teenage-cancer-trust/index.html
 ---
 
 Today my plan was to go to Northampton to hangout with my friend Pawel and other members of the [NN1 dev club](https://nn1.dev/). While on my way to Mackbear for coffee and breakfast I got a message from Susan saying her sister couldn’t go to the gig and did I want to go with her.

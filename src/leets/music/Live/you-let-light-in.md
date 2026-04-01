@@ -4,7 +4,8 @@ description: "Underworld at Brixton Academy was exactly the thing I needed today
 date: 2026-02-06
 tags: ["Underworld", "Brixton Academy", "Live", "Music"]
 updated: 2026-02-08
-album: 
+album: https://flickr.com/photos/dletorey/albums/72177720332529879/
+permalink: /leets/you-let-light-in/index.html
 setlist:
   - url: https://www.setlist.fm/setlist/underworld/2026/o2-academy-brixton-london-england-6341e287.html
   - tracks: 

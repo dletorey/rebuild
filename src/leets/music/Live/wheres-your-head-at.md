@@ -5,6 +5,7 @@ tags: ["Mental Health", "Personal Trainer", "Basement Jaxx"]
 date: 2025-08-24
 photo: /img/basement-jaxx/wheres-your-head-at-og.jpg
 album: https://www.flickr.com/photos/dletorey/albums/72177720332519035
+permalink: /leets/wheres-your-head-at/index.html
 setlist:
   - url: https://www.setlist.fm/setlist/basement-jaxx/2025/crystal-palace-bowl-london-england-2b5b78fa.html
   - tracks: 

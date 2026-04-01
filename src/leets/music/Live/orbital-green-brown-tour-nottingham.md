@@ -4,6 +4,7 @@ description: "Green and Brown Orbital Tour at Rock City Nottingham Sunday 28 Apr
 tags: ["Orbital", "Green Album", "Brown Album", "Live Music", "Music", "Gigs", "Nottingham", "Rock City"]
 date: 2024-04-28
 album: https://www.flickr.com/photos/dletorey/albums/72177720332524442
+permalink: /leets/orbital-green-brown-tour-nottingham/index.html
 setlist:
   - url: https://www.setlist.fm/setlist/orbital/2024/rock-city-nottingham-england-73abd6d1.html
   - tracks: 
