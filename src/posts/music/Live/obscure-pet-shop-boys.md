@@ -2,6 +2,7 @@
 title: "Obscure Pet Shop Boys"
 description: "pet shop Boys are playing 5 nights at the Electric Ballroom in Camden they are playing only B-Sides and rarities, to night is the first night of this tour."
 date: 2026-04-06
+updated: 2026-04-07
 tags: ["Live", "Pet Shop Boys", "London", "Camden", "Electric Ballroom"]
 # album: https://flickr.com/photos/dletorey/albums/72177720332756720
 ---
@@ -19,11 +20,19 @@ The queue was huge (surprise) the man selling said: "There another upstairs that
 
 ## Princess Julia
 
-_Details to come_
+The support for tonights show was a DJ set by [Princess Julia](https://en.wikipedia.org/wiki/Princess_Julia) of [Blitz Kids](https://en.wikipedia.org/wiki/Blitz_Kids_(New_Romantics)) fame.
+
+The sound system in the room was huge and thunderous, her set was brilliant and featured loads of great 70s & 80s tunes including a long and strung out version of [Funkytown](https://song.link/gb/i/1440894579) by Lipps Inc.
 
 ## Pet Shop Boys
 
-_Details to come_
+Tonight's set was no hits and as Neil introduced:
+
+> B-sides, Album tracks and what we're calling Fan Favourites
+
+The first track they played had never been played live before, it was good that we went to the first night of this tour otherwise this would not have been a debut. 10 of the 23 tracks (according to [setlist.fm](https://www.setlist.fm/setlist/pet-shop-boys/2026/electric-ballroom-london-england-7b4fc6b0.html)) had not been played live before, this is probably not entirely accurate as it is based upon the setlists that have been added to the site. The lats track of the encore was a debut as it was a brand new track too.
+
+It was an amazing night and seeing a band like Pet Shop Boys in a 1500 capacity venue, with a really friendly crowd was **epic**. More acts should do gigs like this for their super-fans, in my opinion.
 
 ## Set list
 
