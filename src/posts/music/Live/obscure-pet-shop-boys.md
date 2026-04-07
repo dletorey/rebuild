@@ -4,7 +4,7 @@ description: "pet shop Boys are playing 5 nights at the Electric Ballroom in Cam
 date: 2026-04-06
 updated: 2026-04-07
 tags: ["Live", "Pet Shop Boys", "London", "Camden", "Electric Ballroom"]
-# album: https://flickr.com/photos/dletorey/albums/72177720332756720
+album: https://www.flickr.com/photos/dletorey/albums/72177720332966314
 ---
 
 We arrived in Camden at 16:30 and there was already 100s in the queue for the gig that the doors were 18:00. By the time Sarah and I had eaten and returned to the queue, at 17:30, it had more than doubled and was all the way around the corner. Once the doors opened it was still nearly an hour before we got inside the venue.
