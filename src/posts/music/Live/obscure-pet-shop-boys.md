@@ -8,9 +8,6 @@ tags: ["Live", "Pet Shop Boys", "London", "Camden", "Electric Ballroom"]
 
 We arrived in Camden at 16:30 and there was already 100s in the queue for the gig that the doors were 18:00. By the time Sarah and I had eaten and returned to the queue, at 17:30, it had more than doubled and was all the way around the corner. Once the doors opened it was still nearly an hour before we got inside the venue.
 
-- Sexy Northerner
-- A Dream of a better tomorrow
-
 ## Merchandise
 
 Once in there was a merch stand, in the usual place at the bottom of the stairs, which had a green tour shirt and hoodie that read _Obscure Pet Shop Boys_ there were also a couple of obscure track specific shirts:
