@@ -34,6 +34,8 @@ The first track they played had never been played live before, it was good that 
 
 It was an amazing night and seeing a band like Pet Shop Boys in a 1500 capacity venue, with a really friendly crowd was **epic**. More acts should do gigs like this for their super-fans, in my opinion.
 
+![Neil Tennant and Chris Lowe from the Pet Shop Boys on stage bathed in green and purple light, Neil is sat on a stool and Chris is playing keyboards](/img/obscure-pet-shop-boys/pet-shop-boys.jpg)
+
 ## Set list
 
 <details>
