@@ -45,4 +45,4 @@ The support tonight was great and included:
 - [Filter Sequence](https://filtersequence.bandcamp.com/) (featuring me on Guest Vocals for [More Acid](https://song.link/i/1874160407))
 - [James Prail](https://jamesprail.bandcamp.com/)
 
-What a great night.
+What a great night, loads of people in the crowd came and told me they really enjoyed my performance/shouting, I had a great time time doing it.
