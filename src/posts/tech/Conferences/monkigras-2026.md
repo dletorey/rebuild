@@ -2,8 +2,9 @@
 title: "Monkigras 2026"
 description: "This year's edition is named, Preparing Craft - Being prepared in Software and in Life."
 date: 2026-03-19
+updated: 2026-04-13
 tags: ["Software", "Monkigras"]
-# album: https://www.flickr.com/gp/dletorey/8QqU616N9y
+album: https://www.flickr.com/photos/dletorey/albums/72177720333093839/
 permalink: /leets/monkigras-2026/index.html
 ---
 
