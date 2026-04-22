@@ -1,0 +1,7 @@
+{
+  "tags": ["httpstatus"],
+  "sitemap": {
+      "exclude": true
+  },
+  "eleventyExcludeFromCollections": true
+}
