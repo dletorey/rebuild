@@ -3,9 +3,9 @@ title: "Yard Act - Dream Job Tour"
 description: "Yard Act live at Hammersmith Apollo on the last night of their UK leg of the Dream Job Tour."
 tags: ["Yard Act", "Live", "Concert"]
 rating: 5
-date: '2024-03-28'
+date: "2024-03-28"
 album: https://www.flickr.com/photos/dletorey/albums/72177720332524947
-oldUrl: /leets/yard-act-dream-job-tour/index.html
+oldUrl: /leets/yard-act-dream-job-tour/
 setlist:
   - url: https://www.setlist.fm/setlist/yard-act/2024/eventim-apollo-london-england-13aa4d51.html
   - tracks:

@@ -4,7 +4,7 @@ description: "Today I joined 500,00 people to march against the rise of the Far 
 date: "2026-03-28"
 tags: ["Protest", "Far Right", "Hope", "Love", "London"]
 album: https://www.flickr.com/photos/dletorey/albums/72177720332774291
-oldUrl: /leets/together-alliance-march-2026/index.html
+oldUrl: /leets/together-alliance-march-2026/
 ---
 
 ## Meeting Up

@@ -4,7 +4,7 @@ description: "A few weeks ago we got an email that one of our favourite restaura
 date: "2026-03-25"
 tags: ["Restaurant", "Michelin Star", "French Cuisine"]
 album: https://flickr.com/photos/dletorey/albums/72177720332734377
-oldUrl: /leets/club-gascon-one-last-time/index.html
+oldUrl: /leets/club-gascon-one-last-time/
 ---
 
 25 March 2007 is the date that Susan and I met for the first time. This anniversary coincided with the closing of one of our favourite London restaurants, [Club Gascon](https://www.clubgascon.com/). The restaurant is actually closing on Saturday 28 March but it will be busy and there is a [March against the Far Right](https://www.togetheralliance.org.uk/) that day.

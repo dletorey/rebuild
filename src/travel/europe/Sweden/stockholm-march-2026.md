@@ -15,7 +15,7 @@ tags:
     "Leftfield"
   ]
 album: https://flickr.com/photos/dletorey/albums/72177720332681798
-oldUrl: /leets/stockholm-march-2026/index.html
+oldUrl: /leets/stockholm-march-2026/
 ---
 
 This weekend, we went to Stockholm to visit our friend Mike and see [Leftfield's first ever Swedish concert](https://www.setlist.fm/setlist/leftfield/2026/fallan-stockholm-sweden-634b6a87.html). Unfortunately [we missed our flight](/leets/six-hours-in-heathrow/) which meant that we arrived much later than we expected and missed the gig altogether.

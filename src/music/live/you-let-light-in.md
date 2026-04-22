@@ -1,11 +1,11 @@
 ---
 title: "you bring light in"
 description: "Underworld at Brixton Academy was exactly the thing I needed today!"
-date: '2026-02-06'
+date: "2026-02-06"
 tags: ["Underworld", "Brixton Academy", "Live"]
-updated: '2026-02-08'
+updated: "2026-02-08"
 album: https://flickr.com/photos/dletorey/albums/72177720332529879/
-oldUrl: /leets/you-let-light-in/index.html
+oldUrl: /leets/you-let-light-in/
 setlist:
   - url: https://www.setlist.fm/setlist/underworld/2026/o2-academy-brixton-london-england-6341e287.html
   - tracks:

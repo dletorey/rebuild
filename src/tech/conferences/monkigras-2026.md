@@ -1,10 +1,10 @@
 ---
 title: "Monkigras 2026"
 description: "This year's edition is named, Preparing Craft - Being prepared in Software and in Life."
-date: '2026-03-19'
+date: "2026-03-19"
 tags: ["Software", "Monkigras"]
 # album: https://www.flickr.com/gp/dletorey/8QqU616N9y
-oldUrl: /leets/monkigras-2026/index.html
+oldUrl: /leets/monkigras-2026/
 ---
 
 [Monkigras](https://monkigras.com) is my favourite conference of the year, sorry to all the other conference friends I have, and it is not even truly my industry. Every year the conference has a theme and this year's is about being prepared.

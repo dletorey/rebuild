@@ -3,7 +3,7 @@ title: "Grief is just love with no place to go"
 description: "A few weeks ago my beautiful friend Sara, suddenly, passed away."
 tags: ["Grief", "Love", "Friends"]
 date: "2024-08-12"
-oldUrl: /posts/grief-is-just-love-with-no-place-to-go/index.html
+oldUrl: /posts/grief-is-just-love-with-no-place-to-go/
 ---
 
 Anyone who knows me well, will know that I have quite a lot of friends. Friends I meet through work, friends I meet at conferences and friends I meet at music festivals. This last group of friends we refer to as our _Festival Family_. We don't only meet up at music festivals, we also meet at gigs, go on holiday together, go on mystery tours, go to each others birthdays and parties and we've also attended some of the greatest weddings known to man, in fact it has been my great pleasure to be the shouty man (master of ceremonies) at a great deal of these weddings. This group of people mean the world to me.

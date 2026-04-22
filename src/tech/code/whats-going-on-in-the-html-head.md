@@ -3,7 +3,7 @@ title: "What's going on in the (HTML) head"
 description: "The <code>&lt;head&gt;</code> of an HTML file describes how the page works, this explains what goes inside."
 tags: ["HTML", "Websites", "Head", "Favicon", "CSS", "Social Media"]
 date: "2024-03-11"
-oldUrl: /posts/whats-going-on-in-the-html-head/index.html
+oldUrl: /posts/whats-going-on-in-the-html-head/
 ---
 
 The `<head>` HTML element helps describe to the browser what is going on in a web page. Here I describe what those things are, what they do, and why they are important.

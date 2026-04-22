@@ -1,11 +1,11 @@
 ---
 title: "More Acid"
 description: "Happy 303 Day and the story of how the track(s) More Acid came about."
-date: '2026-03-03'
-updated: '2026-03-09'
+date: "2026-03-03"
+updated: "2026-03-09"
 tags: ["More Acid", "Acid House"]
 album: https://www.flickr.com/photos/dletorey/albums/72177720332518188
-oldUrl: /leets/more-acid/index.html
+oldUrl: /leets/more-acid/
 setlist:
   - url: https://www.setlist.fm/setlist/filter-sequence/2026/dubrek-studios-derby-england-1b485934.html
   - tracks:

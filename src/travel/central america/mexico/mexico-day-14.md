@@ -3,7 +3,7 @@ title: "Mexico holiday day 14"
 description: "Fourtenth day of our Mexico trip, Cocktails and souvenirs in Oaxaca City"
 tags: ["Mexico", "Oaxaca", "Cocktails"]
 date: "2024-04-18"
-oldUrl: /leets/mexico-day-14/index.html
+oldUrl: /leets/mexico-day-14/
 ---
 
 Today was our last day in Oaxaca and so after breakfast at [Muss Cafe](https://maps.app.goo.gl/hYJDwXjgXdKPQ19G9) we went to buyer some souvenirs and presents.

@@ -2,10 +2,18 @@
 title: "Orbital Green/Brown Tour Manchester"
 description: "Green and Brown Orbital Tour at Rock City Manchester Saturday 4 May 2024"
 tags:
-  ["Orbital", "Green Album", "Brown Album", "Live Music", "Gigs", "Manchester", "Victoria Warehouse"]
-date: '2024-05-04'
+  [
+    "Orbital",
+    "Green Album",
+    "Brown Album",
+    "Live Music",
+    "Gigs",
+    "Manchester",
+    "Victoria Warehouse"
+  ]
+date: "2024-05-04"
 album: https://www.flickr.com/photos/dletorey/albums/72177720332524672
-oldUrl: /leets/orbital-green-brown-tour-manchester/index.html
+oldUrl: /leets/orbital-green-brown-tour-manchester/
 setlist:
   - url: https://www.setlist.fm/setlist/orbital/2024/o2-victoria-warehouse-manchester-england-6babd6c2.html
   - tracks:

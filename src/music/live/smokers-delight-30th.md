@@ -1,13 +1,19 @@
 ---
 title: "Smokers Delight 30th anniversary show"
 description: "Nightmares on Wax 30th anniversary of Smokers Delight and 20th anniversary of In a Space Outta Space show live at Royal Albert Hall, London."
-date: '2026-03-13'
+date: "2026-03-13"
 tags:
-  ["Nightmares On Wax", "Royal Albert Hall", "Live", "Smokers Delight", "In a Space Outta Sound"]
+  [
+    "Nightmares On Wax",
+    "Royal Albert Hall",
+    "Live",
+    "Smokers Delight",
+    "In a Space Outta Sound"
+  ]
 album: https://www.flickr.com/photos/dletorey/albums/72177720332518243/
 setlist:
   - url: https://www.setlist.fm/setlist/nightmares-on-wax/2026/royal-albert-hall-london-england-7349965d.html
-oldUrl: /leets/smokers-delight-30th/index.html
+oldUrl: /leets/smokers-delight-30th/
 ---
 
 ![Nightmares on Wax postcard given out at the gig, it pictures George sitting on a reel to reel tape deck beneath it reads 12th March 2026 Royal Albert Hall, Smokers Delight and In a Space Outta Sound](/images/now/now-front.jpg)

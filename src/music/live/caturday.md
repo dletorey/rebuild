@@ -1,11 +1,11 @@
 ---
 title: "#Caturday"
 description: "Underworld at Brixton Academy - we’re at an Underworld gig, not a Gary Barlow gig. Stop clapping along and start raving!"
-date: '2026-02-07'
+date: "2026-02-07"
 tags: ["Underworld", "Brixton Academy", "Live"]
-updated: '2026-02-08'
+updated: "2026-02-08"
 album: https://www.flickr.com/photos/dletorey/albums/72177720332501741
-oldUrl: /leets/caturday/index.html
+oldUrl: /leets/caturday/
 setlist:
   - url: https://www.setlist.fm/setlist/underworld/2026/o2-academy-brixton-london-england-1341dd71.html
   - tracks:

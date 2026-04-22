@@ -3,7 +3,7 @@ title: "Mexico holiday day 5"
 description: "Fifth day of our Mexico trip, bimbling around Mazatlán!"
 tags: ["Mexico", "Walks", "Mazatlan", "Coffee"]
 date: "2024-04-09"
-oldUrl: /leets/mexico-day-5/index.html
+oldUrl: /leets/mexico-day-5/
 ---
 
 Woke up feeling much better, still not 100% but way better. Today we went for a walk down to the beach and into Centro Historico in Mazatlán so we could see it in day light.

@@ -2,10 +2,10 @@
 title: "Where's your head at"
 description: "This week has been a tough time, a move in the right direction and ended with Basement Jaxx."
 tags: ["Mental Health", "Personal Trainer", "Basement Jaxx", "Live"]
-date: '2025-08-24'
+date: "2025-08-24"
 photo: /img/basement-jaxx/wheres-your-head-at-og.jpg
 album: https://www.flickr.com/photos/dletorey/albums/72177720332519035
-oldUrl: /leets/wheres-your-head-at/index.html
+oldUrl: /leets/wheres-your-head-at/
 setlist:
   - url: https://www.setlist.fm/setlist/basement-jaxx/2025/crystal-palace-bowl-london-england-2b5b78fa.html
   - tracks:

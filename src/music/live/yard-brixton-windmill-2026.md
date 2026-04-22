@@ -1,10 +1,10 @@
 ---
 title: "Yard Brixton Windmill"
 description: "Dublin electro noise trio put on a superb show."
-date: '2026-03-26'
+date: "2026-03-26"
 tags: ["Live", "Yard", "Brixton Windmill"]
 album: https://flickr.com/photos/dletorey/albums/72177720332770664
-oldUrl: /leets/yard-brixton-windmill-2026/index.html
+oldUrl: /leets/yard-brixton-windmill-2026/
 ---
 
 We discovered [Yard](https://yard.bandcamp.com/music) by not seeing them at Bearded Theory, when a load of our friends came back raving about them. In September 2025 we managed to get added to their guest list when they were performing at a conference for festival organisers. They performed at a venue called [Omeara](https://raeslondon.co.uk/), which was awesome and I would love to book it sometime.

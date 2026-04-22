@@ -3,7 +3,7 @@ title: "Mexico holiday day 2"
 description: "Second day of our Mexico trip, empty & full Mexico City and a new Hat!"
 tags: ["Mexico", "Mexico City", "Walks", "Parque", "Hats", "Beer"]
 date: "2024-04-06"
-oldUrl: /leets/mexico-day-2/index.html
+oldUrl: /leets/mexico-day-2/
 ---
 
 After an [early morning walk](https://strava.app.link/CcMMGpaUzIb) around a very quiet Centro Historico, where I stumbled upon a discotheque, still pumping a cross between Mariachi and Techno, the patrons tried to persuade me to join them.

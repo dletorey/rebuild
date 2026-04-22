@@ -1,10 +1,10 @@
 ---
 title: "Web Day Out"
 description: "A one day single track web conference focusing on the cool things that you can now do in the web."
-date: '2026-03-12'
+date: "2026-03-12"
 tags: ["Web", "Conference", "Brighton", "CSS", "HTML", "PWA", "Typography"]
 album: https://flickr.com/photos/dletorey/albums/72177720332501841/
-oldUrl: /leets/web-day-out-2026/index.html
+oldUrl: /leets/web-day-out-2026/
 ---
 
 ## The short version

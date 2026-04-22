@@ -4,7 +4,7 @@ description: "Today my mum passed away"
 date: "2025-10-21"
 img: /img/mum/mum-and-me.jpg
 updated: "2025-11-14"
-oldUrl: /leets/mum/index.html
+oldUrl: /leets/mum/
 ---
 
 ## 14 July 1945 - 21 October 2025

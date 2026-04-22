@@ -2,9 +2,9 @@
 title: "Free Mo Chara"
 description: "Today I went to Westminster Magistrates Court to protest about Mo Chara from Kneecap being charged as a terrorist."
 tags: ["Mo Chara", "Kneecap", "Palestine", "Westminster Magistrates Court"]
-date: '2025-08-20'
+date: "2025-08-20"
 photo: /img/free-mo-chara/free-mo-chara-og-image.jpg
-oldUrl: /leets/free-mo-chara/index.html
+oldUrl: /leets/free-mo-chara/
 ---
 
 {{ description }}
