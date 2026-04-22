@@ -23,7 +23,8 @@ footer nav ul li a:focus,
 header nav ul li a[data-state="active"],
 footer nav ul li a[data-state="active"],
 .pagination__inner a:hover,
-.pagination__inner a:focus {
+.pagination__inner a:focus,
+[type="is-button"] {
   background-color: light-dark(var(--dm-background), var(--lm-background));
   border: solid 0.3vw light-dark(var(--dm-background), var(--lm-background));
   color: light-dark(var(--dm-heading), var(--lm-heading));
@@ -38,7 +39,9 @@ header nav ul li a[data-state="active"]:focus,
 footer nav ul li a,
 footer nav ul li a[data-state="active"]:hover,
 footer nav ul li a[data-state="active"]:focus,
-.pagination__inner a {
+.pagination__inner a,
+[type="is-button"]:hover,
+[type="is-button"]:focus {
   background-color: light-dark(var(--lm-background), var(--dm-background));
   color: light-dark(var(--lm-heading), var(--dm-heading));
   border: solid 0.3vw light-dark(var(--lm-heading), var(--dm-heading));
