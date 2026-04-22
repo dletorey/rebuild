@@ -232,7 +232,8 @@
         "Added markdown filters",
         "Added date filters",
         "Moved CSS into _includes",
-        "Made layouts & partials HTML files"
+        "Made layouts & partials HTML files",
+        "Added RSS"
       ]
     }
   ]
