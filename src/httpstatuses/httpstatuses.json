@@ -4,5 +4,6 @@
       "exclude": true
   },
   "permalink": "{{ page.fileSlug }}.html",
-  "eleventyExcludeFromCollections": true
+  "eleventyExcludeFromCollections": true,
+  "layout": "layouts/base.html"
 }
