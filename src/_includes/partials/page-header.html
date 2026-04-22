@@ -1,0 +1,12 @@
+<section class="page-head">
+  <h1 data-highlight="primary">
+    {{ pageHeaderTitle }} {% if subTitle %}
+    <br /><span>{{ subTitle }}</span>
+    {% endif %}
+  </h1>
+  {% if not tag %} {% if pagination.pages.length > 1 %}
+  <h2 class="pages">Page {{ pagination.pageNumber + 1 }} of {{pagination.pages.length}}</h2>
+  {% endif %} {% endif %} {% if pageHeaderSummary %}
+  <div class="summary">{{ pageHeaderSummary | safe }}</div>
+  {% endif %}
+</section>

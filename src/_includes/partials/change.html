@@ -1,0 +1,19 @@
+<h3>
+  <time  datetime="{{ change.date | w3DateFilter }}">{{ change.date | dateFilter }}</time>
+</h3>
+{% if change.related %}
+<a href="{{change.related}}">Related post</a>
+{% endif %}
+{% if change.changes.length > 0 %}
+<ol>
+  {% for chg in change.changes %}
+  <li>{{ chg | mdLine | safe }}</li>
+  {% endfor %}
+</ol>
+{% endif %}
+<footer>
+  <a href="{{ site.gitProject }}/pull/{{ change.pr }}">Pull Request</a>
+  {% if change.date | olderThan(30) %}
+  <a href="https://deploy-preview-{{ change.preview }}--letorey.netlify.app/">Preview</a>
+  {% endif %}
+</footer>

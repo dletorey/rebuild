@@ -1,0 +1,19 @@
+---
+permalink: /_redirects
+eleventyExcludeFromCollections: true
+---
+{%- for page in collections.allPosts -%}
+  {%- if page.url and page.data.oldUrl -%}
+    {%- if page.data.oldUrl | is_string -%}
+      {{ page.data.oldUrl }}  {{ page.url }}  {{ page.data.redirectCode or '301'}}
+    {%- else -%}
+      {%- for oldUrl in page.data.oldUrl -%}
+        {{ oldUrl }}  {{ page.url }}  {{ page.data.redirectCode or '301'}}
+        {%- if not loop.last -%}
+          {{ '\n' }}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endif -%}
+    {{ '\n' }}
+  {%- endif -%}
+{%- endfor -%}

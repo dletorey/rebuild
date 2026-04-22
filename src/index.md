@@ -1,9 +1,15 @@
 ---
-title: "Letorey.co.uk"
-description: "Home page of Letorey.co.uk"
-tags: HTML, websites, head, favicon, CSS, social media
+title: 'letorey.co.uk'
+subTitle: 'Latest posts'
+description: 'Home page of Letorey.co.uk'
+layout: 'layouts/landing.html'
 eleventyExcludeFromCollections: true
-layout: "base"
+pagination:
+  data: collections.allPosts
+  size: 12
+permalink: '{% if pagination.pageNumber > 0 %}/{{ pagination.pageNumber }}{% endif %}/index.html'
+paginationPrevText: 'Newer posts'
+paginationNextText: 'Older posts'
+paginationAnchor: 'posts-list'
 ---
-
-{% include 'latest-posts.njk' %}
+Dave's Home page

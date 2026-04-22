@@ -1,0 +1,19 @@
+{%- set categories = ["Social Media", "Music", "Code", "Images", "Video", "Language", "Work", "Exercise", "Beer", "None"] -%}
+{%- set daveLinks = links.items -%}
+{%- for category in categories -%}
+  {%- set filteredList = daveLinks | filterByKey('category', category) -%}
+  {% if filteredList.length %}
+  <section class="links {{ category | replace(" ", "-") | lower }}">
+    {%- if category == "None" -%}
+        <h2 id="none">Others</h2>
+    {%- else -%}
+        <h2 id={{ category | replace(" ", "-") | lower }}>{{ category }}</h2>
+    {%- endif -%}
+    <ul>
+    {%- for link in filteredList -%}
+      <li class={{ link.name | replace(" ", "-") | lower }}><a href={{ link.url }} rel="me">{{ link.name }}</a></li>
+    {%- endfor -%}
+    </ul>
+  </section>
+  {%- endif -%}
+{%- endfor -%}

@@ -1,0 +1,5 @@
+{%- set changes = changes.changes | reverse -%}
+<h2>Changes</h2>
+{% for change in changes %}
+{% include "partials/change.html" %}
+{% endfor %}

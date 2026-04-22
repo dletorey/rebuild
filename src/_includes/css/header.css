@@ -1,0 +1,32 @@
+header[role="banner"] {
+  display: flex;
+  flex-direction: row;
+}
+header[role="banner"], .flex-wrapper {
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: 0 var(--sp-s-m);
+}
+.logo img, .logo svg, .logo .icon {
+  height: var(--sp-xl);
+  width: var(--sp-xl);
+}
+.logo .icon {
+  background-image: url("/images/site-icon.svg");
+  background-size: 100%;
+}
+a:hover .icon, a:focus .icon {
+  background-image: url("/images/site-icon-opp.svg");
+}
+header nav, footer nav {
+  width: 100%;
+  align-content: center;
+}
+header nav ul, footer nav ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: space-evenly;
+  gap: var(--sp-s);
+  flex-wrap: wrap;
+}

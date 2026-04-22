@@ -1,0 +1,32 @@
+{
+	"items": [
+		{
+			"text": "Code Red",
+			"url": "https://code-red.uk"
+		},
+		{
+			"text": "Links",
+			"url": "/links/"
+		},
+		{
+			"text": "Contact",
+			"url": "/contact/"
+		},
+		{
+			"text": "Change log",
+			"url": "/change-log/"
+		},
+		{
+			"text": "Tasks",
+			"url": "/tasks/"
+		},
+		{
+			"text": "Style Guide",
+			"url": "/style-guide/"
+		},
+		{
+			"text": "RSS",
+			"url": "/feed.xml"
+		}
+	]
+}

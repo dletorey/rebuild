@@ -1,0 +1,16 @@
+{
+	"items": [
+		{
+			"text": "Blue Sky",
+			"url": "https://bsky.app/profile/letorey.co.uk"
+		},
+		{
+			"text": "LinkedIn",
+			"url": "https://www.linkedin.com/in/dletorey/"
+		},
+		{
+			"text": "Mastodon",
+			"url": "https://front-end.social/@dletorey"
+		}
+	]
+}

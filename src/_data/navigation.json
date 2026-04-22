@@ -1,0 +1,36 @@
+{
+	"items": [
+		{
+			"text": "Home",
+			"url": "/"
+		},
+		{
+			"text": "About",
+			"url": "/about/"
+		},
+		{
+			"text": "Music",
+			"url": "/music/"
+		},
+		{
+			"text": "Books",
+			"url": "/books/"
+		},
+		{
+			"text": "Food",
+			"url": "/food/"
+		},
+		{
+			"text": "Tech",
+			"url": "/tech/"
+		},
+		{
+			"text": "Travel",
+			"url": "/travel/"
+		},
+		{
+			"text": "Thoughts",
+			"url": "/thoughts/"
+		}
+	]
+}

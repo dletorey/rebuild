@@ -1,0 +1,122 @@
+{
+  "items": [
+    {
+      "name": "github",
+      "username": "dletorey",
+      "url": "https://github.com/dletorey",
+      "category": "Code"
+    },
+    {
+      "name": "BlueSky",
+      "username": "dletorey",
+      "url": "https://bsky.app/profile/letorey.co.uk",
+      "hCard": true,
+      "category": "Social Media"
+    },
+    {
+      "name": "Mastodon",
+      "username": "dletorey",
+      "url": "https://front-end.social/@dletorey",
+      "hCard": true,
+      "category": "Social Media"
+    },
+    {
+      "name": "LinkedIn",
+      "username": "",
+      "url": "https://www.linkedin.com/in/dletorey/",
+      "hCard": true,
+      "category": "Social Media"
+    },
+    {
+      "name": "CodePen",
+      "username": "CodeRedDigital",
+      "url": "https://codepen.io/CodeRedDigital",
+      "hCard": true,
+      "category": "Code"
+    },
+    {
+    "name": "Apple Music",
+    "url": "https://music.apple.com/profile/dletorey",
+    "order": "10",
+    "category": "Music"
+    },
+    {
+    "name": "Bandcamp",
+    "url": "https://bandcamp.com/dletorey",
+    "order": "10",
+    "category": "Music"
+    },
+    {
+    "name": "MusicBrainz",
+    "url": "https://musicbrainz.org/user/dletorey",
+    "order": "10",
+    "category": "Music"
+    },
+    {
+    "name": "Last.fm",
+    "url": "https://www.last.fm/user/dletorey",
+    "order": "10",
+    "category": "Music"
+    },
+    {
+    "name": "Mixcloud",
+    "url": "https://www.mixcloud.com/dletorey/",
+    "order": "10",
+    "category": "Music"
+    },
+    {
+    "name": "Setlist.fm",
+    "url": "https://www.setlist.fm/user/dletorey",
+    "order": "10",
+    "category": "Music"
+    },
+    {
+    "name": "Soundcloud",
+    "url": "https://soundcloud.com/dave_letorey",
+    "order": "10",
+    "category": "Music"
+    },
+    {
+    "name": "Code Red Digital",
+    "url": "https://code-red.uk",
+    "order": "10",
+    "category": "Work"
+    },
+    {
+    "name": "Flickr",
+    "url": "https://flickr.com/photos/dletorey/",
+    "order": "10",
+    "category": "Images"
+    },
+    {
+    "name": "PayPal",
+    "url": "https://www.paypal.com/paypalme/CampTriangle",
+    "order": "10",
+    "category": "None"
+    },
+    {
+    "name": "Strava",
+    "url": "https://www.strava.com/athletes/dletorey",
+    "order": "10",
+    "category": "Exercise"
+    },
+    {
+    "name": "Untappd",
+    "url": "https://untappd.com/user/dletorey",
+    "order": "10",
+    "category": "Beer"
+    },
+    {
+    "name": "Vimeo",
+    "url": "https://vimeo.com/dletorey",
+    "order": "10",
+    "category": "Video"
+    },
+    {
+    "name": "YouTube",
+    "url": "https://www.youtube.com/@daveletorey",
+    "order": "10",
+    "category": "Video"
+    }
+  ]
+}

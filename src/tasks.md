@@ -1,0 +1,41 @@
+---
+title: Tasks
+decsription: "This is a list of task that may be done on the website. There is no order and is just a list of things that I _need/want_ to do."
+layout: 'layouts/post.html'
+eleventyExcludeFromCollections: true
+---
+
+{{ decsription }}
+
+- ~~Light/Dark mode~~
+- ~~Dynamic font-sizing based on browser-width~~
+- Add readable fonts
+- style code blocks
+- ~~Header~~
+- ~~Footer~~
+  - ~~Add social links~~
+  - Add year and name
+- ~~base template~~
+- ~~Error pages~~
+- Link share template (link with description)
+- ~~Links on homepage~~
+- ~~Cards~~
+- Create micro post template (tweet style)
+- [Add RSS](https://buttondown.email/ownyourweb/archive/issue-09/)
+- Add Sitemap
+- [setup redirects for old posts](https://www.aleksandrhovhannisyan.com/blog/eleventy-netlify-redirects/)
+- [review 100 things to do on your site](https://jamesg.blog/2024/02/19/personal-website-ideas/)
+- add [og:image generator](https://www.npmjs.com/package/eleventy-plugin-og-image)
+- ~~add h-card - microformats~~
+- change url structure
+- add webmentions
+- ~~create links page and link to it from footer~~
+- light/dark toggle
+- create a [now page](https://nownownow.com/about)
+- add robots.txt
+- add humans.txt
+- ~~sort out padding on [/links](/links)~~
+- ~~added dynamic space [utopia](https://utopia.fyi/space/calculator?c=320,18,1.2,1240,20,1.25,5,2,&s=0.75%7C0.5%7C0.25,1.5%7C2%7C3%7C4%7C6,s-l&g=s,l,xl,12)~~
+- look at [jsdelivr.com CDN](https://www.jsdelivr.com/)
+- look at [Lightweight Search](https://coryd.dev/posts/2024/lightweight-search-in-eleventy/)
+- add rating component

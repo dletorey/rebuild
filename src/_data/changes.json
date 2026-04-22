@@ -1,0 +1,223 @@
+{
+  "changes": [
+    {
+      "date": "2024-06-13",
+      "pr": "11",
+      "preview": "11",
+      "changes": [
+        "created [Change Log](/change-log)",
+        "Updated to latest version of 11ty [Canary 3.0.0-alpha.13](https://www.11ty.dev/blog/canary-eleventy-v3/)",
+        "Added dates to all posts",
+        "Made date on cards be dynamic",
+        "Added front matter to change log"
+      ]
+    },
+    {
+      "date": "2024-08-12",
+      "pr": "12",
+      "preview": "12",
+      "changes": [
+        "Updated to latest version of 11ty [Canary 3.0.0-beta.1](https://www.11ty.dev/blog/canary-eleventy-v3/)",
+        "Added new post [Grief is just love with no place to go](/thoughts/grief-is-just-love-with-no-place-to-go/)",
+        "Added width style for `<blockquote>`"
+      ]
+    },
+    {
+      "date": "2024-08-27",
+      "pr": "13",
+      "preview": "13",
+      "changes": [
+        "Added new post [Massive Attack live on Clifton Downs Bristol](/music/live/massive-attack-bristol-2024/)",
+        "updated style for `<li>`"
+      ]
+    },
+    {
+      "date": "2024-09-27",
+      "pr": "14",
+      "preview": "14",
+      "changes": [
+        "Added new post [Florence Prom 69](/music/live/florence-prom69/)",
+        "Added the set list for [Massive Attack live on Clifton Downs Bristol](/music/live/massive-attack-bristol-2024/)",
+        "Reversed the collection.all"
+      ]
+    },
+    {
+      "date": "2024-09-30",
+      "pr": "15",
+      "preview": "15",
+      "changes": [
+        "Added new post [Trains, Talks & Techno!](/music/live/trains-talks-and-techno/)"
+      ]
+    },
+    {
+      "date": "2025-05-04",
+      "pr": "16",
+      "preview": "16",
+      "changes": [
+        "Upgraded 11ty to `^3.0.1-alpha.4`",
+        "Changed to `'type': 'module'` to use ESM",
+        "Added the following dependencies:",
+        "eleventy-fetch",
+        "eleventy-img",
+        "eleventy-plugin-syntaxhighlight",
+        "Converted all CommonJS to ECMAScript Modules"
+      ]
+    },
+    {
+      "date": "2025-05-04",
+      "pr": "17",
+      "preview": "17",
+      "changes": [
+        "Created change-log data file",
+        "Added change log file for this change",
+        "Added old Change logs:",
+        "Change 16",
+        "Change 15",
+        "Change 14",
+        "Change 13",
+        "Change 12",
+        "Change 11",
+        "Created changes collection",
+        "Created changes layout",
+        "Created changes include",
+        "Added preview and Pull Request links"
+      ]
+    },
+    {
+      "date": "2025-07-25",
+      "pr": "19",
+      "preview": "19",
+      "changes": [
+        "Moved `images` to `src/img`",
+        "Added [`@11ty/eleventy-img`](https://www.11ty.dev/docs/plugins/image/#installation)",
+        "Added default [image plugin config](https://www.11ty.dev/docs/plugins/image/#more-configuration-options)",
+        "Upgrades the following packages:",
+        "eleventy - 3.1.2",
+        "eleventy-fetch - 5.1.0",
+        "eleventy-img - 6.0.4",
+        "eleventy-plugin-syntaxhighlight - 5.0.1",
+        "eleventy-cache-webmentions - 2.1.9",
+        "Many thanks to [MWDelaney](https://bsky.app/profile/mwdelaney.me) & [uncentered](https://bsky.app/profile/uncenter.dev) for their help resolving [this issue I have been having](https://discord.com/channels/741017160297611315/1398314087074758759)."
+      ]
+    },
+    {
+      "date": "2025-08-20",
+      "pr": "20",
+      "preview": "20",
+      "changes": [
+        "Added styles for `picture` and `img` elements",
+        "Restricted width of `li` elements",
+        "Added [Free Mo Chara](/music/other/free-mo-chara) post"
+      ]
+    },
+    {
+      "date": "2025-08-24",
+      "pr": "22",
+      "preview": "22",
+      "changes": [
+        "Added styles for `iframe` element",
+        "Added [Where's your head at](/music/live/wheres-your-head-at) post",
+        "Made set list for [Massive Attack](/music/live/massive-attack-bristol-2024/) post local",
+        "Made set list for [Talks Trains & Techno](/music/live/trains-talks-and-techno/) post local"
+      ]
+    },
+    {
+      "date": "2025-10-18",
+      "pr": "23",
+      "preview": "23",
+      "changes": [
+        "Added _limit_ filter to `.eleventy.js` file this allows a collection to be limited to a number by `limit(12)`",
+        "Created a posts collection in `src/eleventy/collections.js`",
+        "Added styles for a button in `src/_includes/head.njk`",
+        "Added changes front matter",
+        "Created latest-post include and added to the home page",
+        "Created posts page",
+        "Added a pagination include",
+        "Updated Yard Act setlist image"
+      ]
+    },
+    {
+      "date": "2025-10-22",
+      "pr": "24",
+      "preview": "24",
+      "changes": [
+        "Made date on cards human readable using `.toDateString()`",
+        "Added date to page conditionally, in the `_includes/header.njk`"
+      ]
+    },
+    {
+      "date": "2025-11-19",
+      "pr": "25",
+      "preview": "25",
+      "changes": [
+        "Added updated to page conditionally, in the `_includes/header.njk`"
+      ]
+    },
+    {
+      "date": "2025-11-20",
+      "pr": "26",
+      "preview": "26",
+      "changes": [
+        "Added subTitle metadata conditionally, in the `_includes/header.njk` and `card.njk`",
+        "Added styles for subTitle in header and card",
+        "Added first SE-Asia post",
+        "Added `se-asia.11tydatajs` file",
+        "Added `se-asia` webpath",
+        "Added folders and data files for:",
+        "Thailand",
+        "Cambodia",
+        "Vietnam",
+        "Added South East Asia Collection and page"
+      ]
+    },
+    {
+      "date": "2025-11-22",
+      "pr": "27",
+      "preview": "27",
+      "changes": [
+        "Added an album condition to leets.njk layout",
+        "Added Bangkok day 1 post",
+        "Added Animals of South East Asia page"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "pr": "28",
+      "preview": "28",
+      "changes": [
+        "Filtered generic tags from cards"
+      ]
+    },
+    {
+      "date": "2026-01-26",
+      "pr": "29",
+      "preview": "29",
+      "changes": [
+        "Created a book layout",
+        "Created a books folder & books data file",
+        "Created Books page",
+        "Created Books collection",
+        "Added _The Rose Field_ by _Philip Pullman_"
+      ]
+    },
+    {
+      "date": "2026-03-15",
+      "pr": "30",
+      "preview": "30",
+      "changes": [
+        "Added Web Day Out post",
+        "Added `text-size-adjust` for code blocks in list items"
+      ]
+    },
+    {
+      "date": "2026-04-01",
+      "pr": "33",
+      "preview": "33",
+      "changes": [
+        "added permalinks throughout",
+        "restructured all the posts",
+        "fixed the collections and moved the if album"
+      ]
+    }
+  ]
+}
