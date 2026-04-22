@@ -235,6 +235,16 @@
         "Made layouts & partials HTML files",
         "Added RSS"
       ]
+    },
+    {
+      "date": "2026-04-22",
+      "pr": "35",
+      "preview": "35",
+      "changes": [
+        "added http status pages",
+        "added broken partial",
+        "added refresh partial"
+      ]
     }
   ]
 }
