@@ -1,0 +1,3 @@
+flags are sourced from https://flagicons.lipis.dev/
+
+flag url: https://flagicons.lipis.dev/flags/4x3/se.svg - this is Sweden, swap the country code

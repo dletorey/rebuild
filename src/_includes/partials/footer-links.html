@@ -1,0 +1,19 @@
+<nav>
+  <ul>
+    {% for item in footerNav.items %}
+      <li>
+        <a href="{{ item.url }}" {{ helpers.getLinkActiveState(item.url, page.url) | safe }}>{{ item.text }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+  <ul class="hidden" hidden>
+    {% for link in collections.social %}
+      <li><a href={{ link.data.url }} rel="me">{{ link.data.name }}</a></li>
+    {% endfor %}
+    {% for link in links.links %}{% if link.hCard %}
+	  <li>
+	  	<a href="{{ link.url }}" rel="me">{{ link.name }}</a>
+	  </li>
+	  {% endif %}{% endfor %}
+  </ul>
+</nav>

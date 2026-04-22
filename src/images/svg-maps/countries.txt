@@ -1,0 +1,3 @@
+map outlines are sourced from https://mapsvg.com/
+
+country url: https://mapsvg.com/maps/geo-calibrated/cambodia.svg - this is Cambodia, swap the country name

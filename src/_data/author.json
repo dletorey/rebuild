@@ -3,13 +3,6 @@
   "location": "London, England",
   "country": "United Kingdom",
   "email": "daveletorey@gmail.com",
-  "avatar": "/img/dletorey-avatar.jpg",
-  "github": "dletorey",
-  "twitter": "dletorey",
-  "mastodon": {
-    "name": "",
-    "url": ""
-  },
-  "codepen": "CodeRedDigital",
+  "avatar": "/images/dletorey-avatar.png",
   "note": "I love Dancing, amongst other things!"
 }

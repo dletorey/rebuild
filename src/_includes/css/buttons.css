@@ -1,0 +1,12 @@
+/* buttons */
+.button {
+  padding: var(--step--2);
+  border-radius: var(--step--2);
+  border: solid 1px;
+}
+.center {
+  margin-inline: var(--sp-s-m);
+  max-inline-size: 100%;
+  justify-content: space-evenly;
+  display: flex;
+}

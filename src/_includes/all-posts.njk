@@ -1,7 +1,0 @@
-<ul class="cards">
-{%- for post in collections.all | reverse -%}
-  {% if post.url %}
-  {% include 'card.njk' %}
-  {% endif %}
-{%- endfor -%}
-</ul>

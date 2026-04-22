@@ -1,0 +1,25 @@
+{% extends "layouts/base.html" %}
+
+{% set pageHeaderTitle = title %}
+
+{# Render post date and any tags that this post has been filed under #}
+{% set pageHeaderSummary %}
+	{% if date %}
+	<strong>Created:</strong> <time datetime="{{ date | w3DateFilter }}">{{ date | dateFilter }}</time>
+	{% endif %}
+	{% if updated %}
+	<br /><strong>Updated:</strong> <time datetime="{{ updated | w3DateFilter }}">{{ updated | dateFilter }}</time>
+	{% endif %}
+	{% if tags %}
+		{% include "partials/tags-list.html" %}
+	{% endif %}
+{% endset %}
+
+{% block content %}
+	<article>
+		{% include "partials/page-header.html" %}
+		<section class="content">
+			{{ content | safe }}
+		</section>
+	</article>
+{% endblock %}

@@ -1,0 +1,12 @@
+<section id="{{ paginationAnchor }}">
+	{% if postListHeadline %}
+	<h2 class="headline" data-highlight="primary">
+		{{ postListHeadline }}
+	</h2>
+	{% endif %}
+	<ol class="post-list cards">
+		{% for item in postListItems %}
+		{% include "partials/card.html" %}
+		{% endfor %}
+	</ol>
+</section>

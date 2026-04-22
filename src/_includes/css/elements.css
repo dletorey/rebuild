@@ -1,0 +1,125 @@
+body {
+  background-color: light-dark(var(--lm-background), var(--dm-background));
+  color: light-dark(var(--lm-text), var(--dm-text));
+}
+::selection {
+  background-color: light-dark(var(--dm-background), var(--lm-background));
+  color: light-dark(var(--dm-text), var(--lm-text));
+}
+/* a::selection {
+  background-color: light-dark(var(--lm-background), var(--dm-background));
+  color: light-dark(var(--lm-text), var(--dm-text));
+} */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a {
+  color: light-dark(var(--lm-heading), var(--dm-heading));
+}
+a:hover, a:focus {
+  color: light-dark(var(--dm-heading), var(--lm-heading));
+  background-color: light-dark(var(--dm-background),var(--lm-background));
+}
+.spoilers {
+  color: light-dark(var(--lm-text), var(--dm-text));
+  background-color: light-dark(var(--lm-text), var(--dm-text));
+}
+.button {
+  background-color: light-dark(var(--lm-heading), var(--dm-heading));
+  color: light-dark(var(--lm-background), var(--dm-background));
+  &:hover {
+    background-color: light-dark(var(--lm-background), var(--dm-background));
+    color: light-dark(var(--lm-heading), var(--dm-heading));
+    border-color: light-dark(var(--lm-heading), var(--dm-heading));
+  }
+}
+html {
+  font-size: var(--step-0);
+  padding: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+dt,
+blockquote {
+  text-wrap: balance;
+  max-inline-size: 25ch;
+}
+p,
+dd {
+  text-wrap: pretty;
+  max-inline-size: 60ch;
+  margin-bottom: var(--sp-m);
+}
+pre,
+li {
+  max-inline-size: 60ch;
+}
+small {
+  font-size: var(--step--2);
+}
+blockquote {
+  max-inline-size: 55ch;
+}
+h1 {
+  font-size: var(--step-4);
+  line-height: var(--step-3);
+}
+h1 span {
+    font-size: var(--step-2);
+}
+h2 {
+  font-size: var(--step-3);
+}
+h3 {
+  font-size: var(--step-2);
+}
+h4 {
+  font-size: var(--step-1);
+}
+h5 {
+  font-size: var(--step-0);
+}
+h1,
+h2,
+h3,
+h4 {
+  margin-block-end: var(--sp-3xs-2xs);
+  margin-block-start: var(--sp-2xs-xs);
+}
+ul {
+  margin-block-start: var(--sp-3xs-2xs);
+  margin-block-end: var(--sp-2xs-xs);
+}
+code,
+pre {
+  overflow: scroll;
+  padding: 0.25lh;
+  color: light-dark(var(--dm-heading), var(--lm-heading));
+  background-color: light-dark(var(--dm-background), var(--lm-background));
+}
+li pre,
+li code {
+  font-size-adjust: 0.5;
+  padding-block: 0;
+  padding-inline: 0.1lh;
+}
+footer ul:not(.hidden) {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+/* picture & img & iframe & video */
+picture,
+img,
+iframe,
+video {
+  max-width: 60ch;
+  height: auto;
+}

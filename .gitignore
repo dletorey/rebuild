@@ -4,7 +4,6 @@ npm-debug.*
 *.scssc
 *.swp
 .DS_Store
-Thumbs.db
 .sass-cache
 .env
 .cache
@@ -12,6 +11,4 @@ Thumbs.db
 # Node modules and output
 node_modules
 dist
-src/_includes/css
-_site
 public

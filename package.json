@@ -1,21 +1,13 @@
 {
-  "name": "11ty-canary",
-  "version": "1.0.1",
-  "type": "module",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx @11ty/eleventy --serve"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@11ty/eleventy": "^3.1.2",
-    "@11ty/eleventy-fetch": "^5.1.0",
-    "@11ty/eleventy-img": "^6.0.4",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.1",
-    "@chrisburnell/eleventy-cache-webmentions": "^2.1.9"
-  }
+	"scripts": {
+		"start": "eleventy --serve",
+		"build": "eleventy"
+	},
+	"type": "module",
+	"dependencies": {
+		"@11ty/eleventy": "^4.0.0-alpha.7",
+		"@11ty/eleventy-plugin-rss": "^2.0.4",
+		"clean-css": "^5.3.3",
+		"luxon": "^3.7.2"
+	}
 }
