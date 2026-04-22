@@ -218,6 +218,22 @@
         "restructured all the posts",
         "fixed the collections and moved the if album"
       ]
+    },
+    {
+      "date": "2026-04-22",
+      "pr": "34",
+      "preview": "34",
+      "associated_post": "",
+      "changes": [
+        "Completely rebuilt the backend",
+        "restructured all the posts",
+        "Added menu",
+        "Added tags",
+        "Added markdown filters",
+        "Added date filters",
+        "Moved CSS into _includes",
+        "Made layouts & partials HTML files"
+      ]
     }
   ]
 }
