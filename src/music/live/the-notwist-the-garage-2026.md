@@ -18,7 +18,8 @@ There were 7 or 8 members of the band, 10 during one of the encores, and over 30
 - Xylophone
 - Glockenspiel
 - A fluorescent green recorder
-- And all the usual band instruments 
+- And all the usual band instruments
+
 I love discovering new bands and artists, they certainly did not disappoint. Thank you Oliver!
 
 [Video of The Notwist, live at The Garage](https://vimeo.com/1186024045)
