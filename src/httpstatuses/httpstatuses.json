@@ -1,0 +1,8 @@
+{
+  "sitemap": {
+      "exclude": true
+  },
+  "permalink": "{{ page.fileSlug }}.html",
+  "eleventyExcludeFromCollections": true,
+  "layout": "layouts/post.html"
+}
