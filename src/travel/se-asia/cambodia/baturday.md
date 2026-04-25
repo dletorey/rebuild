@@ -5,6 +5,7 @@ description: "Today we had a private tour of Battambang, Cambodia's 3rd largest 
 tags: ["Battambang", "Genocide", "Bats", "Cambodia"]
 date: '2025-12-03'
 album: https://www.flickr.com/gp/dletorey/z4UgEWthHG
+oldUrl: /se-asia/baturday/
 ---
 
 Today was yet another tour, this time it was the one that I'd been most excited about since I had found out about it. Our tour guide today was Lucky, we were sat in the hotel reception and waiting for today's minibus to come and pick us up. Lucky came into the reception, introduced himself and led us out. We soon realised that there was no minibus and we had a private tour.

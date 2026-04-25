@@ -5,6 +5,7 @@ description: "Today Susan and I ventured to Ba Na Hills, I became ill and we wat
 tags: ["Da Nang", "Ba Na Hills", "Grand Prix"]
 date: '2025-12-07'
 album: https://flickr.com/photos/dletorey/albums/72177720330844429
+oldUrl: /se-asia/ba-na-hills/
 ---
 
 Today we decided to go on another tour to see, what we believed was, one of the highlights of the Da Nang area, the [Golden Hand Bridge](<https://en.wikipedia.org/wiki/Golden_Bridge_(Vietnam)#/media/File:Golden_Bridge_at_Ba_Na_Hills_20250718.jpg>). Today our Tour Guide was Toan, we were picked up at 07:40.

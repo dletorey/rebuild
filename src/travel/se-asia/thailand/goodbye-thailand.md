@@ -5,6 +5,7 @@ description: "Today we are leaving Thailand and going to Siem Reap in Cambodia."
 tags: ["Phuket", "Siem Reap", "Cambodia"]
 date: '2025-11-29'
 album: https://www.flickr.com/gp/dletorey/P7HZj14JUB
+oldURL: /se-asia/goodbye-thailand/
 ---
 
 Today the majority of our friends got up early to go on a boat trip to the local islands and do some snorkeling, so it was a good job that we said our goodbyes last night. We went back to Kamala coffee house for breakfast and Sarah joined us. After breakfast we checked out of our hotel and called a bolt to the airport, Sarah waved us off in our minibus. The journey, check-in and immigration were all smooth. We boarded our flight and waved goodbye to Thailand, we had had such a lovely time there.

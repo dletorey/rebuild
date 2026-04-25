@@ -5,6 +5,7 @@ description: "Our first day in Hanoi, we found a new local bar, had a fantastic 
 tags: ["Hanoi", "Craft Beer"]
 date: '2025-12-12'
 album: https://flickr.com/photos/dletorey/albums/72177720330879917/
+oldUrl: /se-asia/hanoi-day-1/
 ---
 
 Nothing to see here yet, I'm enjoying my holiday. Check back soon!

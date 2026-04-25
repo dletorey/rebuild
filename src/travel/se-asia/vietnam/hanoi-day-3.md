@@ -5,6 +5,7 @@ description: "We spent the day exploring the streets of Hanoi had a beer, or two
 tags: ["Hanoi", "History", "Big Market", "Craft Beer"]
 date: '2025-12-14'
 album: https://flickr.com/photos/dletorey/albums/72177720330897381
+oldUrl: /se-asia/hanoi-day-3/
 ---
 
 Nothing to see here yet, I'm enjoying my holiday. Check back soon!

@@ -5,6 +5,7 @@ description: "Today we transferred from Siem Reap (SAI) to Da Nang (DAD) and jum
 tags: ["Siem Reap", "Da Nang", "Hoi An", "Craft Beer", "Cambodia", "Vietnam"]
 date: '2025-12-04'
 album: https://flickr.com/photos/dletorey/albums/72177720330719696
+oldUrl: /se-asia/goodbye-cambodia/
 ---
 
 Today was our last day in Cambodia, I'd finally written all the postcards from Cambodia but didn't have enough time to get to the post office, I asked the hotel staff if there was a post box near by and they said that they would make sure that they got posted for me, so I hope that you all get your postcards.

@@ -5,6 +5,7 @@ description: "Today we had an early start to get to the boat that would take us 
 tags: ["Ha Long Bay", "Boats", "Caves"]
 date: '2025-12-11'
 album: https://flickr.com/photos/dletorey/albums/72177720331132146
+oldUrl: /se-asia/ha-long-bay/
 ---
 
 Nothing to see here yet, I'm enjoying my holiday. Check back soon!

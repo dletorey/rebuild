@@ -5,6 +5,7 @@ description: "Today we got a train from Da Nang to Huế, the old capital of Vie
 tags: ["Transfer", "Train", "Huế", "Craft Beer"]
 date: '2025-12-08'
 album: https://flickr.com/photos/dletorey/albums/72177720330810010
+oldUrl: /se-asia/hue-city/
 ---
 
 To be totally honest I was quite pleased that the train we were originally on was cancelled because all though I was feeling much better I still wasn't fully well and getting out of the hotel by 8am would have been horrendous.

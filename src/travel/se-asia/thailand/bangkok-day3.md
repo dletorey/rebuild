@@ -5,6 +5,7 @@ description: "During the day I went exploring the city and in the evening we wen
 tags: ["Bangkok", "Sepak Takraw"]
 date: '2025-11-22'
 album: https://flickr.com/photos/dletorey/albums/72177720330582973/
+oldURL: /se-asia/bangkok-day3/
 ---
 
 After a lie in and late breakfast I went out to explore Bangkok, while Susan went to the gym. I first got the Sky Train to Saphan Tansik and the walked across the river.

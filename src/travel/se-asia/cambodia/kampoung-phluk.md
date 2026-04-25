@@ -5,6 +5,7 @@ description: "Today we visited Kampoung Phluk floating village canoed through th
 tags: ["Kampoung Phluk", "Floating Village", "Sunset", "French Cuisine", "Cambodia"]
 date: '2025-12-02'
 album: https://www.flickr.com/gp/dletorey/325Bi5w68j
+oldUrl: /se-asia/kampoung-phluk/
 ---
 
 ## Postcards

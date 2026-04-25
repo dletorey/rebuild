@@ -4,6 +4,7 @@ subTitle: "Animals I have seen in South East Asia"
 description: "This is a list of all the animals I have spotted in SE Asia, grouped by location"
 tags: ["Animals"]
 date: '2025-11-20'
+oldUrl: /se-asia/animal-count/
 ---
 
 This is just a list of all the different animals I have seen in South East Asia. [Read about my trip to South East Asia](/se-asia/).

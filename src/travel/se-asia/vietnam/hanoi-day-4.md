@@ -5,6 +5,7 @@ description: "Our last day in Vietnam we started off having an Open top bus tour
 tags: ["Hanoi", "Tour", "Train Street", "Craft Beer"]
 date: '2025-12-15'
 album: https://flickr.com/photos/dletorey/albums/72177720330933758/
+oldUrl: /se-asia/hanoi-day-4/
 ---
 
 Nothing to see here yet, I'm enjoying my holiday. Check back soon!

@@ -5,6 +5,7 @@ description: "First day of our South East Asia trip, we arrived at Dubai airport
 tags: ["Bangkok", "Immigration", "Transfers", "Drunken Room"]
 date: '2025-11-20'
 album: https://flickr.com/photos/dletorey/albums/72177720330471403/
+oldURL: /se-asia/bangkok-day1/
 ---
 
 After the second flight of the trip we landed at Bangkok airport (BKK). The first thing I noticed is that it was not at brutally hot and humid as when I changed here on a flight to Australia in 2010. This was a huge relief to me.

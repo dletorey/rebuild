@@ -5,6 +5,7 @@ description: "Today we had a tour of the Province of Ninh Binh, climbed a very s
 tags: ["Dragon Mountain", "Boats", "Ninh Binh", "Tam Coc", "Craft Beer"]
 date: '2025-12-10'
 album: https://flickr.com/photos/dletorey/albums/72177720330830620
+oldUrl: /se-asia/ninh-binh/
 ---
 
 Nothing to see here yet, I'm enjoying my holiday. Check back soon!

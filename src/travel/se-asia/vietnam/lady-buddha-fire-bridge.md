@@ -5,6 +5,7 @@ description: "Today we had a tour of Da Nang and in the evening we went to see t
 tags: ["Da Nang", "Lady Buddha", "Marble Mountain", "Caves", "Dragon Bridge", "Vietnam"]
 date: '2025-12-06'
 album: https://flickr.com/photos/dletorey/albums/72177720330753941
+oldUrl: /se-asia/lady-buddha-fire-bridge/
 ---
 
 Today we had an half tour tour of Da Nang starting at 2pm, so in the morning Susan and I went out in search of stamps to send more postcards and to find a cake for Tony's birthday.
