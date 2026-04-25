@@ -5,6 +5,7 @@ description: "The first full day in Chiang Mai we explored some of the hundreds 
 tags: ["Chiang Mai", "Temples", "Muay Thai", "Thai Kick Boxing"]
 date: '2025-11-24'
 album: https://flickr.com/photos/dletorey/albums/72177720330561220/
+oldURL: /se-asia/chiang-mai-day1/
 ---
 
 In Thailand the word _Wat_ means Temple. Chiang Mai is a walled city surrounded by a moat and has over 300 temples.

@@ -5,6 +5,7 @@ description: "We spent the day in the elephant Sanctuary and in the evening ate 
 tags: ["Chiang Mai", "Elephants", "Khoa Soi"]
 date: '2025-11-25'
 album: https://flickr.com/photos/dletorey/albums/72177720330595334/
+oldURL: /se-asia/chiang-mai-day2/
 ---
 
 ## Elephants

@@ -5,6 +5,7 @@ description: "Today we explored the streets of Da Nang, found a Dragon Bridge & 
 tags: ["Siem Reap", "Da Nang", "Hoi An", "Craft Beer", "Cambodia", "Vietnam"]
 date: '2025-12-05'
 album: https://flickr.com/photos/dletorey/albums/72177720330718030/
+oldUrl: /se-asia/da-nang-and-friends/
 ---
 
 Today was our first full day in Da Nang and 3 more of our friends were on there way to meet us, from Ho Chi Min City (Saigon).

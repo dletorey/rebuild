@@ -5,6 +5,7 @@ description: "Today we explored Siem Reap and discovered canals, temples, flying
 tags: ["Siem Reap", "Cambodia"]
 date: '2025-11-30'
 album: https://www.flickr.com/gp/dletorey/Xe349XE5Q0
+oldUrl: /se-asia/siem-reap/
 ---
 
 ## Exploring Siem Reap

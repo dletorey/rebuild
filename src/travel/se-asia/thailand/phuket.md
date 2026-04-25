@@ -5,6 +5,7 @@ description: "Today we had a day in Phuket, walked along the beach, relaxed by t
 tags: ["Phuket", "Animals"]
 date: '2025-11-28'
 album: https://flickr.com/photos/dletorey/albums/72177720330587130
+oldURL: /se-asia/phuket/
 ---
 
 Our one day in Kamala beach Phuket was a day of relaxation and chilling. We go up late and then went for breakfast at [Kamala Coffee House](https://maps.app.goo.gl/crEcx51oMrX1epz59). After breakfast Susan went back to the hotel to use the gym and have a massage.

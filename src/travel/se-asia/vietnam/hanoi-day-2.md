@@ -5,6 +5,7 @@ description: "We spent the day exploring the streets of Hanoi had a beer, or two
 tags: ["Hanoi", "Shops", "Train Street", "Water Puppets", "Craft Beer"]
 date: '2025-12-13'
 album: https://flickr.com/photos/dletorey/albums/72177720330879751/
+oldUrl: /se-asia/hanoi-day-2/
 ---
 
 Nothing to see here yet, I'm enjoying my holiday. Check back soon!

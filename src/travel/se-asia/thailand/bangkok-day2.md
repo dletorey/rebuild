@@ -5,6 +5,7 @@ description: "We took public transport to see the Grand Palace and a reclining B
 tags: ["Bangkok", "Grand Palace", "Boat Trip", "Reclining Buddha", "Sirocco", "Sky Bar"]
 date: '2025-11-21'
 album: https://flickr.com/photos/dletorey/albums/72177720330505660/
+oldURL: /se-asia/bangkok-day2/
 ---
 
 Today was the first full day in Bangkok and we had a full itinerary of sightseeing and tourist stuff.

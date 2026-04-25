@@ -5,6 +5,7 @@ description: "Today we we went to Angkor Wat and the surrounding temples. In the
 tags: ["Angkor Wat", "Apsara Dancing", "Sunset", "Dancing", "Temples", "Cambodia"]
 date: '2025-12-01'
 album: https://www.flickr.com/gp/dletorey/if04eKy0Ug
+oldUrl: /se-asia/angkor-wat/
 ---
 
 Today we went to visit Angkor Wat, everyone, who had been before, told us that we should also visit the other temples and not just stick to Angkor Wat. So we decided to [book a tour](https://www.getyourguide.com/en-gb/siem-reap-l274/siem-reap-full-day-angkor-wat-temple-experience-with-sunset-t430746/), our tour guide was called Mony, he was superb and had great knowledge of the area, having a guide rather than going on your own means that not only do you get a description of what you're seeing they also know where to capture the best photos and they help you take photos of you too.

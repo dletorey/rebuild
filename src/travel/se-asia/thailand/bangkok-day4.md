@@ -5,6 +5,7 @@ description: "Before we transferred to Chiang Mai we explored Lumphini park to s
 tags: ["Bangkok", "Water Monitor Lizards", "Lumphini Park", "Chiang Mai"]
 date: '2025-11-23'
 album: https://flickr.com/photos/dletorey/albums/72177720330595289/
+oldURL: /se-asia/bangkok-day4/
 ---
 
 Today was a transfer day from Bangkok to Chiang Mai, although our flight was not until 17:45 so we had the morning to explore.
