@@ -6,6 +6,14 @@ There are {{ flickrAlbum.photoset.photo.length }} photos
 {% for photo in photos %}
 <li>{{ photo.id }}</li>
 {% endfor %}
+{{ flickrPhoto.sizes.size.length }}
+{%if flickrPhoto.sizes.size.length > 0 %}
+{% set imgURL = flickrPhoto.sizes.size[7].source %}
+ImageUrl: {{ flickrPhoto.sizes.size[7].source }}
+<img src="{{ imgURL }}" alt="" />
+{% else %}
+Mmmmmm
+{% endif %}
 </ul>
 {% else %}
 Blah
