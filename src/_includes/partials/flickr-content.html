@@ -1,0 +1,12 @@
+{% set album = flickr.getAlbum %}
+{% if flickrAlbum.photoset.photo.length > 0 %}
+There are {{ flickrAlbum.photoset.photo.length }} photos
+{% set photos = flickrAlbum.photoset.photo %}
+<ul>
+{% for photo in photos %}
+<li>{{ photo.id }}</li>
+{% endfor %}
+</ul>
+{% else %}
+Blah
+{% endif %}
