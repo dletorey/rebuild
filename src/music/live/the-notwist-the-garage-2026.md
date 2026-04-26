@@ -4,6 +4,7 @@ SubTitle: "The Garage, Highbury"
 description: "What do you do the night before going to Germany? You go see a German band you’ve never heard of with your German friend."
 date: '2026-04-23'
 tags: ["The Notwist", "The Garage", "London", "Highbury"]
+album: https://flickr.com/photos/dletorey/albums/72177720333300780
 ---
 
 Tonight I went with friend Oliver (of [Pixel Pioneers](https://pixelpioneers.co/) fame, buy a ticket) to The Garage Highbury corner to see a band that I’ve never heard and never heard of. I went on Oliver’s recommendation as I know that we have similar tastes in music, plus he wanted someone to go with.
