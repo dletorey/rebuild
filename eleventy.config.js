@@ -29,7 +29,9 @@ export default function (eleventyConfig) {
 
 	// Plugins
 	eleventyConfig.addPlugin(rssPlugin);
-	eleventyConfig.addPlugin(pluginWebc);
+	eleventyConfig.addPlugin(pluginWebc, {
+		components: "_includes/webc/*.webc"
+	});
 
 	// Returns post folders items, sorted by display order
 	eleventyConfig.addCollection('books', (collection) => {

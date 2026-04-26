@@ -52,3 +52,5 @@ The second day of Indie Web Camp is _Create_ day, where attendees work upon thei
 ### The Kettle
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dletorey/albums/72177720333303287" title="Indie Web Camp Düsseldorf 2026"><img src="https://live.staticflickr.com/65535/55229383807_9fe6e7e6b4_c.jpg" width="800" height="600" alt="Indie Web Camp Düsseldorf 2026"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<flickr-content></flickr-content>
