@@ -1,4 +1,5 @@
 import rssPlugin from '@11ty/eleventy-plugin-rss';
+import pluginWebc from "@11ty/eleventy-plugin-webc";
 import CleanCSS from "clean-css";
 import markdownit from 'markdown-it';
 // Filters
@@ -28,6 +29,7 @@ export default function (eleventyConfig) {
 
 	// Plugins
 	eleventyConfig.addPlugin(rssPlugin);
+	eleventyConfig.addPlugin(pluginWebc);
 
 	// Returns post folders items, sorted by display order
 	eleventyConfig.addCollection('books', (collection) => {
