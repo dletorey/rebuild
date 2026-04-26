@@ -53,4 +53,6 @@ The second day of Indie Web Camp is _Create_ day, where attendees work upon thei
 
 There is a kettle in the office which allows you to set the temperature that the water gets to. There is also a button to start the process, but the button is red to start and green to stop the heating. This was truly confusing.
 
+### What I did
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dletorey/albums/72177720333303287" title="Indie Web Camp Düsseldorf 2026"><img src="https://live.staticflickr.com/65535/55229383807_9fe6e7e6b4_c.jpg" width="800" height="600" alt="Indie Web Camp Düsseldorf 2026"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
