@@ -3,7 +3,7 @@ title: "beyond tellerand 2026"
 SubTitle: "Düsseldorf"
 description: "In Germany again for the amazing beyond tellerand, curated by Marc Thiele"
 date: '2026-04-27'
-tags: ["beyond tellerand", "Dusseldorf", "Germany"]
+# tags: ["beyond tellerand", "Dusseldorf", "Germany"]
 ---
 
 This year I have chosen to be in the moment and I have just collected quotes. 
