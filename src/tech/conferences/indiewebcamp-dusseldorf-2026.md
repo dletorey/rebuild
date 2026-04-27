@@ -3,6 +3,7 @@ title: "IndieWebCamp Dusseldorf 2024"
 description: "Today I attended IndieWebCamp in Düsseldorf, before Beyond Tellerand conference."
 tags: ["IndieWeb", "IndieWebCamp", "Dusseldorf", "Beyond Tellerand", "Coding"]
 date: "2026-04-25"
+updated: "2026-04-27"
 album: https://flickr.com/photos/dletorey/albums/72177720333303287/
 ---
 
@@ -54,5 +55,22 @@ The second day of Indie Web Camp is _Create_ day, where attendees work upon thei
 There is a kettle in the office which allows you to set the temperature that the water gets to. There is also a button to start the process, but the button is red to start and green to stop the heating. This was truly confusing.
 
 ### What I did
+
+During the create day I:
+
+- Wrote this post
+- Worked on pulling the photos dynamically from my flickr account
+
+### Learnings
+
+Do not put dynamic request that fail in an `HTML` comment. This meant that the build of my site was failing and I thought that as it was commented then this was not actually happening and it was.
+
+#### Example
+
+In this example I have had to escape the curly brackets `{` `}` so they don't make the code fail:
+
+```html
+<!-- This is an HTML comment which contains some dynamic \{\{ nunjucks code \}\} -->
+```
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dletorey/albums/72177720333303287" title="Indie Web Camp Düsseldorf 2026"><img src="https://live.staticflickr.com/65535/55229383807_9fe6e7e6b4_c.jpg" width="800" height="600" alt="Indie Web Camp Düsseldorf 2026"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
