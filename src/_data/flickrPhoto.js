@@ -8,7 +8,8 @@ import dotenv from "dotenv";
  */
 export default async () => {
 	try {
-		let url = `https://www.flickr.com/services/rest/?method=flickr.photos.getSizes&api_key=922134d73cd871a57fd1c481eca7ca3c&photo_id=55229383807&format=json&nojsoncallback=1`
+		// let url = `https://api.flickr.com/services/rest/?method=flickr.photos.getSizes&api_key=${process.env.FLICKR_API_KEY}&photo_id=55229383807&format=json&nojsoncallback=1`
+		let url = `https://api.flickr.com/services/rest/?method=flickr.photos.getSizes&api_key=922134d73cd871a57fd1c481eca7ca3c&photo_id=55229383807&format=json&nojsoncallback=1`
 		const items = await EleventyFetch(url, {
 			duration: '1d',
 			type: 'json',
