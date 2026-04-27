@@ -1,5 +1,5 @@
 ---
-title: "IndieWebCamp Dusseldorf 2024"
+title: "IndieWebCamp Dusseldorf 2026"
 description: "Today I attended IndieWebCamp in Düsseldorf, before Beyond Tellerand conference."
 tags: ["IndieWeb", "IndieWebCamp", "Dusseldorf", "Beyond Tellerand", "Coding"]
 date: "2026-04-25"
