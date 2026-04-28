@@ -54,3 +54,5 @@ This year I have chosen to be in the moment and I have just collected quotes.
 > Turn spite into determination.
 
 > Reclaim what you always believed in.
+
+> Fuck them! Im doing it anyway 
