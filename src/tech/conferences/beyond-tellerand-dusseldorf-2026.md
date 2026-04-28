@@ -85,3 +85,5 @@ powerful.
 ### Lauren
 
 > And the capabllities of AI are genuinely quite compelling, So compelling that so many of us are asking now: where does AI end and my own thinking begin?
+
+> Can we call it intelligence if it's built to ignore its own consequences?
