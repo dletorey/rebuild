@@ -65,6 +65,8 @@ This year, at [beyond tellerand](https://beyondtellerrand.com/events/dusseldorf-
 
 > 880 living languages in India
 
+> All she has to do is just swipe, and that's apparently the way of praying now.
+
 ### Bramus
 
 > 
