@@ -6,20 +6,22 @@ date: '2026-04-27'
 tags: ["Beyond Tellerand", "Dusseldorf", "Germany"]
 ---
 
-This year I have chosen to be in the moment and I have just collected quotes. 
+This year, at [beyond tellerand](https://beyondtellerrand.com/events/dusseldorf-2026), I have chosen to be in the moment and I have just collected quotes. 
 
-## Oliver
+## Monday
+
+### Oliver
 
 > Mad is what people call others with imagination 
 
-## Nils
+### Nils
 
 > the face melting electron beam needs to be steered 
 
 > I may have over reacted
 
 
-## Chip
+### Chip
 
 > the cat managed to get out of the box, go back home, and arrive before they did, and just be there to greet them, and so his father then took this as a sign that they should keep the cat.
 
@@ -27,11 +29,11 @@ This year I have chosen to be in the moment and I have just collected quotes.
 
 > oh, my God, my wife warned me about pulling too many all-nighters, I'm hallucinating.
 
-## Marjan
+### Marjan
 
 > Every hour I receive enough sunlight to provide the world with enough electricity for an entire year. Wait. One hour is enough to power everyone everywhere all the time.
 
-## James
+### James
 
 > All the squirrels, and all the birds, and all the animals, all they want to do is create, all we want to do is create, create, create!
 
@@ -41,13 +43,15 @@ This year I have chosen to be in the moment and I have just collected quotes.
 
 > When I was a kid, that’s better than a long time ago in a galaxy far, far away. It's up there with once upon a time, right?
 
-## Annie
+### Annie
 
 > Don’t start with a blank page because is there anything less inspirational 
 
 > Never ask permission to show your own work
 
-## André
+## Tuesday 
+
+### André
 
 > Channel anger into focused work.
 
@@ -55,4 +59,20 @@ This year I have chosen to be in the moment and I have just collected quotes.
 
 > Reclaim what you always believed in.
 
-> Fuck them! Im doing it anyway 
+> Fuck them! Im doing it anyway
+
+### Kimya
+
+> 
+
+### Bramus
+
+> 
+
+### James
+
+> 
+
+### Lauren
+
+> 
