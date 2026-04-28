@@ -69,7 +69,7 @@ This year, at [beyond tellerand](https://beyondtellerrand.com/events/dusseldorf-
 
 ### Bramus
 
-> 
+> Here's some code I stole from Jake
 
 ### James
 
