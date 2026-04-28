@@ -45,4 +45,10 @@ This year I have chosen to be in the moment and I have just collected quotes.
 
 > Don’t start with a blank page because is there anything less inspirational 
 
-> Never ask permission to show your own work 
+> Never ask permission to show your own work
+
+## André
+
+> Channel anger into focused work.
+Turn spite into determination.
+Reclaim what you always believed in.
