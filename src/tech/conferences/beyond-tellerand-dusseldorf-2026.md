@@ -63,7 +63,7 @@ This year, at [beyond tellerand](https://beyondtellerrand.com/events/dusseldorf-
 
 ### Kimya
 
-> 
+> 880 living languages in India
 
 ### Bramus
 
