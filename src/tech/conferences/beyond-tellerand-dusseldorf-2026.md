@@ -71,6 +71,8 @@ This year, at [beyond tellerand](https://beyondtellerrand.com/events/dusseldorf-
 
 > Here's some code I stole from Jake
 
+> Internet explorer did it first
+
 ### James
 
 > 
