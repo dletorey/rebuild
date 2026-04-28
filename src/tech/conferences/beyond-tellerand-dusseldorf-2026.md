@@ -84,4 +84,4 @@ powerful.
 
 ### Lauren
 
-> 
+> And the capabllities of AI are genuinely quite compelling, So compelling that so many of us are asking now: where does AI end and my own thinking begin?
