@@ -75,7 +75,8 @@ This year, at [beyond tellerand](https://beyondtellerrand.com/events/dusseldorf-
 
 ### James
 
-> 
+> Learning to make a website in 1987 was incredibly
+powerful.
 
 ### Lauren
 
