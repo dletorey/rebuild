@@ -80,6 +80,8 @@ powerful.
 
 > You forget about the reason that we got into this in the first place.
 
+> Don't be embarrassed by what you made in the past. Don't throw it away, Don't delete it, because that kid was trying their hardest to make something with what they had, and that should be celebrated.
+
 ### Lauren
 
 > 
