@@ -50,5 +50,7 @@ This year I have chosen to be in the moment and I have just collected quotes.
 ## André
 
 > Channel anger into focused work.
-Turn spite into determination.
-Reclaim what you always believed in.
+
+> Turn spite into determination.
+
+> Reclaim what you always believed in.
