@@ -75,7 +75,7 @@ This year, at [beyond tellerand](https://beyondtellerrand.com/events/dusseldorf-
 
 ### James
 
-> Learning to make a website in 1987 was incredibly
+> Learning to make a website in 1997 was incredibly
 powerful.
 
 > You forget about the reason that we got into this in the first place.
