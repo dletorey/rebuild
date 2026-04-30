@@ -1,7 +1,8 @@
 import rssPlugin from '@11ty/eleventy-plugin-rss';
 import pluginWebc from "@11ty/eleventy-plugin-webc";
+import { RenderPlugin } from "@11ty/eleventy";
 import CleanCSS from "clean-css";
-import markdownit from 'markdown-it';
+import markdownIt from 'markdown-it';
 // Filters
 import { dateFilter, w3DateFilter, olderThan } from './src/filters/date-filters.js';
 import { filterByKey } from './src/filters/array-filters.js';
@@ -29,9 +30,16 @@ export default function (eleventyConfig) {
 
 	// Plugins
 	eleventyConfig.addPlugin(rssPlugin);
+	eleventyConfig.addPlugin(RenderPlugin);
 	eleventyConfig.addPlugin(pluginWebc, {
-		components: "_components/**/*.webc"
+		components: "src/_components/**/*.webc"
 	});
+	// markdownIt settings
+	let options = {
+		html: true,
+		breaks: true,
+	};
+	eleventyConfig.setLibrary("md", markdownIt(options));
 
 	// Returns post folders items, sorted by display order
 	eleventyConfig.addCollection('books', (collection) => {
