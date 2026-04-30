@@ -79,5 +79,7 @@ In this example I have had to escape the curly brackets `{` `}` so they don't ma
 {% include "partials/flickr-content.html" %}
 
 {% renderTemplate "webc" %}
-    <flickr></flickr>
+    <flickr name="Dave" type="album" album="72177720333303287"></flickr>
+    <flickr name="Dave" type="photo" album="72177720333303287"></flickr>
+    <flickr name="Dave" type="video" album="72177720333303287"></flickr>
 {% endrenderTemplate %}
