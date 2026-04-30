@@ -30,7 +30,7 @@ export default function (eleventyConfig) {
 	// Plugins
 	eleventyConfig.addPlugin(rssPlugin);
 	eleventyConfig.addPlugin(pluginWebc, {
-		components: "_includes/webc/*.webc"
+		components: "_components/**/*.webc"
 	});
 
 	// Returns post folders items, sorted by display order
