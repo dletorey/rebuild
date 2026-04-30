@@ -245,6 +245,17 @@
         "added broken partial",
         "added refresh partial"
       ]
+    },
+    {
+      "date": "2026-04-30",
+      "pr": "37",
+      "preview": "37",
+      "changes": [
+        "added webc plugin",
+        "created flickr component",
+        "added markdownit settings",
+        "added render plugin"
+      ]
     }
   ]
 }

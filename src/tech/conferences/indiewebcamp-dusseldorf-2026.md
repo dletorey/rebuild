@@ -74,3 +74,7 @@ In this example I have had to escape the curly brackets `{` `}` so they don't ma
 ```
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dletorey/albums/72177720333303287" title="Indie Web Camp Düsseldorf 2026"><img src="https://live.staticflickr.com/65535/55229383807_9fe6e7e6b4_c.jpg" width="800" height="600" alt="Indie Web Camp Düsseldorf 2026"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+{% renderTemplate "webc" %}
+    <flickr></flickr>
+{% endrenderTemplate %}

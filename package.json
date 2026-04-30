@@ -7,6 +7,7 @@
 	"dependencies": {
 		"@11ty/eleventy": "^4.0.0-alpha.7",
 		"@11ty/eleventy-plugin-rss": "^2.0.4",
+		"@11ty/eleventy-plugin-webc": "^0.11.2",
 		"clean-css": "^5.3.3",
 		"luxon": "^3.7.2"
 	}
