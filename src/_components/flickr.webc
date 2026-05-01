@@ -1,7 +1,8 @@
 <template webc:type="11ty" 11ty:type="njk, md">
 {% set heading = album %}
+{% set albumId = album %}
 {% if type === "album" %}
-### Album {{ heading }}
+### Album {{ heading }} {{ albumId }}
 {% elseif type === "photo" %}
 ### Photo {{ heading }}
 {% elseif type === "video" %}
