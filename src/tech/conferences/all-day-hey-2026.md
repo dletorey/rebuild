@@ -33,6 +33,8 @@ for this one.
 I am not going to talk about the pros and cons of Al.
 Accessibility notwithstanding.
 
+> The bit they don't do particularly well is human recognition based on characteristics and lived experiences.
+
 ## Anjana Vakil
 
 ### Making Waves with the Web: Audio Synthesis and Data Sonification with the WebAudio API
