@@ -43,7 +43,7 @@ Accessibility notwithstanding.
 
 **Biscuit:** [Nice](https://en.wikipedia.org/wiki/Nice_biscuit)
 
-
+> First, make some sound. Get some waves that you can do something with. Sort of like your raw material. Then just like a sculptor would sculpt a chunk of clay, give it personality and then to add interest and dynamics, start moving that sound in different ways. Either manually or as were gonna look at, automatical using some tricks of the trade. This is the process to walk through in the context
 
 ## Fiona Safari
 
