@@ -20,6 +20,9 @@ In order to stay in the moment I won't be making notes but I'll add quotes from 
 
 > Time travel! Time travel is the solution for everything.
 
+> I recorded this in Firefox because Chrome is sill glitchy
+for this one.
+
 ## Léonie Watson
 
 ### Do Androids Dream of Accessible Webs?
