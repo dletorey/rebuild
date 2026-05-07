@@ -75,6 +75,8 @@ Accessibility notwithstanding.
 
 > I didn't do that because it would be a great way to upset my friends. How did Bruce Lawson get up there. Must be old slides. Sorry, Bruce, I didnt mean to look at you with Genghis Khan.
 
+> Find out the impact that it's having on real people - because that's the main important thing here is real people and making our websites better for real people.
+
 ## Cassie Evans
 
 ### Game On!
