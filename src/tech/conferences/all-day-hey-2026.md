@@ -77,6 +77,8 @@ Accessibility notwithstanding.
 
 > Find out the impact that it's having on real people - because that's the main important thing here is real people and making our websites better for real people.
 
+> It will make you a better developer **because its part of our job**.
+
 ## Cassie Evans
 
 ### Game On!
