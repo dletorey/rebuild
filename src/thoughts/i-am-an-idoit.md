@@ -1,14 +1,14 @@
 ---
 title: "I'm an idiot"
 description: "Or that is is repeatedly what I was told at school by my english teacher."
-date: "2026-05-06"
+date: "2026-05-08"
 tags: ["Mental Health", "School", "Psychology", "Teachers"]
-eleventyExcludeFromCollections: true
+# eleventyExcludeFromCollections: true
 ---
 
 ## School
 
-In 1979 I moved up to senior school. School was different in those days before the Margaret Thatcher and Tories [gamified](https://en.wikipedia.org/wiki/Gamification) (gamification was not a thing in those days but it is what happened) schools. When you left Junior or Primary school (7-11 year olds) you then went to the Senior school that was closest to where you lived, you did not get to choose which school you went to. This is now a thing and this now means that schools are rated against each other and this has the effect that schools that do well attract the smarter children and the better teachers which then means that the other schools decline. I'm not saying that schools should not be inspected to make sure that they are adhering to standards and safe-guarding the children look after and educate. In fact they should be and those that are struggling should then be given more help to improve the state of education for all children, but I'm a socialist and what do I know. 
+In 1979 I moved up to senior school. School was different in those days before the Margaret Thatcher and Tories [gamified](https://en.wikipedia.org/wiki/Gamification) (gamification was not a thing in those days but it is what happened) schools. When you left Junior or Primary school (7-11 year olds) you then went to the Senior school that was closest to where you lived, you did not get to choose which school you went to. This is now a thing and this now means that schools are rated against each other and this has the effect that schools that do well attract the smarter children and the better teachers which then means that the other schools decline. I'm not saying that schools should not be inspected to make sure that they are adhering to standards and safe-guarding the children look after and educate. In fact they should be and those that are struggling should then be given more help to improve the state of education for all children, but I'm a socialist and what do I know.
 
 So the other thing that happened in those days at school is the kids were grouped by their intelligence/ability, based upon how they did in their previous school. While this is probably the same in lots of schools now a days one of the schools that I worked at, 20 years ago, the new pupils were given a test to see how they best learnt and then they were grouped by [learning styles](https://abilitypath.org/ap-resources/childrens-learning-styles/) rather than ability. This meant that all those who learnt best visually were in the same class and all those learnt best by doing were in the same class, etc. The teachers were also trained to adapt their teaching styles to match the class they were teaching.
 
@@ -16,7 +16,7 @@ So the other thing that happened in those days at school is the kids were groupe
 
 Our school was split over 2 campuses, called Ancholme House and Trent House, named after to 2 rivers to the West and East of Scunthorpe.
 
-I was put into class **A2**, the classes were A1, A2, A3, B1, B2, B3, C1 and C2, so technically I was in second to top class and I remained in this class for my time there. In the early years, years 1 & 2 (now years 7 & 8), we were in a lower school called Ancholme House we only went to the upper school Trent House for Physical Education (PE) lessons. There were certain subjects that I excelled in and others I did not. Those that I did not excel in were particularly English and Religious Education (RE). My English teacher was also my form teacher and we got on well and he helped with what I struggled with. My RE teacher however I did not get on with. 
+I was put into class **A2**, the classes were A1, A2, A3, B1, B2, B3, C1 and C2, so technically I was in second to top class and I remained in this class for my time there. In the early years, years 1 & 2 (now years 7 & 8), we were in a lower school called Ancholme House we only went to the upper school Trent House for Physical Education (PE) lessons. There were certain subjects that I excelled in and others I did not. Those that I did not excel in were particularly English and Religious Education (RE). My English teacher was also my form teacher and we got on well and he helped with what I struggled with. My RE teacher however I did not get on with.
 
 It was not to long into my first year that my RE teacher had me put on report. Being on report meant that I had to take a form with me to every lesson and have it filled out by the teacher at the end of the lesson to say how I worked and behaved in their lesson. At the end of the week I had to take this form to the head of year and discuss how I had got on in my lessons. I was repeated told that I was the first person ever, from the second highest class, to be put on report and how I should be ashamed of myself. The outcome of this was that each week I got bad reviews from my RE teacher and all the others were positive, although I did struggle with the language subjects English & French.
 
@@ -88,4 +88,24 @@ The other thing that happened during my time at the school was that I got to spe
 
 ## First Teaching post
 
+So my first teaching post was at a Public Boys School (Public school in the UK does not mean Public that would be a [Comprehensive School](https://en.wikipedia.org/wiki/Comprehensive_school)), for kids with Learning difficulties and specifically Dyslexia. This meant that there was a specific SEND (Special Educational Needs and Disabilities) teacher who helped those children with their understanding of English.
 
+I was here that I truly got a grasp on what it meant to be Dyslexic and how it affected the pupils in different ways. I also started to understand that there was nothing wrong with having Dyslexia and that it just meant that Dyslexic brains worked in a different way to what the tradition was thought of. The pupils that I spoke were all very bright and were super good at problem solving and visual awareness.
+
+Working with the SEND teacher we worked out that I also suffered with Dyslexia and that for the subjects that I was teaching that this was a really good thing and that not only was I able to teach them in a better way but I also had empathy with them all.
+
+## Why
+
+So why am I saying you all of this?
+
+Last year for me was an horrendous time. I started suffering with anxiety and depression. I started not believing in myself. I started suffering with [Imposter Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome). I thought that nobody liked me. My mum was diagnosed with [Leukemia](https://en.wikipedia.org/wiki/Leukemia) and her [Dementia](https://en.wikipedia.org/wiki/Dementia) was rapidly getting worse. I was constantly feeling stupid and that I was an Idiot. Eventually at the end of the year [my mum died](/thoughts/mum/).
+
+When I got back from Glastonbury Festival I decided that it was time that I reached out and got some help. I went to the Doctor and they recommended to me [Newham Talking Therapies](https://www.elft.nhs.uk/newham-talking-therapies). I was added to a group therapy sessions and after the first session it was highlighted to me that [this was not right for me](/music/live/wheres-your-head-at/).
+
+They tried to get me onto 1-2-1 therapy session but that was not able and I'd have to join a waiting list and that if I joined that now it would clash with the trips that I had planned to Germany and South East Asia. So I was advised to re-apply once I got back from the trips. This is a good thing as with my mum passing away in late October I just would not have been in the right place for this anyway.
+
+In January this year, I contacted Newham Talking Therapies once again. After a few days they got back to me and they told me that I'd been added to the waiting list for 1-2-1 therapy and the wait could be up to 8 weeks.
+
+## Therapy
+
+I eventually started my therapy on Thursday 26 March, this was very fortunate because the 6 weekly sessions perfectly aligned with all the upcoming travel and work I had planned.
