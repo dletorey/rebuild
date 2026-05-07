@@ -55,6 +55,8 @@ Accessibility notwithstanding.
 
 > And all of a sudden, there are all these questions coming into my head that, what if I'm making an idiot out of myself? So silly to make jokes. Who makes jokes with managers? Why did I think to do that? That was straight from the comfort zone to the panic zone.
 
+> But at the same time, I my mother doesn't believe in any of these things that I said, I am sure it might be the same for you. So, it's just that she doesn't believe in anything related to extrovert and introvert. And she might consider me a weird person.
+
 ## Jake Archibald
 
 ### Composing Video in the Browser
