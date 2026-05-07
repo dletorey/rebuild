@@ -16,6 +16,8 @@ In order to stay in the moment I won't be making notes but I'll add quotes from 
 
 > if you have a MPA (Multi Page App) otherwise known as a website!
 
+> What I basically did is I set up a mental timeline. So the timeline ive shown in DevTools, I set up mentally.
+
 ## Léonie Watson
 
 ### Do Androids Dream of Accessible Webs?
