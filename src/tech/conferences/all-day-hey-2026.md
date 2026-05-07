@@ -6,6 +6,7 @@ date: '2026-05-07'
 tags: ["All Day Hey", "Leeds", "England", "United Kingdom"]
 ---
 
+In order to stay in the moment I won't be making notes but I'll add quotes from each speaker as we go.
 
 ## Bramus Van Damme
 
