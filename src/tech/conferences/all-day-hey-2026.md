@@ -73,6 +73,8 @@ Accessibility notwithstanding.
 
 > "Time travel is the solution to everything" - Bramus; like 4 hours ago
 
+> I didn't do that because it would be a great way to upset my friends. How did Bruce Lawson get up there. Must be old slides. Sorry, Bruce, I didnt mean to look at you with Genghis Khan.
+
 ## Cassie Evans
 
 ### Game On!
