@@ -89,6 +89,8 @@ Accessibility notwithstanding.
 
 > I made a game instead of a talk.
 
+> Sometimes the Trello tickets wall off the edge of the world themselves. Which I wish that did that in real life.
+
 ## Phil Hawksworth
 
 ### Learning Along the Way
