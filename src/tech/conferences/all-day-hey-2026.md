@@ -102,3 +102,5 @@ Accessibility notwithstanding.
 > You bet your ass it had a hashtag.
 
 > And the key there was really when I wasn't sure what I should assume, I had to ask, and I had to listen, and I had to replay what I thought was the right solution for that.
+
+> And mostly it's because | think artificial intelligence really needs actual intelligence behind it. That's the key. And there's a real risk that won't happen if the right people don't engage with it.
