@@ -100,3 +100,5 @@ Accessibility notwithstanding.
 > Sounds worthy and self-important. What we do matters. We might not be doctors or human rights lawyers or school teachers, but we make things for an audience. Some things are for play. Some things are for a very, very serious purpose.
 
 > You bet your ass it had a hashtag.
+
+> And the key there was really when I wasn't sure what I should assume, I had to ask, and I had to listen, and I had to replay what I thought was the right solution for that.
