@@ -18,6 +18,8 @@ In order to stay in the moment I won't be making notes but I'll add quotes from 
 
 > What I basically did is I set up a mental timeline. So the timeline ive shown in DevTools, I set up mentally.
 
+> Time travel! Time travel is the solution for everything.
+
 ## Léonie Watson
 
 ### Do Androids Dream of Accessible Webs?
