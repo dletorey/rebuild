@@ -87,6 +87,8 @@ Accessibility notwithstanding.
 
 > Hey it's me the crumberly biscuit.
 
+> I made a game instead of a talk.
+
 ## Phil Hawksworth
 
 ### Learning Along the Way
