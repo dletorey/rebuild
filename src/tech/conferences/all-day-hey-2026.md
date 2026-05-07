@@ -97,4 +97,4 @@ Accessibility notwithstanding.
 
 **Biscuit:** [Chocolate Digestive](https://en.wikipedia.org/wiki/Digestive_biscuit#:~:text=Chocolate%20digestives)
 
-
+> Sounds worthy and self-important. What we do matters. We might not be doctors or human rights lawyers or school teachers, but we make things for an audience. Some things are for play. Some things are for a very, very serious purpose.
