@@ -3,6 +3,7 @@ title: "I'm an idiot"
 description: "Or that is is repeatedly what I was told at school by my english teacher."
 date: "2026-05-06"
 tags: ["Mental Health", "School", "Psychology", "Teachers"]
+eleventyExcludeFromCollections: true
 ---
 
 ## School
@@ -59,7 +60,7 @@ In 1992 I decided to train to become a Design Technology teacher. I went to Shef
 
 One of the parts of the course that I found difficult was the Education lectures. Every Wednesday morning we had to leave the workshop and attend Education lectures and then discussion groups, where we learnt about Learning Styles, Legislation acts and Learning Difficulties. Each semester we were set an essay to write about a topic that we had learnt about, as I knew that I would struggle with this part of the course I would get the essay done the first week and get it handed in. That way I would not have it hanging over me for the rest of the semester. At first my lecturers told me that I couldn't hand it in so early, until we discussed my reasons behind this.
 
-It was during these lectures that I first learnt about Dyslexia.the effects that it had on students and the methods to help with their learning styles.
+It was during these lectures that I first learnt about [Dyslexia](https://en.wikipedia.org/wiki/Dyslexia).the effects that it had on students and the methods to help with their learning styles.
 
 ### Teaching Practice
 
