@@ -35,6 +35,8 @@ Accessibility notwithstanding.
 
 > The bit they don't do particularly well is human recognition based on characteristics and lived experiences.
 
+> Their our decisions, we make as designers. implementers, product owners. And so, we decide what thing is important. We get to decide what they can ignore. We get to decide how the agents act. This is our responsibility at the end of the day.
+
 ## Anjana Vakil
 
 ### Making Waves with the Web: Audio Synthesis and Data Sonification with the WebAudio API
