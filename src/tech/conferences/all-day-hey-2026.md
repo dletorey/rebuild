@@ -63,7 +63,7 @@ Accessibility notwithstanding.
 
 **Biscuit:** [Jam ‘N’ Cream](https://www.foxs-biscuits.co.uk/biscuits/Favourites/Jam-%E2%80%98n%E2%80%99-Cream.html)
 
-
+> And particularly with Al, it can end up writing a lot of code for things that browsers now do in one line of CSS or HTML.
 
 ## Alistair Shepherd
 
