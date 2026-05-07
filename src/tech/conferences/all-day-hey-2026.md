@@ -53,6 +53,8 @@ Accessibility notwithstanding.
 
 > How can I work with who I am?
 
+> And all of a sudden, there are all these questions coming into my head that, what if I'm making an idiot out of myself? So silly to make jokes. Who makes jokes with managers? Why did I think to do that? That was straight from the comfort zone to the panic zone.
+
 ## Jake Archibald
 
 ### Composing Video in the Browser
