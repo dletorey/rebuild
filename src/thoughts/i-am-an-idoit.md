@@ -3,7 +3,7 @@ title: "I'm an idiot"
 description: "Or that is is repeatedly what I was told at school by my english teacher."
 date: "2026-05-08"
 tags: ["Mental Health", "School", "Psychology", "Teachers"]
-# eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: true
 ---
 
 ## School
@@ -109,3 +109,33 @@ In January this year, I contacted Newham Talking Therapies once again. After a f
 ## Therapy
 
 I eventually started my therapy on Thursday 26 March, this was very fortunate because the 6 weekly sessions perfectly aligned with all the upcoming travel and work I had planned.
+
+I literally had no clue what to expect from these therapy sessions, part of my mind was thinking that I would be asked a bunch of questions and then I would be told do A, B, and C and you will be fixed, or maybe that is just what I was hoping.
+
+Each week a couple of days before my sessions I was sent a link to a questionnaire where I would answer a set of question on how I was feeling. The [Patient Health Questionnaire (PHQ-9)](https://patient.info/doctor/mental-health/phq-9) is a screening tool for depression and I should answer based on how you've felt over the last 2 weeks, alas my Dyslexia completely missed the "felt over the last 2 weeks" and I just answered how I felt at the time. This was until something went wrong and my score was not recorded and then my therapist had to ask me the questions at the beginning of my 3rd session.
+
+So my first week my therapist explained to me how it was all going to go. Firstly they pointed out that if I didn't fill out the PHQ-9 online then they would need to do this at the beginning of the session. They highlighted to me that everything that I said during the sessions was completely confidential, unless if I said that I was thinking of harming myself or someone else and then that would need to be reported. They said that these sessions were mine and that I could use them to say anything that I wanted. They pointed out that I didn't need to say anything and that I wouldn't be prompted to say anything, I also would not be asked anything.
+
+Usually when asked to say anything, in situations like these, I just dry up and say nothing. While in the first session this did happen for a time and then I started talking about how I felt stupid that I was here and that I felt that I should not be here taking up someone elses place and that I was being selfish. On my way home form my first session I walked home, which was about 3 miles, and I thought about why i was doing this, should I be doing this, should i be taking up someone elses space, should I go back the next week and was I actually going to get anything out of this.
+
+The second week, I did go back. At the beginning, again, I didn't know what to say although we did talk about the [march the previous weekend](/thoughts/together-alliance-march-2026) where we had met briefly before it started. After a while of me know talking I started talking about how I felt stupid and that this had been a constant in my life since my English teacher had told me that I was an Idiot and stupid.
+
+Over the following weeks, I tried each week to go with a topic of something that I should talk about, again I felt that I was being stupid and wasting an opportunity if I just sat there and said nothing.
+
+### Things that came out of my therapy
+
+#### My thoughts and not wrong
+
+Repeatedly while I was in the therapy sessions I kept questioning what I was saying and whether what I was thinking. My therapist kept pointing out to me that these thoughts were what I was thinking and that as they are my thoughts they were what I was believing and hence that they have to be correct.
+
+#### I am not stupid
+
+So it turns out that you believe what you are told as a child and that that stays with you for a long time, if not forever. There are lots of things that prove to me that I am not stupid and I just need to remember this. While there are many times and things that I often struggle with, this is mostly because it in not my specialism, I need to remember this and when I don't know something rather than attacking myself I need to ask for help.
+
+#### People do not hate me
+
+This is something that I have been struggling with for a while. Staying in touch with people is really important to me and I still communicate with people I have known for decades. Although it always seams to me that I'm the one that is reaching out to people and it is not a two way process. My brain then starts telling me that people don't like me and that then only every respond when I reach out to them. I have to realise that this is probably partly because I have mostly left the social media platforms that people use. Whenever I meet people in person they are always happy to see me.
+
+## What is next?
+
+…
