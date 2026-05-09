@@ -2,8 +2,7 @@
 title: "I'm an idiot"
 description: "Or that is is repeatedly what I was told at school by my english teacher."
 date: "2026-05-08"
-tags: ["Mental Health", "School", "Psychology", "Teachers"]
-eleventyExcludeFromCollections: true
+tags: ["Mental Health", "School", "Psychology", "Teachers", "Therapy"]
 ---
 
 ## School
@@ -138,4 +137,16 @@ This is something that I have been struggling with for a while. Staying in touch
 
 ## What is next?
 
-…
+Newham talking Therapies have added me to a CBT, 4 week course, which is nothing to do with gummies that get you high but [Cognitive Behavioral Therapy](https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/). Which is a type of talking therapy where a therapist helps you to change how you think and act.
+
+I need to start being proud of the work that I do. I am very proud of what I do for [MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/) but when it comes to telling people about it I'm often scared about what people might think and this is just nonsense so each month I shall start to add a list of the things that I have worked on that month.
+
+I need to stop thinking of [Pull Request reviews](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews) as criticism and more eyes to check that things are right, readable and understandable.
+
+I need to think that people not replying straight away doesn't mean that they don't like me and more that they may be busy, not have seen my message.
+
+I need to aks for help when I am stuck, rather than just thinking I'm an idiot.
+
+I need to realise that there may be errors in the things that I write, but I can correct it.
+
+There is more that I need to add to this but at the moment I don't know and I can add it later, because _this is my website and get to choose what goes here_.
