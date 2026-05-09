@@ -2,7 +2,7 @@
 title: "I'm an idiot"
 description: "Or that is is repeatedly what I was told at school by my english teacher."
 date: "2026-05-09"
-tags: ["Mental Health", "School", "Psychology", "Teachers", "Therapy"]
+tags: ["Mental Health", "School", "Psychology", "Teachers", "Therapy", "Dyslexia"]
 ---
 
 ## School
