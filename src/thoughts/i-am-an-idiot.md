@@ -149,4 +149,4 @@ I need to aks for help when I am stuck, rather than just thinking I'm an idiot.
 
 I need to realise that there may be errors in the things that I write, but I can correct it.
 
-There is more that I need to add to this but at the moment I don't know and I can add it later, because _this is my website and get to choose what goes here_.
+There is more that I need to add to this but at the moment I don't know and I can add it later, because _this is my website and **I** get to choose what goes here_.
