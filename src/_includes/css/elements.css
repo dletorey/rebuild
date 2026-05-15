@@ -65,7 +65,10 @@ small {
   font-size: var(--step--2);
 }
 blockquote {
-  max-inline-size: 55ch;
+  max-inline-size: 56ch;
+  padding-inline-start: var(--sp-s);
+  border-inline-start: 5px solid;
+  border-color: light-dark(var(--lm-heading), var(--dm-heading));
 }
 h1 {
   font-size: var(--step-4);
