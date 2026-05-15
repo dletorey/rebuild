@@ -1,4 +1,4 @@
-// A modified version of my "modern reset" https://github.com/Andy-set-studio/modern-css-reset
+/* A modified version of my "modern reset" https://github.com/Andy-set-studio/modern-css-reset */
 
 /* Box sizing rules */
 *,
@@ -74,4 +74,9 @@ select {
 		transition-duration: 0.01s !important;
 		scroll-behavior: auto !important;
 	}
+}
+
+/* default view-transition */
+@view-transition {
+  navigation: auto;
 }

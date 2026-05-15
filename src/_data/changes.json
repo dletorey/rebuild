@@ -256,6 +256,14 @@
         "added markdownit settings",
         "added render plugin"
       ]
+    },
+    {
+      "date": "2026-05-15",
+      "pr": "38",
+      "preview": "38",
+      "changes": [
+        "added default cross document view-transitions"
+      ]
     }
   ]
 }
