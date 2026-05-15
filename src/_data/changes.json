@@ -259,10 +259,18 @@
     },
     {
       "date": "2026-05-15",
-      "pr": "38",
-      "preview": "38",
+      "pr": "39",
+      "preview": "39",
       "changes": [
         "added default cross document view-transitions"
+      ]
+    },
+    {
+      "date": "2026-05-15",
+      "pr": "40",
+      "preview": "40",
+      "changes": [
+        "added styling for `<blockquote>` elements"
       ]
     }
   ]
