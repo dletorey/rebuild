@@ -1,5 +1,5 @@
 ---
-title: "Por-Palestine March"
+title: "Pro-Palestine March"
 subTitle: "May 2026"
 description: "Today I joined 250,00 people on a Pro-Palestine and Anti-Far-Right march in London."
 date: "2026-05-16"
