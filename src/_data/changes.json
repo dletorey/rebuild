@@ -272,6 +272,15 @@
       "changes": [
         "added styling for `<blockquote>` elements"
       ]
+    },
+    {
+      "date": "2026-06-04",
+      "pr": "41",
+      "preview": "41",
+      "changes": [
+        "Fixed width of media such as `<img>`, `<video>`, etc.",
+        "Fixed the issue with cards not fitting content."
+      ]
     }
   ]
 }
