@@ -124,6 +124,6 @@ picture,
 img,
 iframe,
 video {
-  max-width: 60ch;
+  max-width: 100%;
   height: auto;
 }
