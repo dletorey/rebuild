@@ -5,7 +5,7 @@ description: "My fourth gig which was a fundraiser for Gaza & Palestine, this ti
 date: "2026-05-17"
 updated: "2026-05-18"
 tags: ["Gaza", "Palestine", "Scala", "London"]
-#album: https://www.flickr.com/photos/dletorey/albums/72177720332774291
+album: https://www.flickr.com/photos/dletorey/albums/72177720333734359
 ---
 
 This is the fourth time I have attended a gig in support of Gaza & Palestine, the other 3 being:
