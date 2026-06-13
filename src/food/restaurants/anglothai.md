@@ -1,6 +1,6 @@
 ---
 title: "AngloThai"
-subtitle: "Susan's birthday treat"
+subTitle: "Susan's birthday treat"
 description: "A thai cuisine restaurant with ingredients only from the UK."
 date: "2026-05-27"
 updated: "2026-06-08"

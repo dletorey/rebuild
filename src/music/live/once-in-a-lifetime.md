@@ -2,7 +2,7 @@
 title: "Once in a lifetime"
 description: "David Byrne live at Forest National, Brussels."
 date: "2026-02-18"
-tags: ["David Byrne", "Brussels", "Live"]
+tags: ["David Byrne", "Forest National", "Brussels", "Live"]
 album: https://www.flickr.com/photos/dletorey/albums/72177720332518143/
 oldUrl: /leets/once-in-a-lifetime/
 setlist:
