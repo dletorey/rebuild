@@ -1,7 +1,7 @@
 ---
 title: "The Atomium"
 subTitle: "& walking around Brussels"
-description: "Things went very wrong but turned out amazingly."
+description: "A day exploring Brussels after seeing Massive Attack"
 date: "2026-06-09"
 tags: ["The Atomium", "Brussels", "Belgium", "Walking", "Graffiti"]
 album: https://flickr.com/photos/dletorey/albums/72177720334112355
@@ -26,7 +26,7 @@ On our way to the Atomium we walked past:
 - [Stoomlocomotief at Port Brussels](https://port.brussels/fr/actualites/une-locomotive-ancienne-inauguree-place-des-armateurs)
 - [Gare Maritime - Food Market](https://www.garemaritime-foodmarket.be/) where we stopped for coffee
 - [The tower of The Charter of Human Rights](https://maps.app.goo.gl/SQSFn9iAW8pPfseP6)
-- [A park with tight ropes](https://www.ecbru.be/) part of the School of Circus skills
+- [A park with tight ropes](https://www.ecbru.be/) part of the School of Circus skills, I attempted the tight rope.
 - [Titeuf - Mur BD - Street Art](https://maps.app.goo.gl/gbEFUi914KpEXHjB9)
 
 ## The Atomium
