@@ -128,6 +128,7 @@ There is a [video of the full set by Filter Sequence](https://vimeo.com/11714730
 
 - [More Acid](https://filtersequence.bandcamp.com/track/more-acid-2) by [Filter Sequence](https://filtersequence.bandcamp.com/)
 - [More Acid](https://kz1music.bandcamp.com/track/more-acid) by [KZ1 (aka lloydi)](https://kz1music.bandcamp.com/)
+- [More Acid](https://soundcloud.com/halfdev1l/more-acid-wav/s-oP7tAhprZeo) by [halfdev1l (aka Stephen Sheridan)](https://soundcloud.com/halfdev1l)
 
 ### Compilations
 
@@ -148,3 +149,11 @@ My friend [Bramus](https://www.bram.us/), recently gave a talk at [State of the 
 
 ![Bramus stood on stage highlight a popover which reads More Acid](/images/more-acid/bramus-more-acid.jpg)  
 Photo by [Josh](https://bsky.app/profile/joshtumath.uk/post/3mfvz23jgzc2f)
+
+### Live at The Chapel Nottingham
+
+The second time I got to perform _More Acid_ live was at [Club Onion in Nottingham supporting Sunscreem](/music/live/club-onion-april-2026). The venue was sold out and it was great.
+
+### Fame
+
+Of the back of the Club Onion gig, when I went to Bearded Theory, 3 separate people ran up to me and shouted _More Acid_, this really was surreal. It then happened again at the [Orb gig in the Devil's Arse](/music/live/cave-rave).
