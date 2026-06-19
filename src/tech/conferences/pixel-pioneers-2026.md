@@ -60,3 +60,15 @@ Now, there are many different ways to cool data centres, but still the predomina
 - So, the way that this is built, this is, for me, a development decision and not a design position, and you can prepare really well in design if you're understanding these things really to work hand in hand, and these conversations that you then have as a designer with development are so much more valuable.
 - [Jen Simmons grid layout examples](https://labs.jensimmons.com/)
 - I'm going in my file and renaming my variables. This is amazing that it renames them. It doesn't matter it doesn't match a codebase because I'm a designer and I don't know what a codebase is. The prompt says rename the variables like you're Brad Frost's baby.
+
+## Candi Williams
+
+- So content design is about so much more than just putting words on a screen. Language enables people to make sense of their experiences, and the work that we do as content designers is about the intentional design of that language.
+- Because, technically, two words can mean the same thing but say something very different.
+- And understandable -- just because someone can use something, they can perceive it doesn't mean they can understand the experience easily. So we really need to think about designing for understanding.
+- The general stress that we are under because the world is on fire, and cheese is seven quid!
+- Share notes, and champion content design even when they're not in the room.
+- The thing about generative AI, and I'm not going to swear, but it's garbage in, garbage out, so how those foundations are created are critical.
+- I have found that it is not great at considering the wide range of humans and the many things that a content designer could do like that, and I have found by the time you've programmed it to be anywhere near that good, you could have easily have done it yourself.
+- So one of the biggest flaws for me with generative AI, and we have many fancy names for it, but, in short, it lies.
+- My biggest fear is not that AI takes all of our jobs. I mean hopefully it can take some of my laundry and chores, and then I can just piss around in the garden first, but, that it takes our critical thinking away, that it takes our ability to question some of those really important nuances away.
