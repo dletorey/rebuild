@@ -36,3 +36,14 @@ Now, there are many different ways to cool data centres, but still the predomina
 
 - The other one is monitoring. You kind of actually collect the data on the end-user device, and rather than getting like one super in-depth experience, you get the distribution experience. So like on what content people are looking at, how fast the network is, or how fast the device is, that's going to impact the performance that they have when loading the page.
 
+## Kardo Ayoub
+
+- And I used to carry this lump of meat on my back everywhere. There isn't a hill or mountain in England and Wales that I haven't climbed up with this guy on my back.
+- He said it's a lesion. I was like, no shit. I can see something. We don't know what it is. This is coming from one of the top surgeons in the country. He said we don't know what it is, but it's quite large. It's about the size of a lemon. And literally, at that moment, I thought it could be worse, it could be a grapefruit!
+- And I gave them their number, and the nurse said, "What shall I tell your partner?" Tell them I'm in stitches because we were laughing so much through the operation. It was one of the best experiences I had. Seriously. I don't take life seriously, but that was a really amazing experience, to talk the doctors, the nurses, 21 people in the room, students came to watch because you don't see that a lot.
+- [Bitemporal hemianopsia](https://en.wikipedia.org/wiki/Bitemporal_hemianopsia)
+- I've learned quite a few things about myself but also about the world that we live in. The first thing is I would say on my personal level, I've learned to prioritise what is actually important. I've always been a relaxed person, but I'm even more chilled. I don't care about a lot of stuff.
+- But in terms of my attitude towards work, I was always working at creative agencies, it was always about building and designing the coolest thing, the latest technology. But all that, my approach to design changed. It became more empathic.
+- It is a tick box. I don't believe in any of it, If you want to do it, do it properly, It's embarrassing, actually, If you want to take it serlously, bake it into your processes.
+- The thing I would say is learn from your experience, share it, and accept help. Try and help some people along the say, like when you go through your life, and hopefully that's what I'm doing here.
+
