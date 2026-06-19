@@ -31,3 +31,8 @@ Here is my list of selected quotes and links from the [speakers](https://pixelpi
 Now, there are many different ways to cool data centres, but still the predominant one is flushing water around.
 - Firefox energy profiler literally built into the browser. That's a fun one because you can play around and tweak and see how the energy is actually being used on your device based on what you're viewing on the web page.
 - [Nick's site](https://nicklewis.dev)
+
+## Matt Zeunert
+
+- The other one is monitoring. You kind of actually collect the data on the end-user device, and rather than getting like one super in-depth experience, you get the distribution experience. So like on what content people are looking at, how fast the network is, or how fast the device is, that's going to impact the performance that they have when loading the page.
+
