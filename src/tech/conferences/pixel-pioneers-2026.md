@@ -72,3 +72,10 @@ Now, there are many different ways to cool data centres, but still the predomina
 - I have found that it is not great at considering the wide range of humans and the many things that a content designer could do like that, and I have found by the time you've programmed it to be anywhere near that good, you could have easily have done it yourself.
 - So one of the biggest flaws for me with generative AI, and we have many fancy names for it, but, in short, it lies.
 - My biggest fear is not that AI takes all of our jobs. I mean hopefully it can take some of my laundry and chores, and then I can just piss around in the garden first, but, that it takes our critical thinking away, that it takes our ability to question some of those really important nuances away.
+
+## Heydon Pickering
+
+-You start off by getting born, and then eventually you die, and along the way, there are these formative events that make you a different person. So early on, say you stop believing in Santa Claus. Somewhere around here, you denounce capitalism, and then up here, you dispense with the notion of gender. And at the end, you're not an incredulous person, and an anti-capitalist person, or nonbinary, you're an anti-capitalist nonbinary aTheist, and almost certainly denied a Christian burial.
+-[HyperBlam Website](https://hyperblam.how)
+-This is all free, the thing that I've made is open source.
+
