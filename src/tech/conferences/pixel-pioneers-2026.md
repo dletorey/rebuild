@@ -47,3 +47,16 @@ Now, there are many different ways to cool data centres, but still the predomina
 - It is a tick box. I don't believe in any of it, If you want to do it, do it properly, It's embarrassing, actually, If you want to take it serlously, bake it into your processes.
 - The thing I would say is learn from your experience, share it, and accept help. Try and help some people along the say, like when you go through your life, and hopefully that's what I'm doing here.
 
+## Luke Murphy
+
+- This is how we got into this mess: we turned design systems into a commodity, so very early on riding on that wave of stakeholder excitement, we branded ourselves as a different kind of team. A special kind of team.
+- [zeroheight design system 2026 report](https://report.zeroheight.com/)
+- So before, keeping knowledge in your head could be seen as a way to protect the specialism of design systems, and the little special soul that you are.
+- Repositioning and intentional language = legibility and understanding.
+
+## Christine Vallaure
+
+- "There are some problems with the design. Up said to reach out any time." Obviously nobody ever means that when you say it, but developers do reply when you say it, and you have to be very careful, and our designer says, "Of course I'm always happy to chat."
+- So, the way that this is built, this is, for me, a development decision and not a design position, and you can prepare really well in design if you're understanding these things really to work hand in hand, and these conversations that you then have as a designer with development are so much more valuable.
+- [Jen Simmons grid layout examples](https://labs.jensimmons.com/)
+- I'm going in my file and renaming my variables. This is amazing that it renames them. It doesn't matter it doesn't match a codebase because I'm a designer and I don't know what a codebase is. The prompt says rename the variables like you're Brad Frost's baby.
