@@ -78,4 +78,6 @@ Now, there are many different ways to cool data centres, but still the predomina
 - You start off by getting born, and then eventually you die, and along the way, there are these formative events that make you a different person. So early on, say you stop believing in Santa Claus. Somewhere around here, you denounce capitalism, and then up here, you dispense with the notion of gender. And at the end, you're not an incredulous person, and an anti-capitalist person, or nonbinary, you're an anti-capitalist nonbinary aTheist, and almost certainly denied a Christian burial.
 - [HyperBlam Website](https://hyperblam.how)
 - This is all free, the thing that I've made is open source.
-
+- but Tve got badiup dancers. 1 need to give you some
+•- Could you position yourselves in this part of the room here. These are the Hyperblam dancers.
+It's got to that stage, and ... this is almost too sexy
