@@ -12,7 +12,7 @@ When we walked in it was an absolute delight the room was filled with fog and th
 
 ## Description
 
-Part of Harry Styles’ Meltdown Refugee Week Summer Time
+Part of Harry Styles’ Meltdown and Refugee Week.
 
 Celebrate the strength and resilience of people seeking sanctuary through painting, sound and visual design.
 
