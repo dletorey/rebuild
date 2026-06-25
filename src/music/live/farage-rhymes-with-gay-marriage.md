@@ -2,7 +2,7 @@
 title: "Farage rhymes with Gay Marriage"
 description: "Comedian, Mark Thomas has been on a journey to find a definition for the word farage."
 date: '2026-06-25'
-tags: ["Mark Thomas", "The Museum of comedy", "London", "Bloomsbury"]
+tags: ["Mark Thomas", "Live", "Comedy", "The Museum of comedy", "London", "Bloomsbury"]
 ---
 
 Tonight I went with friends to see [Mark Thomas](https://markthomasinfo.co.uk/), practice his Edinburgh Fringe set.
