@@ -40,3 +40,5 @@ They had made a massive improvement to the visuals, the staging was amazing. The
 They always encourage mosh pits at their gigs, _"Open up a pit"_. There were many mosh pits and they always say that if anyone falls over we help them up. Twice they stopped the gig to make sure that people were safe.
 
 It was an absolutely solid gig and they just keep getting better. They finished the set off with [The Recap](https://song.link/i/1815780678).
+
+Perhaps I shouldn't have jumped around as much, as my knees were in bits by the end.
