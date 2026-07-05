@@ -6,6 +6,8 @@ tags: ["Animals", "Kalkan", "Türkiye"]
 album: https://flickr.com/photos/dletorey/albums/72177720333240223/
 ---
 
+**{{ description}}**
+
 ## Day 1
 
 - [Common quail](https://en.wikipedia.org/wiki/Common_quail)
