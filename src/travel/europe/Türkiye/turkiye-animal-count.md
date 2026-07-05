@@ -16,3 +16,7 @@ album: https://flickr.com/photos/dletorey/albums/72177720333240223/
 - An animal shading under a tree, unknown it could have been a pig or a goat
 - Dog, large and golden in colour
 - Pigeon, stood atop a street light
+
+### In Kalkan
+
+- Cat, at least 2 in our hotel 
