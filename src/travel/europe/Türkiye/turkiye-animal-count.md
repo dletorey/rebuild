@@ -19,4 +19,5 @@ album: https://flickr.com/photos/dletorey/albums/72177720333240223/
 
 ### In Kalkan
 
-- Cat, at least 2 in our hotel 
+- Cat, everywhere, at least 4 in our hotel
+- Dogs, absolutely loads of them
