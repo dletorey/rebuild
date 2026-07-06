@@ -28,3 +28,4 @@ album: https://flickr.com/photos/dletorey/albums/72177720333240223/
 - [Old World swallowtail](https://en.wikipedia.org/wiki/Papilio_machaon)
 - [Western honey bee](https://en.wikipedia.org/wiki/Western_honey_bee)
 - Chickens
+- Dog riding a moped
