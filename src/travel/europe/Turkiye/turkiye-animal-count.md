@@ -21,3 +21,7 @@ album: https://flickr.com/photos/dletorey/albums/72177720333240223/
 
 - Cats, everywhere, at least 4 in our hotel
 - Dogs, absolutely loads of them
+
+## Day 2
+
+- [Eurasian collared dove](https://en.wikipedia.org/wiki/Eurasian_collared_dove)
