@@ -33,3 +33,5 @@ album: https://flickr.com/photos/dletorey/albums/72177720334555960
 - Hedgehog
 
 ## Day 3
+
+- [Western yellow wagtail](https://en.wikipedia.org/wiki/Western_yellow_wagtail)
