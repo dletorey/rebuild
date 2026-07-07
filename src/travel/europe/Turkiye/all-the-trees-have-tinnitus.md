@@ -17,6 +17,8 @@ When we had finished our breakfast we decided to go for a walk, before it go too
 
 It was at the top of the hill above Kalkan, [Google maps](https://maps.app.goo.gl/B1GMzeEuF5k7o3FJ8) said it was a 42 minute walk. I knew that due to the temperature, hills and the fact we were on holiday it was going to take way longer than that. Taking it nice and gentle and pausing for shade at every tree it took us about 1 hour 30 minutes to get there. On the way the view of Kalkan Bay just got. more and more stunning the higher we climbed.
 
+As we walked up the hill, every tree and bush was full of [Cicadas](https://en.wikipedia.org/wiki/Cicada), but we could not see them. But we could definitely hear them, it was like **all the trees have tinnitus**.
+
 Towards the top we came across a Bağlama workshop and shop, a [Bağlama](https://en.wikipedia.org/wiki/Ba%C4%9Flama), commonly called a saz, is a traditional stringed folk instrument similar to a lute.
 
 ![Bağlamas hanging up in a shop window](/images/turkiye/baglama-workshop.jpg)
