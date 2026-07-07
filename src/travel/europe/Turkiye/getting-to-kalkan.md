@@ -4,7 +4,7 @@ subTitle: "Kalkan day 1"
 description: "Today we traveled from Gatwick to Kalkan"
 date: '2026-07-05'
 tags: ["Kalkan", "Turkiye", "Gatwick", "London", "TUI"]
-album: https://flickr.com/photos/dletorey/albums/72177720333240223/
+album: https://flickr.com/photos/dletorey/albums/72177720334549761
 ---
 
 It turns out that the [Holiday Inn at Gatwick](/travel/europe/turkiye/download-our-app/#:~:text=Holiday%20Inn%20Gatwick) was a great idea. We both managed to get a good few hours sleep and awoke at 03:00. A quick turn around and we were outside the hotel waiting for the [Gatwick Hoppa](https://www.gatwickhoppa.co.uk/) a shuttle bus that goes around the hotels before dropping off at the airport terminal.

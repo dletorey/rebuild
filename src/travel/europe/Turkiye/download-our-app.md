@@ -4,7 +4,7 @@ subTitle: "Kalkan day 0"
 description: "Today is, technically, the first day of our holiday. I woke to multiple messages from TUI."
 date: '2026-07-04'
 tags: ["Kalkan", "Turkiye", "Gatwick", "London", "TUI", "Holiday Inn"]
-album: https://flickr.com/photos/dletorey/albums/72177720333240223/
+album: https://flickr.com/photos/dletorey/albums/72177720334516160
 ---
 
 Today we leave home to go to [Kalkan](https://en.wikipedia.org/wiki/Kalkan). When we originally booked our flight was at 20:40 but in April we received a notification, from [Tui](https://www.tui.co.uk), that our flight had been moved to another flight. This was probably something related to the stupid war that Trump had started.
