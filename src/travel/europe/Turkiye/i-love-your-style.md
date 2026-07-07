@@ -52,3 +52,7 @@ I had the turkish Moussaka and asked for chilli, it was very tasty but there was
 Near the end of our meal they dimmed the lights and started playing Happy Birthday, we all joined in singing, but it became clear that they were not bringing a birthday surprise for our birthday girl but for another table altogether, they also had sparkling flares off the top of the building too.
 
 After a few minutes passed it started all over again and this time it was for our birthday girl. They brought a chocolate cake with Happy Birthday written in chocolate sauce.
+
+While we were there I was sat next to the birthday girl's Grand Daughter she, made as missing person post on her social media.
+
+![A poster made by my friend's grand daughter - It reads: Missing person Dave Letorey Last seen - turkeyie Kalkan Last seen with people](/images/turkiye/missing-person.jpg)
