@@ -25,7 +25,7 @@ After an hour we sailed on to the next swimming point. I didn't swim this time b
 
 We then moved on to the next swimming place. As we arrived the boat made a terrible noise. It turned out that something broke and we were now stranded. After a while I got into the sea, at first I thought that I'd dive in off the front of the boat. Standing on the edge of the boat my fear kicked in so I went round the back of the boat and jumped in from there instead. The temperature of the water here was 27ºc.
 
-As the boat had broken down we were unable to go to our 4th swimming stop. Eventually one of the other boats gave us a tow back to the harbour. Our boat was probably Lipsos because it breaks don't and the lip service is _SOS_ again please.
+As the boat had broken down we were unable to go to our 4th swimming stop. Eventually one of the other boats gave us a tow back to the harbour. Our boat was probably Lipsos because it breaks down and the lip service is _SOS_ again please.
 
 ![Our boat being towed back into harbour](/images/turkiye/lipsos.jpg)
 
