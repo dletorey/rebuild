@@ -51,3 +51,4 @@ album: https://flickr.com/photos/dletorey/albums/72177720334555960
 ## Day 6
 
 - [Eurasian magpie](https://en.wikipedia.org/wiki/Eurasian_magpie)
+- Feather footed Chicken
