@@ -43,7 +43,7 @@ Once finished we walked back to our hotel to get ready to go join the others for
 
 ## Birthday Party
 
-The whole day most folk we in and out of the pool and chilling on the terrace, I stayed in the lovely air conditioned living room of the villa. After a while I went for a walk to go get some different non-alcoholic beers that had been spotted in the town, before I left I asked if anyone would like an ice cream, 6 people said yes.
+The whole day most folk were in and out of the pool and chilling on the terrace, I stayed in the lovely air conditioned living room of the villa. After a while I went for a walk to go get some different non-alcoholic beers that had been spotted in the town, before I left I asked if anyone would like an ice cream, 6 people said yes.
 
 I walked through the market, outside the villa, a man on the perfume stall tried to sell me some I said no and he said he really _liked my style_. At the bottom of the hill I found the non-alcoholic beers and filled my freezer-bag with beers and ice. On the way back I stopped at a shop closer to the villa to get some ice creams. I got 8 in total just in case someone changed their minds, they all went.
 
