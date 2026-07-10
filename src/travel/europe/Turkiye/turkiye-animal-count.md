@@ -44,6 +44,10 @@ album: https://flickr.com/photos/dletorey/albums/72177720334555960
 - [Limpets](https://en.wikipedia.org/wiki/Limpet)
 - Seagull
 
+## Day 5
+
+- Ruby - Kelebek hotel dog
+
 ## Day 6
 
 - [Eurasian magpie](https://en.wikipedia.org/wiki/Eurasian_magpie)
