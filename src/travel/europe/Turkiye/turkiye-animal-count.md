@@ -54,3 +54,4 @@ album: https://flickr.com/photos/dletorey/albums/72177720334555960
 - Feather footed Chicken
 - Cows
 - Sheep
+- Kitten
