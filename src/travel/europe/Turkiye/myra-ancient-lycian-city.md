@@ -77,7 +77,7 @@ Our chosen, destination was [Şahika Bahçe](https://maps.app.goo.gl/miJQUpgqXN6
 
 As we were arriving into Bezirgan, [Waze](https://www.waze.com) was getting a bit confused so I asked my friend to find it on their phone and direct me. We finally found a sign for parking for the restaurant. We then had to figure out how to get from there to the Restaurant.
 
-Once there we found a garden with dinning tables and chairs, we called out as we saw no one and after that the Manager Abdull came and spoke to us. We asked if we could have a table for 3, he explained that they had none, as they only do two tables per night to make it very intimate. 
+Once there we found a garden with dining tables and chairs, we called out as we saw no one and after that the Manager Abdull came and spoke to us. We asked if we could have a table for 3, he explained that they had none, as they only do two tables per night to make it very intimate. 
 
 Abdull showed us the menu and it was a 10 course tasting menu, he said that they had a table for tomorrow so we booked it.
 
@@ -85,4 +85,6 @@ We then said, "If we can't eat here, where do you recommend we eat in Bezirgan t
 
 We then drove around the corner to Pirha Köy Sofrası and parked up. When we walked in we were welcomed into a garden, the owner told us it was his house and it was a family run restaurant. There were a number of tables dotted around the garden, it was a truly magical place.
 
-Susan had the _Homemade Manti (Turkish ravioli)_ with freshly squeezed Orange & Pomegranate Juice. My friend had _Alinazik_ (Ground meat, served with roasted eggplant and garlic yoghurt) and freshly squeezed Pomegranate Juice. I had Grilled Meatballs (with pilaf rice, grilled tomato and pepper)  and freshly squeezed Pomegranate Juice. For pudding we all had, the only choice, _Semolina Halva with Ice Cream_ (served with tahini and walnuts). All the food was insanely good, Im quite please that we couldn't eat at Şahika Bahçe as we would not of discovered this.
+Susan had the _Homemade Manti (Turkish ravioli)_ with freshly squeezed Orange & Pomegranate Juice. My friend had _Alinazik_ (Ground meat, served with roasted eggplant and garlic yoghurt) and freshly squeezed Pomegranate Juice. I had Grilled Meatballs (with pilaf rice, grilled tomato and pepper)  and freshly squeezed Pomegranate Juice. For pudding we all had, the only choice, _Semolina Halva with Ice Cream_ (served with tahini and walnuts). 
+
+All the food was insanely good, Im quite please that we couldn't eat at Şahika Bahçe as we would not have discovered this.
