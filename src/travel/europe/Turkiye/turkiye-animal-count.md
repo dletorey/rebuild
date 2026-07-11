@@ -55,3 +55,7 @@ album: https://flickr.com/photos/dletorey/albums/72177720334555960
 - Cows
 - Sheep
 - Kitten
+
+## Day 7
+
+- Dragonfly
