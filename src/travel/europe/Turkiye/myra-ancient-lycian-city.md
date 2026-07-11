@@ -37,7 +37,7 @@ We were brought a menu by a man who said "I no speak English", I replied "I no s
 
 ![A chef cooking Gözleme, Turkish Pancakes, on a large circular hot plate](/images/turkiye/gozleme.jpg)
 
-Before we headed on we had a toilet break and Emergency Pistachio Ice Creams.
+Before we headed on we had a toilet break and _Emergency Pistachio Ice Creams_.
 
 ## Myra
 
@@ -53,12 +53,36 @@ We went and bought tickets €13 each.
 
 ![Myra Amphitheatre](/images/turkiye/myra-amphitheatre.jpg)
 
-More to come, check back later.
+To think that the Tombs and the Amphitheatre were over 200 years old they were very impressive and certainly worth your time to visit.
+
+Once we finished we had another _emergency ice cream_ on the way back to the car park. Once there we went to visit the _small businessman_ to have some of his freshly squeezed cold orange juice, it was excellent and cost us 400₺ for the 3 of us.
 
 ## Andriake
 
-More to come, check back later.
+There were more ruins about 15 minute drive from Myra, so we drove round to see if we could see them. On the way we passed a restaurant called _Santa Claus_.
+
+![Santa Claus restaurant, this is taken by my friend from a moving car](/images/turkiye/santa-claus-restaurant.jpg)
+
+By the time we arrived at [Andriake Ancient City](https://maps.app.goo.gl/CofnAMKh95gBHqt19) there was only 45 minutes before it closed, so we had a brief walk around the site. There was a bird viewing terrace, but, at the time, there were no birds to view. The view however was stunning.
+
+![Panorama from the bird viewing terrace at Andriake Ancient City](/images/turkiye/bird-terrace.jpg)
+
+In the valley below there was a river following out to the sea and some small lakes. As we drove out we saw that there were groups of Turkish families swimming in the river and having picnics.
+
+I decided that rather than drive the main road to our next destination, it would more fun and interesting to go the back roads. This took us up over the top of the hills, the views were absolutely incredible. As we approached the villages we kept seeing signs that read **Yavaş**, after seeing it a few time I thought there are a lot of villages called Yavaş. Then I noticed that I was seeing this on corners and it actually meant **Slow**.
 
 ## Şahika Bahçe
 
-More to come, check back later.
+Our chosen, destination was [Şahika Bahçe](https://maps.app.goo.gl/miJQUpgqXN6Rk6hy9) restaurant, which I found, before we came, by searching for restaurant on Google Maps. The reviews were superb and it was an absolute must from what I had read.
+
+As we were arriving into Bezirgan, [Waze](https://www.waze.com) was getting a bit confused so I asked my friend to find it on their phone and direct me. We finally found a sign for parking for the restaurant. We then had to figure out how to get from there to the Restaurant.
+
+Once there we found a garden with dinning tables and chairs, we called out as we saw no one and after that the Manager Abdull came and spoke to us. We asked if we could have a table for 3, he explained that they had none, as they only do two tables per night to make it very intimate. 
+
+Abdull showed us the menu and it was a 10 course tasting menu, he said that they had a table for tomorrow so we booked it.
+
+We then said, "If we can't eat here, where do you recommend we eat in Bezirgan tonight." Immediately he said [Pirha Köy Sofrası](https://maps.app.goo.gl/mEUPyy9Y4j4iHi93A), it was just around the corner and he said that it was true Turkish food. He also recommended a restaurant in Kalkan called [Hunkar Ocakbasi](https://maps.app.goo.gl/sMRA7mVyhjGar6R79) and said it was his favourite in Kalkan.
+
+We then drove around the corner to Pirha Köy Sofrası and parked up. When we walked in we were welcomed into a garden, the owner told us it was his house and it was a family run restaurant. There were a number of tables dotted around the garden, it was a truly magical place.
+
+Susan had the _Homemade Manti (Turkish ravioli)_ with freshly squeezed Orange & Pomegranate Juice. My friend had _Alinazik_ (Ground meat, served with roasted eggplant and garlic yoghurt) and freshly squeezed Pomegranate Juice. I had Grilled Meatballs (with pilaf rice, grilled tomato and pepper)  and freshly squeezed Pomegranate Juice. For pudding we all had, the only choice, _Semolina Halva with Ice Cream_ (served with tahini and walnuts). All the food was insanely good, Im quite please that we couldn't eat at Şahika Bahçe as we would not of discovered this.
