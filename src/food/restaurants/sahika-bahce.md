@@ -96,8 +96,20 @@ Caramelized Peach with Whisky reduction and almond ice cream.
 
 ## Staff
 
-More to follow, come back later
+All of the staff were very welcoming and they all came and said hello to us. Abdull the manager was very attentive and was there when we needed something, but also at the same time gave us our privacy to enjoy the experience.
 
 ## Cats
 
-More to follow, come back later
+It would be wrong of me not to mention the cats. There were 3 cats that I saw, two parents and their kitten. the father came early on and was curious as to who we were and what we we doing. The mother and the kitten were around most of the time and the mother obviously knew when the main course had been brought out. 
+
+The cats were definitely a highlight for Susan.
+
+![A kitten on Susan's lap investigating her phone](/images/turkiye/cat-lap.jpg)
+
+## Overview
+
+Overall the experience was amazing and we were treated very specially. The food was excellent, my favourites being the Garden Salad, the Pastirma especially with the burnt orange and the Caramelized Peach. The orange juice was some of the best that I have ever had.
+
+I would definitely come back to this place, I just need to work out some cheap flights and come for a long weekend when it is not quite so hot. They also serve Breakfast and Lunch, which I need to look into.
+
+If you are interested in going reach out to [Abdull on their instagram](https://www.instagram.com/sahika_bahce/?hl=en).
