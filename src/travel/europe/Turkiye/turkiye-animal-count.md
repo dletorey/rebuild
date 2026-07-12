@@ -60,3 +60,12 @@ album: https://flickr.com/photos/dletorey/albums/72177720334555960
 
 - Dragonfly
 - [Brown recluse spider](https://en.wikipedia.org/wiki/Brown_recluse_spider)
+
+## Day 8
+
+- Small white butterfly
+- [Cupido (butterfly)](https://en.wikipedia.org/wiki/Cupido_(butterfly))
+- Large green and black dragonfly
+- [Scarce swallowtail](https://en.wikipedia.org/wiki/Scarce_swallowtail)
+- [Grey Heron](https://en.wikipedia.org/wiki/Grey_heron)
+- [Greylag geese](https://en.wikipedia.org/wiki/Greylag_goose)
