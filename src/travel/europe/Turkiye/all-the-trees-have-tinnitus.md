@@ -3,7 +3,7 @@ title: "All the trees have tinnitus"
 subTitle: "Kalkan day 2"
 description: "Today we climbed a hill for coffe and our friends started to arrive."
 date: '2026-07-06'
-tags: ["Mimossa Caffe", "Backyard No10", "Kalkan", "Turkiye"]
+tags: ["Mimossa Caffe", "Backyard No10", "Kalkan", "Turkiye", "Football"]
 album: https://flickr.com/photos/dletorey/albums/72177720334568039
 ---
 
