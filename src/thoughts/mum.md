@@ -4,6 +4,7 @@ description: "Today my mum passed away"
 date: "2025-10-21"
 img: /img/mum/mum-and-me.jpg
 updated: "2025-11-14"
+tags: ["mum"]
 oldUrl: /leets/mum/
 ---
 
