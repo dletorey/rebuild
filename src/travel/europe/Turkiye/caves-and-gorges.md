@@ -9,9 +9,9 @@ album:
 
 After a lie, in due to not getting to bed after 03:00 due to the England quarter-final in the world cup, we went for a walk down to the Harbour for brunch.
 
-## Doy Doy restaurant
+## DoyDoy restaurant
 
-Susan and I met our friend at the top of the old town and ambled through the shaded streets until we got to the Harbour. The restaurant that we found was called [DoyDoy](https://maps.app.goo.gl/Czd99n4kkZvgje37A), they had a [sister restaurant](https://maps.app.goo.gl/fNwgZDMeFAgxggaq8) next to our hotel, it was a family run place and they had a Palestine flag hanging out of their window. We sat on the terrace overlooking the Harbour.
+Susan and I met our friend at the top of the old town and ambled through the shaded streets until we got to the Harbour. The restaurant that we found was called [DoyDoy Restaurant](https://maps.app.goo.gl/Czd99n4kkZvgje37A), they had a [sister restaurant DoyDoy Kebab House](https://maps.app.goo.gl/fNwgZDMeFAgxggaq8) next to our hotel, it was a family run place and they had a Palestine flag hanging out of their window. We sat on the terrace overlooking the Harbour.
 
 When the menu arrived I noticed that they had Affogato so immediately ordered it and so did my friend (who had never heard of it) and a frozen blackberry mocktail. When they came to take the food order my friend and I ordered meat pide (Turkish pizza) and Susan had English Breakfast.
 
