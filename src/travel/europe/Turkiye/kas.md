@@ -29,7 +29,7 @@ We then headed back to the car park and another friend joined us so that he coul
 
 ## Şahika Bahçe
 
-After a quick shower and change we headed to Bezirgan for our tasting menu at [Şahika Bahçe](/food/restaurants/sahika-bahce/). [Waze.com](https://waze.com) and Google Maps both gave me different directions to Bezirgan, Waze suggested going inland and over the hill (35 minutes) and Google maps along the coast and inland (23 minutes). I chose the Waze option as I'd already driven the coast route. The climb up the hill went the same way as [the walk we did on Monday](/travel/europe/Turkiye/all-the-trees-have-tinnitus/#:~:text=Mimossa Cafe) and then carried on even further up the hill.
+After a quick shower and change we headed to Bezirgan for our tasting menu at [Şahika Bahçe](/food/restaurants/sahika-bahce/). [Waze.com](https://waze.com) and Google Maps both gave me different directions to Bezirgan, Waze suggested going inland and over the hill (35 minutes) and Google maps along the coast and inland (23 minutes). I chose the Waze option as I'd already driven the coast route. The climb up the hill went the same way as [the walk we did on Monday](https://letorey.co.uk/travel/europe/turkiye/all-the-trees-have-tinnitus/#:~:text=with%20some%20seasoning.-,Mimossa%20Cafe) and then carried on even further up the hill.
 
 Just before we got to the top of the hill we saw some ancient rooms carved out of the rock face about 10 metres up from the road. As we crested the hill we turned off the main road and onto a gravel track. We passed a house on the right and a huge dog came out to block the road and bark at our car. I had to carefully and slowly drive around it.
 
