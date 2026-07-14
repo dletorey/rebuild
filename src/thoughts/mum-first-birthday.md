@@ -28,4 +28,4 @@ There will be another one of these first soon, it will be my first birthday sinc
 
 Today my brother and auntie (mum's little sister) took some flowers to where we [scattered mum's ashes](/thoughts/mum/#:~:text=Scattering%20my%20mums%20ashes) in January.
 
-![Some flowers at the base of a yew tree in Scunthorpe Crematorium](/images/mum/birthday-flowers.jpg)
+![Two bunches of flowers at the base of a yew tree in Scunthorpe Crematorium](/images/mum/birthday-flowers.jpg)
