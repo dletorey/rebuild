@@ -2,7 +2,7 @@
 title: "Kes"
 description: "A book and film that holds important memories to me."
 date: '2026-07-19'
-tags: ["Kes", "Barnsley", "Book", "Film"]
+tags: ["Kes", "Barnsley", "Book", "Film", "Southbank Centre", "Royal Festival Hall"]
 ---
 
 ## School
