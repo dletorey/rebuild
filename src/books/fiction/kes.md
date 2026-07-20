@@ -31,4 +31,6 @@ Today Susan and I went to the [Southbank Centre](https://www.southbankcentre.co.
 
 Before they showed the film there was a Q&A with [Miranda Sawyer](https://www.southbankcentre.co.uk/bio/miranda-sawyer/) questioning David Bradley, [John Cameron](https://en.wikipedia.org/wiki/John_Cameron_(musician)) (composer of the film score) and [Jarvis Cocker](https://en.wikipedia.org/wiki/Jarvis_Cocker) (of Pulp and Sheffield fame).
 
+![A screen showing a poster for Kes the film, beneath it is an orchestra](/images/books/kes-orchestra.jpg)
+
 This was the first time I have seen the film on a huge screen and it was as emotional as I expected.
