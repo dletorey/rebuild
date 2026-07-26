@@ -61,6 +61,8 @@ Out of this line up I saw:
 - Jemma Bolt b2b Woody Cook - They played an excellent set, very energetic and Woody's enthusiasm was incredible. If you get the chance to see him do it.
 - Utah Saints - A DJ set they were great and the set list was amazing, I just feel that they need to reduce the number of tracks and play them longer, [Cowgirl by Underworld](https://song.link/i/1444123407) is not 3 minutes long.
 
+![Woody Cook stood on the mixing table twiddling the knobs on the mixer](/images/more-acid/woody-cook.jpg)
+
 ## Filter Sequence
 
 This was the third time that I got to perform with [Filter Sequence](https://letorey.co.uk/tags/filter-sequence/). At the beginning I was very nervous but this soon went away when I started dancing to Acid House.
