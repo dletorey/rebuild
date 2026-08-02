@@ -64,3 +64,5 @@ tracks: [
 
 - [Chill Out Mix August 2026 on MixCloud](https://www.mixcloud.com/dletorey/chill-out-mix-august-2026/)
 - [Chill Out Mix August 2026 on SoundCloud](https://soundcloud.com/dave_letorey/chill-out-mix-august-2026)
+
+> FYI: My definition of Chill Out is very loose
