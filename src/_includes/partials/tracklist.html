@@ -1,0 +1,7 @@
+<h2>Track list</h2>
+
+<ol>
+{% for t in tracks %}
+  <li>{% if t.artist %}{{t.artist}} - {% endif %}{% if t.track %}{{t.track}} - {% endif %}{% if t.time %}{{t.time}}{% endif %}</li>
+{% endfor %}
+</ol>

@@ -281,6 +281,15 @@
         "Fixed width of media such as `<img>`, `<video>`, etc.",
         "Fixed the issue with cards not fitting content."
       ]
+    },
+    {
+      "date": "2026-08-02",
+      "pr": "42",
+      "preview": "42",
+      "changes": [
+        "Created a track list include",
+        "Added condition to check is a page has tracks"
+      ]
     }
   ]
 }
