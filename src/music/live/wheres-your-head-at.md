@@ -1,7 +1,7 @@
 ---
 title: "Where's your head at"
 description: "This week has been a tough time, a move in the right direction and ended with Basement Jaxx."
-tags: ["Mental Health", "Personal Trainer", "Basement Jaxx", "Live"]
+tags: ["Mental Health", "Personal Trainer", "Basement Jaxx", "Live", "Palace Bowl Presents Festival", "Crystal Palace", "London"]
 date: "2025-08-24"
 photo: /img/basement-jaxx/wheres-your-head-at-og.jpg
 album: https://www.flickr.com/photos/dletorey/albums/72177720332519035
