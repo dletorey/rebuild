@@ -45,6 +45,10 @@ She started her set with Nightclubbing, by Iggy Pop. At the end of every track s
 
 At one point her wardrobe lady came on stage and helped get out her trousers, she was almost naked at that point and was then dressed in a sequin dress and hat and performed the next track under a laser.
 
+She came down the front of the stage and a security guard carried her on his shoulders along the front of the barriers.
+
+![Grace Jones being carried by a security guard, she is singing and wearing a red headgear.](/images/music/festivals/palace-bowl-presents/grace-jones-carried.jpg)
+
 She was absolutely incredible and her band were brilliant. We left just after she sang [Slave To The Rhythm](https://song.link/i/1564504453) (which turned out to be the last track), while _hula hooping_, so we could get to Crystal Palace Station before the crowds.
 
 A fabulous night all told and we managed to get home just before midnight.
