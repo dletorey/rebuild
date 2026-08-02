@@ -21,5 +21,8 @@
 		<section class="content">
 			{{ content | safe }}
 		</section>
+		{% if tracks %}
+		{% include "partials/tracklist.html" %}
+		{% endif %}
 	</article>
 {% endblock %}

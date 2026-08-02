@@ -1,0 +1,58 @@
+---
+title: "Chill Out Mix August 2026"
+date: "2026-08-02"
+artists: ["Space Raiders", "Chemical Brothers", "Leftfield", "Layo & Bushwacka", "Massive Attack", "Boards of Canada", "Saint Etienne", "Staple Singers", "Nightmares On Wax", "Mr Scruff", "The Orb", "Electric Chairs", "Laurent Garnier", "Bjork", "St Germain", "X-Press 2", "Booka Shade", "The Sabres Of Paradise", "LFO", "The Streets", "Drum Club", "Future Sound Of London", "Aphex Twin", "FC Kahuna", "Public Service Broadcasting", "Max Romeo & The Upsetters", "LCD Soundsystem", "Rumour Cubes", "New Order", "Underworld", "System 7", "Autechre", "Groove Armada", "Royksopp", "Yazoo", "808 State", "Daft Punk", "William Shatner", "Arrested Development", "Kraftwerk", "The KLF", "Air", "The Doors", "Dread Zeppelin", "Lemon Jelly", "Midfield General", "Lo Fidelity Allstars", "Pink Floyd"]
+tracks: [
+  {"track":"Beautiful Crazy","artist":"Space Raiders"},
+  {"track":"One Too Many Mornings","artist":"Chemical Brothers"},
+  {"track":"Original","artist":"Leftfield"},
+  {"track":"Sleepy Language","artist":"Layo & Bushwacka"},
+  {"track":"Hymn of the Big Wheel","artist":"Massive Attack"},
+  {"track":"Alpha And Omega","artist":"Boards of Canada"},
+  {"track":"Only Love Can Break your Heart (Andrew Weatherall Remix)","artist":"Saint Etienne"},
+  {"track":"I’ll Take You There","artist":"Staple Singers"},
+  {"track":"You Wish","artist":"Nightmares On Wax"},
+  {"track":"Come on Grandad","artist":"Mr Scruff"},
+  {"track":"Blue Room","artist":"The Orb"},
+  {"track":"Barbie Girl","artist":"Electric Chairs"},
+  {"track":"Last Tribute From The 20th Century","artist":"Laurent Garnier"},
+  {"track":"Big Time Sensuality","artist":"Bjork"},
+  {"track":"So Flute","artist":"St Germain"},
+  {"track":"Give It (Featuring Kurt Wagner)","artist":"X-Press 2"},
+  {"track":"Something Physical","artist":"Booka Shade"},
+  {"track":"Smokebelch II (Beatless Mix)","artist":"The Sabres Of Paradise"},
+  {"track":"Tan Ta Ra","artist":"LFO"},
+  {"track":"Weak Become Heroes","artist":"The Streets"},
+  {"track":"Plateau Of Wolves","artist":"Drum Club"},
+  {"track":"Lifeforms","artist":"Future Sound Of London"},
+  {"track":"Polygon Window","artist":"Aphex Twin"},
+  {"track":"Hayling","artist":"FC Kahuna"},
+  {"track":"They Gave Me A Lamp (Paid Remix)","artist":"Public Service Broadcasting"},
+  {"track":"I Chase The Devil","artist":"Max Romeo & The Upsetters"},
+  {"track":"All My Friends","artist":"LCD Soundsystem"},
+  {"track":"Tha","artist":"Aphex Twin"},
+  {"track":"Hiyat","artist":"Rumour Cubes"},
+  {"track":"Crystal (Digweed & Muir Bedrock Mix)","artist":"New Order"},
+  {"track":"Cups","artist":"Underworld"},
+  {"track":"Altitude","artist":"System 7"},
+  {"track":"Bike","artist":"Autechre"},
+  {"track":"But I Feel Good","artist":"Groove Armada"},
+  {"track":"Remind Me","artist":"Royksopp"},
+  {"track":"Midnight (Peel Version)","artist":"Yazoo"},
+  {"track":"Lift","artist":"808 State"},
+  {"track":"Face To Face","artist":"Daft Punk"},
+  {"track":"Lucy In The Sky With Diamonds","artist":"William Shatner"},
+  {"track":"Mr Wendal","artist":"Arrested Development"},
+  {"track":"Trans Europe Express","artist":"Kraftwerk"},
+  {"track":"Justified And Ancient","artist":"The KLF"},
+  {"track":"Ce Matin-La","artist":"Air"},
+  {"track":"Riders On The Storm (Nightmares On Wax Mix)","artist":"The Doors"},
+  {"track":"Immigrant Song","artist":"Dread Zeppelin"},
+  {"track":"Come","artist":"Lemon Jelly"},
+  {"track":"Midfielding","artist":"Midfield General"},
+  {"track":"Somebody Needs You (Featuring Greg Dulli)","artist":"Lo Fidelity Allstars"},
+  {"track":"Fearless","artist":"Pink Floyd"}
+]
+---
+
+

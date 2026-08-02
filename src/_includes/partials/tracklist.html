@@ -1,0 +1,7 @@
+<h2>Track list</h2>
+
+<ol>
+{% for track in tracks %}
+  <li>{{ track.track }} by {{ track.artist }}</li>
+{% endfor %}
+</ol>
