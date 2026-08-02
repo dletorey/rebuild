@@ -39,12 +39,12 @@ I really wasn’t expecting very much from [Sophie Ellis Bextor](https://sophiee
 
 [Grace Jones](https://gracejones.com/) was 40 minutes late coming on, apparently this is good for her as she’s usually later.
 
-She started her set with Nightclubbing. At the end of every track she changed her headwear, she had some incredible head gear.
+She started her set with Nightclubbing, by Iggy Pop. At the end of every track she changed her headwear, she had some incredible head gear.
 
 ![Grace Jones close up of her face with a zebra striped headwear in the shape of an upside down heart, it is about 1.5 metres tall](/images/music/festivals/palace-bowl-presents/grace-jones.jpg)
 
 At one point her wardrobe lady came on stage and helped get out her trousers, she was almost naked at that point and was then dressed in a sequin dress and hat and performed the next track under a laser.
 
-She was absolutely incredible and her band were brilliant. We left just after she sang [Slave To The Rhythm](https://song.link/i/1564504453), while _hula hooping_, so we could get to Crystal Palace Station before the crowds.
+She was absolutely incredible and her band were brilliant. We left just after she sang [Slave To The Rhythm](https://song.link/i/1564504453) (which turned out to be the last track), while _hula hooping_, so we could get to Crystal Palace Station before the crowds.
 
 A fabulous night all told and we managed to get home just before midnight.
