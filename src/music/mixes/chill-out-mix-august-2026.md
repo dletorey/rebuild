@@ -58,4 +58,9 @@ tracks: [
 
 **{{ description }}**
 
+[Donate to Cancer Research UK](https://www.cancerresearchuk.org/get-involved/donate)
+
 <p><iframe width="100%" height="120" src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fdletorey%2Fchill-out-mix-august-2026%2F" frameborder="0" allow="encrypted-media; fullscreen; autoplay; idle-detection; speaker-selection; web-share;" ></iframe></p>
+
+- [Chill Out mix August 2026 on MixCloud](https://www.mixcloud.com/dletorey/chill-out-mix-august-2026/)
+- [Chill Out mix August 2026 on SoundCloud](https://soundcloud.com/dave_letorey/chill-out-mix-august-2026)
