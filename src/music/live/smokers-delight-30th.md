@@ -2,6 +2,7 @@
 title: "Smokers Delight 30th anniversary show"
 description: "Nightmares on Wax 30th anniversary of Smokers Delight and 20th anniversary of In a Space Outta Space show live at Royal Albert Hall, London."
 date: "2026-03-13"
+updated: "2026-08-03"
 tags:
   [
     "Nightmares On Wax",
@@ -28,3 +29,8 @@ If you have never come across [Nightmares on Wax](https://nightmaresonwax.warp.n
 
 - [Smokers Delight](https://album.link/i/281088001)
 - [In a Space Outta Sound](https://album.link/i/282007471)
+
+## Videos of the concert
+
+- [Part One Smokers Delight](https://www.youtube.com/watch?v=FBvlLw0A4yk)
+- [Part Two In A Sound Outta Space](https://www.youtube.com/watch?v=lPTy_chn-Lc)
