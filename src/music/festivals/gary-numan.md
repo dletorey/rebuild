@@ -3,6 +3,7 @@ title: "Gary Numan"
 description: "Palace Bowl presents festival with Ladytron and Marc Almond supporting."
 date: '2026-08-06'
 tags: ["Gary Numan", "Marc Almond", "Ladytron", "Palace Bowl Presents Festival", "Crystal Palace", "London"]
+album: https://flickr.com/photos/dletorey/albums/72177720335042314/
 ---
 
 Last night I got a message from a friend asking if I wanted to go see Gary Numan and Marc Almond at Crystal Palace for free. It was Marc Almond that sold it for me.
