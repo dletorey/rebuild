@@ -3,6 +3,7 @@ title: "Chill Out Mix August 2026"
 date: "2026-08-02"
 description: "This is a Chill Out Mix that I have created to share with my friend who is currently in Hospital fighting Cancer. Fuck Cancer!"
 artists: ["Space Raiders", "Chemical Brothers", "Leftfield", "Layo & Bushwacka", "Massive Attack", "Boards of Canada", "Saint Etienne", "Staple Singers", "Nightmares On Wax", "Mr Scruff", "The Orb", "Electric Chairs", "Laurent Garnier", "Bjork", "St Germain", "X-Press 2", "Booka Shade", "The Sabres Of Paradise", "LFO", "The Streets", "Drum Club", "Future Sound Of London", "Aphex Twin", "FC Kahuna", "Public Service Broadcasting", "Max Romeo & The Upsetters", "LCD Soundsystem", "Rumour Cubes", "New Order", "Underworld", "System 7", "Autechre", "Groove Armada", "Royksopp", "Yazoo", "808 State", "Daft Punk", "William Shatner", "Arrested Development", "Kraftwerk", "The KLF", "Air", "The Doors", "Dread Zeppelin", "Lemon Jelly", "Midfield General", "Lo Fidelity Allstars", "Pink Floyd"]
+length: "2 Hours 34 minutes 49 seconds"
 tracks: [
   {"track":"Beautiful Crazy","artist":"Space Raiders","time":"00:00:00"},
   {"track":"One Too Many Mornings","artist":"Chemical Brothers","time":"00:02:56"},
