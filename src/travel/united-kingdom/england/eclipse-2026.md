@@ -18,6 +18,8 @@ It turns out it was a [two storey warehouse in Barking](https://www.london-fire.
 
 On my way to Lewes I stopped off at the school I used to teach at, from 1994 to 1999, Mayfield College. To visit the grave yard where the Brothers and my dear friend Antony (aka Bonk) is buried. 
 
+![Mayfield College an old red brick 3 storey building on the right is a chapel](/images/mayfield-college.jpg)
+
 After this I dropped into visit some friends in Ringmer before meeting up with my eclipse viewing pals.
 
 ## Solar Eclipse
@@ -29,6 +31,8 @@ When we arrived and had parked up we met my friend’s husband who had cycled an
 I set up my [camera](https://dji-retail.co.uk/products/osmo-pocket-3-handheld-camera) to film the eclipse. I rushed this and didn’t set up correctly and I also need to get a much higher ND filter for filming the sun, the one I used was an ND256.
 
 My friends had brought a picnic with homemade baba ganoush. There were also [ritz crackers](https://en.wikipedia.org/wiki/Ritz_Crackers) which we not only ate but also use the holes to project the eclipse onto a white plate, which was exceptionally successful and tasty. I had also brought eclipse viewing glasses, I gave some of the extra ones to a young man who asked if he could borrow ours to look through. 
+
+![A partial solar eclipse the moon has obscured most of the sun and only a cresent of the top right of the sun is visible below you can see the sea](/images/eclipse-over-sea.jpg)
 
 Once the eclipse had ended my friend got out his analog synthesiser and jammed some amazing improvised music. 
 
