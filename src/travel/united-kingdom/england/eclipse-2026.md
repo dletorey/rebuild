@@ -32,6 +32,8 @@ My friends had brought a picnic with homemade baba ganoush. There were also [rit
 
 Once the eclipse had ended my friend got out his analog synthesiser and jammed some amazing improvised music. 
 
+![A wizard sat cross legged on a pebble beach playing with an analog synthesiser](/images/analog-wizard.jpg)
+
 We stayed on the beach until the sun had set and the tide was almost at our feet. A great time and experience with wonderful people.
 
 I’ve already started planning a trip for [the next eclipse 2 August 2027](https://nso.edu/eclipse-map-2027-aug2/), come with me.
