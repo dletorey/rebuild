@@ -62,7 +62,7 @@ Susan says:
 - **Distance:** 36km
 - **Altitude Climbed:** 452m
 
-![Pick 'n' Mix sweet station at Rest Stage 3 of Thames Path Challenge](/images/travel/uk/england/tpc/tpc-rs2.jpg)
+![Pick 'n' Mix sweet station at Rest Stage 3 of Thames Path Challenge](/images/travel/uk/england/tpc/tpc-rs3.jpg)
 
 ### RS4
 
