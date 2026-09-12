@@ -67,10 +67,12 @@ Susan says:
 ### RS4
 
 - **Location:** [Runneymede](https://maps.app.goo.gl/92wXbbxyvuBgpeo8A)
-- **Elapsed Time:** --:--:--
-- **Arrival Time:** --:--:--
+- **Elapsed Time:** 13:03:21
+- **Arrival Time:** 2:03:21
 - **Distance:** 50km
 - **Altitude Climbed:** 621m
+
+![Susan getting her badge scanned at Rest Stage 3 of Thames Path Challenge, halfway only 50km left to walk](/images/travel/uk/england/tpc/tpc-rs4.jpg)
 
 ### RS5
 
