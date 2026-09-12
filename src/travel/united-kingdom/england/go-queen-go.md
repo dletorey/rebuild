@@ -68,7 +68,7 @@ Susan says:
 
 - **Location:** [Runneymede](https://maps.app.goo.gl/92wXbbxyvuBgpeo8A)
 - **Elapsed Time:** 13:03:21
-- **Arrival Time:** 2:03:21
+- **Arrival Time:** 22:03:21
 - **Distance:** 50km
 - **Altitude Climbed:** 621m
 
