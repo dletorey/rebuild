@@ -57,10 +57,12 @@ Susan says:
 ### RS3
 
 - **Location:** [Thamesmead School](https://maps.app.goo.gl/zaDcTRCiVUQWCuKC7)
-- **Elapsed Time:** --:--:--
-- **Arrival Time:** --:--:--
+- **Elapsed Time:** 09:02:48
+- **Arrival Time:** 18:02:48
 - **Distance:** 36km
 - **Altitude Climbed:** 452m
+
+![Pick 'n' Mix sweet station at Rest Stage 3 of Thames Path Challenge](/images/travel/uk/england/tpc/tpc-rs2.jpg)
 
 ### RS4
 
