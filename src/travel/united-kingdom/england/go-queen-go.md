@@ -26,7 +26,8 @@ Susan says:
 ### Start
 
 - **Location:** [Bishop's Park, Fulham](https://maps.app.goo.gl/mSQ9rhikr2gHJ5N9A)
-- **Time:** 00:00:00
+- **Elapsed Time:** 00:00:00
+- **Set off time:** 09:00:00
 - **Distance:** 0km
 - **Altitude Climbed:** 0m
 - **Total Altitude Climbed:** 0m
@@ -37,6 +38,7 @@ Susan says:
 
 - **Location:** [Old Deer Park](https://maps.app.goo.gl/aTcC27jEWtStZqQY8)
 - **Time:** 03:00:00
+- **Time:** 12:00:00
 - **Distance:** 13.5km
 - **Altitude Climbed:** 205m
 
@@ -46,6 +48,7 @@ Susan says:
 
 - **Location:** [Hurst Park](https://maps.app.goo.gl/2UMn7py7DCvMox1G9)
 - **Time:** 06:37:59
+- **Arrival Time:** 15:37:59
 - **Distance:** 28km
 - **Altitude Climbed:** 294m
 
@@ -54,41 +57,47 @@ Susan says:
 ### RS3
 
 - **Location:** [Thamesmead School](https://maps.app.goo.gl/zaDcTRCiVUQWCuKC7)
-- **Time:** --:--:--
+- **Elapsed Time:** --:--:--
+- **Arrival Time:** --:--:--
 - **Distance:** 36km
 - **Altitude Climbed:** 452m
 
 ### RS4
 
 - **Location:** [Runneymede](https://maps.app.goo.gl/92wXbbxyvuBgpeo8A)
-- **Time:** --:--:--
+- **Elapsed Time:** --:--:--
+- **Arrival Time:** --:--:--
 - **Distance:** 50km
 - **Altitude Climbed:** 621m
 
 ### RS5
 
 - **Location:** [Eton Wick](https://maps.app.goo.gl/8Bh3obG2uw8N3MNHA)
-- **Time:** --:--:--
+- **Elapsed Time:** --:--:--
+- **Arrival Time:** --:--:--
 - **Distance:** 63.5km
 - **Altitude Climbed:** 804m
 
 ### RS6
 
 - **Location:** [Sir Bernard Miller Centre](https://maps.app.goo.gl/PKRtzNBi6eartFk97)
-- **Time:** --:--:--
+- **Elapsed Time:** --:--:--
+- **Arrival Time:** --:--:--
 - **Distance:** 77.5km
 - **Altitude Climbed:** 1033m
 
 ### RS7
 
 - **Location:** [Hurleyford Farm](https://maps.app.goo.gl/YumbaDLLsj4cDotz5)
-- **Time:** --:--:--
+- **Elapsed Time:** --:--:--
+- **Arrival Time:** --:--:--
 - **Distance:** 88.5km
 - **Altitude Climbed:** 1141m
 
 ### Finish
 
 - **Location:** [Mill Meadows]()
-- **Time:** --:--:--
+- **Elapsed Time:** --:--:--
+- **Arrival Time:** --:--:--
 - **Distance:** 100km
 - **Altitude Climbed:** 1382m
