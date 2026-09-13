@@ -113,8 +113,8 @@ Susan says:
 ### Finish
 
 - **Location:** [Mill Meadows]()
-- **Elapsed Time:** --:--:--
-- **Arrival Time:** --:--:--
+- **Elapsed Time:** 32:59:45
+- **Arrival Time:** 17:59:45
 - **Distance Walked:** 100km
 - **Distance Remaining:** 0km
 - **Altitude Climbed:** 1382m
