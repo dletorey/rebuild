@@ -91,11 +91,13 @@ Susan says:
 ### RS6
 
 - **Location:** [Sir Bernard Miller Centre](https://maps.app.goo.gl/PKRtzNBi6eartFk97)
-- **Elapsed Time:** --:--:--
-- **Arrival Time:** --:--:--
+- **Elapsed Time:** 23:15:20
+- **Arrival Time:** 08:15:20
 - **Distance Walked:** 77.5km
 - **Distance Remaining:** 22.5km
 - **Altitude Climbed:** 1033m
+
+![A very tired Susan  at Rest Stage 3 of Thames Path Challenge, still 22.5km left to walk](/images/travel/uk/england/tpc/tpc-rs6.jpg)
 
 ### RS7
 
