@@ -102,8 +102,8 @@ Susan says:
 ### RS7
 
 - **Location:** [Hurleyford Farm](https://maps.app.goo.gl/YumbaDLLsj4cDotz5)
-- **Elapsed Time:** --:--:--
-- **Arrival Time:** --:--:--
+- **Elapsed Time:** 27:57:00
+- **Arrival Time:** 12:57:00
 - **Distance Walked:** 88.5km
 - **Distance Remaining:** 11.5km
 - **Altitude Climbed:** 1141m
