@@ -28,7 +28,8 @@ Susan says:
 - **Location:** [Bishop's Park, Fulham](https://maps.app.goo.gl/mSQ9rhikr2gHJ5N9A)
 - **Elapsed Time:** 00:00:00
 - **Set off time:** 09:00:00
-- **Distance:** 0km
+- **Distance Walked:** 0km
+- **Distance Remaining:** 100km
 - **Altitude Climbed:** 0m
 - **Total Altitude Climbed:** 0m
 
@@ -39,7 +40,8 @@ Susan says:
 - **Location:** [Old Deer Park](https://maps.app.goo.gl/aTcC27jEWtStZqQY8)
 - **Time:** 03:00:00
 - **Time:** 12:00:00
-- **Distance:** 13.5km
+- **Distance Walked:** 13.5km
+- **Distance Remaining:** 86.5km
 - **Altitude Climbed:** 205m
 
 ![Susan and her friend at Rest Stage 1 of Thames Path Challenge](/images/travel/uk/england/tpc/tpc-rs1.jpg)
@@ -49,7 +51,8 @@ Susan says:
 - **Location:** [Hurst Park](https://maps.app.goo.gl/2UMn7py7DCvMox1G9)
 - **Time:** 06:37:59
 - **Arrival Time:** 15:37:59
-- **Distance:** 28km
+- **Distance Walked:** 28km
+- **Distance Remaining:** 72km
 - **Altitude Climbed:** 294m
 
 ![Susan's friend relaxing with her walking boots off at Rest Stage 2 of Thames Path Challenge](/images/travel/uk/england/tpc/tpc-rs2.jpg)
@@ -59,7 +62,8 @@ Susan says:
 - **Location:** [Thamesmead School](https://maps.app.goo.gl/zaDcTRCiVUQWCuKC7)
 - **Elapsed Time:** 09:02:48
 - **Arrival Time:** 18:02:48
-- **Distance:** 36km
+- **Distance Walked:** 36km
+- **Distance Remaining:** 64km
 - **Altitude Climbed:** 452m
 
 ![Pick 'n' Mix sweet station at Rest Stage 3 of Thames Path Challenge](/images/travel/uk/england/tpc/tpc-rs3.jpg)
@@ -69,7 +73,8 @@ Susan says:
 - **Location:** [Runneymede](https://maps.app.goo.gl/92wXbbxyvuBgpeo8A)
 - **Elapsed Time:** 13:03:21
 - **Arrival Time:** 22:03:21
-- **Distance:** 50km
+- **Distance Walked:** 50km
+- **Distance Remaining:** 50km
 - **Altitude Climbed:** 621m
 
 ![Susan getting her badge scanned at Rest Stage 3 of Thames Path Challenge, halfway only 50km left to walk](/images/travel/uk/england/tpc/tpc-rs4.jpg)
@@ -77,9 +82,10 @@ Susan says:
 ### RS5
 
 - **Location:** [Eton Wick](https://maps.app.goo.gl/8Bh3obG2uw8N3MNHA)
-- **Elapsed Time:** --:--:--
-- **Arrival Time:** --:--:--
-- **Distance:** 63.5km
+- **Elapsed Time:** 17:56:00
+- **Arrival Time:** 02:56:00
+- **Distance Walked:** 63.5km
+- **Distance Remaining:** 36.5km
 - **Altitude Climbed:** 804m
 
 ### RS6
@@ -87,7 +93,8 @@ Susan says:
 - **Location:** [Sir Bernard Miller Centre](https://maps.app.goo.gl/PKRtzNBi6eartFk97)
 - **Elapsed Time:** --:--:--
 - **Arrival Time:** --:--:--
-- **Distance:** 77.5km
+- **Distance Walked:** 77.5km
+- **Distance Remaining:** 22.5km
 - **Altitude Climbed:** 1033m
 
 ### RS7
@@ -95,7 +102,8 @@ Susan says:
 - **Location:** [Hurleyford Farm](https://maps.app.goo.gl/YumbaDLLsj4cDotz5)
 - **Elapsed Time:** --:--:--
 - **Arrival Time:** --:--:--
-- **Distance:** 88.5km
+- **Distance Walked:** 88.5km
+- **Distance Remaining:** 11.5km
 - **Altitude Climbed:** 1141m
 
 ### Finish
@@ -103,5 +111,6 @@ Susan says:
 - **Location:** [Mill Meadows]()
 - **Elapsed Time:** --:--:--
 - **Arrival Time:** --:--:--
-- **Distance:** 100km
+- **Distance Walked:** 100km
+- **Distance Remaining:** 0km
 - **Altitude Climbed:** 1382m
