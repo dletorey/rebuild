@@ -108,7 +108,11 @@ Susan says:
 - **Distance Remaining:** 11.5km
 - **Altitude Climbed:** 1141m
 
-![A very tired Susan arriving at Rest Stage 7, the final rest stage of Thames Path Challenge, still 1.5km left to walk](/images/travel/uk/england/tpc/tpc-rs7.jpg)
+![A very tired Susan arriving at Rest Stage 7, the final rest stage of Thames Path Challenge, still 11.5km left to walk](/images/travel/uk/england/tpc/tpc-rs7.jpg)
+
+### 1 kilometer to go
+
+![A totally drained Susan at the 99km marker final 1km left to walk](/images/travel/uk/england/tpc/99km.jpg)
 
 ### Finish
 
@@ -118,3 +122,7 @@ Susan says:
 - **Distance Walked:** 100km
 - **Distance Remaining:** 0km
 - **Altitude Climbed:** 1382m
+
+![Susan crossing the finish line](/images/travel/uk/england/tpc/finish-line.jpg)
+
+![Susan with her well deserved medal and holding a sign that reads 100km](/images/travel/uk/england/tpc/100km.jpg)
