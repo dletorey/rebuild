@@ -116,7 +116,7 @@ Susan says:
 
 ### Finish
 
-- **Location:** [Mill Meadows]()
+- **Location:** [Mill Meadows](https://maps.app.goo.gl/H4PToKfQN9zdz94L9)
 - **Elapsed Time:** 32:59:45
 - **Arrival Time:** 17:59:45
 - **Distance Walked:** 100km
