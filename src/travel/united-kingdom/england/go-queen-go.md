@@ -2,12 +2,36 @@
 title: "Go Queen Go!"
 description: "This weekend my partner Susan is walk 100km, with her friend, to raise money for London Air Ambulance."
 date: '2026-09-12'
+updated: '2026-09-15'
 tags: ["Walking", "Charity", "London", "Thames", "Lond Air Ambulance"]
 # album: 
 minus: "00:13:56"
 ---
 
 {{ description }}
+
+## Susan's thoughts about walk 100km, continuously overnight
+
+- **I completed it**
+- **This definitely wouldn't have happened without my favourite former Councillor challenge walk pal, Rita or my wonderful Dave as non-participatory co-walker and cheer leader
+
+### Some stats: over 2 days of the challenge
+
+- 0 hours sleep
+- 8072 calories burned
+- 178303 steps walked
+- Pace dropped from just under 5km an hour to a 3km an hour hobble for last 50km
+- Collected around 5 blisters.
+- 153 people, some younger than me, did not make it to the end
+
+### Some Reflections
+
+- You can have too much Thames Path
+- Walking over 50km takes up far too much time, both in training and in life.
+- I will never put my body through anything so extreme again - and that includes the organisers' plans to up the ante with a 100 mile challenge next year (Just stop!)
+- Having the chance to also show my support for the [RNLI](https://rnli.org/) in such an appalling week, buying a cap from a random fete stall we walked past, was a boon
+- I completed the walk as a well-nourished adult, used to walking distances of 10-50km with one backpack - what must it be like to be a displaced person forced to walk from one end of your state to the other with elderly, sick or young family members and belongings?
+- I ~~am so close to~~ have raised over £2000, so far, in my fundraising for the amazing London Air Ambulance  - and there is still time to donate as pages stay open for weeks after the race. So here is my link.
 
 ## Donate
 
