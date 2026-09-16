@@ -13,7 +13,7 @@ minus: "00:13:56"
 ## Susan's thoughts about walk 100km, continuously overnight
 
 - **I completed it**
-- **This definitely wouldn't have happened without my favourite former Councillor challenge walk pal, Rita or my wonderful Dave as non-participatory co-walker and cheer leader
+- This definitely wouldn't have happened without my favourite former Councillor challenge walk pal, Rita or my wonderful Dave as non-participatory co-walker and cheer leader
 
 ### Some stats: over 2 days of the challenge
 
