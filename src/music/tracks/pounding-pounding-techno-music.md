@@ -3,6 +3,7 @@ title: "Pounding Pounding Techno Music!"
 subTitle: "The t-shirt that got away…"
 description: "Last night while browsing the web one of the algorithms showed me the perfect t-shirt for me, I immediately tracked it down and purchased it."
 date: '2026-08-22'
+updated: '2026-10-01'
 tags: ["Soulwax", "Orbital", "Techno", "Samantha Fu", "Pukkelpop festival"]
 ---
 
@@ -42,3 +43,13 @@ Once I had bought the t-shirt I got an email telling me that here is the code fo
 ## Credits
 
 I found information about this track and news story from [wiki.roman-halliday.com](https://wiki.roman-halliday.com/doku.php?id=drugs)
+
+## t-shirt arrived
+
+So once the festival was over Soulwax added the t-shirt to their webstore and I was able to buy one. It finally arrived 2 days ago (29 September). 
+
+Today (1 October) I am wearing it for the first time. While in the queue for the Eurostar, at St Pancras, to go to [Fronteers Dark Mode](https://www.fronteersconf.org/) a lady asked me:
+
+> Do you have _Techno_ with you and do you take it everywhere?
+
+She did not ask about drugs…
