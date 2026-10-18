@@ -1,25 +1,24 @@
 ---
 title: "beyond tellerand 2026"
-SubTitle: "Düsseldorf"
+subTitle: "Düsseldorf"
 description: "In Germany again for the amazing beyond tellerand, curated by Marc Thiele"
-date: '2026-04-27'
+date: "2026-04-27"
 tags: ["Beyond Tellerand", "Dusseldorf", "Germany"]
 ---
 
-This year, at [beyond tellerand](https://beyondtellerrand.com/events/dusseldorf-2026), I have chosen to be in the moment and I have just collected quotes. 
+This year, at [beyond tellerand](https://beyondtellerrand.com/events/dusseldorf-2026), I have chosen to be in the moment and I have just collected quotes.
 
 ## Monday
 
 ### Oliver
 
-> Mad is what people call others with imagination 
+> Mad is what people call others with imagination
 
 ### Nils
 
-> the face melting electron beam needs to be steered 
+> the face melting electron beam needs to be steered
 
 > I may have over reacted
-
 
 ### Chip
 
@@ -45,11 +44,11 @@ This year, at [beyond tellerand](https://beyondtellerrand.com/events/dusseldorf-
 
 ### Annie
 
-> Don’t start with a blank page because is there anything less inspirational 
+> Don’t start with a blank page because is there anything less inspirational
 
 > Never ask permission to show your own work
 
-## Tuesday 
+## Tuesday
 
 ### André
 
@@ -76,7 +75,7 @@ This year, at [beyond tellerand](https://beyondtellerrand.com/events/dusseldorf-
 ### James
 
 > Learning to make a website in 1997 was incredibly
-powerful.
+> powerful.
 
 > You forget about the reason that we got into this in the first place.
 

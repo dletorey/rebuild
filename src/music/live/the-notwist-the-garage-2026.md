@@ -1,8 +1,8 @@
 ---
 title: "The Notwist"
-SubTitle: "The Garage, Highbury"
+subTitle: "The Garage, Highbury"
 description: "What do you do the night before going to Germany? You go see a German band you’ve never heard of with your German friend."
-date: '2026-04-23'
+date: "2026-04-23"
 tags: ["The Notwist", "The Garage", "London", "Highbury"]
 album: https://flickr.com/photos/dletorey/albums/72177720333300780
 ---

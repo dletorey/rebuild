@@ -1,6 +1,6 @@
 ---
 title: "All Day Hey 2026"
-SubTitle: "10th and Final"
+subTitle: "10th and Final"
 description: "In Leeds again for the amazing All Day Hey, curated by Josh Nesbitt"
 date: '2026-05-07'
 tags: ["All Day Hey", "Leeds", "England", "United Kingdom"]
@@ -21,7 +21,7 @@ In order to stay in the moment, at [All Day Hey](https://heypresents.com/confere
 > Time travel! Time travel is the solution for everything.
 
 > I recorded this in Firefox because Chrome is sill glitchy
-for this one.
+> for this one.
 
 ## Léonie Watson
 
