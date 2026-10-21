@@ -3,7 +3,7 @@ title: "Phuket"
 subTitle: "Crabs, Squirrels, Plants & Hat Envy"
 description: "Today we had a day in Phuket, walked along the beach, relaxed by the pool and went to Duck Spicy."
 tags: ["Phuket", "Animals"]
-date: '2025-11-28'
+date: "2025-11-28"
 album: https://flickr.com/photos/dletorey/albums/72177720330587130
 oldURL: /se-asia/phuket/
 ---
@@ -18,7 +18,7 @@ Sarah and I went for a walk along to the end of the beach. As we walked a long t
 
 When we got to the end of the beach we noticed that there were patterns in the sand, we discovered that these were made by [Sand bubbler crabs](https://en.wikipedia.org/wiki/Sand_bubbler_crab), they feed by filtering sand through their mouthparts, leaving behind balls of sand that are broken up by the incoming high tide.
 
-![Tiny balls of sand in radiated patterns on the beach](/images/se-asia/sand-bubbler-crab.jpg)
+![Tiny balls of sand in radiated patterns on the beach](/images/travel/se-asia/sand-bubbler-crab.jpg)
 
 On the way back to the hotel we witnessed Giant black squirrels leaping from one tree to another it was amazing to see but impossible to capture on camera. Back at the hotel I relaxed by the pool and updated my blog.
 

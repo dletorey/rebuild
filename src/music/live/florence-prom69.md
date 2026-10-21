@@ -34,4 +34,4 @@ I can not express how important the BBC is to the UK and the world and if it wer
 
 ## Set List
 
-[![Florence + the Machine Symphony of Lungs Setlist BBC Proms 2024](/images/florence/symphony-of-lungs.png)](https://www.setlist.fm/setlist/florence-the-machine/2024/royal-albert-hall-london-england-4ba80722.html)
+[![Florence + the Machine Symphony of Lungs Setlist BBC Proms 2024](/images/music/live/florence/symphony-of-lungs.png)](https://www.setlist.fm/setlist/florence-the-machine/2024/royal-albert-hall-london-england-4ba80722.html)

@@ -66,7 +66,7 @@ After a drink Simon and Allanah had to leave to get the train home. We got anoth
 
 We had missed the first support act [Good health good wealth](https://www.goodhealthgoodwealth.com/). The second support were [Gans](https://gansnet.os.fan/) another West Midlands based band. The consisted of a Drummer/Lead singer, a guitarist/bassist/keyboard player/singer and a flautist/saxaphonist/303 player. Their energy and performance was amazing I’m delighted that we get to see them again at [Bearded Theory](https://beardedtheory.co.uk/) on the Wednesday.
 
-![Gans band on stage at the Rescue Rooms Nottingham shot from above the band are bathed in red light. On the left is the drummer, on the right the guitarist and at back the saxophonist](/images/big-special/gans.jpg)
+![Gans band on stage at the Rescue Rooms Nottingham shot from above the band are bathed in red light. On the left is the drummer, on the right the guitarist and at back the saxophonist](/images/music/live/big-special/gans.jpg)
 
 ### Big Special
 
@@ -76,7 +76,7 @@ The set was amazing and humble they pointed out that they were liberals and said
 
 > Anyone voting reform go fuck yourselves!
 
-![Callum, lead singer of Big Special surround by white smoke](/images/big-special/callum-big-special.jpg)
+![Callum, lead singer of Big Special surround by white smoke](/images/music/live/big-special/callum-big-special.jpg)
 
 Towards the end of the set they played what they referred to as _The New National Anthem_ - [Shithouse](https://song.link/i/1793598416). And finished with [Trees](https://song.link/i/1793599022).
 

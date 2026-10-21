@@ -36,7 +36,7 @@ setlist:
           - Born Slippy .NUXX
 ---
 
-![The dome at the entrance of Brixton Academy there are green lights of the dome and below it reads: Underworld 5, 6 & 7 February Sold Out. In front there are 1000s of smiling people leaving the venue](/images/underworld-born-slippy/underworl-brixton-academy.jpg)
+![The dome at the entrance of Brixton Academy there are green lights of the dome and below it reads: Underworld 5, 6 & 7 February Sold Out. In front there are 1000s of smiling people leaving the venue](/images/music/live/underworld/underworl-brixton-academy.jpg)
 
 This is my kind of cat!!
 
@@ -64,13 +64,13 @@ I even managed to get the set list of the second set and then we headed to the U
 
 Great night again¡
 
-![My friend Bramus dancing to Born Slippy NUXX, his arms are raised in the air as though he is worshipping Underworld (he probably was) and he is covered in confetti](/images/underworld-born-slippy/bramus-saturday.jpg)
+![My friend Bramus dancing to Born Slippy NUXX, his arms are raised in the air as though he is worshipping Underworld (he probably was) and he is covered in confetti](/images/music/live/underworld/bramus-saturday.jpg)
 
 ## Set Lists
 
 [Set list on setlist.fm](https://www.setlist.fm/setlist/underworld/2026/o2-academy-brixton-london-england-1341dd71.html).
 
-![Set list from Saturday with Friday night's date in the top left](/images/underworld-born-slippy/underworld-set-list.jpg)
+![Set list from Saturday with Friday night's date in the top left](/images/music/live/underworld/underworld-set-list.jpg)
 
 ### Set One 20:13 - 21:14
 

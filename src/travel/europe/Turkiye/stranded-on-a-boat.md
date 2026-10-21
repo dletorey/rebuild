@@ -2,7 +2,7 @@
 title: "Stranded on a Boat"
 subTitle: "Kalkan day 4"
 description: "Our third day in Kalkan we had a really chilled day relaxing and spending time with friends."
-date: '2026-07-08'
+date: "2026-07-08"
 tags: ["Boat Trip", "Sea", "Swimming", "Kalkan", "Turkiye"]
 album: https://www.flickr.com/photos/dletorey/albums/72177720334610173/
 ---
@@ -27,6 +27,6 @@ We then moved on to the next swimming place. As we arrived the boat made a terri
 
 As the boat had broken down we were unable to go to our 4th swimming stop. Eventually one of the other boats gave us a tow back to the harbour. Our boat was probably Lipsos because it breaks down and the lip service is _SOS_ again please.
 
-![Our boat being towed back into harbour](/images/turkiye/lipsos.jpg)
+![Our boat being towed back into harbour](/images/travel/europe/turkiye/lipsos.jpg)
 
 We had an early night and got some sleep.

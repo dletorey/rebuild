@@ -2,7 +2,7 @@
 title: "I love your style"
 subTitle: "Kalkan day 3"
 description: "Our third day in Kalkan we had a really chilled day relaxing and spending time with friends."
-date: '2026-07-07'
+date: "2026-07-07"
 tags: ["Alternatif", "Kalkan", "Turkiye"]
 album: https://www.flickr.com/photos/dletorey/albums/72177720334593439/
 ---
@@ -21,7 +21,7 @@ When we got down near the harbour again someone said to me, _I really like your 
 
 Then we spotted [Korsan Meze](https://www.korsankalkan.com/en/korsan-meze/) which had a lovely shaded terrace and we decided to stop there for lunch. I had a Spicey Beef Pide and Susan had Sea Bream, the food was brilliant and very tasty.
 
-![View of Kalkan Bay from the Korsan Meze Terrace](/images/turkiye/korsan-meze-view.jpg)
+![View of Kalkan Bay from the Korsan Meze Terrace](/images/travel/europe/turkiye/korsan-meze-view.jpg)
 
 After lunch we walked back to our hotel to get some stuff before heading to the friends villa. On the way we looked for shops that may sell postcards to no joy.
 
@@ -55,4 +55,4 @@ After a few minutes passed it started all over again and this time it was for ou
 
 While we were there I was sat next to the birthday girl's Grand Daughter she, made as missing person post on her social media.
 
-![A poster made by my friend's grand daughter - It reads: Missing person Dave Letorey Last seen - turkeyie Kalkan Last seen with people](/images/turkiye/missing-person.jpg)
+![A poster made by my friend's grand daughter - It reads: Missing person Dave Letorey Last seen - turkeyie Kalkan Last seen with people](/images/travel/europe/turkiye/missing-person.jpg)

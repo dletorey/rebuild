@@ -3,7 +3,7 @@ title: "Cambodia day 1"
 subTitle: "Exploring Siem Reap"
 description: "Today we explored Siem Reap and discovered canals, temples, flying foxes and craft beer."
 tags: ["Siem Reap", "Cambodia"]
-date: '2025-11-30'
+date: "2025-11-30"
 album: https://www.flickr.com/gp/dletorey/Xe349XE5Q0
 oldUrl: /se-asia/siem-reap/
 ---
@@ -14,7 +14,7 @@ After a lie in this morning we found a coffee shop, [Asagohan Cafe](https://maps
 
 Firstly we walked through Pub Street, which was much less brash and noisy during the day time and headed to the canal. The walk along the canal was shady which was good because the temperature was already 33ºc. It was not long before we encountered our first temple of Cambodia, [Wat Preah Prom Rath](https://maps.app.goo.gl/kdekHJ63Po9YxbpR8), it was lovely and we came across a sculpture of a man having his insides eaten by vultures.
 
-![A man lying down with his intestines hanging out and being eaten by 2 black vultures](/images/se-asia/vultures.jpg)
+![A man lying down with his intestines hanging out and being eaten by 2 black vultures](/images/travel/se-asia/vultures.jpg)
 
 ## Flying foxes
 
@@ -26,7 +26,7 @@ I got back to the park about 15 minutes before sunset, the bats start flying aro
 
 As it started to get dark, more and more bats started flying around the tree canopy catching insects, it was a magical thing to see but almost impossible to photograph, what with their speed and the low light.
 
-![A silhouette of a fruit bat flying through the canopy](/images/se-asia/fruit-bat.jpg)
+![A silhouette of a fruit bat flying through the canopy](/images/travel/se-asia/fruit-bat.jpg)
 
 ## Amara
 

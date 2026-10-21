@@ -22,7 +22,7 @@ Before the end of the episode of MasterChef I had already booked a table.
 
 I was contacted a few days before the booking to make sure that I still wanted the reservation. After confirming I was asked if we were celebrating a special occasion, I told them that it was part of my partner's 60th birthday celebrations. They asked fro her name so that they could write her a birthday card.
 
-I arrived at the restaurant before Susan as she had a meeting to attend, when I arrived they showed me to the table and there was already a birthday card. While waiting I looked at the drinks menu and ordered a _Prickly Ash Negroni_, to be ready on Susan's arrival. The cocktail was  made with:
+I arrived at the restaurant before Susan as she had a meeting to attend, when I arrived they showed me to the table and there was already a birthday card. While waiting I looked at the drinks menu and ordered a _Prickly Ash Negroni_, to be ready on Susan's arrival. The cocktail was made with:
 
 - Sapling gin
 - Nettle Vermouth
@@ -38,7 +38,7 @@ The menu was a tasting menu, we were also offered a wine pairing. They partnered
 
 Both Susan & I's favourite dish was the **Chalk Stream Trout**, but every dish was amazing.
 
-![Chalk stream trout in a bluish bowl surrounded by a red/brown curry](/images/anglothai/chalk-stream-trout.jpg)
+![Chalk stream trout in a bluish bowl surrounded by a red/brown curry](/images/food/anglothai/chalk-stream-trout.jpg)
 
 ### Course 1
 
@@ -48,11 +48,11 @@ Both Susan & I's favourite dish was the **Chalk Stream Trout**, but every dish w
 
 ### Course 2
 
-- Brixham Crab, Exmoor Caviar & Coconut Ash Cracker 
+- Brixham Crab, Exmoor Caviar & Coconut Ash Cracker
 
 ### Course 3
 
-- Sunflower Seed Panang, Potato Bread & White Asparagus 
+- Sunflower Seed Panang, Potato Bread & White Asparagus
 
 ### Course 4
 

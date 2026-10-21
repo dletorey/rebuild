@@ -3,7 +3,7 @@ title: "Ba Na Hills"
 subTitle: "not feeling well and Lando wins the Title"
 description: "Today Susan and I ventured to Ba Na Hills, I became ill and we watched the Grand Prix to see Lando Norris win the drivers championship."
 tags: ["Da Nang", "Ba Na Hills", "Grand Prix"]
-date: '2025-12-07'
+date: "2025-12-07"
 album: https://flickr.com/photos/dletorey/albums/72177720330844429
 oldUrl: /se-asia/ba-na-hills/
 ---
@@ -22,11 +22,11 @@ To get to Ba Na Hills now a days you can't get locals to carry you but instead t
 
 Once at the top we got to the Golden Hand Bridge, it would have been absolutely stunning if we weren't in the clouds and could see more than a few metres in front of us.
 
-![The Golden hand bridge barely visible due to clouds](/images/se-asia/cloudy-bridge.jpg)
+![The Golden hand bridge barely visible due to clouds](/images/travel/se-asia/cloudy-bridge.jpg)
 
 Once at the end of the bridge there was a gift shop, fortunately there was a bag that showed the bridge in all its glory.
 
-![The Golden hand bridge shown on a woven bag, the bridge is held up with 2 giant stone hands and has a golden platform. In this picture there is a single woman with her back to us wearing a conical hat](/images/se-asia/bag-bridge.jpg)
+![The Golden hand bridge shown on a woven bag, the bridge is held up with 2 giant stone hands and has a golden platform. In this picture there is a single woman with her back to us wearing a conical hat](/images/travel/se-asia/bag-bridge.jpg)
 
 ### Gardens
 
@@ -34,7 +34,7 @@ Once we'd finished at the bridge we went to explore the ornamental gardens, it w
 
 When we went back to the Bridge to get the next cable car to the next area, the clouds had started to clear and we could actually see the bridge clearly.
 
-![The Golden hand bridge now visible two stone hands holding a godeln bridge in the air, the bridge is full with 100s of people](/images/se-asia/clear-bridge.jpg)
+![The Golden hand bridge now visible two stone hands holding a godeln bridge in the air, the bridge is full with 100s of people](/images/travel/se-asia/clear-bridge.jpg)
 
 ### Roller Coaster
 

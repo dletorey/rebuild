@@ -42,7 +42,7 @@ Imagine funding from foreign powers being more important than this.
 
 This is [Heba Muraisi](https://prisonersforpalestine.org/prisoner/heba-muraisi/) she is one of the Hunger Strikers, who you don't really hear about, she has not been charged with anything and has been on hunger strike for 73 days so far.
 
-![Hunger striker Heba Muraisi](/images/imagine/heba.jpg)
+![Hunger striker Heba Muraisi](/images/thoughts/imagine/heba.jpg)
 
 > “Physically, I am deteriorating as the days go by. I no longer feel hunger, I feel pain,” Muraisi said. “I don’t think about my life, I think about how or when I could die, but despite this, mentally I’ve never been stronger, more determined and sure, and most importantly, I feel calm and a great sense of ease.”
 
@@ -50,7 +50,7 @@ This is [Heba Muraisi](https://prisonersforpalestine.org/prisoner/heba-muraisi/)
 
 Heba is not the only [hunger striker](https://prisonersforpalestine.org/) she is just the one that has not eaten the longest.
 
-![Hunger strikers names on a poster, stating how long since they have eaten](/images/imagine/hunger-strikers.jpg)
+![Hunger strikers names on a poster, stating how long since they have eaten](/images/thoughts/imagine/hunger-strikers.jpg)
 
 ### Hunger strikers
 

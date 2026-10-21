@@ -80,4 +80,4 @@ Over all I am delighted that I went, it was a great night and the tour has been 
 
 ## Set List
 
-[![Orbital Setlist O2 Victoria Warehouse, Manchester, England, Green / Brown Album Tour 2024](/images/orbital/orbital-manchester-2024-05-04-setlist.jpg)](https://www.setlist.fm/setlist/orbital/2024/o2-victoria-warehouse-manchester-england-6babd6c2.html)
+[![Orbital Setlist O2 Victoria Warehouse, Manchester, England, Green / Brown Album Tour 2024](/images/music/live/orbital/orbital-manchester-2024-05-04-setlist.jpg)](https://www.setlist.fm/setlist/orbital/2024/o2-victoria-warehouse-manchester-england-6babd6c2.html)

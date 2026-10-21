@@ -83,4 +83,4 @@ Quality night and I may go to Manchester next Saturday… (from future me, I did
 
 ## Set List
 
-[![Orbital Setlist Rock City, Nottingham, England, Green / Brown Album Tour 2024](/images/orbital/orbital-rock-city-2024-04-28-setlist.jpg)](https://www.setlist.fm/setlist/orbital/2024/rock-city-nottingham-england-73abd6d1.html)
+[![Orbital Setlist Rock City, Nottingham, England, Green / Brown Album Tour 2024](/images/music/live/orbital/orbital-rock-city-2024-04-28-setlist.jpg)](https://www.setlist.fm/setlist/orbital/2024/rock-city-nottingham-england-73abd6d1.html)

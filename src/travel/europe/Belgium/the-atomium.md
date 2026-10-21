@@ -37,6 +37,6 @@ The first part of the tour takes you to the top and the view out over the city i
 
 Once back on the ground, we thought that was it, you go up an escalator to one of the other globes. Inside this globe there is a history of the Atomium and how it was built. The next level up there is a room with another light show and music. It would be an incredible place to have a party.
 
-![The Atomium](/images/belgium/atomium.jpg)
+![The Atomium](/images/travel/europe/belgium/atomium.jpg)
 
 Once we had finished we had to get to the airport to return home. A great couple of days in Brussels.

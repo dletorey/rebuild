@@ -50,7 +50,7 @@ As I am going again tomorrow, and boy am I delighted that I am, I left just befo
 
 Tonight’s show as if someone had asked Rick if he could weaponise the music. He certainly did he changed his synths into a joy canon and assaulted 5000 ravers with pure joy. My cheeks are still hurting from grinning like a loon.
 
-![Karl Hyde on stage singing Two Months Off surrounded by green light](/images/underworld-born-slippy/karl-hyde-friday.jpg)
+![Karl Hyde on stage singing Two Months Off surrounded by green light](/images/music/live/underworld/karl-hyde-friday.jpg)
 
 ## Set Lists
 

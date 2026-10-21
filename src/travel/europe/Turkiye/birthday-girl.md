@@ -2,7 +2,7 @@
 title: "Birthday girl"
 subTitle: "Kalkan day 5"
 description: "Anyone who knows me, knows that I hate the heat, so I would never ever come to Türkiye in the height of summer without a very good reason."
-date: '2026-07-09'
+date: "2026-07-09"
 tags: ["Kalkan", "Türkiye", "Dyslexia", "Stamps", "Birthday"]
 album: https://www.flickr.com/photos/dletorey/albums/72177720334611941
 ---
@@ -15,7 +15,7 @@ Today we had a very long lie in, so long breakfast was over (10:00) before we wo
 - [Being stung by a sea urchin](/travel/europe/turkiye/stranded-on-a-boat/#:~:text=While,me%2C)
 - Being very tired after a day swimming in the sea
 
-We decided to go into Old Town to get some _brunch_. We walked past a few places to look at what food options they had. 
+We decided to go into Old Town to get some _brunch_. We walked past a few places to look at what food options they had.
 
 ## Post Office
 
@@ -29,7 +29,7 @@ When we went into the Post Office there was a queue and in front of us was the y
 
 The man at the Post Office recognised me from the other day and got me the 42 Turkish stamps (2 for each postcard), they cost 1890₺ (£30.06). In the UK this would have cost £37.80 for 21 first class stamps.
 
-![A sheet of 42 Turkish stamps](/images/turkiye/turkish-stamps.jpg)
+![A sheet of 42 Turkish stamps](/images/travel/europe/turkiye/turkish-stamps.jpg)
 
 Once I had completed my transaction we went outside to help the young man with the cash machine. I pointed out to him that there was a language button. He explained that he needed help because he had Dyslexia, I told him I also had Dyslexia and was happy to help. He worked out what the problem was, his card had been declined.
 
@@ -51,11 +51,11 @@ After a while I realised that I had forgotten my medication. So off I went back 
 
 On the way back to pay for the shave I looked up at the hill and there was a cloud at the top of the hill, it made the hill look like an erupting volcano.
 
-![A hill with a cloud, it looks like an erupting volcano](/images/turkiye/volcano.jpg)
+![A hill with a cloud, it looks like an erupting volcano](/images/travel/europe/turkiye/volcano.jpg)
 
 Once back at the villa, a few of us went to the hotel restaurant on the top floor to go decorate it for the birthday party. I had brought, 2 sets of, giant number 6 and 0 foil balloons. When I opened them there was no straw to inflate them. At first I made a straw by rolling up a piece of card, this worked but leaked a lot while I was blowing. Then a member of hotel staff came in and I asked "do you have any straws", she had no idea what I was asking for as she did not understand English. I used my phone to translate it, it turns out the Turkish for straw is <span lang="tr-TR">pipet</span>. She went and brought some straws and this helped no end.
 
-![A restaurant terrace on top of a hotel, there is a huge 60 balloon in the background is Kalkan Bay](/images/turkiye/party-venue.jpg)
+![A restaurant terrace on top of a hotel, there is a huge 60 balloon in the background is Kalkan Bay](/images/travel/europe/turkiye/party-venue.jpg)
 
 Around 20:00 we all headed from the villa to the hotel, next door, the birthday girl's sister had had masks of her face for us all to wear. We had a group photo with us all surrounding the birthday girl while wearing the masks. We then headed up to the roof top restaurant. The view of the setting sun from up there was amazing.
 

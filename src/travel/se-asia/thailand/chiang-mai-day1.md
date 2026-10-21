@@ -3,7 +3,7 @@ title: "Chiang Mai day 1"
 subTitle: "Wat more Temples?"
 description: "The first full day in Chiang Mai we explored some of the hundreds of temples in the city of Chiang Mai and in the evening watched Muay Thai"
 tags: ["Chiang Mai", "Temples", "Muay Thai", "Thai Kick Boxing"]
-date: '2025-11-24'
+date: "2025-11-24"
 album: https://flickr.com/photos/dletorey/albums/72177720330561220/
 oldURL: /se-asia/chiang-mai-day1/
 ---
@@ -18,7 +18,7 @@ Before we came to our first temple we walked through the [Chang Phueak Gate](htt
 
 ### Wat Khuan Khama
 
-![A row of golden horses stood on a wall outside the temple Khuan Khama in Chiang Mai](/images/se-asia/wat-khuan-khama.jpg)
+![A row of golden horses stood on a wall outside the temple Khuan Khama in Chiang Mai](/images/travel/se-asia/wat-khuan-khama.jpg)
 
 [Wat Khuan Khama](https://en.wikipedia.org/wiki/Wat_Khuan_Khama), surprisingly enough, is also known as Golden Horse Temple. It is believed to have been established around 2035 B.E. (1492 A.D.).
 
@@ -28,7 +28,7 @@ According to legend, the land on which the temple stands was once owned by a hor
 
 [Wat Rajamontean](https://maps.app.goo.gl/Z3TzKNwMhnECERFE6) was the next temple we came across which had a huge statue of Buddha next to it.
 
-![A giant Buddha sitting next to Wat Rajamontean in Chiang Mai](/images/se-asia/wat-rajamontean-buddha.jpg)
+![A giant Buddha sitting next to Wat Rajamontean in Chiang Mai](/images/travel/se-asia/wat-rajamontean-buddha.jpg)
 
 ### Wat Lok Moli
 
@@ -36,7 +36,7 @@ It is not known when Wat Lok Moli was built but it is first mentioned in a chart
 
 Outside there was a dragon that you could hoist up to give water to a Buddha at the top of the pagoda.
 
-![Instructions for the dragon hoist written in Thai and English - 1 scoop water into bamboo tube, 2 Pull left rope up, support down slowly please](/images/se-asia/dragon-hoist-instructions.jpg)
+![Instructions for the dragon hoist written in Thai and English - 1 scoop water into bamboo tube, 2 Pull left rope up, support down slowly please](/images/travel/se-asia/dragon-hoist-instructions.jpg)
 
 ## Lunch
 
@@ -58,4 +58,4 @@ Obviously I was going to support the fighters in the red corner. The first two b
 
 In most of the rounds there seemed to be a lot of hugging, until that was the added seventh bout. This bout was much more furious and the fighters were really going at each other. We had a very entertaining night and would recommend experiencing this at least once in your life.
 
-![Me in a boxing ring posing with two Muay Thai boxers one in red shorts the other in blue](/images/se-asia/muay-thai.jpg)
+![Me in a boxing ring posing with two Muay Thai boxers one in red shorts the other in blue](/images/travel/se-asia/muay-thai.jpg)

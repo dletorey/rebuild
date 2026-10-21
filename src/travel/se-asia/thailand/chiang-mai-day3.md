@@ -3,7 +3,7 @@ title: "Chiang Mai day 3"
 subTitle: "Highest point in Thailand"
 description: "Today we explored the Doi Inthanon national park."
 tags: ["Chiang Mai", "Doi Inthanon", "Coffee", "Highest Point"]
-date: '2025-11-26'
+date: "2025-11-26"
 album: https://flickr.com/photos/dletorey/albums/72177720330595384/
 oldURL: /se-asia/chiang-mai-day3/
 ---
@@ -16,7 +16,7 @@ Our first stop of the day was [Wachirathan Waterfall](https://maps.app.goo.gl/Ms
 
 There were stalls, like every tourist destination, but one of the stalls just below the pringles (or Thai equivalent) was a basket with a cat a five 1 week old kittens (see album for cat pictures).
 
-![Susan stood in front of the Wachirathan Waterfall there is a rainbow from all of the spray](/images/se-asia/wachirathan-waterfall.jpg)
+![Susan stood in front of the Wachirathan Waterfall there is a rainbow from all of the spray](/images/travel/se-asia/wachirathan-waterfall.jpg)
 
 ## Coffee Village
 
@@ -26,19 +26,19 @@ We were taken to two different coffee growers to sample their wares. The first w
 
 The village was beautiful and we got to see many plants and the rice fields that had just been harvests.
 
-![Thai tribe lady making coffee](/images/se-asia/coffee-lady.jpg)
+![Thai tribe lady making coffee](/images/travel/se-asia/coffee-lady.jpg)
 
 ## Doi Inthanon
 
 After lunch we went up to the [Doi Inthanon Summit](https://maps.app.goo.gl/CU8MRTsaxWxhyR8R9), the tallest mountain in Thailand. Up there, there were two trails and an Thai Air Force base. The first of the trails the _Forest of the Sky_ trail contained the highest point in Thailand and was 150 metres long. The second the _Angkha nature_ trail was 320 metres and was more like walking through a jungle. At one point there was a steep staircase that lead down to the shrine of an Air force officer who had died in 2014.
 
-![A dragon guard covered in moss](/images/se-asia/dragon-guard.jpg)
+![A dragon guard covered in moss](/images/travel/se-asia/dragon-guard.jpg)
 
 ## Pagodas
 
 The final stop of the day was to see the [Pagodas](https://maps.app.goo.gl/38wsXy4ec6o25e1y8). On top of the Doi Inthanon mountain the Air Force had built two pagodas to house relics of the Buddha. They were built in 1987 and 1992 to honour the King and Queen's 60th birthdays.
 
-![A panorama of the two pagodas with the Queen's pagoda on the left and the King's pagoda on the right, in the middle is a statue of the king.](/images/se-asia/pagodas.jpg)
+![A panorama of the two pagodas with the Queen's pagoda on the left and the King's pagoda on the right, in the middle is a statue of the king.](/images/travel/se-asia/pagodas.jpg)
 
 ### King Pogoda
 

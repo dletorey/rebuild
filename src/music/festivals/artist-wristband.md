@@ -26,7 +26,7 @@ This is the first time that I have officially been an artist at a festival. In 2
 
 This time I was officially an artist and performing with [Filter Sequence](https://filtersequence.bandcamp.com/).
 
-![A silver Wristband, around my wrist, that reads Artist Bohemia Friday](/images/more-acid/artist-wristband.jpg)
+![A silver Wristband, around my wrist, that reads Artist Bohemia Friday](/images/music/live/more-acid/artist-wristband.jpg)
 
 ### Friday Line-Up
 
@@ -34,7 +34,7 @@ This time I was officially an artist and performing with [Filter Sequence](https
 
 - 4.15 pm [Sun & Moon](https://www.instagram.com/we_are_sunandmoon/)
 - 5.15 pm [Tanuki Moon](https://soundcloud.com/tanukimoonband)
-- 6.30 pm [Bent](https://en.wikipedia.org/wiki/Bent_(band))
+- 6.30 pm [Bent](<https://en.wikipedia.org/wiki/Bent_(band)>)
 - 8:15 pm [The Farm](https://thefarmmusic.co.uk/)
 - 9:30 pm [Jemma Bolt](https://discoliscious.com/discoliscious-talent/#:~:text=Jemma%20Bolt) b2b [Woody Cook](https://discoliscious.com/discoliscious-talent/#:~:text=Woody%20Cook)
 - 10:30 pm [Utah Saints](http://www.utahsaints.com/)
@@ -61,7 +61,7 @@ Out of this line up I saw:
 - Jemma Bolt b2b Woody Cook - They played an excellent set, very energetic and Woody's enthusiasm was incredible. If you get the chance to see him do it.
 - Utah Saints - A DJ set they were great and the set list was amazing, I just feel that they need to reduce the number of tracks and play them longer, [Cowgirl by Underworld](https://song.link/i/1444123407) is not 3 minutes long.
 
-![Woody Cook stood on the mixing table twiddling the knobs on the mixer](/images/more-acid/woody-cook.jpg)
+![Woody Cook stood on the mixing table twiddling the knobs on the mixer](/images/music/live/more-acid/woody-cook.jpg)
 
 ## Filter Sequence
 

@@ -61,7 +61,7 @@ To celebrate this my friends and I had t-shirts made that read:
 >  More  
 >  Acid.
 
-![a huge group of Orbital fans and Paul Hartnoll from Orbital. Some of whom are wearing the t-shirt](/images/more-acid/more-acid-t-shirts.jpg)
+![a huge group of Orbital fans and Paul Hartnoll from Orbital. Some of whom are wearing the t-shirt](/images/music/live/more-acid/more-acid-t-shirts.jpg)
 
 ### Acid4Life
 
@@ -97,7 +97,7 @@ Once home from traveling, I decided that I should tell as many people as I could
 
 The track has now appeared on a compilation album by [DeepDownDirty Records](https://www.instagram.com/deepdowndirtymusic/) to celebrate 303 Day (3 March). It was exclusively released on Beatport on Friday 27 February 2026 [DeepDownDirty 3037](https://www.beatport.com/release/deepdowndirty-acid-vol-7/5833917). On Friday 6 March 2026 we learnt that the compilation was number 1 in the new releases Beatport chart, so now technically I'm a _number 1 artist_??
 
-![A facebook post by Maya the owner of Deep Down Dirty records showing DeepDownDirty 3037 is number 1 in the Releases chart](/images/more-acid/ddd-number-1.jpg)
+![A facebook post by Maya the owner of Deep Down Dirty records showing DeepDownDirty 3037 is number 1 in the Releases chart](/images/music/live/more-acid/ddd-number-1.jpg)
 
 ### Vinyl
 
@@ -147,7 +147,7 @@ This is a reference of where else More Acid has been seen in the world.
 
 My friend [Bramus](https://www.bram.us/), recently gave a talk at [State of the Browser](https://2026.stateofthebrowser.com/speaker/bramus-van-damme/), in which one of his [slides reference More Acid (slide 16)](https://www.bram.us/2026/02/28/anchors-aweigh-sotb2026/#slides).
 
-![Bramus stood on stage highlight a popover which reads More Acid](/images/more-acid/bramus-more-acid.jpg)  
+![Bramus stood on stage highlight a popover which reads More Acid](/images/music/live/more-acid/bramus-more-acid.jpg)  
 Photo by [Josh](https://bsky.app/profile/joshtumath.uk/post/3mfvz23jgzc2f)
 
 ### Live at The Chapel Nottingham

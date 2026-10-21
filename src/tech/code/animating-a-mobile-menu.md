@@ -1,19 +1,30 @@
 ---
 title: "Animating a mobile menu"
 description: ""
-tags: ["HTML", "CSS", "SVG", "JavaScript", "Animation", "Menu", "Navigation", "transitions"]
+tags:
+  [
+    "HTML",
+    "CSS",
+    "SVG",
+    "JavaScript",
+    "Animation",
+    "Menu",
+    "Navigation",
+    "transitions"
+  ]
 date: "2020-11-24"
 oldUrl: "/blog/animating-a-mobile-menu"
 ---
+
 While designing my new site, I am first focussing on mobile first strategy, I want to learn and showcase ideas.
 
 So I have decided that I want to animate the menu on mobile to make best use of the screen. Here is a small video of what I'm trying to achieve.
 
-<video controls="" width="722"><source src="/images/animate-menu/mobile-menu-animation.mp4" type="video/mp4"></video>
+<video controls="" width="722"><source src="/images/tech/code/animate-menu/mobile-menu-animation.mp4" type="video/mp4"></video>
 
 ## Logo starting point
 
-![Logo position when the menu is closed](/images/animate-menu/logo-starting-point.jpg)
+![Logo position when the menu is closed](/images/tech/code/animate-menu/logo-starting-point.jpg)
 
 ### HTML
 
@@ -53,7 +64,7 @@ I want the header to start half way through the circle in the logo hence the mar
 
 ## Logo ending point
 
-![Logo position when the menu is open](/images/animate-menu/logo-ending-point.jpg)
+![Logo position when the menu is open](/images/tech/code/animate-menu/logo-ending-point.jpg)
 
 ### HTML
 
@@ -94,7 +105,7 @@ When the menu is open, the header has a `class="open"` and the logo will be in a
 
 ## Menu open state
 
-![Menu in the open state](/images/animate-menu/menu-open.jpg)
+![Menu in the open state](/images/tech/code/animate-menu/menu-open.jpg)
 
 ### HTML
 
@@ -119,17 +130,17 @@ When the menu is open, the header has a `class="open"` and the logo will be in a
 
 ```css
 button.hidden {
-  color: #D0021B;
+  color: #d0021b;
 }
 nav {
   margin-top: -40px;
   margin-left: -32px;
 }
 nav ul {
-  background-color: #D0021B;
-  color: #FAF9F9;
-  font-family: 'Courier New';
-  Font-weight: 700;
+  background-color: #d0021b;
+  color: #faf9f9;
+  font-family: "Courier New";
+  font-weight: 700;
   font-size: 2em;
   list-style: none;
   margin: 23px 0 0 -27px;
@@ -137,12 +148,12 @@ nav ul {
   border-radius: 0 0 23px 0;
 }
 nav ul a {
-  color: #FAF9F9;
+  color: #faf9f9;
 }
 nav ul a:hover {
-  background-color: #FAf9f9;
-  color: #D0021B;
-} 
+  background-color: #faf9f9;
+  color: #d0021b;
+}
 ```
 
 ### Explanation
@@ -151,7 +162,7 @@ This is all pretty simple the margin top and left are to position the menu aroun
 
 ## Menu hidden state
 
-![Menu in the closed state](/images/animate-menu/menu-closed.jpg)
+![Menu in the closed state](/images/tech/code/animate-menu/menu-closed.jpg)
 
 ### HTML
 
@@ -176,11 +187,11 @@ This is all pretty simple the margin top and left are to position the menu aroun
 
 ```css
 button {
-  background-color: #D0021B;
-  color: #FAF9F9;
-  font-family: 'Courier New';
+  background-color: #d0021b;
+  color: #faf9f9;
+  font-family: "Courier New";
   font-size: 2em;
-  Font-weight: 700;
+  font-weight: 700;
   text-decoration: underline;
   border: none;
   margin: 5px 0 0 30px;
@@ -219,8 +230,8 @@ In this instance the button is displayed and the nav hidden, this is done by set
 ### JavaScript
 
 ```js
-const menuButton = document.querySelector("#menuButton"); 
-const nav = document.querySelector("#menu"); 
+const menuButton = document.querySelector("#menuButton");
+const nav = document.querySelector("#menu");
 const header = document.querySelector("header");
 function menuToggle() {
   menuButton.classList.toggle("hidden");
@@ -262,7 +273,7 @@ To the svg style I have added a `transition` property. This tells it that any tr
 ### CSS
 
 ```css
-nav { 
+nav {
   max-height: 500px;
   transition: max-height 2s ease;
   overflow: hidden;
@@ -284,18 +295,18 @@ Here I have added a `max-height: 500px;` to the nav this is an arbitrary value t
 ### CSS
 
 ```css
-header.open svg { 
+header.open svg {
   transform-origin: 28px 28px;
   transform: rotate(-90deg);
   transition-delay: 0s;
 }
-header svg { 
+header svg {
   transform-origin: 28px 28px;
   transform: rotate(0deg);
   transition: transform 2s ease;
   transition-delay: 2s;
 }
-nav { 
+nav {
   max-height: 500px;
   transition: max-height 2s ease;
   transition-delay: 2s;
@@ -303,7 +314,7 @@ nav {
   margin-top: -40px;
   margin-left: -32px;
 }
-nav.hidden { 
+nav.hidden {
   max-height: 0;
   transition: max-height 2s ease;
   transition-delay: 0s;
@@ -341,12 +352,15 @@ In these, and many other, situations we should provide a fallback
 
 ```html
 <html class="no-js">
-  <head> …
+  <head>
+    …
     <script>
       document.documentElement.classList.remove("no-js");
     </script>
   </head>
-  <body>…</body>
+  <body>
+    …
+  </body>
 </html>
 ```
 
@@ -359,7 +373,7 @@ In these, and many other, situations we should provide a fallback
   }
   header svg {
     transform: rotate(-90deg);
-  } 
+  }
 }
 @supports not (transition) {
   nav.hidden {

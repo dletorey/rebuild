@@ -13,4 +13,4 @@ The last time Tommy Ten Names held a march was September 2025 and it was reporte
 
 In comparison the Pro-Palestine march had about 250,000 people. The march started on Exhibition Road, South Kensington, outside the Natural History Museum. We marched past Harrods, Hyde Park Corner, along Piccadilly and left the march at Green Park to go meet my friend at Kings Cross.
 
-![Piccadilly in London with thousands of protesters carrying Palestine flags](/images/nakba/pro-palestine-march-may-2026.jpg)
+![Piccadilly in London with thousands of protesters carrying Palestine flags](/images/thoughts/nakba/pro-palestine-march-may-2026.jpg)

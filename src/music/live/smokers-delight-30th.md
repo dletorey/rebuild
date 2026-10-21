@@ -17,7 +17,7 @@ setlist:
 oldUrl: /leets/smokers-delight-30th/
 ---
 
-![Nightmares on Wax postcard given out at the gig, it pictures George sitting on a reel to reel tape deck beneath it reads 12th March 2026 Royal Albert Hall, Smokers Delight and In a Space Outta Sound](/images/now/now-front.jpg)
+![Nightmares on Wax postcard given out at the gig, it pictures George sitting on a reel to reel tape deck beneath it reads 12th March 2026 Royal Albert Hall, Smokers Delight and In a Space Outta Sound](/images/music/live/now/now-front.jpg)
 
 This was just a pure celebration of great music.
 

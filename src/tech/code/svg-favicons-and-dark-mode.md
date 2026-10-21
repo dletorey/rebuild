@@ -12,7 +12,7 @@ So I've now started building a new site for a company that I am setting up and I
 
 A favicon is a small image that sits in the tab of your browser, usually the company logo.
 
-![Example of favicons in pinned tabs of Firefox](/images/dark-mode-favicons/example-of-favicons.jpg) <figcaption> Example of favicons, this shows [BBC](https://www.bbc.co.uk "BBC Home"), [gmail](https://www.gmail.com "Google Mail"), [Github](https://www.github.com "Github") & [Dave Quits](https://quit.letorey.co.uk/ "My Quits Smoking tracker")</figcaption>
+![Example of favicons in pinned tabs of Firefox](/images/tech/code/dark-mode-favicons/example-of-favicons.jpg) <figcaption> Example of favicons, this shows [BBC](https://www.bbc.co.uk "BBC Home"), [gmail](https://www.gmail.com "Google Mail"), [Github](https://www.github.com "Github") & [Dave Quits](https://quit.letorey.co.uk/ "My Quits Smoking tracker")</figcaption>
 
 ## What is an SVG
 
@@ -52,18 +52,19 @@ Dark mode is a system setting that allows a user to choose whether to have dark 
 - [iOS 11+](https://support.apple.com/en-gb/HT210332 "Enable Dark Mode iOS 11 and above")
 - [MacOS Mojave (10.14)](https://support.apple.com/en-gb/HT208976 "Enable Dark Mode MacOS 10.14 and above")
 
-![Light/Dark Mode setting MacOS](/images/dark-mode-favicons/dark-mode-enabling-macos.jpg)
+![Light/Dark Mode setting MacOS](/images/tech/code/dark-mode-favicons/dark-mode-enabling-macos.jpg)
+
 <figcaption> Light/Dark mode switcher MacOS System Preferences > General </figcaption>
 
 ### Using Dark Mode on a website
 
-CSS has a media query that checks what color scheme a user prefers  `@media (prefers-color-scheme: dark)` . This allows you to check what the users preference is and load different styles for light or dark.
+CSS has a media query that checks what color scheme a user prefers `@media (prefers-color-scheme: dark)` . This allows you to check what the users preference is and load different styles for light or dark.
 
 ```css
 body {
 &nbsp; background-color: white;
-  color: black; 
-} 
+  color: black;
+}
 @media (prefers-color-scheme: dark) {
   body {
     background-color: black;
@@ -81,9 +82,9 @@ This media query has [good support on all modern browsers](https://caniuse.com/m
 At the time of writing [not all browsers support SVG favicons](https://caniuse.com/link-icon-svg "Can I Use support info for SVG favicons"), although this is still not a reason for not doing it. Again browsers are awesome with HTML and CSS, if it doesn't recognise it, it just moves on so we can add a fallback.
 
 ```html
-<link rel="icon" type="image/svg+xml" href="./images/favicon.svg">
-<link rel="<strong>alternate</strong> icon" href="./images/favicon.ico">
-<link rel="mask-icon" href="./images/favicon.svg">
+<link rel="icon" type="image/svg+xml" href="./images/favicon.svg" />
+<link rel="<strong>alternate</strong> icon" href="./images/favicon.ico" />
+<link rel="mask-icon" href="./images/favicon.svg" />
 ```
 
 The first line sets the icon to an SVG.
@@ -92,12 +93,11 @@ The second line sets an alternate icon as a ICO for browsers that do not recogni
 
 The third line is for Safari on desktop and iOS as the support SVG favicons is limited to pinned tabs only.
 
-> Safari 9+ has support for "[pinned tab](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_9_0.html#//apple_ref/doc/uid/TP40014305-CH9-SW20
-)" SVG icons, but this requires an unofficial `rel="mask-icon"` to be set and only works for all-black icons on Pinned Tabs. - [https://caniuse.com/link-icon-svg](https://caniuse.com/link-icon-svg).
+> Safari 9+ has support for "[pinned tab](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_9_0.html#//apple_ref/doc/uid/TP40014305-CH9-SW20)" SVG icons, but this requires an unofficial `rel="mask-icon"` to be set and only works for all-black icons on Pinned Tabs. - [https://caniuse.com/link-icon-svg](https://caniuse.com/link-icon-svg).
 
 ## Dark Mode in SVGs
 
-Since we can embed CSS inside `<style></style>` inside an SVG we can also check inside the SVG if the user  `prefers-color-scheme: dark;` .
+Since we can embed CSS inside `<style></style>` inside an SVG we can also check inside the SVG if the user `prefers-color-scheme: dark;` .
 
 ### Normal SVG
 
@@ -124,7 +124,7 @@ Here we have an SVG with `<style></style>` tags to declare the fill color:
 <svg width="866px" height="866px">
   <style>
     circle {fill: #D0021B;}
-    text {fill: #FAF9F9} 
+    text {fill: #FAF9F9}
   </style>
   <title>Company Logo</title>
   <desc>Red Circle with forward slash surrounded by pointy brackets</desc>
@@ -145,10 +145,10 @@ Here we have a media query within the `<style></style>` tags of the&nbsp;SVG&nbs
 <svg width="866px" height="866px">
   <style>
     circle {fill: #D0021B;}
-    text {fill: #FAF9F9} 
+    text {fill: #FAF9F9}
     @media (prefers-color-scheme: dark) {
       circle {fill: #FAF9F9;}
-      text {fill: #D0021B;} 
+      text {fill: #D0021B;}
     }
   </style>
   <title>Company Logo</title>
@@ -160,27 +160,31 @@ Here we have a media query within the `<style></style>` tags of the&nbsp;SVG&nbs
 </svg>
 ```
 
-In here we are declaring the color for  `prefers-color-scheme: dark` of the circle and text in the media query.
+In here we are declaring the color for `prefers-color-scheme: dark` of the circle and text in the media query.
 
 ### Examples of SVG Favicons in Light and Dark mode
 
 #### Light Mode
 
-![Letorey.co.uk Light Mode favicon in tab](/images/dark-mode-favicons/light-mode-letorey.jpg)
+![Letorey.co.uk Light Mode favicon in tab](/images/tech/code/dark-mode-favicons/light-mode-letorey.jpg)
+
 <figcaption> Light mode favicon for letorey.co.uk in a Chrome tab </figcaption>
 
-![Code-Red.uk Light Mode favicon in tab](/images/dark-mode-favicons/light-mode-code-red.jpg)
+![Code-Red.uk Light Mode favicon in tab](/images/tech/code/dark-mode-favicons/light-mode-code-red.jpg)
+
 <figcaption> Light mode favicon for code-red.uk in a Chrome tab </figcaption>
 
 #### Dark Mode
 
-![Letorey.co.uk Dark Mode favicon in tab](/images/dark-mode-favicons/dark-mode-letorey.jpg)
+![Letorey.co.uk Dark Mode favicon in tab](/images/tech/code/dark-mode-favicons/dark-mode-letorey.jpg)
+
 <figcaption> Dark mode favicon for letorey.co.uk in a Chrome tab </figcaption>
 
-![Code-Red.uk Dark Mode favicon in tab](/images/dark-mode-favicons/dark-mode-code-red.jpg)
+![Code-Red.uk Dark Mode favicon in tab](/images/tech/code/dark-mode-favicons/dark-mode-code-red.jpg)
+
 <figcaption> Dark mode favicon for code-red.uk in a Chrome tab</figcaption>
 
- [15]: ./?a=2399:images/Dark-mode-favicons/Light-mode-letorey.jpg
- [16]: ./?a=2399:images/Dark-mode-favicons/Light-mode-code-red.jpg
- [17]: ./?a=2399:images/Dark-mode-favicons/Dark-mode-letorey.jpg
- [18]: ./?a=2399:images/Dark-mode-favicons/Dark-mode-code-red.jpg
+[15]: ./?a=2399:images/Dark-mode-favicons/Light-mode-letorey.jpg
+[16]: ./?a=2399:images/Dark-mode-favicons/Light-mode-code-red.jpg
+[17]: ./?a=2399:images/Dark-mode-favicons/Dark-mode-letorey.jpg
+[18]: ./?a=2399:images/Dark-mode-favicons/Dark-mode-code-red.jpg

@@ -23,7 +23,7 @@ After checking-in to my hotel, [Numa](https://maps.app.goo.gl/Xzuz1nggRBZP5To57)
 
 I bought a [Juicy AF](https://www.onlywithlove.co/collections/juicy-af-beers-hop-sodas/products/juicy-af-alcohol-free-x6) and went and sat on the roof to soak up the sun and be battered by the wind. It wasn't long before I was joined by Harry & [Marc](https://marcthiele.com).
 
-![View from the roof of the Bison Beach Bar, there is a swimming pool with lanes on a pebble covered beach the sky is mostly blue with a few fluffy clouds](/images/wdo/bison-roof-view.jpg).
+![View from the roof of the Bison Beach Bar, there is a swimming pool with lanes on a pebble covered beach the sky is mostly blue with a few fluffy clouds](/images/tech/events/wdo/bison-roof-view.jpg).
 
 After a while we headed back into town to the usual haunt [The Basketmakers](https://maps.app.goo.gl/YCGDPbexQVSsRzUp7) where we were joined by even more attendees.
 

@@ -2,8 +2,16 @@
 title: "Bangkok day 2"
 subTitle: "Temples, boats and sky high cocktails"
 description: "We took public transport to see the Grand Palace and a reclining Buddha, then took a boat trip round the canals. The Susan and I drank cocktails."
-tags: ["Bangkok", "Grand Palace", "Boat Trip", "Reclining Buddha", "Sirocco", "Sky Bar"]
-date: '2025-11-21'
+tags:
+  [
+    "Bangkok",
+    "Grand Palace",
+    "Boat Trip",
+    "Reclining Buddha",
+    "Sirocco",
+    "Sky Bar"
+  ]
+date: "2025-11-21"
 album: https://flickr.com/photos/dletorey/albums/72177720330505660/
 oldURL: /se-asia/bangkok-day2/
 ---
@@ -38,13 +46,13 @@ I really don't know what to say about [The Grand Palace](https://en.wikipedia.or
 
 Just before we came to Thailand, the [Queen Mother Sirikit](https://en.wikipedia.org/wiki/Sirikit) died on 24 October. Her body is lying in state in the Grand Palace for 1 year so that the Thai nationals can go pay their respect, while we were there there were queues of people (all dressed in black) and school children all dress immaculately in their school uniforms.
 
-![A row of Thai Dragon men holding up a golden part of the temple in the grounds of the Grand Palace](/images/se-asia/thai-dragon-men-holing-up-golden-building.jpg)
+![A row of Thai Dragon men holding up a golden part of the temple in the grounds of the Grand Palace](/images/travel/se-asia/thai-dragon-men-holing-up-golden-building.jpg)
 
 ## The Reclining Buddha
 
 After we'd eaten lunch we walked a short distance from the Grand Palace to the [Temple of the Reclining Buddha](https://en.wikipedia.org/wiki/Wat_Pho) also known as Wat Pho. This was another incredible sight and this time ฿300 (approximately £8 when we went). The size is literally jaw dropping, It is 46 meters in length, the body is all gold and the underside of the feet are decorated in mother of pearl.
 
-![The underside of the feet of the Reclining Buddha decorated with mother of pearl](/images/se-asia/reclining-buddha-feeet.jpg)
+![The underside of the feet of the Reclining Buddha decorated with mother of pearl](/images/travel/se-asia/reclining-buddha-feeet.jpg)
 
 ## Boat trip
 

@@ -3,7 +3,7 @@ title: "Chiang Mai day 2"
 subTitle: "Walking with Elephants"
 description: "We spent the day in the elephant Sanctuary and in the evening ate Khoa Soi."
 tags: ["Chiang Mai", "Elephants", "Khoa Soi"]
-date: '2025-11-25'
+date: "2025-11-25"
 album: https://flickr.com/photos/dletorey/albums/72177720330595334/
 oldURL: /se-asia/chiang-mai-day2/
 ---
@@ -23,7 +23,7 @@ Nell gave us a brief history of the sanctuary and explained that they not only r
 We were then led out from the hub to the sanctuary itself. The first group of elephants we came across, Nell referred to as a family but explained that they were mostly just a group of elephants that had chosen to live together. Nell told us one of the elephants he called _Trouble Maker_ as this elephant went and stole fruit from the elderly elephants.
 
 The second group of elephants we were taken to see were down by the river and there were three baby elephants. One of them was a black elephant, he was my favourite, and he was chasing and pulling the tails of the other elephants.
-![Our group sat on a tractor tyre in front of some elephants](/images/se-asia/group-elephant.jpg)
+![Our group sat on a tractor tyre in front of some elephants](/images/travel/se-asia/group-elephant.jpg)
 
 ### Lunch
 
@@ -35,13 +35,13 @@ Once we had been fed we went down to a food preparation area where we were assig
 
 Once the meals were prepared we got to go down and feed the elephants, there were two that we got to feed the bananas to and then two that could only eat the sticky rice. The ones eating the bananas seemed to be quite greedy and would put up to 7 bananas in their mouth at once. The ones eating the sticky rice had to have balls of sticky rice placed into their mouths.
 
-![Susan feeding an elephant a bunch of bananas](/images/se-asia/susan-feeding-elephant.jpg)
+![Susan feeding an elephant a bunch of bananas](/images/travel/se-asia/susan-feeding-elephant.jpg)
 
 ### Walking with elephants
 
 Once they were fed, we walked with the elephants down to the river and watched them play. One of the elephant got right in the water and rolled around while the other was a bit tentative and only got its feet wet.
 
-![An elephant playing in a river spraying itself with water](/images/se-asia/water-elephant.jpg)
+![An elephant playing in a river spraying itself with water](/images/travel/se-asia/water-elephant.jpg)
 
 Once we'd walked back with the elephants we were driven back to the hotel, everyone was truly contempt with the day we'd had.
 
@@ -59,4 +59,4 @@ Once we had finished the mains the waiter brought us what he described as pineap
 
 > Dragon fruit horse How is the person's stomach cooked? Main object pineapple iosten
 
-![Bottle of spirit with a horse's head and a some writing in Thai script](/images/se-asia/pineapple-whiskey.jpg)
+![Bottle of spirit with a horse's head and a some writing in Thai script](/images/travel/se-asia/pineapple-whiskey.jpg)

@@ -2,8 +2,9 @@
 title: "Cambodia day 2"
 subTitle: "Angkor Wat"
 description: "Today we we went to Angkor Wat and the surrounding temples. In the evening we went to a restaurant with Apsara Dancing"
-tags: ["Angkor Wat", "Apsara Dancing", "Sunset", "Dancing", "Temples", "Cambodia"]
-date: '2025-12-01'
+tags:
+  ["Angkor Wat", "Apsara Dancing", "Sunset", "Dancing", "Temples", "Cambodia"]
+date: "2025-12-01"
 album: https://www.flickr.com/gp/dletorey/if04eKy0Ug
 oldUrl: /se-asia/angkor-wat/
 ---
@@ -18,13 +19,13 @@ The first place that we went to see was [the ancient city of Angkor Thom](https:
 
 We entered the city via the [South Gate](https://maps.app.goo.gl/rMp2z2F1ArywizYX9?g_st=ipc) above the gate was the first time we saw the stone heads. This gate had four heads above it facing north, east, south and west.
 
-![The four stone heads above the south gate of Angkor Thom city](/images/se-asia/angkor-thom-south-gate.jpg)
+![The four stone heads above the south gate of Angkor Thom city](/images/travel/se-asia/angkor-thom-south-gate.jpg)
 
 ### Bayon temple
 
 The [first temple](https://maps.app.goo.gl/VsnYsxzFM86u9rZY8?g_st=ipc) that we came to in the city was [Bayon temple](https://en.wikipedia.org/wiki/Bayon). This temple contained a lot of steps and some of them were very steep, the views from the top were stunning, you didn't have to climb all the steps there was a route around, but it was totally worth it.
 
-![The view from the top of Bayon temple in Angkor Thom city](/images/se-asia/top-of-bayon.jpg)
+![The view from the top of Bayon temple in Angkor Thom city](/images/travel/se-asia/top-of-bayon.jpg)
 
 ### Elephant Terrace
 
@@ -40,13 +41,13 @@ Before we went for lunch we visited [Ta Prohm Temple](https://en.wikipedia.org/w
 
 This temple had been overgrown by many trees and the restorers have left these trees as it looks very stunning.
 
-![Our tour group stood infront of a huge tree that is growing out of the temple stones](/images/se-asia/ta-prohm.jpg)
+![Our tour group stood infront of a huge tree that is growing out of the temple stones](/images/travel/se-asia/ta-prohm.jpg)
 
 ## Angkor Wat Temple
 
 In the afternoon we got to spend 2 hours exploring [Angkor Wat](https://en.wikipedia.org/wiki/Angkor_Wat), it is a huge [surrounded by a moat](https://maps.app.goo.gl/Ztgue1JzDZy3aWVi6?g_st=ipc). We entered by a stone bridge and through a gate, once through the gate there was a causeway that led up to the main temple.
 
-![Susan and I standing on the causeway leading to Angkor Wat temple](/images/se-asia/angkor-wat.jpg)
+![Susan and I standing on the causeway leading to Angkor Wat temple](/images/travel/se-asia/angkor-wat.jpg)
 
 I climbed to the top level of the temple and it was stunning.
 
@@ -54,13 +55,13 @@ I climbed to the top level of the temple and it was stunning.
 
 On the way out we came to see a group of long tail macaques that were raiding the bins for sweet treats.
 
-![A long tail macaque sat on top of a rubbish bin drinking from plastic cup](/images/se-asia/bin-macaque.jpg)
+![A long tail macaque sat on top of a rubbish bin drinking from plastic cup](/images/travel/se-asia/bin-macaque.jpg)
 
 ## Phnom Bakheng
 
 The last part of the tour we were taken to a _mountain_ (we would call it a hill) called [Phnom Bakheng](https://maps.app.goo.gl/f8bED2eD4xrRwkZs8?g_st=ipc), to watch the sunset and get a view of Angkor Wat from above.
 
-![A view of Angkor Wat from the top of a hill](/images/se-asia/angkor-wat-from-above.jpg).
+![A view of Angkor Wat from the top of a hill](/images/travel/se-asia/angkor-wat-from-above.jpg).
 
 Once the sun had set, we walked down from the top of the _mountain_ and the noise of the cicadas in the trees was like a siren.
 
@@ -70,4 +71,4 @@ This evening we choose to go eat at [Robam](https://maps.app.goo.gl/So2b619RLtqQ
 
 The dance show was brilliant and at the end of the show anyone who wanted could go up on stage and have their photo taken with the dancer, it would seam that no one wanted to do this, so up I got and after I'd had my photo taken a whole rush of people also did so, seems I'm a trend setter yet again.
 
-![Me on stage with 2 Apsara dancers dressed in traditional Cambodian clothes](/images/se-asia/apsara-dancers.jpg)
+![Me on stage with 2 Apsara dancers dressed in traditional Cambodian clothes](/images/travel/se-asia/apsara-dancers.jpg)

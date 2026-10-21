@@ -17,7 +17,7 @@ Before the gig 7 of us met at [Thai Cafe](https://thai.cafe/en/), a [10 minute w
 
 I had seen from posts about the Finland show that they had new t-shirts in the merch for this tour. There was a post that, in Helsinki, that they sold out very quickly of the new shirts, so I made sure that I bought mine as early as possible. I bought the light grey one that had in Arabic "Journalist" and below in French & English **Don't Shoot** and at the bottom it says Beirut 82. On the back of the t-shirt it has the 2 dates and locations Massive have playing in Lebanon, [Baalbeck International Festival](https://en.wikipedia.org/wiki/Baalbeck_International_Festival) 17 July 2004 and [Byblos International Festival](https://www.byblosfestival.com/massive-attack/) 29 July 2014.
 
-![4 Massive Attack t-shirts for sale in the merch stand](/images/massive-attack/dont-shoot-t-shirt.jpg)
+![4 Massive Attack t-shirts for sale in the merch stand](/images/music/live/massive-attack/dont-shoot-t-shirt.jpg)
 
 ## Set
 

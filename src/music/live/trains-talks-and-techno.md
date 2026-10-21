@@ -138,8 +138,8 @@ Thank you guys.
 
 ### Orbital tracks
 
-[![Orbital Setlist Utilita Arena Cardiff, Cardiff, Wales 2024. Intro, Deeper, Where Is It Going? Dirty Rat, Satan/Beelzedub, Home (Hottest Day On Record Mix), Are You Alive? Lush 3, Impact (The Earth Is Burning) (with Greta Thunberg) Remind, Halcyon + On + On (with Belinda Carlile & Bon Jovi), Belfast, Chime](/images/talks-trains-techno/orbital-setlist-cardiff-2024.png)](https://www.setlist.fm/setlist/orbital/2024/utilita-arena-cardiff-cardiff-wales-3ba98894.html)
+[![Orbital Setlist Utilita Arena Cardiff, Cardiff, Wales 2024. Intro, Deeper, Where Is It Going? Dirty Rat, Satan/Beelzedub, Home (Hottest Day On Record Mix), Are You Alive? Lush 3, Impact (The Earth Is Burning) (with Greta Thunberg) Remind, Halcyon + On + On (with Belinda Carlile & Bon Jovi), Belfast, Chime](/images/music/live/talks-trains-techno/orbital-setlist-cardiff-2024.png)](https://www.setlist.fm/setlist/orbital/2024/utilita-arena-cardiff-cardiff-wales-3ba98894.html)
 
 ### Leftfield tracks
 
-[![Leftfield Setlist Utilita Arena Cardiff, Cardiff, Wales 2024. Intro, Making A Difference, Black Flute, Release the Pressure, Inspection (Check One), Afrika Shox, Power Of Listening, Accumulator, Melt, Song of Life, Phat Planet](/images/talks-trains-techno/leftfield-setlist-cardiff-2024.png)](https://www.setlist.fm/setlist/leftfield/2024/utilita-arena-cardiff-cardiff-wales-2ba98896.html)
+[![Leftfield Setlist Utilita Arena Cardiff, Cardiff, Wales 2024. Intro, Making A Difference, Black Flute, Release the Pressure, Inspection (Check One), Afrika Shox, Power Of Listening, Accumulator, Melt, Song of Life, Phat Planet](/images/music/live/talks-trains-techno/leftfield-setlist-cardiff-2024.png)](https://www.setlist.fm/setlist/leftfield/2024/utilita-arena-cardiff-cardiff-wales-2ba98896.html)

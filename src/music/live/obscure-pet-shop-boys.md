@@ -21,7 +21,7 @@ The queue was huge (surprise) the man selling said: "There another upstairs that
 
 ## Princess Julia
 
-The support for tonights show was a DJ set by [Princess Julia](https://en.wikipedia.org/wiki/Princess_Julia) of [Blitz Kids](https://en.wikipedia.org/wiki/Blitz_Kids_(New_Romantics)) fame.
+The support for tonights show was a DJ set by [Princess Julia](https://en.wikipedia.org/wiki/Princess_Julia) of [Blitz Kids](<https://en.wikipedia.org/wiki/Blitz_Kids_(New_Romantics)>) fame.
 
 The sound system in the room was huge and thunderous, her set was brilliant and featured loads of great 70s & 80s tunes including a long and strung out version of [Funkytown](https://song.link/gb/i/1440894579) by Lipps Inc.
 
@@ -35,7 +35,7 @@ The first track they played had never been played live before, it was good that 
 
 It was an amazing night and seeing a band like Pet Shop Boys in a 1500 capacity venue, with a really friendly crowd was **epic**. More acts should do gigs like this for their super-fans, in my opinion.
 
-![Neil Tennant and Chris Lowe from the Pet Shop Boys on stage bathed in green and purple light, Neil is sat on a stool and Chris is playing keyboards](/images/obscure-pet-shop-boys/pet-shop-boys.jpg)
+![Neil Tennant and Chris Lowe from the Pet Shop Boys on stage bathed in green and purple light, Neil is sat on a stool and Chris is playing keyboards](/images/music/live/pet-shop-boys/pet-shop-boys.jpg)
 
 ## Set list
 

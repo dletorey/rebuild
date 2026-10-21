@@ -2,8 +2,9 @@
 title: "Cambodia day 3"
 subTitle: "Kampoung Phluk floating village"
 description: "Today we visited Kampoung Phluk floating village canoed through the mangroves and watched the sunset."
-tags: ["Kampoung Phluk", "Floating Village", "Sunset", "French Cuisine", "Cambodia"]
-date: '2025-12-02'
+tags:
+  ["Kampoung Phluk", "Floating Village", "Sunset", "French Cuisine", "Cambodia"]
+date: "2025-12-02"
 album: https://www.flickr.com/gp/dletorey/325Bi5w68j
 oldUrl: /se-asia/kampoung-phluk/
 ---
@@ -20,7 +21,7 @@ In the afternoon we took our second trip of Cambodia, [Kampong Phluk Floating Vi
 
 Our first stop of the day was to get a boat to tour around the floating village [Kampoung Phluk](https://maps.app.goo.gl/52JuUP2CNtJo4AJd7?g_st=ipc). As the wet season had just ended the village was still flooded, all the buildings were on stilts. As we cruised through the village certain buildings were pointed out to us, the school, the hospital with ambulance boat, the shops. We also passed some building that appeared to be sunk, Happy Tears pointed out that these were the tourist shops during the peak of the dry season and as the wet season had just ended these were just dormant.
 
-![Three school children in a small canoe leaving a school on stilts surrounded by water](/images/se-asia/school-kids-boat.jpg)
+![Three school children in a small canoe leaving a school on stilts surrounded by water](/images/travel/se-asia/school-kids-boat.jpg)
 
 ### Canoes
 
@@ -32,7 +33,7 @@ Back at the jetty there was a shop and a crocodile farm. In the shop you could b
 
 Back on the boat we were taken out into lake [Tonlé Sap](https://en.wikipedia.org/wiki/Tonl%C3%A9_Sap), the largest fresh water lake in Asia, to watch the sunset. I went out to the back of the boat to record a time-lapse of the setting sun.
 
-![The setting sun over a huge lake in Asia, to the right there is a silhouetted boat](/images/se-asia/tonle-sap-sunset.jpg)
+![The setting sun over a huge lake in Asia, to the right there is a silhouetted boat](/images/travel/se-asia/tonle-sap-sunset.jpg)
 
 ## Food and drink
 

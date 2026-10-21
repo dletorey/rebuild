@@ -1,7 +1,16 @@
 ---
 title: "Where's your head at"
 description: "This week has been a tough time, a move in the right direction and ended with Basement Jaxx."
-tags: ["Mental Health", "Personal Trainer", "Basement Jaxx", "Live", "Palace Bowl Presents Festival", "Crystal Palace", "London"]
+tags:
+  [
+    "Mental Health",
+    "Personal Trainer",
+    "Basement Jaxx",
+    "Live",
+    "Palace Bowl Presents Festival",
+    "Crystal Palace",
+    "London"
+  ]
 date: "2025-08-24"
 photo: /img/basement-jaxx/wheres-your-head-at-og.jpg
 album: https://www.flickr.com/photos/dletorey/albums/72177720332519035
@@ -68,8 +77,8 @@ On Friday I went to Crystal Palace to see Basement Jaxx. I'd applied for an acce
 
 So our newly acquired VIP passes gained us access to the VIP area, which was just a different bar with some sofas. But when we got to the bar they were selling draft pints as apposed to the normal bars which were only selling cans so a pint (568ml) cost £7.50 and a can (440ml) cost the same. There were also flushing toilets. I definitely would not pay an extra £40 for access to 8 sofas and a bit of shade.
 
-![Vicky and I sat on a Chesterfield sofa in the VIP area](/images/basement-jaxx/chesterfield.jpg)
-![View from the sofa in the VIP area](/images/basement-jaxx/view.jpg)
+![Vicky and I sat on a Chesterfield sofa in the VIP area](/images/music/live/basement-jaxx/chesterfield.jpg)
+![View from the sofa in the VIP area](/images/music/live/basement-jaxx/view.jpg)
 
 ### Support
 
@@ -86,15 +95,15 @@ Basement Jaxx set was superb and one of the best gigs I have attended this year.
 
 #### Setlist
 
-[![Basement Jaxx Setlist South Facing: 22 August 2025](/images/basement-jaxx/basement-jaxx-2025-08-22-setlist.png)](https://www.setlist.fm/setlist/basement-jaxx/2025/crystal-palace-bowl-london-england-2b5b78fa.html)
+[![Basement Jaxx Setlist South Facing: 22 August 2025](/images/music/live/basement-jaxx/basement-jaxx-2025-08-22-setlist.png)](https://www.setlist.fm/setlist/basement-jaxx/2025/crystal-palace-bowl-london-england-2b5b78fa.html)
 
 #### Photos
 
 All photo's were taken by my friend Sarah as I took none what so every as I was just dancing.
 
-![Basement Jaxx live on stage, the screen show one of the singers with a silver costume and metal mohican](/images/basement-jaxx/basement-jaxx-1.jpg)
-![Basement Jaxx live on stage there a two singers at the front wearing yellow costumes](/images/basement-jaxx/basement-jaxx-2.jpg)
-![Basement Jaxx live on stage the screen shows Simon & Felix in the middle of the stage and the video at the back shows lips singing](/images/basement-jaxx/basement-jaxx-3.jpg)
+![Basement Jaxx live on stage, the screen show one of the singers with a silver costume and metal mohican](/images/music/live/basement-jaxx/basement-jaxx-1.jpg)
+![Basement Jaxx live on stage there a two singers at the front wearing yellow costumes](/images/music/live/basement-jaxx/basement-jaxx-2.jpg)
+![Basement Jaxx live on stage the screen shows Simon & Felix in the middle of the stage and the video at the back shows lips singing](/images/music/live/basement-jaxx/basement-jaxx-3.jpg)
 
 ## So where's my head at?
 

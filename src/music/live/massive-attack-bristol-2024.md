@@ -50,4 +50,4 @@ It was so good we even looked into going to see them in Portugal later this week
 
 ## Set List
 
-[![Massive Attack Setlist Act 1.5 Climate Action Accelerator 2024](/images/massive-attack/massive-attack-2024-08-25-selist.png)](https://www.setlist.fm/setlist/massive-attack/2024/clifton-downs-bristol-england-23abd8e7.html)
+[![Massive Attack Setlist Act 1.5 Climate Action Accelerator 2024](/images/music/live/massive-attack/massive-attack-2024-08-25-selist.png)](https://www.setlist.fm/setlist/massive-attack/2024/clifton-downs-bristol-england-23abd8e7.html)

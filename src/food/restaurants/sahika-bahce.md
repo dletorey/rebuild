@@ -1,8 +1,16 @@
 ---
 title: "Şahika Bahçe"
 description: "A Turkish rural restaurant with an amazing setting and tasting menu."
-date: '2026-07-11'
-tags: ["Restaurant", "Bezirgan", "Kalkan", "Türkiye", "Turkish Cuisine", "Sahika Bahce Restaurant"]
+date: "2026-07-11"
+tags:
+  [
+    "Restaurant",
+    "Bezirgan",
+    "Kalkan",
+    "Türkiye",
+    "Turkish Cuisine",
+    "Sahika Bahce Restaurant"
+  ]
 album: https://www.flickr.com/photos/dletorey/albums/72177720334643493
 ---
 
@@ -22,13 +30,13 @@ The restaurant is in a small village in valley behind the hills of Kalkan. It wa
 
 When you park the car, off a small road, next to a tree, you then walk around a track and are presented with mural of ingredients painted on the side of a building.
 
-![House with a blue wall with Turkish ingredients painted on it](/images/turkiye/mural.jpg)
+![House with a blue wall with Turkish ingredients painted on it](/images/travel/europe/turkiye/mural.jpg)
 
 Around the corner there is an old wooden door as a gate to the garden and through there is a large mirro and then the house with the restaurant. Then in the garden there are a number of tables and chairs, some in the open some covered and there is a small pond and then some raised seating areas.
 
 The manager led us to our table, it was a circular table with 4 chairs and two places set, it was next to a small pond with a foot bridge over it. Above our table was a crystal chandelier.
 
-![Our table with a crystal chandelier in a garden](/images/turkiye/chandelier.jpg)
+![Our table with a crystal chandelier in a garden](/images/travel/europe/turkiye/chandelier.jpg)
 
 ## Food
 
@@ -46,13 +54,13 @@ There was also still water in a [Silver Turkish jug](https://www.flickr.com/phot
 
 Village Butter SELECTION Lemon & mint-infused köy tereyag, served with artisan bread. The Bread was wrapped in cloth and delivered on a metal plate with a swan in the middle, The butter was in a bowl with Olive Oil and herbs.
 
-![Butter in a bowl surrounded by green oil and bread wrapped in cloth](/images/turkiye/starter.jpg)
+![Butter in a bowl surrounded by green oil and bread wrapped in cloth](/images/travel/europe/turkiye/starter.jpg)
 
 ### Cold Appetizers
 
-#### Duo of Meze 
+#### Duo of Meze
 
-Shrimp ceviche, beetroot & aromatic cheese 
+Shrimp ceviche, beetroot & aromatic cheese
 
 #### Garden Salad
 
@@ -64,7 +72,7 @@ This is the best salad I have ever had.
 
 Cured beef, green apple, coriander, pineapple vinegar
 
-![The cold appetizers](/images/turkiye/cold-appetizers.jpg)
+![The cold appetizers](/images/travel/europe/turkiye/cold-appetizers.jpg)
 
 ### Hot Appetizer
 
@@ -72,7 +80,7 @@ Cured beef, green apple, coriander, pineapple vinegar
 
 Crispy shredded pastry filled with minced beef, cinnamon & currants
 
-![Crispy shredded pastry filled with minced beef](/images/turkiye/hot-appetizer.jpg)
+![Crispy shredded pastry filled with minced beef](/images/travel/europe/turkiye/hot-appetizer.jpg)
 
 ### Main Courses
 
@@ -84,7 +92,7 @@ We had to chose one of the following main courses:
 
 Susan and I both choose the Slow-cooked Lamb Tandir, as the Manager had been telling us about it the day before and it looked and sounded amazing.
 
-![Slow-cooked Lamb Tandir](/images/turkiye/slow-cooked-lamb.jpg)
+![Slow-cooked Lamb Tandir](/images/travel/europe/turkiye/slow-cooked-lamb.jpg)
 
 ### Dessert
 
@@ -92,7 +100,7 @@ Susan and I both choose the Slow-cooked Lamb Tandir, as the Manager had been tel
 
 Caramelized Peach with Whisky reduction and almond ice cream.
 
-![Caramelized Peach with Whisky reduction and almond ice cream](/images/turkiye/caramelized-peach.jpg)
+![Caramelized Peach with Whisky reduction and almond ice cream](/images/travel/europe/turkiye/caramelized-peach.jpg)
 
 ## Staff
 
@@ -100,11 +108,11 @@ All of the staff were very welcoming and they all came and said hello to us. Abd
 
 ## Cats
 
-It would be wrong of me not to mention the cats. There were 3 cats that I saw, two parents and their kitten. the father came early on and was curious as to who we were and what we we doing. The mother and the kitten were around most of the time and the mother obviously knew when the main course had been brought out. 
+It would be wrong of me not to mention the cats. There were 3 cats that I saw, two parents and their kitten. the father came early on and was curious as to who we were and what we we doing. The mother and the kitten were around most of the time and the mother obviously knew when the main course had been brought out.
 
 The cats were definitely a highlight for Susan.
 
-![A kitten on Susan's lap investigating her phone](/images/turkiye/cat-lap.jpg)
+![A kitten on Susan's lap investigating her phone](/images/travel/europe/turkiye/cat-lap.jpg)
 
 ## Overview
 

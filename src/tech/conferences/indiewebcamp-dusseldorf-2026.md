@@ -15,13 +15,13 @@ In the morning James , Jakob and I walked to the venue, kindly supplied by [Sia 
 
 #### Kiefernstraße
 
-[Kiefernstraße](https://de.wikipedia.org/wiki/Kiefernstra%C3%9Fe_(D%C3%BCsseldorf)), during the 1980s was a street with many squats. Now all of the building down the street are painted completely and each building has a totally different design. We saw a Chinese Dragon, a house covered in insects (some of the insects had faces), a house that had a crossword upon it and many others.
+[Kiefernstraße](<https://de.wikipedia.org/wiki/Kiefernstra%C3%9Fe_(D%C3%BCsseldorf)>), during the 1980s was a street with many squats. Now all of the building down the street are painted completely and each building has a totally different design. We saw a Chinese Dragon, a house covered in insects (some of the insects had faces), a house that had a crossword upon it and many others.
 
-![Kinder Club (Childrens club) on Kiefernstraße, the build is colourfully painted with superheroes and minion type characters](/images/iwc-dusseldorf-2026/kiefernstraße.jpg)
+![Kinder Club (Childrens club) on Kiefernstraße, the build is colourfully painted with superheroes and minion type characters](/images/tech/events/iwc-dusseldorf-2026/kiefernstraße.jpg)
 
 In the middle of the street we found a glass fronted fridge that had been turned into a library. Inside there was a book on `CSS` Layouts and `HTML` 4.
 
-### Indie Web Camp  (learn day)
+### Indie Web Camp (learn day)
 
 The first day was Share, Learn, and Discuss! Where we had the following topics:
 
@@ -76,5 +76,5 @@ In this example I have had to escape the curly brackets `{` `}` so they don't ma
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dletorey/albums/72177720333303287" title="Indie Web Camp Düsseldorf 2026"><img src="https://live.staticflickr.com/65535/55229383807_9fe6e7e6b4_c.jpg" width="800" height="600" alt="Indie Web Camp Düsseldorf 2026"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 {% renderTemplate "webc" %}
-    <flickr></flickr>
+<flickr></flickr>
 {% endrenderTemplate %}

@@ -3,7 +3,7 @@ title: "Bangkok day 3"
 subTitle: "Sepak takraw & Dinner with Friends"
 description: "During the day I went exploring the city and in the evening we went for dinner with some long lost friends."
 tags: ["Bangkok", "Sepak Takraw"]
-date: '2025-11-22'
+date: "2025-11-22"
 album: https://flickr.com/photos/dletorey/albums/72177720330582973/
 oldURL: /se-asia/bangkok-day3/
 ---
@@ -16,7 +16,7 @@ At the other side of the river there was a park underneath the road flyover with
 
 Then I saw three courts where they were playing volleyball, so I stopped to watch. After a few moments I realised that this was not volleyball as the ball was much smaller, made of hard plastic and they were using their heads and feet. It turned out that this was [Sepak takraw](https://en.wikipedia.org/wiki/Sepak_takraw). I was fascinated by this and watched for a good 30 minutes.
 
-![Some people playing sepak takraw in a park under a flyover](/images/se-asia/sepak-takraw.jpg)
+![Some people playing sepak takraw in a park under a flyover](/images/travel/se-asia/sepak-takraw.jpg)
 
 I then wandered around the rest of the park and found a dance court and then a court where 2 guys were kicking a sepak takraw ball through a net 10 metres up in the air. I was blown away by their skill in this.
 
@@ -32,7 +32,7 @@ I searched for craft beer bars in Bangkok I found one just across the river so j
 
 The Walk to Chicken & Beers took about 30 minutes and I arrived at 17:00. On the way I passed a [building that looks as if it is pixelated](https://en.wikipedia.org/wiki/King_Power_Mahanakhon) is very high and has a glass floored viewing platform at the top.
 
-![The King Power Mahanakhon Tower it looks lie it has chunks missing from it](/images/se-asia/pixelated-tower.jpg)
+![The King Power Mahanakhon Tower it looks lie it has chunks missing from it](/images/travel/se-asia/pixelated-tower.jpg)
 
 Chicken & beers has 10 drinks on tap, five of which were from thailand. One of which was Singha Beer a lager, one was Indie Summer Moose cider, one was Red truck a Red Ale from Chiang Mai I don't really like red ales. Then there was [M32 IPA by Mardicraft brewing](https://untappd.com/user/dletorey/checkin/1530123281/) and [Hazy Pale Ale by Markie](https://untappd.com/user/dletorey/checkin/1530202145/) from Chiang Mai. I tried both of these then the barman said if you buy 3 beers you get a free glass, I now own a Markie Brewery glass. I left the bar at 17:40 in order to get back in time for dinner.
 
@@ -44,4 +44,4 @@ They drove us across town to their local Thai restaurant ([Thonkrueng](https://m
 
 The food was amazing and so was the company, it was so lovely to catch up with friends I hadn't seen for 26 years.
 
-![Dinner with friends, Dave & Susan having dinner with Bob & Lynne](/images/se-asia/dinner-with-friends.jpg)
+![Dinner with friends, Dave & Susan having dinner with Bob & Lynne](/images/travel/se-asia/dinner-with-friends.jpg)

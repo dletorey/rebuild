@@ -3,7 +3,7 @@ title: "Train to Huế"
 subTitle: "and the imperial city"
 description: "Today we got a train from Da Nang to Huế, the old capital of Vietnam."
 tags: ["Transfer", "Train", "Huế", "Craft Beer"]
-date: '2025-12-08'
+date: "2025-12-08"
 album: https://flickr.com/photos/dletorey/albums/72177720330810010
 oldUrl: /se-asia/hue-city/
 ---
@@ -20,11 +20,11 @@ Once we had all of our bags on the train we found our seat. The train was in the
 
 The doors of the train were kept shut with a padlock.
 
-![A small brass padlock keeping a keeping a train door closed](/images/se-asia/train-padlock.jpg)
+![A small brass padlock keeping a keeping a train door closed](/images/travel/se-asia/train-padlock.jpg)
 
 The whole reason for getting the train was to witness the scenery as we went passed. The scenery was amazing even through the dirty windows. Every time wae passed a level crossing there was a man stood there with green flag, I tried my best to get a photo of one of these flag bearers but the train was traveling just to quickly.
 
-![A blue train passing a rice paddy field](/images/se-asia/train.jpg)
+![A blue train passing a rice paddy field](/images/travel/se-asia/train.jpg)
 
 ## The Imperial City of Huế
 
@@ -32,7 +32,7 @@ When we got to our hotel, the driver dropped us off at the end of the road as it
 
 We got a cab to the city walls to save time, cars are not allowed into the old city so we were dropped off outside. Huế used to be the ancient capital of Vietnam. Due to us getting a later train we could only walk around the outside of the city.
 
-![The entrance gate to city of Hue](/images/se-asia/hue-walled-city.jpg)
+![The entrance gate to city of Hue](/images/travel/se-asia/hue-walled-city.jpg)
 
 There is a moat surrounding the city, we walked around the moat and saw numerous people fishing the moats with huge nets. As it started to get dark we decided to go get a drink. We found a place by searching maps, [Quán Góc Hồ](https://maps.app.goo.gl/LbdH8fHFZzQbZKGw8). The search was for craft beer, there was definitely no craft beer and only [Bia Viêt lager](https://untappd.com/user/dletorey/checkin/1534037323/). The next table was full of locals playing cards very noisily and drinking lots. When we left the place next door we could hear the worst karaoke I've ever heard.
 

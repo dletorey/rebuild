@@ -3,7 +3,7 @@ title: "Goodbye Thailand"
 subTitle: "Transfer from Phuket (HKT) to Siem Reap (SAI)"
 description: "Today we are leaving Thailand and going to Siem Reap in Cambodia."
 tags: ["Phuket", "Siem Reap", "Cambodia"]
-date: '2025-11-29'
+date: "2025-11-29"
 album: https://www.flickr.com/gp/dletorey/P7HZj14JUB
 oldURL: /se-asia/goodbye-thailand/
 ---
@@ -18,6 +18,6 @@ The drive to the hotel was about 50 minutes and at first there was no buildings 
 
 Then we arrived in Siem Reap and everything was illuminated, even the lamp posts had lights the full length of them. I looked like a cross between Blackpool & Las Vegas. Then as we got closer to our hotel we passed _Pub Street_!
 
-![An asian street with many lanterns and hundreds of lights in in big illuminated letters above the street reads Pub Street](/images/se-asia/pub-street-siem-reap.jpg)
+![An asian street with many lanterns and hundreds of lights in in big illuminated letters above the street reads Pub Street](/images/travel/se-asia/pub-street-siem-reap.jpg)
 
 Once we had checked in to our hotel, [The Urban](https://www.staynature.net/property/the-urban/), we headed out to Pub Street and found a restaurant called [Mesa](https://maps.app.goo.gl/WvMQ2yXFDrDAc9G88). The restaurant was excellent and all the staff had football shirts with the restaurant name and their names, our waiter was called Leo. As we were tired, we went back to the hotel for an early night and watched the Formula 1 Qatar sprint race.

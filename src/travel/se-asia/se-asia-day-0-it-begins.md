@@ -3,7 +3,7 @@ title: "South East Asia"
 subTitle: "Day 0 the meet"
 description: "First day of our South East Asia trip, we arrived at Dubai airport to meet all of out friends."
 tags: ["Day 0", "Dubai"]
-date: '2025-11-19'
+date: "2025-11-19"
 oldUrl: /se-asia/se-asia-day-0-it-begins/
 ---
 
@@ -23,4 +23,4 @@ It turns out that Emirates flies from many different locations now in the UK. Al
 
 Approximately 7 hours later we all met up in O'Regans Irish Bar at Dubai airport (DBX), there wasn't much Irish-ness about this place but after a few drinks we finally boarded our flight to Bangkok (BKK).
 
-![A group of friends sat a round a table in a bar, drinking alcohol](/images/se-asia/o-reagans-irish-bar-dubai.jpg)
+![A group of friends sat a round a table in a bar, drinking alcohol](/images/travel/se-asia/o-reagans-irish-bar-dubai.jpg)

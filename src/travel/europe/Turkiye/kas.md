@@ -2,8 +2,19 @@
 title: "Kaş"
 subTitle: "Kalkan day 7"
 description: "Drove over to Kaş with some friends, to meet more friends, while the ladies had a Spa & Cocktail day. The night time we took over a bar to watch England v Norway."
-date: '2026-07-11'
-tags: ["Kas", "Kalkan", "Türkiye", "Archaeology", "Driving", "Turkish Cuisine", "Sahika Bahce Restaurant", "Bezirgan", "Football"]
+date: "2026-07-11"
+tags:
+  [
+    "Kas",
+    "Kalkan",
+    "Türkiye",
+    "Archaeology",
+    "Driving",
+    "Turkish Cuisine",
+    "Sahika Bahce Restaurant",
+    "Bezirgan",
+    "Football"
+  ]
 album: https://www.flickr.com/photos/dletorey/albums/72177720334624487/
 ---
 
@@ -15,13 +26,13 @@ Before we set off I looked for a car park in the centre of town as I didn't just
 
 Once we parked up we found our friends just around the corner at [Coffee Shop Galerie](https://maps.app.goo.gl/ayRy72FJfBfZbsfz9) and we joined them for drinks. I had a blackberry milkshake and while I had this I wrote a bunch of postcards to send back home to friends.
 
-We then had a stroll around the old town looking for somewhere to eat. The first suggestion was to have burgers I pointed out that I didn't come to Türkiye to eat American food. So on we wandered, we found a Turkish place that had tables indoors with air conditioning called [Bukta](https://maps.app.goo.gl/ENyXCm1rfRUKtUd5A). I had [Manti (Turkish Ravioli)](https://en.wikipedia.org/wiki/Manti_(food)) and a Coffee with Ice, at first they said no but then they went next door and got some ice from there.
+We then had a stroll around the old town looking for somewhere to eat. The first suggestion was to have burgers I pointed out that I didn't come to Türkiye to eat American food. So on we wandered, we found a Turkish place that had tables indoors with air conditioning called [Bukta](https://maps.app.goo.gl/ENyXCm1rfRUKtUd5A). I had [Manti (Turkish Ravioli)](<https://en.wikipedia.org/wiki/Manti_(food)>) and a Coffee with Ice, at first they said no but then they went next door and got some ice from there.
 
 ### Antiphellos
 
 In ancient times Kaş was known as [Antiphellos](https://en.wikipedia.org/wiki/Antiphellus), which translates as _The place opposite the rocky place_. We walked along the road to the amphitheatre, it was originally built to seat 4000 spectators and parts of it were repaired in 2008.
 
-![Antiphellos amphitheatre a view from the stage area looking upwards to the seats](/images/turkiye/antiphellos-theatre.jpg)
+![Antiphellos amphitheatre a view from the stage area looking upwards to the seats](/images/travel/europe/turkiye/antiphellos-theatre.jpg)
 
 On our way back we stopped off at a bar with a sea view which was suspended on the edge of a cliff. I had a Frozen Blackberry mocktail and glued 42 stamps on 21 envelopes, which all contained postcards, I hope they all arrive this time [the ones I sent from Cambodia did not arrive](/travel/se-asia/cambodia/goodbye-cambodia/#:~:text=Today,postcards,-%2E).
 

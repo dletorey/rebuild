@@ -2,8 +2,16 @@
 title: "Tour of Da Nang"
 subTitle: "and a Bridge the spat at the crowds"
 description: "Today we had a tour of Da Nang and in the evening we went to see the Dragon Bridge show. We also celebrated a birthday."
-tags: ["Da Nang", "Lady Buddha", "Marble Mountain", "Caves", "Dragon Bridge", "Vietnam"]
-date: '2025-12-06'
+tags:
+  [
+    "Da Nang",
+    "Lady Buddha",
+    "Marble Mountain",
+    "Caves",
+    "Dragon Bridge",
+    "Vietnam"
+  ]
+date: "2025-12-06"
 album: https://flickr.com/photos/dletorey/albums/72177720330753941
 oldUrl: /se-asia/lady-buddha-fire-bridge/
 ---
@@ -24,13 +32,13 @@ Our tour was due to start at 14:00, but by the time the minibus arrived to pick 
 
 Our first stop was the [Lady Buddha](https://maps.app.goo.gl/myhnZweGCP7hkQV17), in the [Linh Ung Pagoda](https://en.wikipedia.org/wiki/S%C6%A1n_Tr%C3%A0_Mountain#Linh_Ung_Pagoda). This is the tallest Buddha statue in Vietnam and the [26th largest statue in the world](https://en.wikipedia.org/wiki/List_of_tallest_statues) at 67 metres (220 ft) tall.
 
-![Susan & I stood in front of the Lady Buddha statue](/images/se-asia/lady-buddha.jpg)
+![Susan & I stood in front of the Lady Buddha statue](/images/travel/se-asia/lady-buddha.jpg)
 
 ### Marble carving workshop
 
 The next part of the tour we were taken to a marble carving workshop. We were shown around and got to see the craftsmen carving some of the statues. We were then taken through the massive shop of statues for sale, the staff were quite persistent in trying to get us to buy something but the weight restriction on our baggage was just too small, plus I really didn't want to have to carry more stuff around with me.
 
-![Hundreds of marble sculptures and statues for sale](/images/se-asia/marble-workshop.jpg)
+![Hundreds of marble sculptures and statues for sale](/images/travel/se-asia/marble-workshop.jpg)
 
 ### Marble mountain
 
@@ -38,7 +46,7 @@ The last stop of the day was the [Marble mountains](https://maps.app.goo.gl/wynz
 
 After the caves we went up to the top of the mountain, there were 2 ways up the mountain and we chose the elevator as apposed to the steps. The view from the top was excellent.
 
-![Tony, Eleanor, Susan and Sarah in front of a view from the top of the Marble mountain, in the background you can see the setting sun and more limestone hills/mountains](/images/se-asia/marble-mountain-view.jpg)
+![Tony, Eleanor, Susan and Sarah in front of a view from the top of the Marble mountain, in the background you can see the setting sun and more limestone hills/mountains](/images/travel/se-asia/marble-mountain-view.jpg)
 
 At the top of the mountain we saw more caves, a huge pagoda and many more statues.
 
@@ -46,7 +54,7 @@ At the top of the mountain we saw more caves, a huge pagoda and many more statue
 
 When we got back to the hotel, we took everyone back to our room so we could give Tony his birthday card and cakes.
 
-![Tony delightedly eating a birthday cake](/images/se-asia/birthday-boy.jpg)
+![Tony delightedly eating a birthday cake](/images/travel/se-asia/birthday-boy.jpg)
 
 ## Dragon bridge show
 
@@ -54,7 +62,7 @@ Every Friday, Saturday and public holiday the Dragon bridge puts on a show. We f
 
 While we waited for the show (which started at 21:00) we drank cocktails. Just before the show started they closed the bridge to traffic. The show started by the Dragon's head spitting out fire about 5 times, then after a sort wait the dragon head then spat out (sprayed) water, all over the gathered crowd many of whom started to run away from being drenched. [The show lasted about 8 mins](https://flickr.com/photos/dletorey/54970407271/in/album-72177720330753941) in total and was not quite as dramatic as all the professional images show.
 
-![The Dragon bridge spitting fire, there is a huge crowd beneath the head of the dragon](/images/se-asia/dragon-bridge-fire.jpg)
+![The Dragon bridge spitting fire, there is a huge crowd beneath the head of the dragon](/images/travel/se-asia/dragon-bridge-fire.jpg)
 
 ## Night market
 

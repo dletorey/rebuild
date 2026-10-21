@@ -50,7 +50,7 @@ If you get a chance to [see them this year](https://www.yardactors.com/live/) th
 
 ### Set List
 
-[![Yard Act Setlist Dream Job Tour 27 March 2024](/images/yard-act/yard-act-setlist-29-03-2024.png)](https://www.setlist.fm/setlist/yard-act/2024/eventim-apollo-london-england-13aa4d51.html)
+[![Yard Act Setlist Dream Job Tour 27 March 2024](/images/music/live/yard-act/yard-act-setlist-29-03-2024.png)](https://www.setlist.fm/setlist/yard-act/2024/eventim-apollo-london-england-13aa4d51.html)
 
 ### Albums
 

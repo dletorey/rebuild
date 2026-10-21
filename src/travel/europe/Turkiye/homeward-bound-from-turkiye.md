@@ -2,7 +2,7 @@
 title: "Homeward bound from Türkiye"
 subTitle: "Kalkan day 9"
 description: "Today we had to return home from Türkiye, Transfer to Dalaman, Dalaman Airport, Gatwick, Hoppa Bus and drive home."
-date: '2026-07-13'
+date: "2026-07-13"
 tags: ["Kalkan", "Türkiye", "Dalaman", "Gatwick", "Airplanes"]
 album: https://www.flickr.com/photos/dletorey/albums/72177720334664490
 ---
@@ -31,7 +31,7 @@ After some _emergency ice creams_, we walked round to our gate. There was a huge
 
 We could see the runway from where we were sat and I noticed 3 [F-16C fighter jets](https://www.turkiyetoday.com/turkiye/turkiye-establishes-16th-main-jet-base-in-dalaman-mugla-38361) on the runway waiting to take off.
 
-![Turkish air force F-16C fighter jet at Dalaman Airport](/images/turkiye/f-16.jpg)
+![Turkish air force F-16C fighter jet at Dalaman Airport](/images/travel/europe/turkiye/f-16.jpg)
 
 When we finally went through the gate we weren't checked and just went straight through. The flight was all good, we flew over [Turunç](https://en.wikipedia.org/wiki/Turun%C3%A7), where Susan and I went on our first holiday together in 2008, we then flew over Greece, Croatia, Italy, Switzerland, France and then East Sussex. In East Sussex, we made 4 loops before we were allowed to approach Gatwick, we flew over my friends house in [Muddles Green](https://en.wikipedia.org/wiki/Chiddingly#:~:text=the%20village%20of%20Chiddingly%20and%20a%20collection%20of%20hamlets%3A%20the%20largest%20of%20these%20being%20Muddles%20Green).
 

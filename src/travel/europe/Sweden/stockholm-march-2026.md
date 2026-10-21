@@ -40,7 +40,7 @@ We went up to the old town square and got some breakfast. Mike & I had Semlas, c
 
 The square we were sat in was home to the [Nobel Prize Museum](https://www.nobelprizemuseum.se/en/), [Wooden Horse Museum](https://www.woodenhorsemuseumsweden.se/EN/visit.en.html) and lots of sparrows who were used to be fed or pick up crumbs. This meant that there were sparrows all over the place and one of them flew straight at Susan while she was eating her tuna sandwich.
 
-![A gang of sparrows sat awaiting food on the back of a wicker chair](/images/stockholm/gang-of-sparrows.jpg)
+![A gang of sparrows sat awaiting food on the back of a wicker chair](/images/travel/europe/stockholm/gang-of-sparrows.jpg)
 
 The square was also beginning to fill up with tourists and content creators (influencers) who were waiting for the museum to open at 11:00.
 
@@ -80,6 +80,6 @@ We could indeed get semlas at [Princess](https://princessundbyberg.se/). Susan &
 
 Mike then drove us back to the airport and it was not long before we found a souvenir shop that sold Swedish rubber ducks. There were two options, one was just a yellow duck that had the word Stockholm in blue text. The second was a red wooden horse themed duck. We bought the wooden horse one before getting something to eat.
 
-![A red rubber duck which is styled like a Swedish Red Wooden Horse](/images/stockholm/wooden-horse-duck.jpg)
+![A red rubber duck which is styled like a Swedish Red Wooden Horse](/images/travel/europe/stockholm/wooden-horse-duck.jpg)
 
 This time we did not miss our flight.

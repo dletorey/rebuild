@@ -2,7 +2,7 @@
 title: "All the trees have tinnitus"
 subTitle: "Kalkan day 2"
 description: "Today we climbed a hill for coffe and our friends started to arrive."
-date: '2026-07-06'
+date: "2026-07-06"
 tags: ["Mimossa Caffe", "Backyard No10", "Kalkan", "Turkiye", "Football"]
 album: https://flickr.com/photos/dletorey/albums/72177720334568039
 ---
@@ -21,11 +21,11 @@ As we walked up the hill, every tree and bush was full of [Cicadas](https://en.w
 
 Towards the top we came across a Bağlama workshop and shop, a [Bağlama](https://en.wikipedia.org/wiki/Ba%C4%9Flama), commonly called a saz, is a traditional stringed folk instrument similar to a lute.
 
-![Bağlamas hanging up in a shop window](/images/turkiye/baglama-workshop.jpg)
+![Bağlamas hanging up in a shop window](/images/travel/europe/turkiye/baglama-workshop.jpg)
 
 When we finally got to the top and the Mimossa Cafe it was an absolute delight. They had exactly what I need an [affogato](https://en.wikipedia.org/wiki/Affogato). The coffee was brilliant and the views from the terrace were stunning.
 
-![View from Cafe Mimossa terrace](/images/turkiye/mimossa-view.jpg)
+![View from Cafe Mimossa terrace](/images/travel/europe/turkiye/mimossa-view.jpg)
 
 On the way back down the hill we went back on alternate way. Part of the way down we encountered an inflatable chicken waving and trying to entice drivers into the chicken shop. It had enticed us as we had gone too far down the hill and had to then walk back up it for a 100m.
 
@@ -39,7 +39,7 @@ Today was the day that, most of, our friends were arriving in Kalkan, so through
 
 We decided that we'd eat in the restaurant on the roof of our hotel. The food, company and views were excellent.
 
-![A group of friends sat around a table in a roof top restaurant with stunning view over Kalkan Bay](/images/turkiye/friends-around-a-table.jpg)
+![A group of friends sat around a table in a roof top restaurant with stunning view over Kalkan Bay](/images/travel/europe/turkiye/friends-around-a-table.jpg)
 
 Susan had to go and have a meeting, 😢.
 

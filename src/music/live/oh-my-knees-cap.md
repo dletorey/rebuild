@@ -32,11 +32,11 @@ I had never seen [The Mary Wallopers](https://www.marywallopers.com/) before and
 
 Before they came on stage they played [Favourite](https://song.link/i/1803605443) by [Fontaines D.C.](https://fontainesdc.com/) as a tribute to their manager, [Trevor Dietz who died a couple of weeks ago](https://www.instagram.com/p/DZXfSEPCBCK/?utm_source=ig_embed&ig_rid=ART5k2O0Xv-nRdELUMm32On).
 
-![Trevor Dietz, wearing a t-shirt that reads FCK ISRL](/images/kneecap/trevor-dietz.jpg)
+![Trevor Dietz, wearing a t-shirt that reads FCK ISRL](/images/music/live/kneecap/trevor-dietz.jpg)
 
 They had made a massive improvement to the visuals, the staging was amazing. They played many of the tracks off their new album [Fenian](https://album.link/i/1862223497), including [Irish Goodbye](https://song.link/i/1862224205) which featured a guest appearance from [Kae Tempest](https://www.kaetempest.com/).
 
-![Kae Tempest on stage with kneecap](/images/kneecap/kae-tempest-kneecap.jpg)
+![Kae Tempest on stage with kneecap](/images/music/live/kneecap/kae-tempest-kneecap.jpg)
 
 They always encourage mosh pits at their gigs, _"Open up a pit"_. There were many mosh pits and they always say that if anyone falls over we help them up. Twice they stopped the gig to make sure that people were safe.
 

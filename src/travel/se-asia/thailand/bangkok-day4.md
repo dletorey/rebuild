@@ -3,7 +3,7 @@ title: "Bangkok day 4"
 subTitle: "Bangkok dragons"
 description: "Before we transferred to Chiang Mai we explored Lumphini park to see the Water Monitors."
 tags: ["Bangkok", "Water Monitor Lizards", "Lumphini Park", "Chiang Mai"]
-date: '2025-11-23'
+date: "2025-11-23"
 album: https://flickr.com/photos/dletorey/albums/72177720330595289/
 oldURL: /se-asia/bangkok-day4/
 ---
@@ -18,7 +18,7 @@ The park was quite big and had a number of lakes within it. We walked around the
 
 There were loads of different animals there were fish, loads of pigeons and ravens. But of course there were also Water Monitors (alternatively known as _Bangkok Dragons_), these were up to 2 metres long. At one point we came across a group of lizards all piled up on top of each other.
 
-![4 water monitor lizards lying by a lake in a park](/images/se-asia/bangkok-dragons.jpg)
+![4 water monitor lizards lying by a lake in a park](/images/travel/se-asia/bangkok-dragons.jpg)
 
 ## To Chiang Mai
 

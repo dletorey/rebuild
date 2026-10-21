@@ -3,7 +3,7 @@ title: "Goodbye Cambodia, Hello Vietnam"
 subTitle: "From Siem Reap to Da Nang"
 description: "Today we transferred from Siem Reap (SAI) to Da Nang (DAD) and jumped a cab to Hội An."
 tags: ["Siem Reap", "Da Nang", "Hoi An", "Craft Beer", "Cambodia", "Vietnam"]
-date: '2025-12-04'
+date: "2025-12-04"
 album: https://flickr.com/photos/dletorey/albums/72177720330719696
 oldUrl: /se-asia/goodbye-cambodia/
 ---
@@ -16,7 +16,7 @@ We started the day by getting breakfast at [Asagohan Cafe](https://maps.app.goo.
 
 We arrived at [Siem Reap International airport](https://en.wikipedia.org/wiki/Siem_Reap%E2%80%93Angkor_International_Airport) an hour earlier than we needed to, this is because the flight had been changed but this did not update in [tripit](https://www.tripit.com/), the travel app that I have used for years. So being there so early check-in was not yet open, so we went and got a coffee, while we waited. The Airport is very new and opened in 2023, it was almost completely empty.
 
-![Siem Reap International airport passenger terminal it is a huge space with 30 check-in desks and about 20 people](/images/se-asia/siem-reap-airport-terminal.jpg)
+![Siem Reap International airport passenger terminal it is a huge space with 30 check-in desks and about 20 people](/images/travel/se-asia/siem-reap-airport-terminal.jpg)
 
 Once we had checked, we went through security which considering how many people were there took way longer than it should have done. Once all that was done we went and got some dinner before we needed to board the plane.
 
@@ -30,7 +30,7 @@ I also spent this time fixing the issue with my blog that occured due to there b
 
 Arriving at [Da Nang International airport](https://en.wikipedia.org/wiki/Da_Nang_International_Airport) getting through immigration was super easy and no delays. When we arrived at the baggage claim belts the airport staff had trolleys lined up at the belts rather than being at a some kind of trolley bay, this is the kind of service that just makes you smile.
 
-![A line of baggage trolleys lined up next to the baggage claim belt](/images/se-asia/baggage-trolleys.jpg)
+![A line of baggage trolleys lined up next to the baggage claim belt](/images/travel/se-asia/baggage-trolleys.jpg)
 
 Once we had picked up our bags we went through customs and our driver was waiting for us. The airport very close to city so within 20 minutes we were at our hotel. As we were here for a few days we booked a suite in the [Sunny Ocean hotel](https://sunnyoceanhotel.com/rooms/suite-double-sea-view-907.html), this room was on the top room and had a great view of the sea, if it had been much lower the view would have been of the hotel across the road.
 
@@ -46,7 +46,7 @@ We chose [Chợ Quê Riverside Restaurant](https://maps.app.goo.gl/wGuosFwUdhfY6
 
 Once at the Restaurant we sat outside by the river so we could see the boats on the rive. After we'd ordered and our food arrived the river had risen and was encroaching on our table so the staff moved us to another table further from the river. It wasn't long before we had to be moved again inside the restaurant. The staff explained to us that on the Monday, 2 days before, the water level was 2 metres high and they couldn't open. This was due the immense amount of rainfall that had happened in Southern Vietnam due to [Typhoon Koto](https://en.wikipedia.org/wiki/Typhoon_Koto).
 
-![The view from our table at the restaurant, in the foreground is a table and chairs stood in the water behind them are a number of boats all lit up with colourful lanterns](/images/se-asia/lantern-boats.jpg)
+![The view from our table at the restaurant, in the foreground is a table and chairs stood in the water behind them are a number of boats all lit up with colourful lanterns](/images/travel/se-asia/lantern-boats.jpg)
 
 ### 7 Bridges taproom
 

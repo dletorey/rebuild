@@ -34,7 +34,7 @@ There were a poems read and then a Gazan lady told a tale of what is going on ov
 
 The whole point of these trumped up terrorist charges are to draw peoples attention from what is happening in Gaza, if the news is full of Kneecap stories (and they have done nothing wrong) then there is less time to see what is happening in Gaza.
 
-![A love music hate racism banner which reads Free Mo Chara](/images/free-mo-chara/free-mo-chara.jpg)
-![Westminster Magistrates Court With people holding banners, placards and flags, police and TV crews.](/images/free-mo-chara/westminster-magistrate-court.jpg)
-![A placard that reads: Guess who's not on the news the 300,000+ Palestinians killed. Which is a pun on a kneecap lyric Guess who's back on the news from Get yer Brits out.](/images/free-mo-chara/guess-whos-not-on-the-news.jpg)
-![A Palestinian rapper on stage wearing a jacket that reads More blacks More Dog More Irish](/images/free-mo-chara/palestinian-rapper.jpg)
+![A love music hate racism banner which reads Free Mo Chara](/images/music/other/free-mo-chara/free-mo-chara.jpg)
+![Westminster Magistrates Court With people holding banners, placards and flags, police and TV crews.](/images/music/other/free-mo-chara/westminster-magistrate-court.jpg)
+![A placard that reads: Guess who's not on the news the 300,000+ Palestinians killed. Which is a pun on a kneecap lyric Guess who's back on the news from Get yer Brits out.](/images/music/other/free-mo-chara/guess-whos-not-on-the-news.jpg)
+![A Palestinian rapper on stage wearing a jacket that reads More blacks More Dog More Irish](/images/music/other/free-mo-chara/palestinian-rapper.jpg)

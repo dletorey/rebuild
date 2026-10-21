@@ -3,7 +3,7 @@ title: "Bangkok day 1"
 subTitle: "Immigration, Transfers, Drag bars & Drunken room"
 description: "First day of our South East Asia trip, we arrived at Dubai airport to meet all of out friends."
 tags: ["Bangkok", "Immigration", "Transfers", "Drunken Room"]
-date: '2025-11-20'
+date: "2025-11-20"
 album: https://flickr.com/photos/dletorey/albums/72177720330471403/
 oldURL: /se-asia/bangkok-day1/
 ---
@@ -48,4 +48,4 @@ I walked Susan back to the hotel before heading back out to find the rest of the
 
 On walking in to the [Drunken Room](https://maps.app.goo.gl/qZG5bcqryvnPZD8x6) I could instantly smell good quality Alcohol. The barman, Jack, arranged a table big enough for us. While we were deciding Jack brought us all a welcome drink, a chocolate vodka, I choose a [Groove Manhattan](https://flickr.com/photos/dletorey/54936518139/in/album-72177720330471403). Jack kept brining us shots in between rounds and at the end brought us all a Japanese whiskey, which was superb. For my second cocktail I had a Jack's Margarita. The service was fantastic and if you find yourself in Bangkok I highly recommend this place.
 
-![Me standing in the window of the Drunken Room cocktail bar, looking happy with myslef](/images/se-asia/me-in-drunken-room.jpg)
+![Me standing in the window of the Drunken Room cocktail bar, looking happy with myslef](/images/travel/se-asia/me-in-drunken-room.jpg)
