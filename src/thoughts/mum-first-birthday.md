@@ -22,10 +22,10 @@ Well today is one of those days, mum's first birthday since she died. Yes I am s
 
 There will be another one of these first soon, it will be my first birthday since she passed away.
 
-![Me and my mum at her 80th birthday party](/images/mum/mum-and-me.jpg)
+![Me and my mum at her 80th birthday party](/images/thoughts/mum/mum-and-me.jpg)
 
 ## Flowers
 
 Today my brother and auntie (mum's little sister) took some flowers to where we [scattered mum's ashes](/thoughts/mum/#:~:text=Scattering%20my%20mums%20ashes) in January.
 
-![Two bunches of flowers at the base of a yew tree in Scunthorpe Crematorium](/images/mum/birthday-flowers.jpg)
+![Two bunches of flowers at the base of a yew tree in Scunthorpe Crematorium](/images/thoughts/mum/birthday-flowers.jpg)
