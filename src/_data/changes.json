@@ -298,7 +298,8 @@
       "changes": [
         "Added `<flickr-album>` web component",
         "Added updated missing albums",
-        "styled `<flickr-album>` component"
+        "styled `<flickr-album>` component",
+        "added `modern-web-guidance` to claude.md"
       ]
     }
   ]
