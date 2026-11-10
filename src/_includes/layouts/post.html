@@ -21,6 +21,9 @@
 		<section class="content">
 			{{ content | safe }}
 		</section>
+		{% if album %}
+			{% flickrAlbum album %}
+		{% endif %}
 		{% if tracks %}
 		{% include "partials/tracklist.html" %}
 		{% endif %}
