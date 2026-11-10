@@ -4,6 +4,7 @@ description: "Tenth day of our Mexico trip, Chilling in Polanco"
 tags: ["Mexico", "Mexico City", "Polanco"]
 date: "2024-04-14"
 oldUrl: /leets/mexico-day-10/
+album: https://flickr.com/photos/dletorey/albums/72177720316246208
 ---
 
 Today was our last day in Mexico City and we still weren't feeling 100%, so a chilled day in our apartment.
@@ -17,13 +18,3 @@ In Mexico there is a national election on 2 Jun 2024. All around the city there 
 When I got back to our apartment we watched Mexican TV, first there was an American Football version of rugby 7 called Overtime 7. The teams playing were Midwest Boom versus Raw Miami, the final score was 28 - 32 Raw Miami won on a Golden ticket. Then we watched [Meet the Parents](https://www.imdb.com/title/tt0212338/) and [Meet the Fockers](https://www.imdb.com/title/tt0290002/) in spanish, I could make out most of what was said but really highlighted how great an actor Robert De Niro really is.
 
 At the end of the day we went to Saks for an evening meal, we asked to be inside and we were the only customer inside, it was like having the whole restaurant to ourselves.
-
-## Photos
-
-### Photo of the day
-
-[Bicycle decorated with flowers in Polanco](https://flickr.com/photos/dletorey/53656773529/in/album-72177720316246208/lightbox/)
-
-### Today's photo albums
-
-[Day 10 album](https://flickr.com/photos/dletorey/albums/72177720316246208)

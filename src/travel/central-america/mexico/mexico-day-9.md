@@ -12,6 +12,7 @@ tags:
   ]
 date: "2024-04-13"
 oldUrl: /leets/mexico-day-9/
+album: https://flickr.com/photos/dletorey/albums/72177720316199181/
 ---
 
 Today was our second Tour in Mexico City with Get Your Guide this time to [Xochimilco, Coyoacan, and Frida Kahlo Museo](https://www.getyourguide.co.uk/mexico-city-l194/xochimilco-frida-kahlo-and-coyoacan-tour-t28922/). This is the tour I was most excited about as we also got to ride on a boat. This time there was no protests about the government so other than the rush hour traffic the journey was quite quick.
@@ -29,13 +30,3 @@ We were then taken to a local place for lunch, the food was just terrible. This 
 After lunch we visited [Coyoacán](https://en.wikipedia.org/wiki/Coyoac%C3%A1n) a very old part of Mexico City, we ahd a little time to explore this area which was very beautiful and bustling. I went in search of ice cream while Susan watched the world go by. Afterwards we walked up the road to [Casa Azul](https://flickr.com/photos/dletorey/53652386289/in/album-72177720316199181/lightbox/) (the Blue House), which is where the artist [Frida Kahlo](https://en.wikipedia.org/wiki/Frida_Kahlo) lived and is now the [Museo de Frida Kahlo](https://www.museofridakahlo.org.mx/). It was such a lovely place with a courtyard garden and house that she lived and worked in. We had an hour to explore the house and garden and learn about the life of Firda Kahlo, previously I knew little about the fascinating person and she and her life reminded me of [Ian Dury](https://en.wikipedia.org/wiki/Ian_Dury) they were both artists in their own way and both suffered with polio. While here we also met David and his partner from the previous tour, it is amazing to see people you recognise in foreign lands.
 
 When we finally got back to Polanco we searched for somewhere to go and eat and found Restaurant [Puerto Madero](https://maps.app.goo.gl/VmZ635gXkTzqKag87) 10 minutes walk away. The food was exceptional and both of us agreed that we had the best steaks we'd ever eaten. Susan also had a desert which was super yummy but possibly a bit too much food.
-
-## Photos
-
-### Photo of the day
-
-[A boat in Xochimiloco called Princess](https://flickr.com/photos/dletorey/53652261053/in/album-72177720316199181/lightbox/)
-
-### Today's photo album
-
-[Day 10 album](https://flickr.com/photos/dletorey/albums/72177720316199181/with/53652495325)

@@ -4,6 +4,7 @@ description: "First day of our Mexico trip, we arrived at our hotel at 12:30am"
 tags: ["Mexico", "Mexico City", "Tacos", "Food Tour"]
 date: "2024-04-05"
 oldUrl: /leets/mexico-day-1/
+album: https://flickr.com/photos/dletorey/albums/72177720316017577
 ---
 
 After a long (14 hour) flight via Toronto we eventually got to our hotel at 12:30 in the morning and went straight to bed exhausted.
@@ -21,13 +22,3 @@ From out the front, I look up across the road and there were people in a rooftop
 Then we wound our way through the streets, one that only sold lighting and one that only sold plumbing to meet [Daniel from With Locals](https://www.withlocals.com/host/petulpa375388bf/). Who took us on an amazing street food tour.
 
 We're now about to collapse after not much sleep.
-
-## Photos
-
-### Photo of the day
-
-[A colourful dragon bird lizard which had been used in a parade](https://flickr.com/photos/dletorey/53634322060/in/album-72177720316017577/)
-
-### Today's photo album
-
-[Day 1 album](https://flickr.com/photos/dletorey/albums/72177720316017577)

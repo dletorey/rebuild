@@ -14,6 +14,7 @@ tags:
   ]
 date: "2024-04-07"
 oldUrl: /leets/mexico-day-3/
+album: https://flickr.com/photos/dletorey/albums/72177720316067013/
 ---
 
 Luckily last night I found the Japanese Grand Prix on Mexican TV. The race started at 11pm local time, although it did not help that on the first lap there was a crash and the barriers needing repairing. The commentary on BBC radio just said "I bet all those who got up at 5am are now a bit pissed off" or words to those effect. Unfortunately the race was pretty dull and I finally got to go to sleep and almost 2am. Surprisingly enough the Mexican commentary was very swayed to one driver, but quite funny trying to work out exactly what they were saying.
@@ -37,13 +38,3 @@ The flight to Monterrey was about 1 hour 30 mins and at Monterrey we were guided
 The flight to Mazatlán was great and took just over an hour. When we landed I checked that our bags had also come to the same place, I have AirTags in each of our checked in bags which is brilliant to know that your bags are following you. The baggage claim was super fast and we were soon out and queueing for a taxi. The queue was just to pay for the taxi, we did try getting an Uber but there were none. Once we paid we were then directed outside to queue for the actual taxi. It's a good system and secure in paying, but not when 100s of people are traveling to see the eclipse. Even so from landing to our apartment it was just over an hour.
 
 Tired and exhausted we just went to bed.
-
-## Photos
-
-### Photo of the day
-
-[A canopy of parasols in Chinatown Mexico City](https://flickr.com/photos/dletorey/53638337203/in/album-72177720316067013/)
-
-### Today's photo album
-
-[Day 3 album](https://flickr.com/photos/dletorey/albums/72177720316067013/)

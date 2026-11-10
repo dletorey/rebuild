@@ -4,6 +4,7 @@ description: "Twelfth day of our Mexico trip, Casa Crespo Mexican cookery course
 tags: ["Mexico", "Oaxaca", "Cookery Course", "Markets", "Casa Crespo"]
 date: "2024-04-16"
 oldUrl: /leets/mexico-day-12/
+album: https://flickr.com/photos/dletorey/albums/72177720316297352
 ---
 
 We had done some research before our trip and decided that we'd do a cookery course in Oaxaca. We decided to do the [Casa Crespo Mexican food course](https://casacrespo.com/clases-de-cocina/).
@@ -21,15 +22,3 @@ Once all the food had been prepared [we all sat down and ate together](https://f
 After the meal, Susan and I headed to [the brewery I visited yesterday](/leets/mexico-day-11) and had another IPA before heading back to the hotel. In the late afternoon early evening I went walking around Oaxaca and had some food, I didn't need a lot and ordered a pork taco, it arrived as 5 pork tacos, and a Margarita. Once I finished my Margarita I was brought another I said I didn't need another, he said but it's happy hour and I just said **no** it wasn't the best I'd had and I just did not want anymore.
 
 Home to bed.
-
-## Photos
-
-### Photo of the day
-
-[Colourful banners in a circular pattern above a street in Oaxaca](https://flickr.com/photos/dletorey/53662311616/in/album-72177720316302496/lightbox/)
-
-### Today's photo album
-
-[Day 12 album](https://flickr.com/photos/dletorey/albums/72177720316302496/with/53661439207)
-
-[Casa Crespo cookery course album](https://flickr.com/photos/dletorey/albums/72177720316297352)

@@ -4,6 +4,7 @@ description: "Second day of our Mexico trip, empty & full Mexico City and a new 
 tags: ["Mexico", "Mexico City", "Walks", "Parque", "Hats", "Beer"]
 date: "2024-04-06"
 oldUrl: /leets/mexico-day-2/
+album: https://flickr.com/photos/dletorey/albums/72177720316056159
 ---
 
 After an [early morning walk](https://strava.app.link/CcMMGpaUzIb) around a very quiet Centro Historico, where I stumbled upon a discotheque, still pumping a cross between Mariachi and Techno, the patrons tried to persuade me to join them.
@@ -27,13 +28,3 @@ If anyone knows me they will know that my social media of choice is [Untappd](ht
 When we got there we both had the [Retro Piano Hazy IPA](https://untappd.com/user/dletorey/checkin/1370251700), it was delicious. The second beer I wanted was [The Hop’s Shop](https://untappd.com/user/dletorey/checkin/1370265059) a double IPA 8%, they had just run out but fortunately they also had a bottle shops so I was able to get a take out.
 
 In the bar there was also an exhibition called [36 Days of Type by Dani Who](https://www.instagram.com/dani_who_?igsh=MW5jdnE0MHk0Zzh4cw==), which was 36 images one of each letter and one of each number (0-9). Each image was paired with a song. This meant that it [comes with a playlist too](https://open.spotify.com/playlist/7qahret8Owy7KJKNAMt5WH?si=RKAFEQKNSPGWLNUOpWAXCg&pi=u-EmOVd2aRTvyY).
-
-## Photos
-
-### Photo of the day
-
-[The largest flag I have ever seen, in the square in front of Mexico City Metropolitan Cathedral](https://flickr.com/photos/dletorey/53636441163/in/album-72177720316056159/)
-
-### Today's photo album
-
-[Day 2 album](https://flickr.com/photos/dletorey/albums/72177720316056159)

@@ -66,10 +66,6 @@ After the gig I managed to get hold of the two set lists and then blag my way in
 
 A most entertaining night where I danced with friends perhaps a little too hard, Monday will be the judge of that.
 
-## Photos
-
-[Birmingham Photos](https://www.flickr.com/gp/dletorey/qY6nSP1zb5)
-
 ## Set List
 
 [![Orbital Setlist O2 Institute, Birmingham, England, Green / Brown Album Tour 2024](/images/music/live/orbital/orbital-birmingham-2024-04-26-setlist.jpg)](https://www.setlist.fm/setlist/orbital/2024/o2-institute-birmingham-england-73abd6e5.html)

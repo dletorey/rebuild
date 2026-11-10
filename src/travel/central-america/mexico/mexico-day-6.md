@@ -4,6 +4,9 @@ description: "Sixth day of our Mexico trip, flight back to Mexico City and Polan
 tags: ["Mexico", "Mazatlan", "Monterrey", "Mexico City"]
 date: "2024-04-10"
 oldUrl: /leets/mexico-day-6/
+album: https://flickr.com/photos/dletorey/albums/72177720316161696/
+album2: https://flickr.com/photos/dletorey/albums/72177720316167918/
+album3: https://flickr.com/photos/dletorey/albums/72177720316157280/
 ---
 
 Day 6 we were mostly transferring from Mazatlán back to Mexico City via Monterrey. The morning started with another coffee from Coffee Break Mazatlán.
@@ -22,16 +25,6 @@ Once we checked we headed out to get some food, we decided that we'd go and get 
 
 After eating we headed back to the hotel, I started to feel terrible so much so all I wanted to do was go home. We had another early night and watched some UK TV.
 
-## Photos
+{% flickrAlbum album2 %}
 
-### Photo of the day
-
-[Cerro de la Silla taken from the airplane window](https://flickr.com/photos/dletorey/53647296567/in/album-72177720316167918/)
-
-### Today's photo albums
-
-[Day 6 album](https://flickr.com/photos/dletorey/albums/72177720316161696/)
-
-[Flight Mazatlán to Monterrey](https://flickr.com/photos/dletorey/albums/72177720316167918/with/53648522229)
-
-[Flight Monterrey to Mexico City](https://flickr.com/photos/dletorey/albums/72177720316157280/)
+{% flickrAlbum album3 %}

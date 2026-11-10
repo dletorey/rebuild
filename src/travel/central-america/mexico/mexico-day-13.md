@@ -5,6 +5,10 @@ tags:
   ["Mexico", "Oaxaca", "El Tule", "Mitla", "Hierve el Agua", "Mezcal tasting"]
 date: "2024-04-17"
 oldUrl: /leets/mexico-day-13/
+album: https://flickr.com/photos/dletorey/albums/72177720316296155
+tree: https://flickr.com/photos/dletorey/albums/72177720316315614
+mitla: https://flickr.com/photos/dletorey/albums/72177720316315669
+hierveElAgua: https://flickr.com/photos/dletorey/albums/72177720316302661
 ---
 
 Today was our third Tour and final tour in Mexico [El Tule, Mitla, and Hierve el Agua Tour with Mezcal](https://www.getyourguide.co.uk/oaxaca-de-juarez-l681/oaxaca-el-tule-mitla-and-hierve-el-agua-tour-w-transfer-t428000/). This time we were picked up from our hotel. Although they turned up 30 minutes before they said they would and we were just about to go get coffee and breakfast. Susan's power of persuasion (her inner-jaguar) meant that I could run round the corner to [Muss coffee shop](https://www.casaantonieta.com/muss-cafe-english). When got there they were just unlocking but they were kind enough to make me two coffees and sell me some chocolate brownies.
@@ -33,18 +37,8 @@ After the tour we were givien tastings of some of their Mezcals. Some of the mez
 
 When we finally got back to Oaxaca city I went out to get an evening meal at [Cathedral Restaurant](https://www.restaurantecatedral.com.mx/), I had the best [papadelle with wild mushroom ragu](https://flickr.com/photos/dletorey/53662325481/in/album-72177720316296155/lightbox/) and two Margaritas with Mezcal.
 
-## Photos
+{% flickrAlbum tree %}
 
-### Photo of the day
+{% flickrAlbum mitla %}
 
-[Colourful banners in a circular pattern above a street in Oaxaca](https://flickr.com/photos/dletorey/53662311616/in/album-72177720316302496/lightbox/)
-
-### Today's photo album
-
-[Day 13 album](https://flickr.com/photos/dletorey/albums/72177720316296155)
-
-[Tree of Tule album](https://flickr.com/photos/dletorey/albums/72177720316315614)
-
-[Mitla album](https://flickr.com/photos/dletorey/albums/72177720316315669)
-
-[Hierve el Agua album](https://flickr.com/photos/dletorey/albums/72177720316302661)
+{% flickrAlbum hierveElAgua %}

@@ -3,7 +3,6 @@ title: "Six hours in Heathrow"
 description: "Today we were flying to Stockholm to go see Leftfield."
 date: "2026-03-21"
 tags: ["Heathrow", "Flights", "Transport", "Leftfield"]
-# album: https://www.flickr.com/gp/dletorey/8QqU616N9y
 oldUrl: /leets/six-hours-in-heathrow/
 ---
 

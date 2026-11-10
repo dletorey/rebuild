@@ -5,6 +5,9 @@ tags:
   ["Mexico", "Teotihuacan", "Basilica of Our Lady of Guadalupe", "Mexico City"]
 date: "2024-04-11"
 oldUrl: /leets/mexico-day-7/
+album: https://flickr.com/photos/dletorey/albums/72177720316162276/
+pyramids: https://flickr.com/photos/dletorey/albums/72177720316155747
+cathedral: https://flickr.com/photos/dletorey/albums/72177720316157690
 ---
 
 Woke up this morning feeling must better, which is great news as we had organised [a day trip to Teotihuacan with Get Your Guide](https://www.getyourguide.co.uk/mexico-city-l194/teotihuacan-tour-transport-basilica-tlatelolco-cave-t552580/). It started super early as we needed to meet at [Sheraton Mexico City Maria Isabel Hotel](https://maps.app.goo.gl/hZNA1fLGDyizfCxa7) at 8:30am.
@@ -25,16 +28,6 @@ Following this we went for lunch which was not bad for and lunch spot for touris
 
 The final stop of the day we visited [Basilica of Our Lady of Guadalupe](https://flickr.com/photos/dletorey/53648456093/in/album-72177720316157690/lightbox/) which was erected in 1972 on the site of [the 4 appearance of the virgin Mary](https://flickr.com/photos/dletorey/53648705725/in/album-72177720316157690/lightbox/). There were many church in this area but the main church was built to hold 80,000 people and has millions of visitors a year.
 
-## Photos
+{% flickrAlbum pyramids %}
 
-### Photo of the day
-
-[Aztec Calendar](https://flickr.com/photos/dletorey/53648565699/in/album-72177720316162276/lightbox/)
-
-### Today's photo albums
-
-[Day 7 album](https://flickr.com/photos/dletorey/albums/72177720316162276/)
-
-[Teotihuacan Pyramides album](https://flickr.com/photos/dletorey/albums/72177720316155747)
-
-[Basilica of Our Lady of Guadalupe album](https://flickr.com/photos/dletorey/albums/72177720316157690)
+{% flickrAlbum cathedral %}

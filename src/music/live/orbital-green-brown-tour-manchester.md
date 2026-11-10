@@ -74,10 +74,6 @@ We didn't hang around tonight after the show as Sarah and I needed to get back t
 
 Over all I am delighted that I went, it was a great night and the tour has been fantastic. Until next time, hopefully a <a href="Snivilisation">Snivilisation</a> tour. Other than the festival sets I still have this year, but they will be very different.
 
-## Photos
-
-[Manchester Photos](https://flickr.com/photos/dletorey/albums/72177720316709848/)
-
 ## Set List
 
 [![Orbital Setlist O2 Victoria Warehouse, Manchester, England, Green / Brown Album Tour 2024](/images/music/live/orbital/orbital-manchester-2024-05-04-setlist.jpg)](https://www.setlist.fm/setlist/orbital/2024/o2-victoria-warehouse-manchester-england-6babd6c2.html)

@@ -77,10 +77,6 @@ Tony and I left early, due to 3 nights of dancing and having to get up early yet
 
 Quality night and I may go to Manchester next Saturday… (from future me, I did indeed go to Manchester).
 
-## Photos
-
-[Nottingham Photos](https://flickr.com/photos/dletorey/albums/72177720316621929/)
-
 ## Set List
 
 [![Orbital Setlist Rock City, Nottingham, England, Green / Brown Album Tour 2024](/images/music/live/orbital/orbital-rock-city-2024-04-28-setlist.jpg)](https://www.setlist.fm/setlist/orbital/2024/rock-city-nottingham-england-73abd6d1.html)

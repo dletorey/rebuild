@@ -69,10 +69,6 @@ So the glasses that I have to wear are automatically react to the light so as it
 
 At the end of the gig those that were still around gathered [down the front for the group photo](https://flickr.com/photos/dletorey/53684065998/in/album-72177720316543791/lightbox/). After that folk went to get coats merch and we tried to go to [Craft Beer Co Limehouse](http://www.thecraftbeerco.com/limehouse) not the largest place, but close and already rammed. Some of us managed to get in and get a drink but not all. I had a great time catching up with Phil about life and the gig before heading home, fortunately the bus went from the pub all the way home, winner. After a quick shower I was in bed by 1:30 ready to do it all again tomorrow.
 
-## Photos
-
-[London Photos](https://flickr.com/photos/dletorey/albums/72177720316543791/)
-
 ## Set List
 
 [![Orbital Setlist Troxy, London, England, Green / Brown Album Tour 2024](/images/music/live/orbital/orbital-troxy-2024-04-27-setlist.jpg)](https://www.setlist.fm/setlist/orbital/2024/troxy-london-england-7babd6d8.html)

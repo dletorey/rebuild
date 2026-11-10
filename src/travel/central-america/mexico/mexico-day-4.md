@@ -4,6 +4,8 @@ description: "Forth day of our Mexico trip, Eclipse Day!"
 tags: ["Mexico", "Walks", "Mazatlan", "Eclipse"]
 date: "2024-04-08"
 oldUrl: /leets/mexico-day-4/
+album: https://flickr.com/photos/dletorey/albums/72177720316085372
+album2: https://flickr.com/photos/dletorey/albums/72177720316090626
 ---
 
 Today was the eclipse day, pretty much the main reason that we made this trip to be honest. When we woke up both of us were felling pretty shitty (pun intended). So we decided that we weren't going to make the eclipse breakfast that we'd booked on a roof top of a restaurant in Centro Historico Mazatlán so we stayed in our apartment. After going to the shop to get water on the way back I noticed that the apartment had a flat roof so I contacted Britza the host/owner and asked if we could access the roof, she immediately came back and said "of course you are more than welcome. The view from up there was fantastic.
@@ -24,16 +26,8 @@ Then [I returned to Susan](https://www.strava.com/activities/11139011188), with 
 
 ## Photos
 
-### Photo of the day
-
-[Tree grown around a door in Centro Historico Mazatlán](https://flickr.com/photos/dletorey/53640740442/in/album-72177720316085372/)
-
-### Today's photo albums
-
-[Eclipse photos](https://flickr.com/photos/dletorey/albums/72177720316090626)
-
 [NASA Eclipse photos](https://flickr.com/photos/nasahqphoto/albums/72177720315879304/with/53636351001)
 
 [BBC photos of eclipse](https://www.bbc.co.uk/news/resources/idt-30cbf852-1282-4ed9-9ec9-c9144ed9c8fb)
 
-[Day 4 photos around Mazatlán](https://flickr.com/photos/dletorey/albums/72177720316085372)
+{% flickrAlbum album2 %}

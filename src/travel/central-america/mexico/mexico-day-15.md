@@ -11,6 +11,7 @@ tags:
   ]
 date: "2024-04-19"
 oldUrl: /leets/mexico-day-15/
+album: https://flickr.com/photos/dletorey/albums/72177720316366276/with/53669141895
 ---
 
 Today was our last day in Mexico again we had breakfast at [Muss Cafe](https://maps.app.goo.gl/hYJDwXjgXdKPQ19G9) and then got our taxi to Oaxaca Airport for our last night before we flew home.
@@ -20,13 +21,3 @@ Our last hotel was [Fiesta Americana Viaducto Aeropuerto](https://www.fiestameri
 I took the opportunity to [go for a walk](https://www.strava.com/activities/11219792846) and see [Autódromo Hermanos Rodríguez](https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez) the circuit where the Mexican Grand Prix is held. I couldn't get in to the circuit, but I was able to see [the main grandstand and part of the circuit](https://flickr.com/photos/dletorey/53668685846/in/album-72177720316366276/lightbox/). I was also able to see [Palacio de los Deportes (Palace of Sports)](https://flickr.com/photos/dletorey/53669141885/in/album-72177720316366276/lightbox/) which was like [The Millenium Dome (O2 Arena)](https://en.wikipedia.org/wiki/Millennium_Dome).
 
 Later on we had a meal at the hotel, which was pretty mediocre, before retiring to bed.
-
-## Photos
-
-### Photo of the day
-
-[VW Beetle being repaired with no right hand side wings](https://flickr.com/photos/dletorey/53667813287/in/album-72177720316366276/lightbox/)
-
-### Today's photo album
-
-[Day 15 album](https://flickr.com/photos/dletorey/albums/72177720316366276/with/53669141895)
