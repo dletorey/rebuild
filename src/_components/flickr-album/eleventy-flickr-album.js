@@ -2,9 +2,10 @@
  * 11ty plugin: {% flickrAlbum album %}
  *
  * Takes a Flickr album URL (typically from the page's front matter), fetches
- * the album at build time with the API key from `.env`, and outputs a
- * <flickr-album> element carrying the album data as inline JSON.
- * The key never reaches the browser.
+ * the album at build time with the API key from `.env`, and outputs the
+ * gallery as plain HTML: a heading, a list of figures, and a link to the
+ * album on Flickr. No client-side JavaScript is needed and the key never
+ * reaches the browser. Styles live in src/_includes/css/flickr-album.css.
  *
  * Requires: npm i @11ty/eleventy-fetch dotenv
  */
@@ -15,10 +16,17 @@ const CACHE_DURATION = '1d';
 
 // Sizes requested from Flickr, smallest to largest (m≈240-500, z=640, c=800, l=1024).
 const SIZE_SUFFIXES = ['m', 'z', 'c', 'l'];
-const EXTRAS = [...SIZE_SUFFIXES.map((s) => `url_${s}`), 'media'].join(',');
+const EXTRAS = [...SIZE_SUFFIXES.map((s) => `url_${s}`), 'media', 'description'].join(',');
 
 // Flickr's MP4 renditions, best first.
 const VIDEO_LABELS = ['HD MP4', 'Site MP4', 'Mobile MP4'];
+
+// Rendered width of one gallery column; keep in step with flickr-album.css.
+// The list is 90% of the viewport (max 1200px), split into up to 3 columns of at least 15rem.
+const SIZES = '(min-width: 84rem) 400px, (min-width: 52rem) 30vw, (min-width: 34rem) 45vw, 90vw';
+
+// Camera filenames such as IMG_1234, DSC01234 or PXL_20260101_123456 say nothing about the photo.
+const FILENAME_TITLE = /^(img|dsc[fn]?|pxl|mvi|vid|gopr|p\d{3}|dji)[_-]?\d[\d_-]*$/i;
 
 /** Extracts the album id from URLs like https://www.flickr.com/photos/USER/albums/ID (or /sets/ID). */
 export function parseAlbumUrl(value) {
@@ -105,6 +113,23 @@ async function fetchVideoSources(photoId, apiKey) {
   );
 }
 
+const ENTITIES = { amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ' };
+
+/** Flickr descriptions are HTML; reduce them to plain text. */
+function toPlainText(html = '') {
+  return html
+    .replace(/<[^>]*>/g, ' ')
+    .replace(/&(#x[\da-f]+|#\d+|[a-z]+);/gi, (entity, code) => {
+      if (code[0] === '#') {
+        const n = code[1].toLowerCase() === 'x' ? parseInt(code.slice(2), 16) : Number(code.slice(1));
+        return String.fromCodePoint(n);
+      }
+      return ENTITIES[code.toLowerCase()] ?? entity;
+    })
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 function toItem(photo, owner) {
   const variants = SIZE_SUFFIXES.flatMap((s) =>
     photo[`url_${s}`]
@@ -115,10 +140,13 @@ function toItem(photo, owner) {
 
   const main = variants.find((v) => v.w >= 640) ?? variants.at(-1);
   const poster = variants.find((v) => v.w >= 800) ?? variants.at(-1);
+  const title = (photo.title ?? '').trim();
 
   return {
     id: photo.id,
-    title: photo.title ?? '',
+    // Filename-style titles are dropped so they're never used as alt text or link text.
+    title: FILENAME_TITLE.test(title) ? '' : title,
+    description: toPlainText(photo.description?._content),
     type: photo.media === 'video' ? 'video' : 'image',
     pageUrl: `https://www.flickr.com/photos/${owner}/${photo.id}`,
     src: main.url,
@@ -148,9 +176,45 @@ async function fetchAlbum(albumId, apiKey) {
   return { title: photoset.title, items };
 }
 
-const escapeAttr = (s) => s.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
-// Stops a "</script>" inside a photo title from ending the JSON block early.
-const safeJson = (value) => JSON.stringify(value).replace(/</g, '\\u003c');
+const escapeHtml = (s) =>
+  String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+
+/** Builds a figure for one photo or video. `n` is its 1-based position, for unique fallback names. */
+function renderItem(item, n, albumTitle) {
+  const isVideo = item.type === 'video';
+  const kind = isVideo ? 'Video' : 'Photo';
+  // Each caption link points somewhere different, so each needs its own name.
+  const linkText = item.title || `${kind} ${n} on Flickr`;
+  // Prefer the Flickr description, which describes what's in the shot; the title is already in the caption.
+  const alt = item.description || item.title || `${kind} ${n} from ${albumTitle}`;
+
+  let media;
+  if (isVideo && item.sources?.length) {
+    // The figcaption names the video. loading="lazy" also defers the poster where supported;
+    // elsewhere preload="none" still stops the video file downloading up front.
+    const sources = item.sources
+      .map(({ src, type }) => `<source src="${escapeHtml(src)}" type="${escapeHtml(type)}">`)
+      .join('');
+    media =
+      `<video controls playsinline preload="none" loading="lazy" poster="${escapeHtml(item.poster)}"` +
+      ` width="${item.width}" height="${item.height}">${sources}` +
+      `<a href="${escapeHtml(item.pageUrl)}">Watch ${escapeHtml(linkText)}</a></video>`;
+  } else {
+    // Videos without a playable file show their poster; the caption links to Flickr.
+    const imgAlt = isVideo ? `${alt} (video, watch on Flickr)` : alt;
+    media =
+      `<img src="${escapeHtml(item.src)}" srcset="${escapeHtml(item.srcset)}" sizes="${SIZES}"` +
+      ` width="${item.width}" height="${item.height}" alt="${escapeHtml(imgAlt)}" loading="lazy" decoding="async">`;
+  }
+
+  const caption = `<figcaption><a href="${escapeHtml(item.pageUrl)}">${escapeHtml(linkText)}</a></figcaption>`;
+  return `<li><figure>${media}${caption}</figure></li>`;
+}
 
 export default function flickrAlbumPlugin(eleventyConfig) {
   // Usage: {% flickrAlbum album %}  (or {% flickrAlbum %} to read `album` from the page data)
@@ -164,15 +228,18 @@ export default function flickrAlbumPlugin(eleventyConfig) {
 
     const album = parseAlbumUrl(await resolveShortLink(albumUrl));
     const data = await fetchAlbum(album.id, apiKey);
+    const title = escapeHtml(data.title);
 
     // No blank lines or indentation, so Markdown pages keep this as one HTML block.
-    // The component swaps the JSON for the photo list, so it sits between the heading and the link.
+    // role="list" keeps list semantics in Safari, because reset.css removes the bullets.
     return [
-      '<flickr-album>',
-      `<h2>${escapeAttr(data.title)} photos</h2>`,
-      `<script type="application/json">${safeJson(data)}</script>`,
-      `<p><a href="${escapeAttr(album.url)}">View ${escapeAttr(data.title)} album on Flickr</a></p>`,
-      '</flickr-album>',
+      '<section class="flickr-album">',
+      `<h2>${title} photos</h2>`,
+      '<ul class="flickr-album__list" role="list">',
+      ...data.items.map((item, i) => renderItem(item, i + 1, data.title)),
+      '</ul>',
+      `<p><a href="${escapeHtml(album.url)}">View ${title} album on Flickr</a></p>`,
+      '</section>',
     ].join('\n');
   });
 }

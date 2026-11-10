@@ -3,9 +3,6 @@
 	<head>
 		{% include "partials/meta-info.html" %}
 		{% include "partials/styles.html" %}
-		{%- if album or (content and "<flickr-album" in content) %}
-		<script type="module" src="/components/flickr-album/flickr-album.js"></script>
-		{%- endif %}
 	</head>
 	<body>
 		{% include "partials/site-head.html" %}

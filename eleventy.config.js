@@ -29,10 +29,6 @@ export default function (eleventyConfig) {
 	eleventyConfig.setOutputDirectory('public');
   // Set directories to pass through to the dist folder
   eleventyConfig.addPassthroughCopy('src/images');
-	// Copy the <flickr-album> browser script to /components/ (the build-time plugin stays private).
-  eleventyConfig.addPassthroughCopy({
-    'src/_components/flickr-album/flickr-album.js': 'components/flickr-album/flickr-album.js',
-  });
 
 	// Plugins
 	eleventyConfig.addPlugin(rssPlugin);
