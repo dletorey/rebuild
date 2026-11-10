@@ -7,6 +7,8 @@ import markdownIt from 'markdown-it';
 import { dateFilter, w3DateFilter, olderThan } from './src/filters/date-filters.js';
 import { filterByKey } from './src/filters/array-filters.js';
 import { mdLine, mdBlock } from './src/filters/markdown-filters.js';
+import 'dotenv/config'; // loads .env into process.env
+import flickrAlbum from './src/_components/flickr-album/eleventy-flickr-album.js';
 
 export default function (eleventyConfig) {
 	// Add filters
@@ -34,6 +36,7 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPlugin(pluginWebc, {
 		components: "src/_components/**/*.webc"
 	});
+	eleventyConfig.addPlugin(flickrAlbum);
 	// markdownIt settings
 	let options = {
 		html: true,

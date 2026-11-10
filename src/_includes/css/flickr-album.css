@@ -1,0 +1,27 @@
+/* Flickr album gallery, output by the flickrAlbum shortcode (eleventy-flickr-album.js) */
+.flickr-album__list {
+  /* Up to 3 columns, each at least 15rem wide; drops columns as space runs out.
+     Keep SIZES in eleventy-flickr-album.js in step with these values. */
+  columns: 3 12rem;
+  column-gap: var(--sp-xs-s);
+  inline-size: 90%;
+  max-inline-size: 1200px;
+  margin-inline: auto;
+}
+
+.flickr-album__list > li {
+  break-inside: avoid; /* keep each photo and its caption in one column */
+  margin-block-end: var(--sp-xs-s);
+}
+
+.flickr-album__list :is(img, video) {
+  display: block;
+  inline-size: 100%;
+  block-size: auto;
+  border-radius: var(--sp-2xs-xs);
+}
+
+.flickr-album__list video {
+  background: black;
+  object-fit: contain;
+}

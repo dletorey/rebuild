@@ -9,6 +9,9 @@
 	{% include "css/buttons.css" %}
 	{% include "css/page-heading.css" %}
 	{% include "css/tags.css" %}
+	{%- if album or (content and 'class="flickr-album"' in content) %}
+	{% include "css/flickr-album.css" %}
+	{%- endif %}
 {% endset %}
 <!-- feed it through our cssmin filter to minify -->
 <style>

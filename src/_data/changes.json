@@ -290,6 +290,18 @@
         "Created a track list include",
         "Added condition to check is a page has tracks"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "pr": "43",
+      "preview": "43",
+      "changes": [
+        "Added `<flickr-album>` web component",
+        "Added updated missing albums",
+        "created `flickr-album.css` stylesheet",
+        "added `modern-web-guidance` to claude.md",
+        "Flickr album gallery now renders as static HTML at build time, with responsive images and no client-side JavaScript"
+      ]
     }
   ]
 }
