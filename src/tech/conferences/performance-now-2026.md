@@ -61,7 +61,7 @@ tags: ["PerfNow", "Oosterkerk", "Amsterdam", "Netherlands"]
 #### Beyond the P75
 
 - [Scalemates](https://www.scalemates.com/)
-- Include: html {overflow-y: scroll; scrollbar-gutter: stable} to make sure the scroll bar does sneak in and create layout shift
+- Include: `html {overflow-y: scroll; scrollbar-gutter: stable}` to make sure the scroll bar does sneak in and create layout shift
 - So, I don't really care about the size of the layout shift. I often care just about was there a layout shift?
 - I never optimized, it's just fast by default.
 - RUM providers now have official permission to add a Tim mode toggle to the products that will help you get these kinds of amazing results.
@@ -78,7 +78,7 @@ tags: ["PerfNow", "Oosterkerk", "Amsterdam", "Netherlands"]
 - sometimes you're just testing the test itself
 - By default, PerformanceEvent Timing entries are exposed when their duration is 104ms or greater
 - Sometimes you just can’t trust your data
-- So, I guess the takeaway here is don't believe everything you read, especially on CSS Wizardry.com
+- So, I guess the takeaway here is don't believe everything you read, especially on [CSSWizardry.com](https://csswizardry.com/)
 - Far more than site speed alone is responsible for conversions.
 
 ## Day Two
