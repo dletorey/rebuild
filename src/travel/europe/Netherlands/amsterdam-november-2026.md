@@ -3,7 +3,7 @@ title: "Amsterdam"
 subTitle: "November 2026"
 description: A few days exploring Amsterdam and drinking cocktails while attending Performance Now Conference
 date: "2026-11-21"
-tags: ["Amsterdam", "Netherlands", "Cocktail", "Boats"]
+tags: ["Amsterdam", "Netherlands", "Cocktails", "Boats"]
 album: https://flickr.com/photos/dletorey/albums/72177720337158034
 ---
 
