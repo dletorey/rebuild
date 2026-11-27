@@ -25,3 +25,5 @@ The support act were Pigeon, Afro-disco, grunge, no wave and jazz band from Marg
 Yard Act totally brought the energy and were superb. I did however miss the girls from their [Dream Job tour](/music/live/yard-act-dream-job-tour/), they were certainly missing from Vineyard for the North.
 
 Over all they smashed it and were obviously excited to be performing at [Brixton Academy](https://en.wikipedia.org/wiki/Brixton_Academy).
+
+I also managed to get a copy of the set list.
